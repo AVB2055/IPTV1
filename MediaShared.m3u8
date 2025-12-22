@@ -1034,9 +1034,6 @@ https://data11-cdn.22cdn.org/fi2lm/1c8cc90da3f42052d449eb60bb3c5892/7f_Air.Crash
 #EXTINF:0,Расследования авиакатастроф 144 фильм
 #EXTGRP:Авиакатастрофы расследование
 https://data05-cdn.22cdn.org/fi2lm/1c8cc90da3f42052d449eb60bb3c5892/7f_Air.Crash.Investigation.s19-02.Pogranichnaya.taktika.Borderline.tactics.v1a1.25.04.24.mp4
-#EXTINF:0,Расследования авиакатастроф 145 фильм
-#EXTGRP:Авиакатастрофы расследование
-https://data01-cdn.22cdn.org/fi2lm/1c8cc90da3f42052d449eb60bb3c5892/7f_Air.Crash.Investigation.s19-03.Smertelnyy.naklon.Deadly.pitch.v1a1.25.04.24.mp4
 #EXTINF:0,Расследования авиакатастроф 146 фильм
 #EXTGRP:Авиакатастрофы расследование
 https://data01-cdn.22cdn.org/fi2lm/1c8cc90da3f42052d449eb60bb3c5892/7f_Air.Crash.Investigation.s19-06.Vzletno-posadochnaya.polosa.Runway.runoff.v1a1.25.04.24.mp4
@@ -11915,9 +11912,6 @@ https://data01-cdn.11cdn.org/fi2lm/c1da32de368c4423d1621e824e0e37fce3afe846/7f_a
 #EXTINF:0,Древние пришельцы 114 серия
 #EXTGRP:Древние пришельцы
 https://data11-cdn.11cdn.org/fi2lm/c1da32de368c4423d1621e824e0e37fce3afe846/7f_ancient.aliens.s09e02.mysteries.of.the.sphinx.1080p.bluray.x264.v1a1.23.09.24.mp4
-#EXTINF:0,Древние пришельцы 115 серия
-#EXTGRP:Древние пришельцы
-https://data01-cdn.11cdn.org/fi2lm/c1da32de368c4423d1621e824e0e37fce3afe846/7f_ancient.aliens.s09e03.alien.among.us.1080p.bluray.x264.v1a1.24.09.24.mp4
 #EXTINF:0,Древние пришельцы 116 серия
 #EXTGRP:Древние пришельцы
 https://data04-cdn.11cdn.org/fi2lm/c1da32de368c4423d1621e824e0e37fce3afe846/7f_ancient.aliens.s09e04.the.genius.factor.1080p.bluray.x264.v1a1.24.09.24.mp4
@@ -12605,9 +12599,6 @@ https://ymedia-k.ntv.ru/vod/promo/2014/20140810/0165929.mp4
 #EXTINF:0,Бездна
 #EXTGRP:Спасатели
 https://ymedia-k.ntv.ru/vod/promo/2014/20140807/0165928.mp4
-#EXTINF:0,
-#EXTGRP:Спасатели
-https://ymedia-k.ntv.ru/vod/promo/2014/20140806/0165927.mp4
 #EXTINF:0,Не ждали
 #EXTGRP:Спасатели
 https://ymedia-k.ntv.ru/vod/promo/2014/20140805/0165926.mp4
@@ -12692,9 +12683,6 @@ https://ymedia-k.ntv.ru/vod/promo/2014/20140628/0159979.mp4
 #EXTINF:0,Cпасатели
 #EXTGRP:Спасатели
 https://ymedia-k.ntv.ru/vod/promo/2014/20140626/0167985.mp4
-#EXTINF:0,
-#EXTGRP:Спасатели
-https://ymedia-k.ntv.ru/vod/promo/2014/20140619/0167984.mp4
 #EXTINF:0,Это лето
 #EXTGRP:Спасатели
 https://ymedia-k.ntv.ru/vod/promo/2014/20140611/0165921D.mp4
@@ -12707,6 +12695,12 @@ https://ymedia-k.ntv.ru/vod/promo/2014/20140529/0167982.mp4
 #EXTINF:0,Сгоревший сад
 #EXTGRP:Спасатели
 https://ymedia-k.ntv.ru/vod/promo/2014/20140522/0167981.mp4
+#EXTINF:0,#EXTGRP:Спасатели
+#EXTGRP:unsorted
+https://ymedia-k.ntv.ru/vod/promo/2014/20140806/0165927.mp4
+#EXTINF:0,#EXTGRP:Спасатели
+#EXTGRP:unsorted
+https://ymedia-k.ntv.ru/vod/promo/2014/20140619/0167984.mp4
 #EXTINF:0,Их разыскивает полиция 1 выпуск
 #EXTGRP:Их разыскивает полиция
 https://edge-b-02.ctc.ru/vod/hls/fta/fG66eKcBB6xWPYy-oRvuTA/17b1d433787023460c0aa91e5dc482b9-,q1,q2,q3,.mp4.urlset/index-f3-v1-a1.m3u8
