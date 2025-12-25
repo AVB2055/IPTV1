@@ -497,8 +497,6 @@ http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 #EXTINF:-1 group-title="Спортивные",Setanta Sports 2 Georgia
 http://94.43.1.138:8081/setanta2/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Окко.Прайм Спорт
-http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Inter TV
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
 #EXTINF:-1 group-title="Спортивные",Real Madrid TV
@@ -1251,8 +1249,6 @@ http://185.57.68.33/110/mpegts
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спортивные",Bein Sports XTRA
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 group-title="Спортивные",Turkmenistan Sport
-https://alpha.tv.online.tm/hls/ch004.m3u8
 #EXTINF:-1 group-title="Спортивные",Real Madrid
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 #EXTINF:-1 group-title="Спортивные",NHL Network
@@ -1431,8 +1427,6 @@ https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 http://31.148.48.15/Mir_Seriala/index.m3u8
 #EXTINF:-1 group-title="Фильмовые",Кино 1 International
 http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
-#EXTINF:-1 group-title="Фильмовые",Trash TV
-https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
 #EXTINF:-1 group-title="Фильмовые",Кино и сериалы (СМОТРИМ)
 http://a0925677.xsph.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
 #EXTINF:-1 group-title="Фильмовые",Кино и сериалы HD (СМОТРИМ)
@@ -1527,8 +1521,6 @@ http://178.212.71.253:8000/play/142/index.m3u8
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные",MTV Live HD
-http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",Retro Music TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные",Муз Союз
@@ -1971,8 +1963,6 @@ http://31.148.48.15/Mir_Seriala/index.m3u8
 http://31.148.48.15/Feniks_plus_kino/index.m3u8
 #EXTINF:-1 group-title="Фильмовые",Еврокино HD
 http://31.148.48.15/Evrokino/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Trash TV
-https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
 #EXTINF:-1 group-title="Кинозалы",LAV-KINO
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы",Смотрим Кино и сериалы
@@ -2069,8 +2059,6 @@ http://178.212.71.253:8000/play/142/index.m3u8
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные",MTV Live HD
-http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",Retro Music TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные",Музыка Первого
