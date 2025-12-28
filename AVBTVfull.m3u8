@@ -237,8 +237,6 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
 http://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 group-title="Информационные",Большая Азия HD
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
-#EXTINF:-1 group-title="Информационные",Конгресс ТВ
-http://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 group-title="Зарубежные",TV1 KG HD (Кыргызстан)
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 #EXTINF:-1 group-title="Зарубежные",ТСВ Приднестровье HD
@@ -259,6 +257,8 @@ https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w_b
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="Зарубежные",Беларусь 3 HD
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w1684528521_b5160000_sleng.m3u8
+#EXTINF:-1 group-title="Зарубежные",Беларусь 3 HD
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus3.smil/chunklist_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="Зарубежные",ОНТ Беларусь
 https://edge53.dc.beltelecom.by/ont/_definst_/ont/chunklist_w741300442.m3u8
 #EXTINF:-1 group-title="Зарубежные",СТВ Беларусь
@@ -285,8 +285,6 @@ http://178.212.71.253:8000/play/132/index.m3u8
 http://158.101.222.193:88/georgia_play.php?id=ktoestkto
 #EXTINF:-1 group-title="Познавательные",Вопросы и ответы
 http://178.212.71.253:8000/play/97/index.m3u
-#EXTINF:-1 group-title="Познавательные",Открытый Мир
-http://v4.proofix.ru/0mir/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Китай ТВ
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Terra HD
@@ -435,8 +433,6 @@ https://fl1001.bozztv.com/ushba62/tracks-v1a1/mono.m3u8
 https://fl1001.bozztv.com/ushba45/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Продвижение
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",Калейдоскоп ТВ
-http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",Тео-ТВ
 https://stream.teotv.ru/live/site360/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",Анекдот ТВ
@@ -453,10 +449,6 @@ http://178.212.71.253:8000/play/41/index.m3u8
 http://v4.proofix.ru:80/7tv-live/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",TikTok
 http://162.212.179.43/ushba61/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Развлекательные",СТРК
-http://sochinskayatrk.ru/hdtv/hls/CTPK_HD/playlist.m3u8
-#EXTINF:-1 group-title="Развлекательные",СТРК HD
-http://sochinskayatrk.ru/hdtv/hls/CTPK_400/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",Резонанс ТВ
 http://95.47.156.60:8000/play/a015/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",Первый музыкальный HD
@@ -701,8 +693,6 @@ http://5.188.159.128:8070/eurosport2/index.m3u8
 http://vod.splay.uz/live_splay/original/Eurosport2HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч Планета
 http://158.101.222.193:88/georgia_play.php?id=matchplaneta
-#EXTINF:-1 group-title="Спортивные",Сетанта Спорт 1 HD
-http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спортивные",Setanta Sports 1 Georgia
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 #EXTINF:-1 group-title="Спортивные",Setanta Sports 2 HD
@@ -735,8 +725,6 @@ https://tv.a21network.ru/content/37909/index.m3u8
 http://tv.a21network.ru/stream/37909/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Canal Motor
 http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
-#EXTINF:-1 group-title="Спортивные",Sky Sports LaLiga [MX]
-http://181.78.106.127:9000/play/ca030/index.m3u8
 #EXTINF:-1 group-title="Спортивные",ATP Tennis TV
 http://49.0.64.96:8007/TENNIS
 #EXTINF:-1 group-title="Спортивные",Tennis Channel [US]
@@ -843,12 +831,8 @@ https://streaming.televizor-24-tochka.ru/live/25.m3u8
 https://streaming.televizor-24-tochka.ru/live/27.m3u8
 #EXTINF:-1 group-title="Региональные",КРЫМ 24
 https://streaming.televizor-24-tochka.ru/live/28.m3u8
-#EXTINF:-1 group-title="Региональные",Крым 24
-http://live24.1tvcrimea.ru/switcher.m3u8
 #EXTINF:-1 group-title="Региональные",КРЫМ 24
 http://iptv.crimea.net:8787
-#EXTINF:-1 group-title="Региональные",Первый крымский
-https://live1.1tvcrimea.ru/1tvcrimea.m3u8
 #EXTINF:-1 group-title="Региональные",Легендарный 24 HD
 https://sevas.1tvcrimea.ru/legendarniy24.m3u8
 #EXTINF:-1 group-title="Региональные",Москва. Доверие
@@ -883,6 +867,11 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/index.m3u8
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
 #EXTINF:-1 group-title="Российские плюсовые",Россия К HD +7
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
+
+#EXTINF:-1 group-title="Региональные",СТРК
+http://sochinskayatrk.ru/hdtv/hls/CTPK_HD/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",СТРК HD
+http://sochinskayatrk.ru/hdtv/hls/CTPK_400/playlist.m3u8
 #EXTINF:-1 group-title="Региональные",555
 http://trk555.tv:8888/live
 #EXTINF:-1 group-title="Региональные",Aris 24
@@ -1261,8 +1250,6 @@ http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
 http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 group-title="Кинозалы Сити Эдем",Сити Эдем - КиноАзия
 https://cityeden.catcast.tv/content/34393/index.m3u8
-#EXTINF:-1 group-title="Кинозалы Сити Эдем",Сити Эдем - КиноАрт
-https://cityeden.catcast.tv/content/38398/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Сити Эдем",Сити Эдем - КиноДетектив
 https://cityeden.catcast.tv/content/41327/index.m3u8
 #EXTINF:-1 group-title="Кинозалы Сити Эдем",Сити Эдем - КиноДок
@@ -1335,8 +1322,6 @@ http://178.212.71.253:8001/play/144/index.m3u8
 http://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 group-title="Фильмовые",Pro100
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
-#EXTINF:-1 group-title="Фильмовые",Fox Life HD
-http://188.237.47.212:6008
 #EXTINF:-1 group-title="Фильмовые",Любимое Кинo
 https://vod.splay.uz/live_splay/original/Kinopremera/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Фильмовые",Наше новое кино
@@ -1345,8 +1330,6 @@ http://158.101.222.193:88/georgia_play.php?id=nashanovoekino
 http://188.113.190.12/329/index.m3u8
 #EXTINF:-1 group-title="Фильмовые",Zee-TV
 http://158.101.222.193:88/georgia_play.php?id=zeetv
-#EXTINF:-1 group-title="Фильмовые",Беларусь 3 HD
-https://edge50.dc.beltelecom.by/ngtrk/smil:belarus3.smil/chunklist_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="Фильмовые",Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="Фильмовые",Кино 1 International
@@ -1453,3 +1436,7 @@ https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
 https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
 #EXTINF:-1 group-title="Магазины",Мой Мир
 https://moymir.ru/hls/onair.m3u8
+#EXTINF:-1 group-title="Магазины",Открытый Мир
+http://v4.proofix.ru/0mir/index.m3u8
+#EXTINF:-1 group-title="Магазины",Калейдоскоп ТВ
+http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
