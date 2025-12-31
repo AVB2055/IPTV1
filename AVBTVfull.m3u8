@@ -1089,8 +1089,6 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные",V Classic TV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные",Vintage Music
-https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные",Vision Television
 https://cloudvideo.servers10.com:8081/8016/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",VM Latino
@@ -1349,7 +1347,7 @@ http://radm.mediacdn.ru/cdn/radost/playlist.m3u8
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Детские",Радость моя
 https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
-TINF:-1 group-title="Детские",СоюзМультфильм
+#EXTINF:-1 group-title="Детские",СоюзМультфильм
 http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 group-title="Детские",СТС Kids
 http://31.148.48.15/STS_Kids_HD/index.m3u8
@@ -1441,8 +1439,6 @@ https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
 https://astrakhan24.bonus-tv.ru/cdn/astrakhan24/playlist.m3u8
 #EXTINF:-1 group-title="Региональные",Астрахань 24
 http://streaming.astrakhan.ru/astrakhan24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Региональные",Астрахань 24
-https://astrakhan24.bonus-tv.ru/cdn/astrakhan24/playlist.m3u8
 #EXTINF:-1 group-title="Региональные",Астрахань.Ru TV
 https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8
 #EXTINF:-1 group-title="Региональные",Астрахань.Ru TV
@@ -1463,8 +1459,6 @@ http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
 http://dagestan.mediacdn.ru/cdn/dagestan/tracks-v2a1/index.m3u8
 #EXTINF:-1 group-title="Региональные",КТК
 http://89.218.30.37/ktklive/live.hq/playlist.m3u8
-#EXTINF:-1 group-title="Региональные",Новое Телевидение
-http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
 #EXTINF:-1 group-title="Региональные",АТВ (Ставрополь)
 http://hls.atvmedia.ru/atv800.m3u8
 #EXTINF:-1 group-title="Региональные",Россия Региональные 1 (Вайнах)
@@ -2257,10 +2251,6 @@ http://193.25.8.59:8000/tlc
 http://213.169.39.30:5006
 #EXTINF:-1 group-title="Фильмовые",HTV HD
 https://dvr3.vokkavideo.xyz/HTVHD/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",TV4
-https://dvr3.vokkavideo.xyz/TV4SD/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",TV4 HD
-https://dvr3.vokkavideo.xyz/TV4HD/index.m3u8
 #EXTINF:-1 group-title="Фильмовые",Мир сериала
 http://31.148.48.15:80/Mir_Seriala/index.m3u8
 #EXTINF:-1 group-title="Фильмовые",312 Кино
