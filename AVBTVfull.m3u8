@@ -54,7 +54,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Карусель
 http://178.163.4.37:4022/udp/234.0.0.203:2000
 #EXTINF:-1 group-title="Федеральные",ОТР
-http://178.163.5.17:4022/udp/234.0.0.208:2000
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_OTR/variant.m3u8?version=3#parser
 #EXTINF:-1 group-title="Федеральные",ТВЦ
 http://178.163.3.208:4022/udp/234.0.0.192:2000
 #EXTINF:-1 group-title="Федеральные",ТВЦ
@@ -2256,6 +2256,7 @@ http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 #EXTINF:-1 group-title="Магазины",Мой Мир
 https://moymir.ru/hls/onair.m3u8
+
 
 
 
