@@ -303,6 +303,52 @@ http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Информационные",Большая Азия HD
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Зарубежные",Беларусь 24
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+#EXTINF:-1 group-title="Зарубежные",БелРос
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1 group-title="Зарубежные",БелРос
+http://live3.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
+#EXTINF:-1 group-title="Зарубежные",БелРос
+http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
+#EXTINF:-1 group-title="Зарубежные",Первый информационный Беларусь
+https://edge50.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/chunklist_b5160000_sleng.m3u8
+#EXTINF:-1 group-title="Зарубежные",Первый информационный
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
+#EXTINF:-1 group-title="Зарубежные",Беларусь 1 HD
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus1.smil/chunklist_b5160000_sleng.m3u8
+#EXTINF:-1 group-title="Зарубежные",Беларусь 1 HD
+https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w_b1460000_sleng.m3u8
+#EXTINF:-1 group-title="Зарубежные",Беларусь 2 HD
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8
+#EXTINF:-1 group-title="Зарубежные",Беларусь 3 HD
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w1684528521_b5160000_sleng.m3u8
+#EXTINF:-1 group-title="Зарубежные",Беларусь 3 HD
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus3.smil/chunklist_b5160000_sleng.m3u8
+#EXTINF:-1 group-title="Зарубежные",ОНТ Беларусь
+https://edge53.dc.beltelecom.by/ont/_definst_/ont/chunklist_w741300442.m3u8
+#EXTINF:-1 group-title="Зарубежные",ОНТ
+https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8
+#EXTINF:-1 group-title="Зарубежные",ОНТ
+http://194.158.222.36:6102
+#EXTINF:-1 group-title="Зарубежные",СТВ Беларусь
+http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Зарубежные",СТВ Беларусь
+https://edge50.dc.beltelecom.by/ctv/ctv.stream/chunklist_b5160000_sleng.m3u8
+#EXTINF:-1 group-title="Зарубежные",СТВ Беларусь
+http://edge50.dc.beltelecom.by/ctv/ctv.stream/chunklist_b5160000_sleng.m3u8
+#EXTINF:-1 group-title="Зарубежные",СТБ
+https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Зарубежные",КТК
+http://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
+#EXTINF:-1 group-title="Зарубежные",КТК
+http://89.218.30.37/ktklive/live.hq/playlist.m3u8
+#EXTINF:-1 group-title="Зарубежные",КТК
+https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
+#EXTINF:-1 group-title="Зарубежные",Хабар 24
+http://tvcdn01.oktv.kz/tv/24kz/index.m3u8
+#EXTINF:-1 group-title="Зарубежные",Туркменистан ТВ tuk
+http://alpha.tv.online.tm/hls/ch007_720/index.m3u8
 #EXTINF:-1 group-title="Познавательные",360°
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",360° HD
@@ -481,52 +527,7 @@ http://v4.proofix.ru/0mir/index.m3u8
 http://194.158.222.36:6105
 #EXTINF:-1 group-title="Зарубежные",НТВ-Беларусь
 http://194.158.222.36:6107
-#EXTINF:-1 group-title="Зарубежные",Беларусь 24
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
-#EXTINF:-1 group-title="Зарубежные",БелРос
-http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
-#EXTINF:-1 group-title="Зарубежные",БелРос
-http://live3.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
-#EXTINF:-1 group-title="Зарубежные",БелРос
-http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
-#EXTINF:-1 group-title="Зарубежные",Первый информационный Беларусь
-https://edge50.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/chunklist_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Зарубежные",Первый информационный
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
-#EXTINF:-1 group-title="Зарубежные",Беларусь 1 HD
-https://edge50.dc.beltelecom.by/ngtrk/smil:belarus1.smil/chunklist_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Зарубежные",Беларусь 1 HD
-https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w_b1460000_sleng.m3u8
-#EXTINF:-1 group-title="Зарубежные",Беларусь 2 HD
-https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Зарубежные",Беларусь 3 HD
-https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w1684528521_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Зарубежные",Беларусь 3 HD
-https://edge50.dc.beltelecom.by/ngtrk/smil:belarus3.smil/chunklist_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Зарубежные",ОНТ Беларусь
-https://edge53.dc.beltelecom.by/ont/_definst_/ont/chunklist_w741300442.m3u8
-#EXTINF:-1 group-title="Зарубежные",ОНТ
-https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8
-#EXTINF:-1 group-title="Зарубежные",ОНТ
-http://194.158.222.36:6102
-#EXTINF:-1 group-title="Зарубежные",СТВ Беларусь
-http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Зарубежные",СТВ Беларусь
-https://edge50.dc.beltelecom.by/ctv/ctv.stream/chunklist_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Зарубежные",СТВ Беларусь
-http://edge50.dc.beltelecom.by/ctv/ctv.stream/chunklist_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Зарубежные",СТБ
-https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Зарубежные",КТК
-http://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
-#EXTINF:-1 group-title="Зарубежные",КТК
-http://89.218.30.37/ktklive/live.hq/playlist.m3u8
-#EXTINF:-1 group-title="Зарубежные",КТК
-https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
-#EXTINF:-1 group-title="Зарубежные",Хабар 24
-http://tvcdn01.oktv.kz/tv/24kz/index.m3u8
-#EXTINF:-1 group-title="Зарубежные",Туркменистан ТВ tuk
-http://alpha.tv.online.tm/hls/ch007_720/index.m3u8
+
 #EXTINF:-1 group-title="Развлекательные",ТНТ4 Int
 http://178.134.1.158:8081/tnt/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Теледом HD
