@@ -839,18 +839,6 @@ https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:0,Ты супер !
 #EXTGRP:Кинозалы
 https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:0,312 Кино
-#EXTGRP:Фильмовые
-http://176.126.166.43:1935/live/312kino/chunklist_w164832369.m3u8
-#EXTINF:0,312 Кино
-#EXTGRP:Фильмовые
-http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:0,312
-#EXTGRP:Фильмовые
-http://176.126.166.43:1935/live/312musik/chunklist_w1516016500.m3u8
-#EXTINF:0,312
-#EXTGRP:Фильмовые
-http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:0,VHS-ка HD
 #EXTGRP:Фильмовые
 http://95.66.188.74/VHS/index.m3u8
@@ -1031,4 +1019,5 @@ http://146.120.14.239:3001/play/a0fv
 #EXTINF:0,Кинопоказ
 #EXTGRP:Фильмовые
 http://95.66.188.74/Kinopokaz/mono.m3u8
+
 
