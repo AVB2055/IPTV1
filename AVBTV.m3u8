@@ -61,10 +61,8 @@ http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 #EXTINF:-1 group-title="Эфирные",Теледом HD
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
-#EXTINF:-1 group-title="Эфирные",8 канал International
-http://v4.proofix.ru/8tv-europe/index.m3u8
-#EXTINF:-1 group-title="Эфирные",Manas TV
-http://212.42.111.152:8080/hls/manas.m3u8
+#EXTINF:-1 group-title="Эфирные",Смотрим
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 #EXTINF:-1 group-title="Информационные",Мир 24
 http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Информационные",РБК HD
@@ -115,8 +113,6 @@ https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3
 https://flussonic.salomtv.uz/EURONEWS/video.m3u8
 #EXTINF:-1 group-title="Информационные",CGTN
 http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
-#EXTINF:-1 group-title="Информационные",Эхо ТВ
-http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Информационные",Большая Азия HD
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",История
@@ -405,43 +401,15 @@ http://hls.peers.tv/streaming/ducktv/16/copy_a/playlist.m3u8?token=eyJhbGciOiJIU
 http://95.66.188.74/Cartoon_Classics/index.m3u8
 #EXTINF:-1 group-title="Детские",Тооку HD
 http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
-#EXTINF:-1 group-title="Кинозалы",LAV-KINO
-https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы",Смотрим - Честный Детектив
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
-#EXTINF:-1 group-title="Кинозалы",Следствие вели...
+#EXTINF:-1 group-title="Кинозалы",НТВ Следствие вели...
 https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 group-title="Кинозалы",Овертайм
-https://fl1001.bozztv.com/ushba55/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы",Документалка 1
-https://fl1001.bozztv.com/ushba28/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы",Документалка-2 Вне закона
-https://fl1001.bozztv.com/ushba29/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы",Документалка 2 Вне закона
-http://162.212.179.43/ushba29/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы",Документалка-3 Discovery
-https://fl1001.bozztv.com/ushba38/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы",Документалка 3  Discovery
-http://162.212.179.43/ushba38/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы",Кинозалы-3
-http://fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы",Кинозалы 3
-https://fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы",Кинозалы-4
-http://fl1001.bozztv.com/ushba26/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы",Кинозалы 4
-https://fl1001.bozztv.com/ushba26/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы",Кинозалы 36
-https://fl1001.bozztv.com/ushba65/index.m3u8
-#EXTINF:-1 group-title="Кинозалы",Кинозалы 37 Танцы
-https://fl1001.bozztv.com/ushba17/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы",НТВ Сериалы Пёс
 https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="Кинозалы",НТВ Сериалы Скорая помощь
 https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="Кинозалы",НТВ Сериалы Первый отдел
 https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 group-title="Кинозалы",НТВ Шеф
+#EXTINF:-1 group-title="Кинозалы",НТВ Сериалы Шеф
 https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="Кинозалы",НТВ Сериалы Невский
 https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/rewind-240.ts.m3u8
@@ -449,6 +417,16 @@ https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/rewind-240.ts.m3u8
 https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="Кинозалы",НТВ Сериалы Пять минут тишины
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="Кинозалы",Документалка 1
+https://fl1001.bozztv.com/ushba28/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы",Документалка 2 Вне закона
+http://162.212.179.43/ushba29/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы",LAV-KINO
+https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы",Кинозалы 3
+https://fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кинозалы",Кинозалы 4
+https://fl1001.bozztv.com/ushba26/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы",НТВ конкурс Ты супер !
 https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="Фильмовые",VHS-ка HD
@@ -541,6 +519,3 @@ http://2.57.217.85:8000/play/a097/index.m3u8
 http://146.120.14.239:3001/play/a0fv
 #EXTINF:-1 group-title="Фильмовые",Кинопоказ
 http://95.66.188.74/Kinopokaz/mono.m3u8
-
-
-
