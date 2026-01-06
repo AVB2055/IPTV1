@@ -194,7 +194,7 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Eda
 #EXTINF:-1 group-title="Познавательные",Кухня ТВ
 http://95.66.188.74/Kuhnya/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ4 HD
-http://176.118.197.101/TNT4/index.m3u8
+https://river-1.rutube.ru/stream/genetta-318.m9.rutube.ru/XZ5zBKbMXXovoCCeV4NAww/1768309752/c801a7087e29a097192d74c270fbc6c1/1080p_stream.m3u8
 #EXTINF:-1 group-title="Развлекательные",Твоё ТВ HD
 http://tvoetv.space:8080/tvoetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные",Твоё ТВ Юмор HD
@@ -511,4 +511,5 @@ http://2.57.217.85:8000/play/a097/index.m3u8
 http://146.120.14.239:3001/play/a0fv
 #EXTINF:-1 group-title="Фильмовые",Кинопоказ
 http://95.66.188.74/Kinopokaz/mono.m3u8
+
 
