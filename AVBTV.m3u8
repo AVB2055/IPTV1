@@ -193,32 +193,24 @@ http://95.66.188.74/Usadba/index.m3u8
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Eda
 #EXTINF:-1 group-title="Познавательные",Кухня ТВ
 http://95.66.188.74/Kuhnya/mono.m3u8
-#EXTINF:-1 group-title="Развлекательные",ТНТ4 Int
-http://178.134.1.158:8081/tnt/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",Твоё ТВ
+#EXTINF:-1 group-title="Развлекательные",ТНТ4 HD
+http://176.118.197.101/TNT4/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Твоё ТВ HD
 http://tvoetv.space:8080/tvoetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Развлекательные",Твоё ТВ Юмор
+#EXTINF:-1 group-title="Развлекательные",Твоё ТВ Юмор HD
 http://tvoetv.space:8080/tvoetv_humor/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Развлекательные",Alpha Funny
+#EXTINF:-1 group-title="Развлекательные",Alpha Funny HD
 http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
-#EXTINF:-1 group-title="Развлекательные",TV1 KG HD (Кыргызстан)
+#EXTINF:-1 group-title="Развлекательные",TV1 KG HD (Кыргызстан) HD
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
-#EXTINF:-1 group-title="Развлекательные",Залипательные ролики
+#EXTINF:-1 group-title="Развлекательные",Залипательные ролики HD
 https://fl1001.bozztv.com/ushba60/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Развлекательные",Залипательные ролики 2
+#EXTINF:-1 group-title="Развлекательные",Залипательные ролики 2 HD
 https://30a-tv.com/feeds/720p/63.m3u8
-#EXTINF:-1 group-title="Развлекательные",Приколы 1
+#EXTINF:-1 group-title="Развлекательные",Приколы 1 HD
 https://fl1001.bozztv.com/ushba11/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Развлекательные",Приколы 2
+#EXTINF:-1 group-title="Развлекательные",Приколы 2 HD
 https://fl1001.bozztv.com/ushba20/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Развлекательные",Шоу Бенни Хилла
-https://fl1001.bozztv.com/ushba62/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Развлекательные",Мистер Бин
-https://fl1001.bozztv.com/ushba45/index.m3u8
-#EXTINF:-1 group-title="Развлекательные",TikTok
-http://162.212.179.43/ushba61/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Развлекательные",Анекдот ТВ
-http://146.120.14.239:3001/play/a08p
 #EXTINF:-1 group-title="Развлекательные",Ностальгия
 http://95.66.188.74/Nostalgia/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Театр
@@ -519,3 +511,4 @@ http://2.57.217.85:8000/play/a097/index.m3u8
 http://146.120.14.239:3001/play/a0fv
 #EXTINF:-1 group-title="Фильмовые",Кинопоказ
 http://95.66.188.74/Kinopokaz/mono.m3u8
+
