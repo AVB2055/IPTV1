@@ -39,6 +39,7 @@ http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.ts.m
 http://95.66.188.74/TNT_HD/mono.m3u8
 #EXTINF:-1 group-title="Федеральные",Муз ТВ
 https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
+
 #EXTINF:-1 group-title="Эфирные",НТВ Сериал
 http://cdn2.ntv.ru/th_serial/playlist.m3u8
 #EXTINF:-1 group-title="Эфирные",НТВ Хит
@@ -51,12 +52,6 @@ https://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Эфирные",СТС Love
 http://tv.streams.baikal-telecom.net:8080/CTC_LOVE/index.m3u8
-#EXTINF:-1 group-title="Эфирные",2x2
-http://178.212.71.253:8000/play/113/index.m3u8
-#EXTINF:-1 group-title="Эфирные",Че
-http://95.66.188.74/Che/mono.m3u8
-#EXTINF:-1 group-title="Эфирные",Ю HD
-http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Эфирные",Москва. Доверие
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 #EXTINF:-1 group-title="Эфирные",Теледом HD
@@ -65,6 +60,7 @@ http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 #EXTINF:-1 group-title="Эфирные",Тео-ТВ HD
 https://stream.teotv.ru/live/site360/playlist.m3u8
+
 #EXTINF:-1 group-title="Информационные",Мир 24
 http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Информационные",РБК HD
@@ -97,8 +93,6 @@ http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
 http://178.134.1.158:8081/rtvi/index.m3u8
 #EXTINF:-1 group-title="Информационные",RTVi
 http://77.110.113.138:8081/iptv/rtvi-channel/chunks.m3u8?nimblesessionid=42669&wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjYgMTE6MDg6NTkgQU0maGFzaF92YWx1ZT1YaWUyd3gva3c2M1FCQXp2L2xYcG5nPT0mdmFsaWRtaW51dGVzPTU=
-#EXTINF:-1 group-title="Информационные",RTVi
-http://77.110.113.138:8081/iptv/rtvi-channel/l_313_71082365_311.ts?nimblesessionid=42680&wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjYgMTE6MTA6MTYgQU0maGFzaF92YWx1ZT1WUitNN0dUZlJtUkE2cE5MQmF2ekdBPT0mdmFsaWRtaW51dGVzPTU=
 #EXTINF:-1 group-title="Информационные",DW Russia
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 #EXTINF:-1 group-title="Информационные",Настоящее время HD [СМИ иноагент]
@@ -183,6 +177,13 @@ https://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
 http://95.66.188.74/Usadba/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Кухня ТВ
 http://95.66.188.74/Kuhnya/mono.m3u8
+
+#EXTINF:-1 group-title="Развлекательные",2x2
+http://178.212.71.253:8000/play/113/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Че
+http://95.66.188.74/Che/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные",Ю HD
+http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ4 HD
 http://95.66.188.74/THT4/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные",Твоё ТВ HD
@@ -483,6 +484,7 @@ http://2.57.217.85:8000/play/a097/index.m3u8
 http://146.120.14.239:3001/play/a0fv
 #EXTINF:-1 group-title="Фильмовые",Кинопоказ
 http://95.66.188.74/Kinopokaz/mono.m3u8
+
 
 
 
