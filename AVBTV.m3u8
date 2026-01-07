@@ -95,6 +95,10 @@ https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/play
 http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
 #EXTINF:-1 group-title="Информационные",RTVi
 http://178.134.1.158:8081/rtvi/index.m3u8
+#EXTINF:-1 group-title="Информационные",RTVi
+http://77.110.113.138:8081/iptv/rtvi-channel/chunks.m3u8?nimblesessionid=42669&wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjYgMTE6MDg6NTkgQU0maGFzaF92YWx1ZT1YaWUyd3gva3c2M1FCQXp2L2xYcG5nPT0mdmFsaWRtaW51dGVzPTU=
+#EXTINF:-1 group-title="Информационные",RTVi
+http://77.110.113.138:8081/iptv/rtvi-channel/l_313_71082365_311.ts?nimblesessionid=42680&wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjYgMTE6MTA6MTYgQU0maGFzaF92YWx1ZT1WUitNN0dUZlJtUkE2cE5MQmF2ekdBPT0mdmFsaWRtaW51dGVzPTU=
 #EXTINF:-1 group-title="Информационные",DW Russia
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 #EXTINF:-1 group-title="Информационные",Настоящее время HD [СМИ иноагент]
@@ -479,6 +483,7 @@ http://2.57.217.85:8000/play/a097/index.m3u8
 http://146.120.14.239:3001/play/a0fv
 #EXTINF:-1 group-title="Фильмовые",Кинопоказ
 http://95.66.188.74/Kinopokaz/mono.m3u8
+
 
 
 
