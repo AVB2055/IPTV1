@@ -530,6 +530,26 @@ http://194.158.222.36:6107
 
 #EXTINF:-1 group-title="Развлекательные",ТНТ4 Int
 http://178.134.1.158:8081/tnt/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТНТ4
+http://178.212.71.253:8000/play/106/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТНТ4
+http://31.148.48.15/TNT4/index.m3u8 
+#EXTINF:-1 group-title="Развлекательные",ТНТ4
+http://95.66.188.74/THT4/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТНТ4
+http://193.25.8.59:8000/tntcomedy
+#EXTINF:-1 group-title="Развлекательные",ТНТ4
+http://api.peers.tv/timeshift/tnt4/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njc4NTg5MTIsImlhdCI6MTc2Nzc3MjUxMiwiY2lkIjo2LCJ1aWQiOjk4NTk3MTUyMSwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTM4NTcsImFkdWx0IjpmYWxzZX0.ZZYdsx0aet8Rr36lZ4vcpQJw7ofpiCIzVzVPaJvz5-A&offset=10
+#EXTINF:-1 group-title="Развлекательные",ТНТ4
+http://95.181.17.14/dvr02/mobile2/comedytv/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjYgNzo1NToxMyBBTSZoYXNoX3ZhbHVlPXdBcUFmZDVNTll1TjNFQlZrWkRYdXc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="Развлекательные",ТНТ4 HD
+https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=XH_-yTuiTSHtxjxuuMR1hg&e=2067772525&scheme=https
+#EXTINF:-1 group-title="Развлекательные",ТНТ4 (+0)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТНТ4 (+2)
+https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_2/variant.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТНТ4 (+7)
+https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_7/variant.m3u8
 #EXTINF:-1 group-title="Развлекательные",Теледом HD
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 group-title="Развлекательные",Твоё ТВ
@@ -1700,3 +1720,4 @@ http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 #EXTINF:-1 group-title="Магазины",Мой Мир
 https://moymir.ru/hls/onair.m3u8
+
