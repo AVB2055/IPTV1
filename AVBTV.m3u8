@@ -176,6 +176,8 @@ http://95.66.188.74/THT4/mono.m3u8
 http://tvoetv.space:8080/tvoetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные",Твоё ТВ Юмор HD
 http://tvoetv.space:8080/tvoetv_humor/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные,DTR Zona 1
+https://kino-stream.online/hls/DTRZONA1.m3u8
 #EXTINF:-1 group-title="Развлекательные",Alpha Funny HD
 http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
 #EXTINF:-1 group-title="Развлекательные",TV1 KG HD (Кыргызстан) HD
@@ -483,6 +485,7 @@ http://2.57.217.85:8000/play/a097/index.m3u8
 http://146.120.14.239:3001/play/a0fv
 #EXTINF:-1 group-title="Фильмовые",Кинопоказ
 http://95.66.188.74/Kinopokaz/mono.m3u8
+
 
 
 
