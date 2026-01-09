@@ -170,6 +170,8 @@ http://178.212.71.253:8000/play/113/index.m3u8
 http://95.66.188.74/Che/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные",Ю HD
 http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные",O2TV
+http://77.232.131.211/O2TV/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ4 HD
 http://95.66.188.74/THT4/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные",Твоё ТВ HD
@@ -485,6 +487,7 @@ http://2.57.217.85:8000/play/a097/index.m3u8
 http://146.120.14.239:3001/play/a0fv
 #EXTINF:-1 group-title="Фильмовые",Кинопоказ
 http://95.66.188.74/Kinopokaz/mono.m3u8
+
 
 
 
