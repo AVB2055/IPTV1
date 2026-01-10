@@ -40,7 +40,7 @@ http://95.66.188.74/TNT_HD/mono.m3u8
 #EXTINF:-1 group-title="Федеральные",Муз ТВ
 https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
 
-#EXTINF:-1 group-title="Информационные",Мир 24
+#EXTINF:-1 group-title="Информационные",Мир 24 HD
 http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Информационные",РБК HD
 http://e8-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8
@@ -48,19 +48,19 @@ http://e8-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8
 https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
 #EXTINF:-1 group-title="Информационные",ТАСС HD
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
-#EXTINF:-1 group-title="Информационные",Известия
+#EXTINF:-1 group-title="Информационные",Известия HD
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 group-title="Информационные",Крик-ТВ
+#EXTINF:-1 group-title="Информационные",Крик-ТВ HD
 http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8
-#EXTINF:-1 group-title="Информационные",Первый Российский Национальный канал
+#EXTINF:-1 group-title="Информационные",ПРНК HD
 https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
 #EXTINF:-1 group-title="Информационные",TV BRICS HD
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Информационные",Москва 24
+#EXTINF:-1 group-title="Информационные",Москва 24 HD
 https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
 #EXTINF:-1 group-title="Информационные",Москва. Доверие
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
-#EXTINF:-1 group-title="Информационные",Тео-ТВ HD
+#EXTINF:-1 group-title="Информационные",ТеоТВ HD
 https://stream.teotv.ru/live/site360/playlist.m3u8
 #EXTINF:-1 group-title="Информационные",Легендарный 24 HD
 https://sevas.1tvcrimea.ru/legendarniy24.m3u8
@@ -70,11 +70,9 @@ http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Информационные",360 HD
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Информационные",Вместе РФ
-https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 #EXTINF:-1 group-title="Информационные",RT Д HD
 http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
-#EXTINF:-1 group-title="Информационные",EuroNews
+#EXTINF:-1 group-title="Информационные",EuroNews HD
 https://flussonic.salomtv.uz/EURONEWS/video.m3u8
 #EXTINF:-1 group-title="Информационные",RTVi
 http://178.134.1.158:8081/rtvi/index.m3u8
@@ -90,15 +88,17 @@ https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852ca
 http://176.107.219.20:9000/play/a003/index.m3u8
 #EXTINF:-1 group-title="Информационные",РЖД HD
 http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Информационные",ЛДПР ТВ
+#EXTINF:-1 group-title="Информационные",ЛДПР ТВ HD
 http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
 #EXTINF:-1 group-title="Информационные",Красная линия
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Информационные",CGTN
+#EXTINF:-1 group-title="Информационные",CGTN HD
 http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 #EXTINF:-1 group-title="Информационные",Большая Азия HD
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="Познавательные",Вместе РФ HD
+https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",Звезда Плюс HD
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Познавательные"Доктор Достоевский
@@ -489,6 +489,7 @@ http://2.57.217.85:8000/play/a097/index.m3u8
 http://146.120.14.239:3001/play/a0fv
 #EXTINF:-1 group-title="Фильмовые",Кинопоказ
 http://95.66.188.74/Kinopokaz/mono.m3u8
+
 
 
 
