@@ -499,7 +499,6 @@ https://fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы",Кинозалы 4
 https://fl1001.bozztv.com/ushba26/tracks-v1a1/mono.m3u8
 
-#EXTM3U
 #EXTINF:-1 group-title="Фильмовые",.Black SD
 http://95.66.188.74/.black/index.m3u8
 #EXTINF:-1 group-title="Фильмовые",.Black
@@ -764,6 +763,7 @@ http://95.66.188.74/Russkiy_Detektiv/mono.m3u8
 http://95.66.188.74/RusRoman/mono.m3u8
 #EXTINF:-1 group-title="Фильмовые",Фильмы 24/7
 http://195.9.195.3:8080/hls/218251.m3u8
+
 
 
 
