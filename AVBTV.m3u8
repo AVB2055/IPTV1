@@ -96,78 +96,121 @@ https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3
 http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 #EXTINF:-1 group-title="Информационные",Большая Азия HD
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Информационные",Царьград
+https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=VqspvlW-ypxFeER1lqbuOw&e=2067815826&scheme=https
 
-#EXTINF:-1 group-title="Познавательные",Вместе РФ HD
-https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные",Звезда Плюс HD
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Познавательные"Доктор Достоевский
-https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные",История
-http://185.46.16.239:8000/Istoriya
-#EXTINF:-1 group-title="Познавательные",Terra
-http://193.25.8.59:8000/natgeo
+
+#EXTINF:-1 group-title="Познавательные",365 дней
+http://176.118.197.125/365_dney_tv/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Galaxy HD
+http://176.118.197.125/Galaxy/index.m3u8
+#EXTINF:-1 group-title="Познавательные",HHQ
+https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=ca3DVK0cCJqC7nmNSHE2Nw&e=2067815808&scheme=https
+#EXTINF:-1 group-title="Познавательные",Nano HD
+http://194.143.148.28:8080/NanoTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Терра Инкогнита HD
 http://178.124.153.123:44400/terra
-#EXTINF:-1 group-title="Познавательные",Лекторий DОСТОЕВСКИЙ
-https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные",Наука
-http://vod.tuva.ru/nauka2/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Нано
-http://tv.streams.baikal-telecom.net:8080/NanoTV/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Клуб путешествий Михаила Кожухова
-https://autopilot.catcast.tv/content/34114/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Моя планета HD
-http://185.46.16.239:8000/Planeta_HD
-#EXTINF:-1 group-title="Познавательные",Океан
-http://86.57.209.210/Ocean/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Travel Guide TV
-http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные",Animal Planet HD
-https://vod.splay.uz/live_splay/original/Animal_Planet/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные",Живая планета
-http://185.46.16.239:8000/Zhivaya_Planeta
-#EXTINF:-1 group-title="Познавательные",Зоо ТВ
-http://95.66.188.74/Zoo_TV/mono.m3u8
-#EXTINF:-1 group-title="Познавательные",Арсенал HD
-http://95.66.188.74/Arsenal_HD/index.m3u8
-#EXTINF:-1 group-title="Познавательные",365 дней
-http://45.11.139.43:8555/365dney/index.m3u8
 #EXTINF:-1 group-title="Познавательные",RTG HD
 http://95.66.188.74/RTGHD/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Поехали!
-http://95.66.188.74/Poehali/mono.m3u8
-#EXTINF:-1 group-title="Познавательные",Точка.РФ
-http://95.66.188.74/HD_Life/mono.m3u8
-#EXTINF:-1 group-title="Познавательные",Светлое ТВ
-http://176.107.219.20:9000/play/a009/index.m3u8
+#EXTINF:-1 group-title="Познавательные",TLC HD
+http://176.118.197.125/TLC-HD/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Travel Guide TV
+http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Travel+Adventure HD
+http://77.232.131.211/TravelAdventureHD/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Viasat History
+http://89.232.68.194:8080/HISTORY/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Арт
 http://95.47.156.60:8000/play/a011/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Epic
-http://193.25.8.59:8000/dtx
-#EXTINF:-1 group-title="Познавательные",Неизвестная россия HD
-http://cdn2.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательные",Китай ТВ HD
-https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Наша Тема
-http://213.230.65.254:8000/play/a013
-#EXTINF:-1 group-title="Познавательные",Продвижение
-http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Бобер
-http://95.66.188.74/Bober/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",Арсенал HD
+http://95.66.188.74/Arsenal_HD/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",Бобёр HD
+http://176.118.197.125/Bober/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Время HD
+http://176.118.197.125/Vremya/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Вместе РФ HD
+https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Дикий
+http://hls127.freeott.top:8080/Dikiy/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Доктор
 http://45.11.139.43:8555/doctor/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Здоровое ТВ
-http://95.66.188.74/ZdorovoeTV/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Драйв
+http://176.118.197.125/Draiv/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Загородная жизнь HD
+http://185.57.68.33/40/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Загородный Int. HD
 https://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
-#EXTINF:-1 group-title="Познавательные",Усадьба
-http://95.66.188.74/Usadba/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Загородный International
+https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=qCm0UmKswEHKFTF7y1FmPQ&e=2067815806&scheme=https
+#EXTINF:-1 group-title="Познавательные",Звезда Плюс HD
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Познавательные",Здоровое ТВ HD
+http://95.66.188.74/ZdorovoeTV/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Зоо ТВ
+http://95.66.188.74/Zoo_TV/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",История
+http://95.66.188.74/Istoria/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",Китай ТВ HD
+https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Кухня ТВ
 http://95.66.188.74/Kuhnya/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",Моя планета HD
+http://95.66.188.74/MoyaPlanetaHD/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",Нано ТВ HD
+http://tv.streams.baikal-telecom.net:8080/NanoTV/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Наука 2.0
+http://hls127.freeott.top:8080/NAUKA/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",Наша Тема
+http://213.230.65.254:8000/play/a013
+#EXTINF:-1 group-title="Познавательные",Неизвестная россия HD
+http://cdn2.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",Ника ТВ HD
+https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Ностальгия HD
+http://95.66.188.74/Nostalgia/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Океан HD
+http://86.57.209.210/Ocean/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Оружие
+http://95.66.188.74/Oruzhie/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",Охотник и рыболов
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Oh_Rbl
+#EXTINF:-1 group-title="Познавательные",Первый автомобильный HD
+http://195.9.195.3:8080/hls/206355.m3u8
+#EXTINF:-1 group-title="Познавательные",Первый космический 
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Eureka
+#EXTINF:-1 group-title="Познавательные",Победа
+http://95.66.188.74/Pobeda/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",Поехали!
+http://95.66.188.74/Poehali/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",Продвижение HD
+http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Светлое ТВ
+http://176.107.219.20:9000/play/a009/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Совершенно секретно
+http://hls127.freeott.top:8080/Sovershenno_Sekretno/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",Тайна
+https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=GmFSizHee8DpOJI6J0bwMA&e=2067815807&scheme=https
+#EXTINF:-1 group-title="Познавательные",Телекафе HD
+http://176.118.197.101/Telekafe/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Точка.РФ
+http://95.66.188.74/HD_Life/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",Усадьба HD
+http://93.170.254.17/Usadba/index.m3u8
+
 
 #EXTINF:-1 group-title="Развлекательные",2x2
-http://178.212.71.253:8000/play/113/index.m3u8
+http://176.118.197.101/2x2/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Alpha Funny HD
+http://195.9.195.3:8080/hls/206963.m3u8
+#EXTINF:-1 group-title="Развлекательные",Gags Network
+http://hls127.freeott.top:8080/Gagsnetwork/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные",DTR Zona 1 HD
+https://kino-stream.online/hls/DTRZONA1.m3u8
+#EXTINF:-1 group-title="Развлекательные",Mr.Bean Cartoon
+https://bl.rutube.ru/livestream/0e9e44725d5d5ab7ee92c10b40215419/index.m3u8?s=PKlr1KsTF2d2tE-J0_gjZw&e=2067815808&scheme=https
+
+
+
 #EXTINF:-1 group-title="Развлекательные",Че
 http://95.66.188.74/Che/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные",Ю HD
@@ -180,20 +223,29 @@ http://95.66.188.74/THT4/mono.m3u8
 http://tvoetv.space:8080/tvoetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные",Твоё ТВ Юмор HD
 http://tvoetv.space:8080/tvoetv_humor/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Развлекательные",DTR Zona 1
-https://kino-stream.online/hls/DTRZONA1.m3u8
-#EXTINF:-1 group-title="Развлекательные",Alpha Funny HD
-http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
+#EXTINF:-1 group-title="Развлекательные",TikTok
+http://162.212.179.43/ushba61/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные",TV1 KG HD (Кыргызстан) HD
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",Залипательные ролики HD
 https://fl1001.bozztv.com/ushba60/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные",Залипательные ролики 2 HD
 https://30a-tv.com/feeds/720p/63.m3u8
+#EXTINF:-1 group-title="Развлекательные",КВН ТВ
+http://93.170.254.17/KVN/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Малдер Всё ТВ HD
+http://195.9.195.3:8080/hls/153640.m3u8
+#EXTINF:-1 group-title="Развлекательные",Мистер Бин HD
+https://fl1001.bozztv.com/ushba45/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",O2TV HD
+http://77.232.131.211/O2TV/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",Приколы 1 HD
 https://fl1001.bozztv.com/ushba11/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные",Приколы 2 HD
 https://fl1001.bozztv.com/ushba20/tracks-v1a1/mono.m3u8
+
+
+
 #EXTINF:-1 group-title="Музыкальные",Первый музыкальный HD
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 group-title="Музыкальные",Музыка-33418
@@ -366,7 +418,7 @@ http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 #EXTINF:-1 group-title="Кинозалы",СТС Love
 http://tv.streams.baikal-telecom.net:8080/CTC_LOVE/index.m3u8
 #EXTINF:-1 group-title="Кинозалы",НТВ Сериал
-http://cdn2.ntv.ru/th_serial/playlist.m3u8
+https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Кинозалы",НТВ Хит
 http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы",НТВ Право
@@ -391,6 +443,7 @@ https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="Кинозалы",Смотрим
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы",Документалка 1
 https://fl1001.bozztv.com/ushba28/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы",Документалка 2 Вне закона
