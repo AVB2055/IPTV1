@@ -262,6 +262,9 @@ http://93.170.254.17/5Channel/index.m3u8
 http://31.131.141.195:8000/play/1050/index.m3u8
 #EXTINF:0,Пятый канал
 #EXTGRP:Федеральные
+http://5.188.221.43:8080/play/Pyatnica
+#EXTINF:0,Пятый канал
+#EXTGRP:Федеральные
 http://178.163.5.6:4022/udp/234.0.0.205:2000
 #EXTINF:0,Рен ТВ
 #EXTGRP:Федеральные
@@ -275,12 +278,6 @@ http://95.47.156.60:8000/play/11/index.m3u8
 #EXTINF:0,РЕН ТВ
 #EXTGRP:Федеральные
 http://178.163.2.228:4022/udp/234.0.0.240:2000
-#EXTINF:0,Россия Культура
-#EXTGRP:Федеральные
-http://185.46.16.239:8000/Rossiya_K
-#EXTINF:0,РОССИЯ К
-#EXTGRP:Федеральные
-http://95.47.156.60:8000/play/6/index.m3u8
 #EXTINF:0,Рен ТВ
 #EXTGRP:Федеральные
 http://93.170.254.17/RenTV/index.m3u8
@@ -347,6 +344,12 @@ http://85.192.10.131/hls/ortrum9/playlist.m3u8
 #EXTINF:0,Россия 24 HD
 #EXTGRP:Федеральные
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
+#EXTINF:0,Россия Культура
+#EXTGRP:Федеральные
+http://185.46.16.239:8000/Rossiya_K
+#EXTINF:0,РОССИЯ К
+#EXTGRP:Федеральные
+http://95.47.156.60:8000/play/6/index.m3u8
 #EXTINF:0,Россия К
 #EXTGRP:Федеральные
 http://85.192.10.131/hls/kultura/playlist.m3u8
