@@ -500,7 +500,7 @@ https://fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
 https://fl1001.bozztv.com/ushba26/tracks-v1a1/mono.m3u8
 
 #EXTM3U
-#EXTINF:-1 group-title="Фильмовые",Black SD
+#EXTINF:-1 group-title="Фильмовые",.Black SD
 http://95.66.188.74/.black/index.m3u8
 #EXTINF:-1 group-title="Фильмовые",.Black
 http://176.118.197.125/Black/index.m3u8
@@ -766,95 +766,6 @@ http://95.66.188.74/RusRoman/mono.m3u8
 http://195.9.195.3:8080/hls/218251.m3u8
 
 
-
-
-
-#EXTINF:-1 group-title="Фильмовые",VHS-ка HD
-http://95.66.188.74/VHS/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",.Black HD
-http://95.66.188.74/.black/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Dom_Kino Премиум
-http://84.54.128.52:9090/play/a001/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",CINEMA HD
-https://vod.splay.uz/live_splay/original/CinemaHD/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Amedia 2
-http://158.160.149.81:8080/462/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Start Air HD
-https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
-#EXTINF:-1 group-title="Фильмовые",Ретро
-http://178.163.3.80:4022/udp/234.0.0.194:2000
-#EXTINF:-1 group-title="Фильмовые",Про100 ТВ
-http://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
-#EXTINF:-1 group-title="Фильмовые",Индийское кино HD
-http://188.113.190.12/329/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Кино 1 Int.
-http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
-#EXTINF:-1 group-title="Фильмовые",Патриот
-http://catchup.videoline.ru/asvtv/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Kino24 HD
-http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
-#EXTINF:-1 group-title="Фильмовые",Киномикс
-http://95.66.188.74/Kinomiks/mono.m3u8
-#EXTINF:-1 group-title="Фильмовые",Еврокино
-http://87.120.142.11:18000/STSLove
-#EXTINF:-1 group-title="Фильмовые",Fox
-http://185.164.82.18:9010/ykMHqK_Fox
-#EXTINF:-1 group-title="Фильмовые",Hollywood
-http://193.25.8.59:8000/interaz
-#EXTINF:-1 group-title="Фильмовые",Кинеко
-http://tv.streams.baikal-telecom.net:8080/KINEKO/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",КИНОСЕМЬЯ HD
-https://vod.splay.uz/live_splay/original/Kinosemya/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Фильмовые",Киносвидание HD
-http://vod.splay.uz/live_splay/original/Kinosvidanie/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Фильмовые",Timeless Dizi
-http://193.25.8.59:8000/tlc
-#EXTINF:-1 group-title="Фильмовые",VIJU TV1000 русское
-http://2.57.217.85:8000/play/a09z/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VIJU TV1000 Action HD
-https://flussonic.salomtv.uz/vijuTV1000action/video.m3u8
-#EXTINF:-1 group-title="Фильмовые",VIJU TV1000 HD
-https://vod.splay.uz/live_splay/original/TV1000/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Фильмовые",TvBoom-ViP HD
-https://kb.catcast.tv/content/49702/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VIJU TV1000 action
-http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VIP Comedy HD
-http://2.57.217.85:8000/play/a03d/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VIP Megahit HD
-http://2.57.217.85:8000/play/a03e/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",VIP Premiere HD
-http://2.57.217.85:8000/play/a03f/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Золотая коллекция HD
-http://95.66.188.74/MosfilmHD/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Иллюзион
-http://185.46.16.239:8000/Russkiy_Illyuzion
-#EXTINF:-1 group-title="Фильмовые",Иллюзион+
-http://185.46.16.239:8000/Illyuzion+
-#EXTINF:-1 group-title="Фильмовые",Кino Премьера HD
-http://157.90.0.245:8070/KINOPREMIERA/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Кино ТВ
-http://185.46.16.239:8000/Kino_TV
-#EXTINF:-1 group-title="Фильмовые",Киносерия
-http://95.66.188.74/Kinoseriya/mono.m3u8
-#EXTINF:-1 group-title="Фильмовые",Киносерия HD
-http://2.57.217.85:8000/play/a08k/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Кинохит HD
-https://vod.splay.uz/live_splay/original/Kinoxit/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Фильмовые",Любимое кино  HD
-http://84.54.128.52:9090/play/a002/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Мир Сериала HD
-http://84.54.128.52:9090/play/a003/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Мужское кино HD
-http://95.66.188.74/MuzhskoeKinoHD/mono.m3u8
-#EXTINF:-1 group-title="Фильмовые",РОДНОЕ КИНО
-http://84.54.128.52:9090/play/a009/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",ТВ21
-http://2.57.217.85:8000/play/a097/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Киноман
-http://146.120.14.239:3001/play/a0fv
-#EXTINF:-1 group-title="Фильмовые",Кинопоказ
-http://95.66.188.74/Kinopokaz/mono.m3u8
 
 
 
