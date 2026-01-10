@@ -10,27 +10,27 @@ http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятый Канал
 http://95.66.188.74/5kanal/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Россия Культура
-http://185.46.16.239:8000/Rossiya_K
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 group-title="Федеральные",РОССИЯ 24 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Карусель
-http://178.163.4.37:4022/udp/234.0.0.203:2000
-#EXTINF:-1 group-title="Федеральные",ОТР
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_OTR/variant.m3u8?version=3#parser
-#EXTINF:-1 group-title="Федеральные",ТВЦ
-http://178.163.3.208:4022/udp/234.0.0.192:2000
+http://93.170.254.17/Karusel/index.m3u8
+#EXTINF:-1 group-title="Федеральные",ОТР HD
+http://93.170.254.17/OTR/index.m3u8
+#EXTINF:-1 group-title="Федеральные",ТВЦ HD
+http://93.170.254.17/TVCentr/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Рен ТВ
-http://185.46.16.239:8000/REN_TV
+http://95.47.156.60:8000/play/11/index.m3u8
 #EXTINF:-1 group-title="Федеральные",СПАС
 http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Федеральные",СТС HD
 http://95.66.188.74/CTC_HD/mono.m3u8
-#EXTINF:-1 group-title="Федеральные",Домашний
-http://5.188.221.43:8080/play/domashniy
+#EXTINF:-1 group-title="Федеральные",Домашний HD
+http://93.170.254.17/Domashniy/index.m3u8
 #EXTINF:-1 group-title="Федеральные",ТВ3
-http://185.46.16.239:8000/TV3
+http://85.192.10.131/hls/tv3/playlist.m3u8
 #EXTINF:-1 group-title="Федеральные",Пятница
-http://5.188.221.43:8080/play/Pyatnica
+http://93.170.254.17/Pyatnica/index.m3u8
 #EXTINF:-1 group-title="Федеральные",Звезда HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Федеральные",Мир HD
