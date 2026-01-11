@@ -60,8 +60,6 @@ http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
 #EXTINF:-1 group-title="Информационные",Москва. Доверие
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
-#EXTINF:-1 group-title="Информационные",ТеоТВ HD
-https://stream.teotv.ru/live/site360/playlist.m3u8
 #EXTINF:-1 group-title="Информационные",Легендарный 24 HD
 https://sevas.1tvcrimea.ru/legendarniy24.m3u8
 #EXTINF:-1 group-title="Информационные",Теледом HD
@@ -140,8 +138,6 @@ http://176.118.197.125/Draiv/index.m3u8
 http://185.57.68.33/40/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Загородный Int. HD
 https://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
-#EXTINF:-1 group-title="Познавательные",Загородный International
-https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=qCm0UmKswEHKFTF7y1FmPQ&e=2067815806&scheme=https
 #EXTINF:-1 group-title="Познавательные",Звезда Плюс HD
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Познавательные",Здоровое ТВ HD
@@ -160,23 +156,19 @@ http://95.66.188.74/MoyaPlanetaHD/mono.m3u8
 http://tv.streams.baikal-telecom.net:8080/NanoTV/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Наука 2.0
 http://hls127.freeott.top:8080/NAUKA/mono.m3u8
-#EXTINF:-1 group-title="Познавательные",Наша Тема
-http://213.230.65.254:8000/play/a013
 #EXTINF:-1 group-title="Познавательные",Неизвестная россия HD
 http://cdn2.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Ника ТВ HD
 https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",Ностальгия HD
 http://95.66.188.74/Nostalgia/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Океан HD
-http://86.57.209.210/Ocean/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Оружие
 http://95.66.188.74/Oruzhie/mono.m3u8
-#EXTINF:-1 group-title="Познавательные",Охотник и рыболов
+#EXTINF:-1 group-title="Познавательные",Охотник и рыболов HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Oh_Rbl
 #EXTINF:-1 group-title="Познавательные",Первый автомобильный HD
 http://195.9.195.3:8080/hls/206355.m3u8
-#EXTINF:-1 group-title="Познавательные",Первый космический 
+#EXTINF:-1 group-title="Познавательные",Первый космический HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Eureka
 #EXTINF:-1 group-title="Познавательные",Победа
 http://95.66.188.74/Pobeda/mono.m3u8
@@ -184,17 +176,15 @@ http://95.66.188.74/Pobeda/mono.m3u8
 http://95.66.188.74/Poehali/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Продвижение HD
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Радость Моя HD
-https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Познавательные",Светлое ТВ
 http://176.107.219.20:9000/play/a009/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Совершенно секретно
 http://hls127.freeott.top:8080/Sovershenno_Sekretno/mono.m3u8
-#EXTINF:-1 group-title="Познавательные",Тайна
+#EXTINF:-1 group-title="Познавательные",Тайна HD
 https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=GmFSizHee8DpOJI6J0bwMA&e=2067815807&scheme=https
 #EXTINF:-1 group-title="Познавательные",Телекафе HD
 http://176.118.197.101/Telekafe/index.m3u8
-#EXTINF:-1 group-title="Познавательные",Точка.РФ
+#EXTINF:-1 group-title="Познавательные",Точка.РФ HD
 http://95.66.188.74/HD_Life/mono.m3u8
 #EXTINF:-1 group-title="Познавательные",Усадьба HD
 http://93.170.254.17/Usadba/index.m3u8
@@ -208,8 +198,6 @@ http://95.66.188.74/Che/mono.m3u8
 http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные",Alpha Funny HD
 http://195.9.195.3:8080/hls/206963.m3u8
-#EXTINF:-1 group-title="Развлекательные",Gags Network
-http://hls127.freeott.top:8080/Gagsnetwork/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные",DTR Zona 1 HD
 https://kino-stream.online/hls/DTRZONA1.m3u8
 #EXTINF:-1 group-title="Развлекательные",Mr.Bean Cartoon
@@ -220,8 +208,6 @@ http://95.66.188.74/THT4/mono.m3u8
 http://tvoetv.space:8080/tvoetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные",Твоё ТВ Юмор HD
 http://tvoetv.space:8080/tvoetv_humor/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Развлекательные",TikTok
-http://162.212.179.43/ushba61/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные",TV1 KG HD (Кыргызстан) HD
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",Залипательные ролики 1 HD
@@ -241,13 +227,13 @@ https://fl1001.bozztv.com/ushba20/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="../Channel/Logo/Первый музыкальный HD.png" tvg-id="simpleTVFakeEpgId",Первый музыкальный HD
 http://hz1.teleport.cc/HLS/HD.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-id="simpleTVFakeEpgId",70-80 TV
+#EXTINF:-1 group-title="Музыкальные" tvg-id="simpleTVFakeEpgId",70-80 TV HD
 https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="simpleTVFakeEpgId",Minimal / Deep Tech HD
 https://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="../Channel/Logo/RU TV.png" tvg-id="simpleTVFakeEpgId",RU TV HD
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="../Channel/Logo/Музыка первого.png" tvg-id="simpleTVFakeEpgId",Музыка 1
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="../Channel/Logo/Музыка первого.png" tvg-id="simpleTVFakeEpgId",Музыка 1 HD
 https://fl1001.bozztv.com/ushba-t1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="../Channel/Logo/Музыка первого.png" tvg-id="simpleTVFakeEpgId",Музыка 2 HD
 https://fl1001.bozztv.com/ushba-t2/tracks-v1a1/mono.m3u8
@@ -268,8 +254,6 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 https://d2hnivx8upksrk.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1q019khonuqjh/01efc271-2cc2-49ed-adfc-a8c5117f7d26/3.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="../Channel/Logo/Shot TV.png" tvg-id="simpleTVFakeEpgId",Hot Rock HD
 https://rpn.bozztv.com/gusa/gusa-hotrock/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-id="simpleTVFakeEpgId",88 Stereo HD
-http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="simpleTVFakeEpgId",A2i Music HD
 https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="simpleTVFakeEpgId",Afrobeats HD
@@ -278,10 +262,6 @@ https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="../Channel/Logo/MTV Dance_.png" tvg-id="simpleTVFakeEpgId",DANCE TV TECHNO HD
 https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-id="simpleTVFakeEpgId",Deep House District HD
-https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-id="simpleTVFakeEpgId",Fresh TV HD
-https://freshtv-live.ru/FreshTV/tracks-v1a1/index.m3u8?token=livestream
 #EXTINF:-1 group-title="Музыкальные" tvg-id="simpleTVFakeEpgId",Kiss Kiss Italia HD
 https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="simpleTVFakeEpgId",Kiss Kiss Napoli HD
@@ -292,12 +272,8 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 https://5c389faa13be3.streamlock.net:9553/onweb/live/chunklist_w2043948915.m3u8
 #EXTINF:-1 group-title="Музыкальные",O2TV HD
 http://77.232.131.211/O2TV/index.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="../Channel/Logo/Comedy Radio.png" tvg-id="simpleTVFakeEpgId",Radio Hit Fm HD
-http://5db313b643fd8.streamlock.net:1935/HITTV/HITTV/chunklist.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="simpleTVFakeEpgId",SOY Plancha TV HD
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные",Retro TV HD
-https://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w2024688549.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="simpleTVFakeEpgId",STZ Telebista HD
 https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="../Channel/Logo/Sony Turbo.png" tvg-id="simpleTVFakeEpgId",Urbano TV HD
@@ -306,8 +282,6 @@ https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="simpleTVFakeEpgId",V2BEAT TV HD
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-id="simpleTVFakeEpgId",Vibee TV HD
-https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="../Channel/Logo/BBC World News.png" tvg-id="simpleTVFakeEpgId",World HD
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="../Channel/Logo/1HD.png" tvg-id="simpleTVFakeEpgId",1HD
@@ -359,13 +333,10 @@ https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=jr
 
 #EXTINF:-1 group-title="Спортивные" tvg-id="simpleTVFakeEpgId",A21 Network HD
 http://tv.a21network.ru/stream/37909/index.m3u8
-#EXTINF:-1 group-title="Спортивные" tvg-logo="../Channel/Logo/Eurosport 1 HD.png" tvg-id="simpleTVFakeEpgId",Eurosport 1 HD
-http://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
+ttp://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-logo="../Channel/Logo/Eurosport 2 HD.png" tvg-id="simpleTVFakeEpgId",Eurosport 2 HD
 http://vod.splay.uz/live_splay/original/Eurosport2HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спортивные" tvg-id="simpleTVFakeEpgId",KHL HD
-http://86.57.209.210/KHL_HD/index.m3u8
-#EXTINF:-1 group-title="Спортивные" tvg-id="simpleTVFakeEpgId",KHL Prime
+#EXTINF:-1 group-title="Спортивные" tvg-id="simpleTVFakeEpgId",KHL Prime HD
 http://194.143.148.28:8080/KHL_HD/mpegts
 #EXTINF:-1 group-title="Спортивные" tvg-id="simpleTVFakeEpgId",MMA-TV.COM HD
 http://93.170.254.17/MMATV/index.m3u8
@@ -377,13 +348,13 @@ http://85.208.223.249:8888/play/a004
 http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-logo="../Channel/Logo/Trace sport stars HD.png" tvg-id="simpleTVFakeEpgId",Trace Sport Start [RU]
 http://87.120.142.11:18000/Rossiya1
-#EXTINF:-1 group-title="Спортивные" tvg-id="simpleTVFakeEpgId",VITAL DRIVE
+#EXTINF:-1 group-title="Спортивные" tvg-id="simpleTVFakeEpgId",VITAL DRIVE HD
 https://autopilot.catcast.tv/content/37909/index.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-logo="../Channel/Logo/Беларусь 5.png" tvg-id="simpleTVFakeEpgId",Беларусь 5 HD
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus5.smil/chunklist_b2660000_sleng.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-logo="../Channel/Logo/Бокс ТВ.png" tvg-id="simpleTVFakeEpgId",Бокс ТВ HD
 https://a3285272783-s80718.cdn.ngenix.net/hls/CH_BOKS_TVHD/video_1920x1080_avc1/playlist.m3u8?useseq=t
-#EXTINF:-1 group-title="Спортивные" tvg-logo="../Channel/Logo/9 Волна.png" tvg-id="simpleTVFakeEpgId",Волейбол
+#EXTINF:-1 group-title="Спортивные" tvg-logo="../Channel/Logo/9 Волна.png" tvg-id="simpleTVFakeEpgId",Волейбол HD
 https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=yLRKcLLgpyWK0Pr2YTVwLw&e=2067815840&scheme=https
 #EXTINF:-1 group-title="Спортивные" tvg-logo="../Channel/Logo/Конный мир.png" tvg-id="simpleTVFakeEpgId",Конный Мир HD
 https://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
@@ -401,9 +372,8 @@ http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_
 http://194.143.148.28:8080/MatchArena/mpegts
 #EXTINF:-1 group-title="Спортивные" tvg-logo="../Channel/Logo/Матч! Боец.png" tvg-id="simpleTVFakeEpgId",Матч! Боец
 http://95.66.188.74/MatchBoec/mono.m3u8
-#EXTINF:-1 group-title="Спортивные" tvg-logo="../Channel/Logo/Матч! Страна.png" tvg-id="simpleTVFakeEpgId",Матч! Страна
 http://178.212.71.253:8000/play/51/index.m3u8
-#EXTINF:-1 group-title="Спортивные" tvg-logo="../Channel/Logo/Моторспорт ТВ.png" tvg-id="simpleTVFakeEpgId",Спортивный 
+#EXTINF:-1 group-title="Спортивные" tvg-logo="../Channel/Logo/Моторспорт ТВ.png" tvg-id="simpleTVFakeEpgId",Спортивный HD
 http://live-3.otcnet.ru/sportivny/index.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-logo="../Channel/Logo/Старт.png" tvg-id="simpleTVFakeEpgId",Старт Баскет HD
 https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?
@@ -424,7 +394,7 @@ http://stv.mediacdn.ru/live/cdn/mult/tracks-v1a1/mono.ts.m3u8
 http://stv.mediacdn.ru/live/cdn/multimuzika/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="../Channel/Logo/Мультимания.png" tvg-id="simpleTVFakeEpgId",МультСезон
 http://hls.peers.tv/streaming/cartoon_season/16/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjEwMzI3ODAsImlhdCI6MTc2MDk0NjM4MCwiY2lkIjo2LCJ1aWQiOjk1NjIxNzI2OSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.xutc13Ciyuh1LU-WPb4uWtycBQ26HN-S1PUwTQ9A8X0&offset=3
-#EXTINF:-1 group-title="Детские" tvg-logo="../Channel/Logo/Смайлик.png" tvg-id="simpleTVFakeEpgId",Смайлик ТВ
+#EXTINF:-1 group-title="Детские" tvg-logo="../Channel/Logo/Смайлик.png" tvg-id="simpleTVFakeEpgId",Смайлик ТВ HD
 https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="../Channel/Logo/Супер.png" tvg-id="simpleTVFakeEpgId",СуперГерои
 http://185.46.16.239:8000/National_Geographic_HD
@@ -448,9 +418,7 @@ http://195.9.195.3:8080/hls/199417.m3u8
 http://176.118.197.125/Gulli-Girl/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="../Channel/Logo/Jim Jam.png" tvg-id="simpleTVFakeEpgId",JimJam HD
 http://176.118.197.125/JimJam/index.m3u8
-#EXTINF:-1 group-title="Детские" tvg-id="simpleTVFakeEpgId",Rus Brony TV HD
-http://195.9.195.3:8080/hls/156945.m3u8
-#EXTINF:-1 group-title="Детские" tvg-logo="../Channel/Logo/Мама.png" tvg-id="simpleTVFakeEpgId",Мама
+EXTINF:-1 group-title="Детские" tvg-logo="../Channel/Logo/Мама.png" tvg-id="simpleTVFakeEpgId",Мама
 http://95.66.188.74/Mama/mono.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="../Channel/Logo/О!.png" tvg-id="simpleTVFakeEpgId",О!
 http://95.66.188.74:80/O/mono.m3u8
@@ -458,50 +426,48 @@ http://95.66.188.74:80/O/mono.m3u8
 http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="../Channel/Logo/СТС Kids.png" tvg-id="simpleTVFakeEpgId",СТС Kids
 http://hls127.freeott.top:8080/STS_Kids/mono.m3u8
-#EXTINF:-1 group-title="Детские" tvg-logo="../Channel/Logo/Суббота!.png" tvg-id="simpleTVFakeEpgId",Суббота
+#EXTINF:-1 group-title="Детские" tvg-logo="../Channel/Logo/Суббота!.png" tvg-id="simpleTVFakeEpgId",Суббота HD
 https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=fGF8IP-Az_cZHwwgk-of9w&e=2067815805&scheme=https
 
 #EXTINF:-1 group-title="Кинозалы",СТС Love
 http://tv.streams.baikal-telecom.net:8080/CTC_LOVE/index.m3u8
-#EXTINF:-1 group-title="Кинозалы",НТВ Сериал
+#EXTINF:-1 group-title="Кинозалы",НТВ Сериал HD
 https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Кинозалы",НТВ Хит
+#EXTINF:-1 group-title="Кинозалы",НТВ Хит HD
 http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы",НТВ Право
 https://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы",НТВ Стиль
+#EXTINF:-1 group-title="Кинозалы",НТВ Стиль HD
 https://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы",НТВ Следствие вели...
+#EXTINF:-1 group-title="Кинозалы",НТВ Следствие вели... HD
 https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 group-title="Кинозалы",НТВ Сериалы Пёс
+#EXTINF:-1 group-title="Кинозалы",НТВ Сериалы Пёс HD
 https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 group-title="Кинозалы",НТВ Сериалы Скорая помощь
+#EXTINF:-1 group-title="Кинозалы",НТВ Сериалы Скорая помощь HD
 https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 group-title="Кинозалы",НТВ Сериалы Первый отдел
+#EXTINF:-1 group-title="Кинозалы",НТВ Сериалы Первый отдел HD
 https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 group-title="Кинозалы",НТВ Сериалы Шеф
+#EXTINF:-1 group-title="Кинозалы",НТВ Сериалы Шеф HD
 https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 group-title="Кинозалы",НТВ Сериалы Невский
+#EXTINF:-1 group-title="Кинозалы",НТВ Сериалы Невский HD
 https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 group-title="Кинозалы",НТВ Сериалы Балабол
+#EXTINF:-1 group-title="Кинозалы",НТВ Сериалы Балабол HD
 https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 group-title="Кинозалы",НТВ Сериалы Пять минут тишины
+#EXTINF:-1 group-title="Кинозалы",НТВ Сериалы Пять минут тишины HD
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 group-title="Кинозалы",НТВ конкурс Ты супер !
+#EXTINF:-1 group-title="Кинозалы",НТВ конкурс Ты супер ! HD
 https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 group-title="Кинозалы",Смотрим
+#EXTINF:-1 group-title="Кинозалы",Смотрим HD
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы",Документалка 1
+#EXTINF:-1 group-title="Кинозалы",Документалка 1 HD
 https://fl1001.bozztv.com/ushba28/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы",Документалка 2 Вне закона
+#EXTINF:-1 group-title="Кинозалы",Документалка 2 Вне закона HD
 http://162.212.179.43/ushba29/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы",LAV-KINO
+#EXTINF:-1 group-title="Кинозалы",LAV-KINO HD
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы",Кинозалы 3
-https://fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы",Кинозалы 4
-https://fl1001.bozztv.com/ushba26/tracks-v1a1/mono.m3u8
+https://fl1001.bozztv.com/ushba26/tracks-v1a1/mono.m3u8 HD
 
 #EXTINF:-1 group-title="Фильмовые",.Black HD
 http://176.118.197.125/Black/index.m3u8
