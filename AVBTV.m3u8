@@ -600,12 +600,8 @@ https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=Gm
 http://195.9.195.3:8080/hls/218251.m3u8
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Совершенно Секретно" tvg-logo="" group-title="РАЗНОЕ",Совершенно Секретно
-http://62.89.220.15/streams/media/sovershenno-sekretno_720x576/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Совершенно секретно" tvg-logo="" group-title="РАЗНОЕ",Совершенно секретно
-http://stream-msk-03.ott.tricolor.tv/dtv/id698_MSKSG-PVR-1--Top_secret/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc1NTY1OTEzOSwiaHdpZCI6Ijk4OTk3MjA1ZDc4YzlmYmVjZTMxYzc4OGIyOTEyZTQyN2JhOWI4MjdmZjhlMzdiZTc5OTA3Y2U2Y2M5ZmRjODUiLCJsYXN0X3JlcV9kYXRlIjoxNzU1MDU0MzM5LCJzZXNzaW9uX2lkIjoiZGRmYjhhYWVkYjBhNTExZWRjNmUyOWFhNDg5YjhjMjEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.r14kaMYb8ifse9mw4_QmxRYpodM3IErad5-lLq4OWdw
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Совершенно секретно" tvg-logo="" group-title="РАЗНОЕ",Совершенно секретно
-http://hls127.freeott.top:8080/Sovershenno_Sekretno/mono.m3u8
+
+
 
 
 
