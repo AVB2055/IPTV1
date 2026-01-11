@@ -464,10 +464,7 @@ https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
 https://fl1001.bozztv.com/ushba28/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы",Документалка 2 Вне закона HD
 http://162.212.179.43/ushba29/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы",LAV-KINO HD
-https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы",Кинозалы 4
-https://fl1001.bozztv.com/ushba26/tracks-v1a1/mono.m3u8 HD
+
 
 #EXTINF:-1 group-title="Фильмовые",.Black 
 http://176.118.197.125/Black/index.m3u8
@@ -505,6 +502,8 @@ http://195.9.195.3:8080/hls/210275.m3u8
 http://195.9.195.3:8080/hls/187741.m3u8
 #EXTINF:-1 group-title="Фильмовые",Start Air HD
 https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
+#EXTINF:-1 group-title="Фильмовые",LAV-KINO HD
+https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV1000 HD" tvg-logo="" group-title="Фильмовые",viju TV1000 HD
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=uvExutPkbf3-bl5Tz8feIA&e=1768216059&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="viju TV1000 action" tvg-logo="" group-title="Фильмовые",viju TV1000 HD action 
@@ -561,6 +560,8 @@ http://176.118.197.101/Komediya/index.m3u8
 https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=19TY0JRfXJzPhrZLaUHGGg&e=2067815807&scheme=https
 #EXTINF:-1 group-title="Фильмовые",Кошмар 
 http://195.9.195.3:8080/hls/204709.m3u8
+#EXTINF:-1 group-title="Фильмовые",Кинозалы 4
+https://fl1001.bozztv.com/ushba26/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Фильмовые",Мосфильм. Золотая коллекция HD
 http://5.8.11.96:8099/mosfilmhd/index.m3u8
 #EXTINF:-1 group-title="Фильмовые",Мужское кино HD
