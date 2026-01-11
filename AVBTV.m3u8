@@ -459,6 +459,7 @@ https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
 https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="Кинозалы",Смотрим HD
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+#EXTINF:-1 group-title="Кинозалы",Доктор Достоевский
 https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы",Документалка 1 HD
 https://fl1001.bozztv.com/ushba28/tracks-v1a1/mono.m3u8
@@ -609,6 +610,7 @@ http://195.9.195.3:8080/hls/163253.m3u8
 http://195.9.195.3:8080/manifest/157269_master.m3u8
 #EXTINF:-1 group-title="Фильмовые",Фильмы 24/7 HD
 http://195.9.195.3:8080/hls/218251.m3u8
+
 
 
 
