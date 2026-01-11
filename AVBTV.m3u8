@@ -155,12 +155,8 @@ https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 http://95.66.188.74/Nostalgia/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Оружие.png" tvg-id="simpleTVFakeEpgId",Оружие
 http://95.66.188.74/Oruzhie/mono.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Охотник и рыболов HD.png" tvg-id="simpleTVFakeEpgId",Охотник и рыболов HD
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Oh_Rbl
 #EXTINF:-1 group-title="Познавательные" tvg-id="simpleTVFakeEpgId",Первый автомобильный HD
 http://195.9.195.3:8080/hls/206355.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Первый канал HD2.png" tvg-id="simpleTVFakeEpgId",Первый космический HD
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Eureka
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Победа HD.png" tvg-id="simpleTVFakeEpgId",Победа
 http://95.66.188.74/Pobeda/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Поехали!.png" tvg-id="simpleTVFakeEpgId",Поехали!
@@ -253,8 +249,6 @@ https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
 https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="simpleTVFakeEpgId",Kronehit HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-id="simpleTVFakeEpgId",NRJ Hits TV HD
-https://5c389faa13be3.streamlock.net:9553/onweb/live/chunklist_w2043948915.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="simpleTVFakeEpgId",O2TV HD
 http://77.232.131.211/O2TV/index.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="simpleTVFakeEpgId",SOY Plancha TV HD
@@ -287,8 +281,6 @@ https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
 http://tv1.intv.mk:1935/live/intv/index.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="simpleTVFakeEpgId",Kpop Play TV HD
 https://fl1001.bozztv.com/ushba-m4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-id="simpleTVFakeEpgId",Melodic Tech HD
-https://mbit1.worldcast.tv/dancetelevisionnine/stream_0.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="simpleTVFakeEpgId",Phoenix TV HD
 https://karapuztv.catcast.tv/content/33418/index.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="simpleTVFakeEpgId",Radio Ibiza TV HD
@@ -545,8 +537,6 @@ https://fl1001.bozztv.com/ushba26/tracks-v1a1/mono.m3u8
 http://5.8.11.96:8099/mosfilmhd/index.m3u8
 #EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/Мужское кино.png" tvg-id="simpleTVFakeEpgId",Мужское кино HD
 http://95.66.188.74/MuzhskoeKinoHD/mono.m3u8
-#EXTINF:-1 group-title="Фильмовые" tvg-id="simpleTVFakeEpgId",Millenniym UHD
-http://195.9.195.3:8080/hls/206461.m3u8
 #EXTINF:-1 group-title="Фильмовые" tvg-id="simpleTVFakeEpgId",Moviee Toper HD
 http://195.9.195.3:8080/hls/214749.m3u8
 #EXTINF:-1 group-title="Фильмовые" tvg-logo="../Channel/Logo/НСТ.png" tvg-id="simpleTVFakeEpgId",НСТ
