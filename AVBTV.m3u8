@@ -600,11 +600,6 @@ https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=Gm
 http://195.9.195.3:8080/hls/218251.m3u8
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Тео ТВ" tvg-logo="" group-title="РАЗВЛЕЧЕНИЕ",Тео ТВ
-https://stream.teotv.ru/live/site360/playlist.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Тео-ТВ" tvg-logo="" group-title="РАЗВЛЕЧЕНИЕ",Тео-ТВ
-https://stream.teotv.ru/live/site360/playlist.m3u8
 
 
 
