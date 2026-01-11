@@ -180,8 +180,6 @@ http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 http://176.107.219.20:9000/play/a009/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Совершенно секретно
 http://hls127.freeott.top:8080/Sovershenno_Sekretno/mono.m3u8
-#EXTINF:-1 group-title="Познавательные",Тайна HD
-https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=GmFSizHee8DpOJI6J0bwMA&e=2067815807&scheme=https
 #EXTINF:-1 group-title="Познавательные",Телекафе HD
 http://176.118.197.101/Telekafe/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Точка.РФ HD
@@ -470,14 +468,12 @@ https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы",Кинозалы 4
 https://fl1001.bozztv.com/ushba26/tracks-v1a1/mono.m3u8 HD
 
-#EXTINF:-1 group-title="Фильмовые",.Black HD
+#EXTINF:-1 group-title="Фильмовые",.Black 
 http://176.118.197.125/Black/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",.SCI-FI HD
+#EXTINF:-1 group-title="Фильмовые",.SCI-FI 
 http://176.118.197.125/SCI-FI/index.m3u8
 #EXTINF:-1 group-title="Фильмовые",1FILMAX
 http://195.9.195.3:8080/hls/204708.m3u8
-#EXTINF:-1 group-title="Фильмовые",Amedia 2 HD
-http://158.160.149.81:8080/462/index.m3u8
 #EXTINF:-1 group-title="Фильмовые",Akudji HD
 http://195.9.195.3:8080/hls/5346.m3u8
 #EXTINF:-1 group-title="Фильмовые",alpha Cinema HD
@@ -508,15 +504,11 @@ http://195.9.195.3:8080/hls/210275.m3u8
 http://195.9.195.3:8080/hls/187741.m3u8
 #EXTINF:-1 group-title="Фильмовые",Start Air HD
 https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
-#EXTINF:-1 group-title="Фильмовые",TV1000 HD
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&amp;md5=uvExutPkbf3-bl5Tz8feIA&amp;e=1768216059&amp;hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="Фильмовые",VIJU TV1000 HD
 https://vod.splay.uz/live_splay/original/TV1000/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Фильмовые",VIJU TV1000 Action HD
-https://flussonic.salomtv.uz/vijuTV1000action/video.m3u8
 #EXTINF:-1 group-title="Фильмовые",viju TV1000 romantica HD
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=Ned7ek8tbGcQkuE1EvW30w&e=1768216028&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 group-title="Фильмовые",VIP Comedy HD
+#EXTINF:-1 group-title="Фильмовые",VIP Comedy 
 http://89.232.68.194:8080/ComedyHD/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Фильмовые",VHS кино HD
 http://195.9.195.3:8080/hls/218531.m3u8
@@ -530,16 +522,12 @@ http://95.66.188.74/DomKinoPremiumHD/mono.m3u8
 http://176.118.197.101/Evrokino/index.m3u8
 #EXTINF:-1 group-title="Фильмовые",Индийское кино HD
 http://188.113.190.12/329/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Иллюзион+ HD
+#EXTINF:-1 group-title="Фильмовые",Иллюзион+ 
 http://176.118.197.101/Illuzion+/index.m3u8
 #EXTINF:-1 group-title="Фильмовые",Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Kino24 HD
-http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
-#EXTINF:-1 group-title="Фильмовые",Киномикс HD
+#EXTINF:-1 group-title="Фильмовые",Киномикс 
 http://93.170.254.17/Kinomiks/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Кинеко
-http://194.143.148.28:8080/KINEKO/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Фильмовые",КИНОСЕМЬЯ HD
 https://vod.splay.uz/live_splay/original/Kinosemya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Фильмовые",Кino Премьера HD
@@ -554,64 +542,99 @@ http://176.118.197.101/Kinoseria/index.m3u8
 https://vod.splay.uz/live_splay/original/Kinoxit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Фильмовые",Кинопоказ HD
 http://hls127.freeott.top:8080/Kinopokaz_HD/mono.m3u8
-#EXTINF:-1 group-title="Фильмовые",Кинеко HD
+#EXTINF:-1 group-title="Фильмовые",Кинеко
 http://tv.streams.baikal-telecom.net:8080/KINEKO/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Кино и Жизнь
+#EXTINF:-1 group-title="Фильмовые",Кино и Жизнь HD
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=cN1dKvjJ3x7Celu28kgs2Q&e=2067815831&scheme=https
 #EXTINF:-1 group-title="Фильмовые",КиноФраншизы 24/7 HD
 http://195.9.195.3:8080/hls/218193.m3u8
-#EXTINF:-1 group-title="Фильмовые",Киножелезо
+#EXTINF:-1 group-title="Фильмовые",Киножелезо HD
 https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=ef6_lx1jeE7fA4D_mGr-tQ&e=2067815807&scheme=https
-#EXTINF:-1 group-title="Фильмовые",Кинокомедия HD
+#EXTINF:-1 group-title="Фильмовые",Кинокомедия 
 http://176.118.197.101/Kinokomediya/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Комедия HD
+#EXTINF:-1 group-title="Фильмовые",Комедия 
 http://176.118.197.101/Komediya/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Кинолаффка
+#EXTINF:-1 group-title="Фильмовые",Кинолаффка HD
 https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=19TY0JRfXJzPhrZLaUHGGg&e=2067815807&scheme=https
 #EXTINF:-1 group-title="Фильмовые",Кошмар 
 http://195.9.195.3:8080/hls/204709.m3u8
 #EXTINF:-1 group-title="Фильмовые",Мосфильм. Золотая коллекция HD
 http://5.8.11.96:8099/mosfilmhd/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Мир Сериала HD
-http://176.118.197.101/MirSeriala/index.m3u8
 #EXTINF:-1 group-title="Фильмовые",Мужское кино HD
 http://95.66.188.74/MuzhskoeKinoHD/mono.m3u8
 #EXTINF:-1 group-title="Фильмовые",Millenniym UHD
 http://195.9.195.3:8080/hls/206461.m3u8
 #EXTINF:-1 group-title="Фильмовые",Moviee Toper HD
 http://195.9.195.3:8080/hls/214749.m3u8
-#EXTINF:-1 group-title="Фильмовые",НСТ HD
+#EXTINF:-1 group-title="Фильмовые",НСТ 
 http://176.118.197.101/HCT/index.m3u8
 #EXTINF:-1 group-title="Фильмовые",Наше новое кино
 http://95.66.188.74/NasheNovoeKino/mono.m3u8
-#EXTINF:-1 group-title="Фильмовые",PRO100 ТВ HD
+#EXTINF:-1 group-title="Фильмовые",PRO100 ТВ 
 http://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
-#EXTINF:-1 group-title="Фильмовые",Патриот HD
+#EXTINF:-1 group-title="Фильмовые",Патриот 
 http://catchup.videoline.ru/asvtv/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Про любовь HD
-http://hls127.freeott.top:8080/ProLubovHD/mono.m3u8
 #EXTINF:-1 group-title="Фильмовые",Русский Иллюзион
 http://185.46.16.239:8000/Russkiy_Illyuzion
 #EXTINF:-1 group-title="Фильмовые",Русский детектив
 http://95.66.188.74/Russkiy_Detektiv/mono.m3u8
 #EXTINF:-1 group-title="Фильмовые",Русский роман
 http://95.66.188.74/RusRoman/mono.m3u8
-#EXTINF:-1 group-title="Фильмовые",Родное кино HD
+#EXTINF:-1 group-title="Фильмовые",Родное кино 
 http://176.118.197.101/RodnoeKino/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Ретро HD
+#EXTINF:-1 group-title="Фильмовые",Ретро 
 http://176.118.197.101/Retro/index.m3u8
 #EXTINF:-1 group-title="Фильмовые",MyTV HD
 http://hls127.freeott.top:8080/MyTV/mono.m3u8
-#EXTINF:-1 group-title="Фильмовые",Retrovision Movies HD
-https://fl1001.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Фильмовые",Selecao TV HD
 http://195.9.195.3:8080/hls/163253.m3u8
 #EXTINF:-1 group-title="Фильмовые",Selecao TV2 HD
 http://195.9.195.3:8080/manifest/157269_master.m3u8
+#EXTINF:-1 group-title="Фильмовые",Тайна HD
+https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=GmFSizHee8DpOJI6J0bwMA&e=2067815807&scheme=https
 #EXTINF:-1 group-title="Фильмовые",Фильмы 24/7 HD
 http://195.9.195.3:8080/hls/218251.m3u8
 
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KHL" tvg-logo="" group-title="СПОРТ",KHL
+http://95.66.188.74/KHL/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KHL HD" tvg-logo="" group-title="СПОРТ",KHL HD
+http://193.25.8.59:8000/khl
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KHL" tvg-logo="" group-title="РАЗНОЕ",KHL
+http://176.118.197.101/KHL/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KHL HD" tvg-logo="" group-title="РАЗНОЕ",KHL HD
+http://86.57.209.210/KHL_HD/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KHL Prime" tvg-logo="" group-title="СПОРТ",KHL Prime
+http://tv.streams.baikal-telecom.net:8080/KHL_HD/mpegts
+#EXTINF:-1 tvg-id="kxl-hd" tvg-name="Prime" tvg-logo="" group-title="СПОРТ",KHL Prime
+http://194.143.148.28:8080/KHL_HD/mpegts
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Матч! Страна" tvg-logo="" group-title="СПОРТ",Матч! Страна
+http://178.212.71.253:8000/play/51/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="МАТЧ! Страна" tvg-logo="" group-title="СПОРТ",МАТЧ! Страна
+http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529583&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="МАТЧ! Страна HD" tvg-logo="" group-title="СПОРТ",МАТЧ! Страна HD
+http://31.148.48.15/Match_Strana/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV1000 HD" tvg-logo="" group-title="РАЗНОЕ",TV1000 HD
+https://livetv.mylifeisgood.net.ru/channels/viju-tv1000.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV1000 HD" tvg-logo="" group-title="РАЗНОЕ",TV1000 HD
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=uvExutPkbf3-bl5Tz8feIA&e=1768216059&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV1000 action" tvg-logo="" group-title="РАЗНОЕ",TV1000 action
+http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV1000 Action" tvg-logo="" group-title="РАЗНОЕ",TV1000 Action
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=g3a_GVQQWGx7BJjQCKghfA&e=1768216084&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV1000 Action HD" tvg-logo="" group-title="РАЗНОЕ",TV1000 Action HD
+https://livetv.mylifeisgood.net.ru/channels/viju-tv1000action.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="viju TV1000 action" tvg-logo="" group-title="КИНО",viju TV1000 action
+http://188.225.31.197/bpk-tv/000003910/tve/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="viju TV1000 action HD" tvg-logo="" group-title="КИНО",viju TV1000 action HD
+https://flussonic.salomtv.uz/vijuTV1000action/video.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="viju TV1000" tvg-logo="" group-title="КИНО",viju TV1000
+http://178.134.1.158:8081/tv1000/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="viju TV1000" tvg-logo="" group-title="КИНО",viju TV1000
+http://188.225.31.197/bpk-tv/000003747/tve/index.m3u8
 
 
 
