@@ -331,12 +331,11 @@ https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=jr
 
 #EXTINF:-1 group-title="Спортивные" tvg-id="simpleTVFakeEpgId",A21 Network HD
 http://tv.a21network.ru/stream/37909/index.m3u8
-ttp://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-logo="../Channel/Logo/Eurosport 2 HD.png" tvg-id="simpleTVFakeEpgId",Eurosport 2 HD
 http://vod.splay.uz/live_splay/original/Eurosport2HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KHL" tvg-logo="" group-title="РАЗНОЕ",KH
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KHL" tvg-logo="" group-title="Спортивные",KHL
 http://176.118.197.101/KHL/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KHL Prime" tvg-logo="" group-title="СПОРТ",KHL Prime HD 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KHL Prime" tvg-logo="" group-title="Спортивные",KHL Prime HD 
 http://tv.streams.baikal-telecom.net:8080/KHL_HD/mpegts
 #EXTINF:-1 group-title="Спортивные" tvg-id="simpleTVFakeEpgId",MMA-TV.COM HD
 http://93.170.254.17/MMATV/index.m3u8
@@ -610,8 +609,7 @@ http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=g3a_GVQQWGx7BJjQCKghfA&e=1768216084&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="viju TV1000 action" tvg-logo="" group-title="КИНО",viju TV1000 action =====
 http://188.225.31.197/bpk-tv/000003910/tve/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="viju TV1000 action HD" tvg-logo="" group-title="КИНО",viju TV1000 action HD----
-https://flussonic.salomtv.uz/vijuTV1000action/video.m3u8
+
 
 
 
