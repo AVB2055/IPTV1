@@ -334,8 +334,10 @@ http://tv.a21network.ru/stream/37909/index.m3u8
 ttp://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-logo="../Channel/Logo/Eurosport 2 HD.png" tvg-id="simpleTVFakeEpgId",Eurosport 2 HD
 http://vod.splay.uz/live_splay/original/Eurosport2HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спортивные" tvg-id="simpleTVFakeEpgId",KHL Prime HD
-http://194.143.148.28:8080/KHL_HD/mpegts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KHL" tvg-logo="" group-title="РАЗНОЕ",KH
+http://176.118.197.101/KHL/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KHL Prime" tvg-logo="" group-title="СПОРТ",KHL Prime HD 
+http://tv.streams.baikal-telecom.net:8080/KHL_HD/mpegts
 #EXTINF:-1 group-title="Спортивные" tvg-id="simpleTVFakeEpgId",MMA-TV.COM HD
 http://93.170.254.17/MMATV/index.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-id="simpleTVFakeEpgId",Red Bull HD
@@ -596,45 +598,22 @@ https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=Gm
 http://195.9.195.3:8080/hls/218251.m3u8
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KHL" tvg-logo="" group-title="СПОРТ",KHL
-http://95.66.188.74/KHL/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KHL HD" tvg-logo="" group-title="СПОРТ",KHL HD
-http://193.25.8.59:8000/khl
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KHL" tvg-logo="" group-title="РАЗНОЕ",KHL
-http://176.118.197.101/KHL/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KHL HD" tvg-logo="" group-title="РАЗНОЕ",KHL HD
-http://86.57.209.210/KHL_HD/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KHL Prime" tvg-logo="" group-title="СПОРТ",KHL Prime
-http://tv.streams.baikal-telecom.net:8080/KHL_HD/mpegts
-#EXTINF:-1 tvg-id="kxl-hd" tvg-name="Prime" tvg-logo="" group-title="СПОРТ",KHL Prime
-http://194.143.148.28:8080/KHL_HD/mpegts
 
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Матч! Страна" tvg-logo="" group-title="СПОРТ",Матч! Страна
-http://178.212.71.253:8000/play/51/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="МАТЧ! Страна" tvg-logo="" group-title="СПОРТ",МАТЧ! Страна
-http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529583&extension=ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="МАТЧ! Страна HD" tvg-logo="" group-title="СПОРТ",МАТЧ! Страна HD
-http://31.148.48.15/Match_Strana/index.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV1000 HD" tvg-logo="" group-title="РАЗНОЕ",TV1000 HD
-https://livetv.mylifeisgood.net.ru/channels/viju-tv1000.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV1000 HD" tvg-logo="" group-title="РАЗНОЕ",TV1000 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV1000 HD" tvg-logo="" group-title="КИНО",viju TV1000 HD=======
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=uvExutPkbf3-bl5Tz8feIA&e=1768216059&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV1000 action" tvg-logo="" group-title="РАЗНОЕ",TV1000 action
-http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV1000 Action" tvg-logo="" group-title="РАЗНОЕ",TV1000 Action
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=g3a_GVQQWGx7BJjQCKghfA&e=1768216084&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV1000 Action HD" tvg-logo="" group-title="РАЗНОЕ",TV1000 Action HD
-https://livetv.mylifeisgood.net.ru/channels/viju-tv1000action.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="viju TV1000 action" tvg-logo="" group-title="КИНО",viju TV1000 action
-http://188.225.31.197/bpk-tv/000003910/tve/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="viju TV1000 action HD" tvg-logo="" group-title="КИНО",viju TV1000 action HD
-https://flussonic.salomtv.uz/vijuTV1000action/video.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="viju TV1000" tvg-logo="" group-title="КИНО",viju TV1000
 http://178.134.1.158:8081/tv1000/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="viju TV1000" tvg-logo="" group-title="КИНО",viju TV1000
-http://188.225.31.197/bpk-tv/000003747/tve/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV1000 action" tvg-logo="" group-title="КИНО",TV1000 action ===========
+http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV1000 Action" tvg-logo="" group-title="КИНО",viju TV1000 Action HD ======
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=g3a_GVQQWGx7BJjQCKghfA&e=1768216084&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="viju TV1000 action" tvg-logo="" group-title="КИНО",viju TV1000 action =====
+http://188.225.31.197/bpk-tv/000003910/tve/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="viju TV1000 action HD" tvg-logo="" group-title="КИНО",viju TV1000 action HD----
+https://flussonic.salomtv.uz/vijuTV1000action/video.m3u8
+
+
 
 
 
