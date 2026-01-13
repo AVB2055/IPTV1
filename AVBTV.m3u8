@@ -275,6 +275,9 @@ https://bl.rutube.ru/livestream/0e9e44725d5d5ab7ee92c10b40215419/index.m3u8?s=PK
 #EXTINF:0,ТНТ4 HD
 #EXTGRP:Развлекательные
 http://95.66.188.74/THT4/mono.m3u8
+#EXTINF:0,DTR Zona 1
+#EXTGRP:Развлекательные
+https://kino-stream.online/hls/DTRZONA1.m3u8
 #EXTINF:0,Твоё ТВ HD
 #EXTGRP:Развлекательные
 http://tvoetv.space:8080/tvoetv/tracks-v1a1/mono.m3u8
@@ -815,3 +818,4 @@ https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=Gm
 #EXTINF:0,Фильмы 24/7 HD
 #EXTGRP:Фильмовые
 http://195.9.195.3:8080/hls/218251.m3u8
+
