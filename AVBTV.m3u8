@@ -293,6 +293,9 @@ https://fl1001.bozztv.com/ushba60/tracks-v1a1/mono.m3u8
 #EXTINF:0,Залипательные ролики 2 HD
 #EXTGRP:Развлекательные
 https://30a-tv.com/feeds/720p/63.m3u8
+#EXTINF:0,Залипательные ролики MNAU TV
+#EXTGRP:Развлекательные
+https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
 #EXTINF:0,КВН ТВ
 #EXTGRP:Развлекательные
 http://93.170.254.17/KVN/index.m3u8
@@ -818,4 +821,5 @@ https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=Gm
 #EXTINF:0,Фильмы 24/7 HD
 #EXTGRP:Фильмовые
 http://195.9.195.3:8080/hls/218251.m3u8
+
 
