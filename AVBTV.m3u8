@@ -311,9 +311,6 @@ https://fl1001.bozztv.com/ushba11/tracks-v1a1/mono.m3u8
 #EXTINF:0,Приколы 2 HD
 #EXTGRP:Развлекательные
 https://fl1001.bozztv.com/ushba20/tracks-v1a1/mono.m3u8
-#EXTINF:0,Первый музыкальный HD
-#EXTGRP:Музыкальные
-http://hz1.teleport.cc/HLS/SD.m3u8
 #EXTINF:0,70-80 TV HD
 #EXTGRP:Музыкальные
 https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
@@ -341,9 +338,6 @@ http://hls-video01.cdnvideo.ru/video01/hDvideo01-0O.sdp/playlist.m3u8
 #EXTINF:0,MIXM TB HD
 #EXTGRP:Музыкальные
 http://89.179.247.144/hls/mixm.m3u8
-#EXTINF:0,Spirit TV HD
-#EXTGRP:Музыкальные
-https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 #EXTINF:0,Deluxe Dance HD
 #EXTGRP:Музыкальные
 https://d2hnivx8upksrk.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1q019khonuqjh/01efc271-2cc2-49ed-adfc-a8c5117f7d26/3.m3u8
@@ -356,15 +350,9 @@ https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 #EXTINF:0,Dance TV HD
 #EXTGRP:Музыкальные
 https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
-#EXTINF:0,DANCE TV TECHNO HD
-#EXTGRP:Музыкальные
-https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
 #EXTINF:0,Kiss Kiss Italia HD
 #EXTGRP:Музыкальные
 https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
-#EXTINF:0,Kiss Kiss Napoli HD
-#EXTGRP:Музыкальные
-https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
 #EXTINF:0,Kronehit HD
 #EXTGRP:Музыкальные
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
@@ -383,48 +371,24 @@ https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 #EXTINF:0,V2BEAT TV HD
 #EXTGRP:Музыкальные
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
-#EXTINF:0,World HD
-#EXTGRP:Музыкальные
-http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
-#EXTINF:0,1HD
-#EXTGRP:Музыкальные
-http://176.118.197.101/1HD/index.m3u8
 #EXTINF:0,1HD Music
 #EXTGRP:Музыкальные
 http://91.247.68.229:8000/play/eee/index.m3u8
 #EXTINF:0,30A MUSIC TV HD
 #EXTGRP:Музыкальные
 https://30a-tv.com/feeds/720p/6.m3u8
-#EXTINF:0,Activa TV HD
-#EXTGRP:Музыкальные
-https://bl.rutube.ru/livestream/8e9da41366fcb497aaeade579f0d715f/index.m3u8?s=3HOUn6CYJHyZ4k9QF00qoQ&e=2067815832&scheme=https
 #EXTINF:0,COMPANY TV HD
 #EXTGRP:Музыкальные
 https://5929b138b139d.streamlock.net/CompanyTV/livestream/playlist.m3u8
-#EXTINF:0,EDM Mainstage HD
-#EXTGRP:Музыкальные
-https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
 #EXTINF:0,Kpop Play TV HD
 #EXTGRP:Музыкальные
 https://fl1001.bozztv.com/ushba-m4/tracks-v1a1/mono.m3u8
 #EXTINF:0,Radio Ibiza TV HD
 #EXTGRP:Музыкальные
 https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/chunklist_w1014685428.m3u8
-#EXTINF:0,Radio Love FM HD
-#EXTGRP:Музыкальные
-https://56b50ada2d659.streamlock.net/LoveFM/livestream/playlist.m3u8
-#EXTINF:0,RADIO STUDIO ONE VISUAL TV HD
-#EXTGRP:Музыкальные
-https://cp1.server89.com:19360/radiostudioonelive/radiostudioonelive.m3u8
 #EXTINF:0,Record Супердискотека 90х HD
 #EXTGRP:Музыкальные
 https://bl.rutube.ru/livestream/351f0e84a7db69a73658bbf61debcf62/index.m3u8?s=Qg65AaI0A35ky4YWb9isww&e=2067815836&scheme=https
-#EXTINF:0,Retro Music HD
-#EXTGRP:Музыкальные
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:0,Techno Warehouse HD
-#EXTGRP:Музыкальные
-https://m2b2.worldcast.tv:7443/dancetelevisionfour/2/dancetelevisionfour.m3u8
 #EXTINF:0,TMF RUS HD
 #EXTGRP:Музыкальные
 http://195.9.195.3:8080/hls/201891.m3u8
@@ -473,9 +437,6 @@ http://87.120.142.11:18000/Rossiya1
 #EXTINF:0,VITAL DRIVE HD
 #EXTGRP:Спортивные
 https://autopilot.catcast.tv/content/37909/index.m3u8
-#EXTINF:0,Беларусь 5 HD
-#EXTGRP:Спортивные
-https://edge50.dc.beltelecom.by/ngtrk/smil:belarus5.smil/chunklist_b2660000_sleng.m3u8
 #EXTINF:0,Бокс ТВ HD
 #EXTGRP:Спортивные
 https://a3285272783-s80718.cdn.ngenix.net/hls/CH_BOKS_TVHD/video_1920x1080_avc1/playlist.m3u8?useseq=t
@@ -533,9 +494,6 @@ http://stv.mediacdn.ru/live/cdn/mult/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,Мульт и музыка
 #EXTGRP:Детские
 http://stv.mediacdn.ru/live/cdn/multimuzika/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0,МультСезон
-#EXTGRP:Детские
-http://hls.peers.tv/streaming/cartoon_season/16/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjEwMzI3ODAsImlhdCI6MTc2MDk0NjM4MCwiY2lkIjo2LCJ1aWQiOjk1NjIxNzI2OSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.xutc13Ciyuh1LU-WPb4uWtycBQ26HN-S1PUwTQ9A8X0&offset=3
 #EXTINF:0,Смайлик ТВ HD
 #EXTGRP:Детские
 https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
@@ -551,9 +509,6 @@ http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:0,Ani HD
 #EXTGRP:Детские
 http://176.118.197.125/Ani/index.m3u8
-#EXTINF:0,Duck TV HD
-#EXTGRP:Детские
-http://hls.peers.tv/streaming/ducktv/16/copy_a/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjEwMzI3ODAsImlhdCI6MTc2MDk0NjM4MCwiY2lkIjo2LCJ1aWQiOjk1NjIxNzI2OSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.xutc13Ciyuh1LU-WPb4uWtycBQ26HN-S1PUwTQ9A8X0&offset=3
 #EXTINF:0,Cartoon Classics HD
 #EXTGRP:Детские
 http://95.66.188.74/Cartoon_Classics/index.m3u8
@@ -626,7 +581,23 @@ https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:0,НТВ конкурс Ты супер ! HD
 #EXTGRP:Кинозалы
 https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:0,Смотрим HD
+#EXTINF:0,Смотрим Честный Детектив HD
+#EXTINF:0,Смотрим (Кино и сериалы)
+#EXTGRP:Кинозалы
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:0,Смотрим 100% Детское
+#EXTGRP:Кинозалы
+http://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab089
+#EXTINF:0,Смотрим 100% Любовь
+#EXTGRP:Кинозалы
+http://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248
+#EXTINF:0,Смотрим 100% Мужское
+#EXTGRP:Кинозалы
+http://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d.m3u8
+#EXTINF:0,Смотрим Кино и сериалы
+#EXTGRP:Кинозалы
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:0,Смотрим Честный Детектив HD
 #EXTGRP:Кинозалы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 #EXTINF:0,Доктор Достоевский
@@ -827,6 +798,7 @@ https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=Gm
 #EXTINF:0,Фильмы 24/7 HD
 #EXTGRP:Фильмовые
 http://195.9.195.3:8080/hls/218251.m3u8
+
 
 
 
