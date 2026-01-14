@@ -245,6 +245,9 @@ http://95.66.188.74/Poehali/mono.m3u8
 #EXTINF:0,Продвижение HD
 #EXTGRP:Познавательные
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
+#EXTINF:0,Тайна HD
+#EXTGRP:Познавательные
+https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=GmFSizHee8DpOJI6J0bwMA&e=2067815807&scheme=https
 #EXTINF:0,Светлое ТВ
 #EXTGRP:Познавательные
 http://176.107.219.20:9000/play/a009/index.m3u8
@@ -650,6 +653,9 @@ http://195.9.195.3:8080/hls/210470.m3u8
 #EXTINF:0,Fantastic Mistyc 1 HD
 #EXTGRP:Фильмовые
 http://195.9.195.3:8080/hls/187741.m3u8
+#EXTINF:0,Kino Non Stop HD
+#EXTGRP:Фильмовые
+http://195.9.195.3:8080/hls/218251.m3u8
 #EXTINF:0,Start Air HD
 #EXTGRP:Фильмовые
 https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
@@ -782,15 +788,11 @@ http://195.9.195.3:8080/hls/163253.m3u8
 #EXTINF:0,Selecao TV2 HD
 #EXTGRP:Фильмовые
 http://195.9.195.3:8080/manifest/157269_master.m3u8
-#EXTINF:0,Тайна HD
-#EXTGRP:Фильмовые
-https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=GmFSizHee8DpOJI6J0bwMA&e=2067815807&scheme=https
-#EXTINF:0,Фильмы 24/7 HD
-#EXTGRP:Фильмовые
-http://195.9.195.3:8080/hls/218251.m3u8
+
 ##EXTINF:0,BCU Kinorating HD
 ##EXTGRP:Неработалющие
 #http://hls127.freeott.top:8080/BCUKinoratingHD/mono.m3u8
+
 
 
 
