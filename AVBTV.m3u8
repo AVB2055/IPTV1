@@ -581,25 +581,18 @@ https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:0,НТВ конкурс Ты супер ! HD
 #EXTGRP:Кинозалы
 https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:0,Смотрим Честный Детектив HD
-#EXTINF:0,Смотрим (Кино и сериалы)
-#EXTGRP:Кинозалы
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
-#EXTINF:0,Смотрим 100% Детское
-#EXTGRP:Кинозалы
-http://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab089
-#EXTINF:0,Смотрим 100% Любовь
-#EXTGRP:Кинозалы
-http://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248
-#EXTINF:0,Смотрим 100% Мужское
-#EXTGRP:Кинозалы
-http://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d.m3u8
 #EXTINF:0,Смотрим Кино и сериалы
 #EXTGRP:Кинозалы
-http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
-#EXTINF:0,Смотрим Честный Детектив HD
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:0,Смотрим Детское
 #EXTGRP:Кинозалы
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+http://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab089
+#EXTINF:0,Смотрим Любовь
+#EXTGRP:Кинозалы
+http://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248
+#EXTINF:0,Смотрим Мужское
+#EXTGRP:Кинозалы
+http://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d.m3u8
 #EXTINF:0,Доктор Достоевский
 #EXTGRP:Кинозалы
 https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
@@ -798,6 +791,7 @@ https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=Gm
 #EXTINF:0,Фильмы 24/7 HD
 #EXTGRP:Фильмовые
 http://195.9.195.3:8080/hls/218251.m3u8
+
 
 
 
