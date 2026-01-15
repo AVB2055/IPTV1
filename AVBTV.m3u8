@@ -473,9 +473,6 @@ http://hls127.freeott.top:8080/Football/mono.m3u8
 #EXTINF:0,Детский телеканал Мультимания
 #EXTGRP:Детские
 http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
-#EXTINF:0,Детское кино International
-#EXTGRP:Детские
-http://autopilot.catcast.tv/content/38720/index.m3u8
 #EXTINF:0,Ералаш
 #EXTGRP:Детские
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
@@ -792,6 +789,7 @@ http://autopilot.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 ,Детское кино Int.
 #EXTGRP:Детские2
 https://v2.catcast.tv/content/38720/index.m3u8
+
 
 
 
