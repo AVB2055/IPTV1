@@ -13,7 +13,7 @@ https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:0,Пятый Канал
 #EXTGRP:Федеральные
-http://95.47.156.60:8000/play/5/index.m3u8
+http://89.232.68.194:8080/5kanal/tracks-v3a1/index.m3u8
 #EXTINF:0,Россия Культура HD
 #EXTGRP:Федеральные
 http://93.170.254.17/RossiyaK/index.m3u8
@@ -790,72 +790,7 @@ http://195.9.195.3:8080/hls/163253.m3u8
 http://195.9.195.3:8080/manifest/157269_master.m3u8
 
 
-#EXTINF:-1 ,Пятый канал SD- 1
-#EXTGRP:Тестирование
-http://193.25.8.59:8000/5 
-#EXTINF:-1 ,Пятый канал SD 2
-#EXTGRP:Тестирование
-http://89.232.68.194:8080/5kanal/tracks-v3a1/index.m3u8
-#EXTINF:-1 ,Пятый канал XXXX 3
-#EXTGRP:Тестирование
-http://95.66.188.74/5kanal/index.m3u8
-#EXTINF:-1 ,Пятый канал SD 4
-#EXTGRP:Тестирование
-http://31.131.141.195:8000/play/1050/index.m3u8
-#EXTINF:-1 ,Пятый канал XXXX 5 
-#EXTGRP:Тестирование
-http://95.66.188.74/5kanal/index.m3u8
-#EXTINF:-1 ,Пятый канал XXXX 6
-#EXTGRP:Тестирование
-http://31.131.141.195:8000/play/1050/index.m3u8 
-#EXTINF:-1 ,Пятый канал SD-- 7
-#EXTGRP:Тестирование
-http://89.232.68.194:8080/5kanal/tracks-v3a1/index.m3u8 
-#EXTINF:-1 ,Пятый канал SD 8
-#EXTGRP:Тестирование
-https://livetv.mylifeisgood.net.ru/channels/5tv.m3u8
-#EXTINF:-1 ,Пятый канал SD 9 
-#EXTGRP:Тестирование
-http://95.66.188.74:80/5kanal/mono.m3u8
-#EXTINF:-1 ,Пятый канал SD 10
-#EXTGRP:Тестирование
-http://85.192.10.131/hls/5kanal/playlist.m3u8
-#EXTINF:-1 ,Пятый канал SD 11
-#EXTGRP:Тестирование
-http://193.25.8.59:8000/5
-#EXTINF:-1 ,Пятый канал SD  12
-#EXTGRP:Тестирование
-http://95.66.188.74/5kanal/index.m3u8
-#EXTINF:-1 ,Пятый канал SD
-#EXTGRP:Тестирование
-http://31.131.141.195:8000/play/1050/index.m3u8
-#EXTINF:-1 ,Пятый канал XXXX 13
-#EXTGRP:Тестирование
-http://31.131.141.195:8000/play/1050/index.m3u8
-#EXTINF:-1 ,Пятый канал XXXX 14
-#EXTGRP:Тестирование
-http://93.170.254.17/5Channel/index.m3u8
-#EXTINF:-1 ,Пятый канал SD- 15
-#EXTGRP:Тестирование
-https://livetv.mylifeisgood.net.ru/channels/5tv.m3u8
-#EXTINF:-1 ,Пятый канал SD 16
-#EXTGRP:Тестирование
-http://93.170.254.17/5Channel/index.m3u8
-#EXTINF:-1 ,Пятый канал SD 17 
-#EXTGRP:Тестирование
-https://livetv.mylifeisgood.net.ru/channels/5tv.m3u8
-#EXTINF:-1 ,Пятый канал SD- 18
-#EXTGRP:Тестирование
-http://193.25.8.59:8000/5
-#EXTINF:-1 ,Пятый канал SD 19
-#EXTGRP:Тестирование
-http://89.232.68.194:8080/5kanal/tracks-v3a1/index.m3u8
-#EXTINF:-1 ,Пятый канал XXXX 20 
-#EXTGRP:Тестирование
-http://93.170.254.17/5Channel/index.m3u8
-#EXTINF:-1 ,Пятый канал SD 21
-#EXTGRP:Тестирование
-http://95.47.156.60:8000/play/5/index.m3u8
+
 
 
 
