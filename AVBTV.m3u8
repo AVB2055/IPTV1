@@ -777,6 +777,39 @@ http://195.9.195.3:8080/hls/163253.m3u8
 #EXTGRP:Фильмовые
 http://195.9.195.3:8080/manifest/157269_master.m3u8
 
+#EXTINF:0,Че 1
+EXTGRP:unsorted
+http://178.212.71.253:8002/play/a00s/index.m3u8?token=test
+#EXTINF:0,Че 2
+EXTGRP:unsorted
+http://193.25.8.59:8000/perec
+#EXTINF:-1 ,Че 3
+EXTGRP:unsorted
+http://178.212.71.253:8000/play/139/index.m3u8
+#EXTINF:-1 ,Че 4
+EXTGRP:unsorted
+http://95.66.188.74/Che/mono.m3u8
+#EXTINF:-1 ,Че 5
+EXTGRP:unsorted
+http://176.118.197.101/Che/index.m3u8
+#EXTINF:-1 ,Че 6
+EXTGRP:unsorted
+http://195.26.83.96:7009/play/89/index.m3u8
+#EXTINF:-1 ,Че 7
+EXTGRP:unsorted
+http://5.188.221.43:8080/play/che
+#EXTINF:-1 ,Че! 8
+http://95.66.188.74/Che/index.m3u8
+#EXTINF:-1 ,Че! 9
+EXTGRP:unsorted
+http://178.212.71.253:8002/play/a00s/index.m3u8
+#EXTINF:-1 ,Че! 10
+EXTGRP:unsorted
+http://95.66.188.74:80/Che/mono.m3u8
+#EXTINF:-1 ,Че! 11 
+EXTGRP:unsorted
+http://mfe01.cliptv.az/dash/Ce_SDdfhj4678h.ism/playlist.mpd
+
 
 
 
