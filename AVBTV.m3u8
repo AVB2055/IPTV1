@@ -796,7 +796,7 @@ http://176.118.197.101/Che/index.m3u8
 #EXTGRP:unsorted
 http://195.26.83.96:7009/play/89/index.m3u8
 #EXTINF:-1 ,Че 7
-#EXTGRP:unsorted
+#EXTGRP:Развлекательные
 http://5.188.221.43:8080/play/che
 #EXTINF:-1 ,Че! 8
 #EXTGRP:unsorted
@@ -810,6 +810,7 @@ http://95.66.188.74:80/Che/mono.m3u8
 #EXTINF:-1 ,Че! 11 
 #EXTGRP:unsorted
 http://mfe01.cliptv.az/dash/Ce_SDdfhj4678h.ism/playlist.mpd
+
 
 
 
