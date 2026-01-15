@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:0,Первый канал HD
+#EXTGRP:Федеральные
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:0,Россия 1 HD
 #EXTGRP:Федеральные
@@ -788,8 +789,75 @@ http://195.9.195.3:8080/hls/163253.m3u8
 #EXTGRP:Фильмовые
 http://195.9.195.3:8080/manifest/157269_master.m3u8
 
-#EXTINF:0,
+
+#EXTINF:-1 ,Пятый канал
 #EXTGRP:Тестирование
+http://193.25.8.59:8000/5
+#EXTINF:-1 ,Пятый канал
+#EXTGRP:Тестирование
+http://89.232.68.194:8080/5kanal/tracks-v3a1/index.m3u8
+#EXTINF:-1 ,Пятый канал
+#EXTGRP:Тестирование
+http://95.66.188.74/5kanal/index.m3u8
+#EXTINF:-1 ,Пятый канал
+#EXTGRP:Тестирование
+http://31.131.141.195:8000/play/1050/index.m3u8
+#EXTINF:-1 ,Пятый канал
+#EXTGRP:Тестирование
+http://95.66.188.74/5kanal/index.m3u8
+#EXTINF:-1 ,Пятый канал
+#EXTGRP:Тестирование
+http://31.131.141.195:8000/play/1050/index.m3u8
+#EXTINF:-1 ,Пятый канал
+#EXTGRP:Тестирование
+http://89.232.68.194:8080/5kanal/tracks-v3a1/index.m3u8
+#EXTINF:-1 ,Пятый канал
+#EXTGRP:Тестирование
+https://livetv.mylifeisgood.net.ru/channels/5tv.m3u8
+#EXTINF:-1 ,Пятый канал
+#EXTGRP:Тестирование
+http://95.66.188.74:80/5kanal/mono.m3u8
+#EXTINF:-1 ,Пятый канал
+#EXTGRP:Тестирование
+http://85.192.10.131/hls/5kanal/playlist.m3u8
+#EXTINF:-1 ,Пятый канал
+#EXTGRP:Тестирование
+http://193.25.8.59:8000/5
+#EXTINF:-1 ,Пятый канал
+#EXTGRP:Тестирование
+http://95.66.188.74/5kanal/index.m3u8
+#EXTINF:-1 ,Пятый канал
+#EXTGRP:Тестирование
+http://31.131.141.195:8000/play/1050/index.m3u8
+#EXTINF:-1 ,Пятый канал
+#EXTGRP:Тестирование
+http://31.131.141.195:8000/play/1050/index.m3u8
+#EXTINF:-1 ,Пятый канал
+#EXTGRP:Тестирование
+http://93.170.254.17/5Channel/index.m3u8
+#EXTINF:-1 ,Пятый канал
+#EXTGRP:Тестирование
+https://livetv.mylifeisgood.net.ru/channels/5tv.m3u8
+#EXTINF:-1 ,Пятый канал
+#EXTGRP:Тестирование
+http://93.170.254.17/5Channel/index.m3u8
+#EXTINF:-1 ,Пятый канал
+#EXTGRP:Тестирование
+https://livetv.mylifeisgood.net.ru/channels/5tv.m3u8
+#EXTINF:-1 ,Пятый канал
+#EXTGRP:Тестирование
+http://193.25.8.59:8000/5
+#EXTGRP:Тестирование
+#EXTINF:-1 ,Пятый канал
+#EXTGRP:Тестирование
+http://89.232.68.194:8080/5kanal/tracks-v3a1/index.m3u8
+#EXTINF:-1 ,Пятый канал
+#EXTGRP:Тестирование
+http://93.170.254.17/5Channel/index.m3u8
+#EXTINF:-1 ,Пятый канал
+#EXTGRP:Тестирование
+http://95.47.156.60:8000/play/5/index.m3u8
+
 
 
 
