@@ -35,9 +35,9 @@ http://95.47.156.60:8000/play/11/index.m3u8
 #EXTINF:0,СПАС
 #EXTGRP:Федеральные
 http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0,СТС HD
+#EXTINF:0,СТС
 #EXTGRP:Федеральные
-http://95.66.188.74/CTC_HD/mono.m3u8
+http://89.232.68.194:8080/sts/tracks-v3a1/index.m3u8
 #EXTINF:0,Домашний HD
 #EXTGRP:Федеральные
 http://93.170.254.17/Domashniy/index.m3u8
@@ -53,9 +53,9 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:0,Мир HD
 #EXTGRP:Федеральные
 https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
-#EXTINF:0,ТНТ HD
+#EXTINF:0,ТНТ 
 #EXTGRP:Федеральные
-http://95.66.188.74/TNT_HD/mono.m3u8
+http://89.232.68.194:8080/tnt/tracks-v3a1/index.m3u8
 #EXTINF:0,Муз ТВ
 #EXTGRP:Федеральные
 https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
@@ -788,6 +788,7 @@ http://195.9.195.3:8080/hls/163253.m3u8
 #EXTINF:0,Selecao TV2 HD
 #EXTGRP:Фильмовые
 http://195.9.195.3:8080/manifest/157269_master.m3u8
+
 
 
 
