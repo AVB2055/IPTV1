@@ -155,9 +155,6 @@ http://194.143.148.28:8080/RTG_HD/mpegts
 #EXTINF:0,TLC HD
 #EXTGRP:Познавательные
 http://176.118.197.125/TLC-HD/index.m3u8
-#EXTINF:0,Travel Guide TV
-#EXTGRP:Познавательные
-http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
 #EXTINF:0,Travel+Adventure HD
 #EXTGRP:Познавательные
 http://77.232.131.211/TravelAdventureHD/index.m3u8
@@ -202,7 +199,7 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
 http://178.212.71.253:8000/play/94/index.m3u8
 #EXTINF:0,Зоо ТВ
 #EXTGRP:Познавательные
-http://95.66.188.74/Zoo_TV/mono.m3u8
+http://193.25.8.59:8000/zoo
 #EXTINF:0,История
 #EXTGRP:Познавательные
 http://213.230.65.254:8000/play/a01w
@@ -250,7 +247,7 @@ http://hls127.freeott.top:8080/Sovershenno_Sekretno/mono.m3u8
 http://176.118.197.101/Telekafe/index.m3u8
 #EXTINF:0,Точка.РФ HD
 #EXTGRP:Познавательные
-http://95.66.188.74/HD_Life/mono.m3u8
+http://45.145.32.13:20440/hdl/index.m3u8?token=test
 #EXTINF:0,Усадьба HD
 #EXTGRP:Познавательные
 http://93.170.254.17/Usadba/index.m3u8
@@ -259,7 +256,7 @@ http://93.170.254.17/Usadba/index.m3u8
 http://176.118.197.101/2x2/index.m3u8
 #EXTINF:0,Че
 #EXTGRP:Развлекательные
-http://95.66.188.74/Che/mono.m3u8
+http://195.26.83.96:7009/play/89/index.m3u8
 #EXTINF:0,Ю HD
 #EXTGRP:Развлекательные
 http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
@@ -271,7 +268,7 @@ http://195.9.195.3:8080/hls/206963.m3u8
 https://bl.rutube.ru/livestream/0e9e44725d5d5ab7ee92c10b40215419/index.m3u8?s=PKlr1KsTF2d2tE-J0_gjZw&e=2067815808&scheme=https
 #EXTINF:0,ТНТ4 HD
 #EXTGRP:Развлекательные
-http://95.66.188.74/THT4/mono.m3u8
+https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=uwhizdZPB-2J2x80Ov49_A&e=2067815802&scheme=https
 #EXTINF:0,DTR Zona 1
 #EXTGRP:Развлекательные
 https://kino-stream.online/hls/DTRZONA1.m3u8
@@ -779,6 +776,7 @@ http://195.9.195.3:8080/hls/163253.m3u8
 #EXTINF:0,Selecao TV2 HD
 #EXTGRP:Фильмовые
 http://195.9.195.3:8080/manifest/157269_master.m3u8
+
 
 
 
