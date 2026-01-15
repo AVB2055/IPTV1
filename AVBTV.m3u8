@@ -257,6 +257,9 @@ http://176.118.197.101/2x2/index.m3u8
 #EXTINF:0,Че
 #EXTGRP:Развлекательные
 http://5.188.221.43:8080/play/che
+#EXTINF:-1 ,Че!
+#EXTGRP:Развлекательные
+http://5.188.221.43:8080/play/che
 #EXTINF:0,Ю HD
 #EXTGRP:Развлекательные
 http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
@@ -778,9 +781,8 @@ http://195.9.195.3:8080/hls/163253.m3u8
 http://195.9.195.3:8080/manifest/157269_master.m3u8
 
 
-#EXTINF:-1 ,Че!
-#EXTGRP:Развлекательные
-http://5.188.221.43:8080/play/che
+
+
 
 
 
