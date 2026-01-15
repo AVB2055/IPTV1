@@ -256,7 +256,7 @@ http://93.170.254.17/Usadba/index.m3u8
 http://176.118.197.101/2x2/index.m3u8
 #EXTINF:0,Че
 #EXTGRP:Развлекательные
-http://195.26.83.96:7009/play/89/index.m3u8
+http://176.118.197.101/Che/index.m3u8
 #EXTINF:0,Ю HD
 #EXTGRP:Развлекательные
 http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
@@ -786,7 +786,7 @@ http://193.25.8.59:8000/perec
 #EXTINF:-1 ,Че 3
 #EXTGRP:unsorted
 http://178.212.71.253:8000/play/139/index.m3u8
-#EXTINF:-1 ,Че 4
+#EXTINF:-1 ,Че 4 не работает
 #EXTGRP:unsorted
 http://95.66.188.74/Che/mono.m3u8
 #EXTINF:-1 ,Че 5
@@ -810,6 +810,7 @@ http://95.66.188.74:80/Che/mono.m3u8
 #EXTINF:-1 ,Че! 11 
 #EXTGRP:unsorted
 http://mfe01.cliptv.az/dash/Ce_SDdfhj4678h.ism/playlist.mpd
+
 
 
 
