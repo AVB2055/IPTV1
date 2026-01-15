@@ -254,7 +254,7 @@ http://93.170.254.17/Usadba/index.m3u8
 #EXTINF:0,2x2
 #EXTGRP:Развлекательные
 http://176.118.197.101/2x2/index.m3u8
-#EXTINF:0,Че
+#EXTINF:-1 ,Че
 #EXTGRP:Развлекательные
 http://5.188.221.43:8080/play/che
 #EXTINF:0,Ю HD
@@ -810,6 +810,7 @@ http://95.66.188.74:80/Che/mono.m3u8
 #EXTINF:-1 ,Че! 11 
 #EXTGRP:unsorted
 http://mfe01.cliptv.az/dash/Ce_SDdfhj4678h.ism/playlist.mpd
+
 
 
 
