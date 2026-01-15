@@ -635,9 +635,6 @@ http://hls127.freeott.top:8080/Clarity4K_Concert/mono.m3u8
 #EXTINF:0,Cinema
 #EXTGRP:Фильмовые
 http://176.118.197.101/Cinema/index.m3u8
-#EXTINF:0,Dimpon HD
-#EXTGRP:Фильмовые
-http://195.9.195.3:8080/hls/210470.m3u8
 #EXTINF:0,Fantastic Mistyc 1 HD
 #EXTGRP:Фильмовые
 http://195.9.195.3:8080/hls/187741.m3u8
@@ -776,6 +773,25 @@ http://195.9.195.3:8080/hls/163253.m3u8
 #EXTINF:0,Selecao TV2 HD
 #EXTGRP:Фильмовые
 http://195.9.195.3:8080/manifest/157269_master.m3u8
+#EXTINF:0,Бокс ТВ HD
+#EXTGRP:Спортивные2
+https://a3285272783-s80718.cdn.ngenix.net/hls/CH_BOKS_TVHD/video_1920x1080_avc1/playlist.m3u8?useseq=t
+#EXTINF:-1 ,Бокс ТВ
+#EXTGRP:Спортивные2
+http://31.148.48.15/Boks_TV/tracks-v1a1/mono.m3u8?token=default
+#EXTINF:-1 ,Бокс ТВ
+#EXTGRP:Спортивные2
+http://185.46.16.239:8000/Eurosport_1
+#EXTINF:-1 ,Бокс ТВ
+#EXTGRP:Спортивные2
+http://31.148.48.15:80/Boks_TV/index.m3u8
+
+#EXTINF:0,Детское кино International
+#EXTGRP:Детские2
+http://autopilot.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1 ,Детское кино Int.
+#EXTGRP:Детские2
+https://v2.catcast.tv/content/38720/index.m3u8
 
 
 
