@@ -430,7 +430,7 @@ http://87.120.142.11:18000/Rossiya1
 https://autopilot.catcast.tv/content/37909/index.m3u8
 #EXTINF:0,Бокс ТВ HD
 #EXTGRP:Спортивные
-https://a3285272783-s80718.cdn.ngenix.net/hls/CH_BOKS_TVHD/video_1920x1080_avc1/playlist.m3u8?useseq=t
+http://185.46.16.239:8000/Eurosport_1
 #EXTINF:0,Волейбол HD
 #EXTGRP:Спортивные
 https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=yLRKcLLgpyWK0Pr2YTVwLw&e=2067815840&scheme=https
@@ -770,18 +770,8 @@ http://195.9.195.3:8080/hls/163253.m3u8
 #EXTINF:0,Selecao TV2 HD
 #EXTGRP:Фильмовые
 http://195.9.195.3:8080/manifest/157269_master.m3u8
-#EXTINF:0,Бокс ТВ HD 1
-#EXTGRP:Спортивные2
-https://a3285272783-s80718.cdn.ngenix.net/hls/CH_BOKS_TVHD/video_1920x1080_avc1/playlist.m3u8?useseq=t
-#EXTINF:-1 ,Бокс ТВ 2
-#EXTGRP:Спортивные2 
-http://31.148.48.15/Boks_TV/tracks-v1a1/mono.m3u8?token=default
-#EXTINF:-1 ,Бокс ТВ 3
-#EXTGRP:Спортивные2 
-http://185.46.16.239:8000/Eurosport_1
-#EXTINF:-1 ,Бокс ТВ 4
-#EXTGRP:Спортивные2
-http://31.148.48.15:80/Boks_TV/index.m3u8
+
+
 
 
 
