@@ -151,7 +151,7 @@ http://176.118.197.125/Galaxy/index.m3u8
 http://194.143.148.28:8080/NanoTV/tracks-v1a1/mono.m3u8
 #EXTINF:0,RTG HD
 #EXTGRP:Познавательные
-http://95.66.188.74/RTGHD/index.m3u8
+http://194.143.148.28:8080/RTG_HD/mpegts
 #EXTINF:0,TLC HD
 #EXTGRP:Познавательные
 http://176.118.197.125/TLC-HD/index.m3u8
@@ -169,7 +169,7 @@ http://89.232.68.194:8080/HISTORY/tracks-v1a1/index.m3u8
 http://95.47.156.60:8000/play/a011/index.m3u8
 #EXTINF:0,Арсенал HD
 #EXTGRP:Познавательные
-http://95.66.188.74/Arsenal_HD/mono.m3u8
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Arsenal_HD
 #EXTINF:0,Бобёр HD
 #EXTGRP:Познавательные
 http://176.118.197.125/Bober/index.m3u8
@@ -197,24 +197,21 @@ https://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
 #EXTINF:0,Звезда Плюс HD
 #EXTGRP:Познавательные
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0,Здоровое ТВ HD
+#EXTINF:0,Здоровое ТВ 
 #EXTGRP:Познавательные
-http://95.66.188.74/ZdorovoeTV/index.m3u8
+http://178.212.71.253:8000/play/94/index.m3u8
 #EXTINF:0,Зоо ТВ
 #EXTGRP:Познавательные
 http://95.66.188.74/Zoo_TV/mono.m3u8
 #EXTINF:0,История
 #EXTGRP:Познавательные
-http://95.66.188.74/Istoria/mono.m3u8
+http://213.230.65.254:8000/play/a01w
 #EXTINF:0,Китай ТВ HD
 #EXTGRP:Познавательные
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
-#EXTINF:0,Кухня ТВ
-#EXTGRP:Познавательные
-http://95.66.188.74/Kuhnya/mono.m3u8
 #EXTINF:0,Моя планета HD
 #EXTGRP:Познавательные
-http://95.66.188.74/MoyaPlanetaHD/mono.m3u8
+http://194.143.148.28:8080/Nauka20/mpegts
 #EXTINF:0,Нано ТВ HD
 #EXTGRP:Познавательные
 http://tv.streams.baikal-telecom.net:8080/NanoTV/index.m3u8
@@ -229,19 +226,13 @@ http://cdn2.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
 https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 #EXTINF:0,Ностальгия HD
 #EXTGRP:Познавательные
-http://95.66.188.74/Nostalgia/index.m3u8
-#EXTINF:0,Оружие
-#EXTGRP:Познавательные
-http://95.66.188.74/Oruzhie/mono.m3u8
+http://31.148.48.15:80/Nostalgiya/index.m3u8?token=rostik_tv
 #EXTINF:0,Первый автомобильный HD
 #EXTGRP:Познавательные
 http://195.9.195.3:8080/hls/206355.m3u8
-#EXTINF:0,Победа
-#EXTGRP:Познавательные
-http://95.66.188.74/Pobeda/mono.m3u8
 #EXTINF:0,Поехали!
 #EXTGRP:Познавательные
-http://95.66.188.74/Poehali/mono.m3u8
+http://193.25.8.59:8000/360
 #EXTINF:0,Продвижение HD
 #EXTGRP:Познавательные
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
@@ -788,6 +779,7 @@ http://195.9.195.3:8080/hls/163253.m3u8
 #EXTINF:0,Selecao TV2 HD
 #EXTGRP:Фильмовые
 http://195.9.195.3:8080/manifest/157269_master.m3u8
+
 
 
 
