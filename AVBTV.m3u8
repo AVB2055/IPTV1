@@ -14,21 +14,21 @@ http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:0,Пятый Канал
 #EXTGRP:Федеральные
 http://89.232.68.194:8080/5kanal/tracks-v3a1/index.m3u8
-#EXTINF:0,Россия Культура
+#EXTINF:0,Россия К
 #EXTGRP:Федеральные
-http://178.163.3.80:4022/udp/234.0.0.202:2000
+http://89.232.68.194:8080/rossiyak/tracks-v3a1/index.m3u8
 #EXTINF:0,Россия 24 HD
 #EXTGRP:Федеральные
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
-#EXTINF:0,Карусель
+#EXTINF:0,Карусель HD
 #EXTGRP:Федеральные
-http://178.163.4.37:4022/udp/234.0.0.203:2000
+http://176.118.197.125/Karusel/index.m3u8
 #EXTINF:0,ОТР HD
 #EXTGRP:Федеральные
 http://31.131.141.195:8000/play/1090/index.m3u8
 #EXTINF:0,ТВЦ HD
 #EXTGRP:Федеральные
-http://178.163.3.208:4022/udp/234.0.0.192:2000
+http://31.131.141.195:8000/play/1100/index.m3u8
 #EXTINF:0,Рен ТВ
 #EXTGRP:Федеральные
 http://95.47.156.60:8000/play/11/index.m3u8
@@ -46,14 +46,14 @@ http://95.47.156.60:8000/play/14/index.m3u8
 http://85.192.10.131/hls/tv3/playlist.m3u8
 #EXTINF:0,Пятница
 #EXTGRP:Федеральные
-http://178.163.12.210:4022/udp/234.0.0.235:2000
+http://89.232.68.194:8080/pyatnitsa/tracks-v3a1/index.m3u8
 #EXTINF:0,Звезда HD
 #EXTGRP:Федеральные
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:0,Мир HD
 #EXTGRP:Федеральные
 https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
-#EXTINF:0,ТНТ 
+#EXTINF:0,ТНТ
 #EXTGRP:Федеральные
 http://89.232.68.194:8080/tnt/tracks-v3a1/index.m3u8
 #EXTINF:0,Муз ТВ
@@ -95,9 +95,6 @@ https://sevas.1tvcrimea.ru/legendarniy24.m3u8
 #EXTINF:0,Теледом HD
 #EXTGRP:Информационные
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
-#EXTINF:-1 ,Россия 24 (Саратов)
-#EXTGRP:Информационные
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/saratov/russia24-sd/index.m3u8
 #EXTINF:0,Саратов 24 HD
 #EXTGRP:Информационные
 http://109.248.11.19:8081/web/c24/playlist.m3u8
@@ -197,7 +194,7 @@ https://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
 #EXTINF:0,Звезда Плюс HD
 #EXTGRP:Познавательные
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0,Здоровое ТВ 
+#EXTINF:0,Здоровое ТВ
 #EXTGRP:Познавательные
 http://178.212.71.253:8000/play/94/index.m3u8
 #EXTINF:0,Зоо ТВ
@@ -251,13 +248,13 @@ http://176.118.197.101/Telekafe/index.m3u8
 #EXTINF:0,Точка.РФ HD
 #EXTGRP:Познавательные
 http://45.145.32.13:20440/hdl/index.m3u8?token=test
-#EXTINF:0,Усадьба 
+#EXTINF:0,Усадьба
 #EXTGRP:Познавательные
 http://193.25.8.59:8000/usadba
 #EXTINF:0,2x2
 #EXTGRP:Развлекательные
 http://176.118.197.101/2x2/index.m3u8
-#EXTINF:-1 ,Че!
+#EXTINF:0,Че!
 #EXTGRP:Развлекательные
 http://5.188.221.43:8080/play/che
 #EXTINF:0,Ю HD
@@ -275,9 +272,6 @@ https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=uw
 #EXTINF:0,DTR Zona 1
 #EXTGRP:Развлекательные
 https://kino-stream.online/hls/DTRZONA1.m3u8
-#EXTINF:-1 ,Сарафан
-#EXTGRP:Развлекательные
-http://176.118.197.125/Sarafan/index.m3u8
 #EXTINF:0,Твоё ТВ HD
 #EXTGRP:Развлекательные
 http://tvoetv.space:8080/tvoetv/tracks-v1a1/mono.m3u8
@@ -767,51 +761,3 @@ http://195.9.195.3:8080/hls/163253.m3u8
 #EXTINF:0,Selecao TV2 HD
 #EXTGRP:Фильмовые
 http://195.9.195.3:8080/manifest/157269_master.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
