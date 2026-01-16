@@ -50,9 +50,9 @@ http://89.232.68.194:8080/pyatnitsa/tracks-v3a1/index.m3u8
 #EXTINF:0,Звезда HD
 #EXTGRP:Федеральные
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:0,Мир HD
+#EXTINF:0,Мир
 #EXTGRP:Федеральные
-https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
+http://95.47.156.60:8000/play/18/index.m3u8
 #EXTINF:0,ТНТ
 #EXTGRP:Федеральные
 http://89.232.68.194:8080/tnt/tracks-v3a1/index.m3u8
@@ -761,3 +761,4 @@ http://195.9.195.3:8080/hls/163253.m3u8
 #EXTINF:0,Selecao TV2 HD
 #EXTGRP:Фильмовые
 http://195.9.195.3:8080/manifest/157269_master.m3u8
+
