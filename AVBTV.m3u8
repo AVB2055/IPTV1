@@ -25,7 +25,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
 http://178.163.4.37:4022/udp/234.0.0.203:2000
 #EXTINF:0,ОТР HD
 #EXTGRP:Федеральные
-https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=Vl-ztQKEcGX0b64-abMzGA&e=2067815829&scheme=https
+http://93.170.254.17/OTR/index.m3u8
 #EXTINF:0,ТВЦ HD
 #EXTGRP:Федеральные
 http://178.163.3.208:4022/udp/234.0.0.192:2000
@@ -95,6 +95,9 @@ https://sevas.1tvcrimea.ru/legendarniy24.m3u8
 #EXTINF:0,Теледом HD
 #EXTGRP:Информационные
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
+#EXTINF:-1 ,Россия 24 (Саратов)
+#EXTGRP:Информационные
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/saratov/russia24-sd/index.m3u8
 #EXTINF:0,Саратов 24 HD
 #EXTGRP:Информационные
 http://109.248.11.19:8081/web/c24/playlist.m3u8
@@ -272,6 +275,9 @@ https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=uw
 #EXTINF:0,DTR Zona 1
 #EXTGRP:Развлекательные
 https://kino-stream.online/hls/DTRZONA1.m3u8
+#EXTINF:-1 ,Сарафан
+#EXTGRP:Развлекательные
+http://176.118.197.125/Sarafan/index.m3u8
 #EXTINF:0,Твоё ТВ HD
 #EXTGRP:Развлекательные
 http://tvoetv.space:8080/tvoetv/tracks-v1a1/mono.m3u8
@@ -761,4 +767,50 @@ http://195.9.195.3:8080/hls/163253.m3u8
 #EXTINF:0,Selecao TV2 HD
 #EXTGRP:Фильмовые
 http://195.9.195.3:8080/manifest/157269_master.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
