@@ -14,21 +14,21 @@ http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:0,Пятый Канал
 #EXTGRP:Федеральные
 http://89.232.68.194:8080/5kanal/tracks-v3a1/index.m3u8
-#EXTINF:0,Россия Культура HD
+#EXTINF:0,Россия Культура
 #EXTGRP:Федеральные
-http://93.170.254.17/RossiyaK/index.m3u8
+http://178.163.3.80:4022/udp/234.0.0.202:2000
 #EXTINF:0,Россия 24 HD
 #EXTGRP:Федеральные
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
 #EXTINF:0,Карусель
 #EXTGRP:Федеральные
-http://93.170.254.17/Karusel/index.m3u8
+http://178.163.4.37:4022/udp/234.0.0.203:2000
 #EXTINF:0,ОТР HD
 #EXTGRP:Федеральные
 http://93.170.254.17/OTR/index.m3u8
 #EXTINF:0,ТВЦ HD
 #EXTGRP:Федеральные
-http://93.170.254.17/TVCentr/index.m3u8
+http://178.163.3.208:4022/udp/234.0.0.192:2000
 #EXTINF:0,Рен ТВ
 #EXTGRP:Федеральные
 http://95.47.156.60:8000/play/11/index.m3u8
@@ -46,7 +46,7 @@ http://95.47.156.60:8000/play/14/index.m3u8
 http://85.192.10.131/hls/tv3/playlist.m3u8
 #EXTINF:0,Пятница
 #EXTGRP:Федеральные
-http://93.170.254.17/Pyatnica/index.m3u8
+http://178.163.12.210:4022/udp/234.0.0.235:2000
 #EXTINF:0,Звезда HD
 #EXTGRP:Федеральные
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
@@ -248,9 +248,9 @@ http://176.118.197.101/Telekafe/index.m3u8
 #EXTINF:0,Точка.РФ HD
 #EXTGRP:Познавательные
 http://45.145.32.13:20440/hdl/index.m3u8?token=test
-#EXTINF:0,Усадьба HD
+#EXTINF:0,Усадьба 
 #EXTGRP:Познавательные
-http://93.170.254.17/Usadba/index.m3u8
+http://193.25.8.59:8000/usadba
 #EXTINF:0,2x2
 #EXTGRP:Развлекательные
 http://176.118.197.101/2x2/index.m3u8
@@ -292,7 +292,7 @@ https://30a-tv.com/feeds/720p/63.m3u8
 https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
 #EXTINF:0,КВН ТВ
 #EXTGRP:Развлекательные
-http://93.170.254.17/KVN/index.m3u8
+http://178.212.71.253:8000/play/119/index.m3u8
 #EXTINF:0,Мистер Бин HD
 #EXTGRP:Развлекательные
 https://fl1001.bozztv.com/ushba45/index.m3u8
@@ -389,6 +389,9 @@ https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
 #EXTINF:0,ММТВ HD
 #EXTGRP:Музыкальные
 http://95.47.156.60:8000/play/a014/index.m3u8
+#EXTINF:0,О!2
+#EXTGRP:Музыкальные
+http://77.232.131.211/O2TV/index.m3u8
 #EXTINF:0,RADIO CITTA HD
 #EXTGRP:Музыкальные
 https://stream10.xdevel.com/video0s977971-2391/stream/playlist.m3u8
@@ -412,7 +415,7 @@ http://176.118.197.101/KHL/index.m3u8
 http://tv.streams.baikal-telecom.net:8080/KHL_HD/mpegts
 #EXTINF:0,MMA-TV.COM HD
 #EXTGRP:Спортивные
-http://93.170.254.17/MMATV/index.m3u8
+http://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:0,Red Bull HD
 #EXTGRP:Спортивные
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
@@ -457,7 +460,7 @@ http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_
 http://194.143.148.28:8080/MatchArena/mpegts
 #EXTINF:0,Матч! Боец
 #EXTGRP:Спортивные
-http://95.66.188.74/MatchBoec/mono.m3u8
+http://31.148.48.15/Match_Boec/tracks-v1a1/mono.m3u8?token=default
 #EXTINF:0,Спортивный HD
 #EXTGRP:Спортивные
 http://live-3.otcnet.ru/sportivny/index.m3u8
@@ -497,9 +500,6 @@ http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:0,Ani HD
 #EXTGRP:Детские
 http://176.118.197.125/Ani/index.m3u8
-#EXTINF:0,Cartoon Classics HD
-#EXTGRP:Детские
-http://95.66.188.74/Cartoon_Classics/index.m3u8
 #EXTINF:0,Тооку HD
 #EXTGRP:Детские
 http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
@@ -515,9 +515,6 @@ http://176.118.197.125/Gulli-Girl/index.m3u8
 #EXTINF:0,JimJam HD
 #EXTGRP:Детские
 http://176.118.197.125/JimJam/index.m3u8
-#EXTINF:0,О!
-#EXTGRP:Детские
-http://95.66.188.74:80/O/mono.m3u8
 #EXTINF:0,Пингвин Лоло
 #EXTGRP:Детские
 http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
@@ -662,9 +659,6 @@ http://195.9.195.3:8080/hls/176975.m3u8
 #EXTINF:0,Дом Кино HD
 #EXTGRP:Фильмовые
 http://176.118.197.101/Dom_kino/index.m3u8
-#EXTINF:0,Дом кино премиум HD
-#EXTGRP:Фильмовые
-http://95.66.188.74/DomKinoPremiumHD/mono.m3u8
 #EXTINF:0,Еврокино HD
 #EXTGRP:Фильмовые
 http://176.118.197.101/Evrokino/index.m3u8
@@ -685,7 +679,7 @@ https://vod.splay.uz/live_splay/original/Kinosemya/tracks-v1a1/mono.m3u8
 https://vod.splay.uz/live_splay/original/Kinoxit/tracks-v1a1/mono.m3u8
 #EXTINF:0,Киносвидание HD
 #EXTGRP:Фильмовые
-http://93.170.254.17/Kinosvidanie/index.m3u8
+http://vod.splay.uz/live_splay/original/Kinosvidanie/tracks-v1a1/mono.m3u8
 #EXTINF:0,Киносерия HD
 #EXTGRP:Фильмовые
 http://176.118.197.101/Kinoseria/index.m3u8
@@ -728,9 +722,6 @@ https://fl1001.bozztv.com/ushba26/tracks-v1a1/mono.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция HD
 #EXTGRP:Фильмовые
 http://5.8.11.96:8099/mosfilmhd/index.m3u8
-#EXTINF:0,Мужское кино HD
-#EXTGRP:Фильмовые
-http://95.66.188.74/MuzhskoeKinoHD/mono.m3u8
 #EXTINF:0,Moviee Toper HD
 #EXTGRP:Фильмовые
 http://195.9.195.3:8080/hls/214749.m3u8
@@ -739,7 +730,7 @@ http://195.9.195.3:8080/hls/214749.m3u8
 http://176.118.197.101/HCT/index.m3u8
 #EXTINF:0,Наше новое кино
 #EXTGRP:Фильмовые
-http://95.66.188.74/NasheNovoeKino/mono.m3u8
+http://178.212.71.253:8000/play/128/index.m3u8
 #EXTINF:0,PRO100 ТВ
 #EXTGRP:Фильмовые
 http://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
@@ -751,10 +742,10 @@ http://catchup.videoline.ru/asvtv/index.m3u8
 http://185.46.16.239:8000/Russkiy_Illyuzion
 #EXTINF:0,Русский детектив
 #EXTGRP:Фильмовые
-http://95.66.188.74/Russkiy_Detektiv/mono.m3u8
+http://31.148.48.15:80/Russkiy_Detektiv/index.m3u8
 #EXTINF:0,Русский роман
 #EXTGRP:Фильмовые
-http://95.66.188.74/RusRoman/mono.m3u8
+http://vod.tuva.ru/rusroman/index.m3u8
 #EXTINF:0,Родное кино
 #EXTGRP:Фильмовые
 http://176.118.197.101/RodnoeKino/index.m3u8
@@ -770,50 +761,3 @@ http://195.9.195.3:8080/hls/163253.m3u8
 #EXTINF:0,Selecao TV2 HD
 #EXTGRP:Фильмовые
 http://195.9.195.3:8080/manifest/157269_master.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
