@@ -116,30 +116,30 @@ https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=Vq
 #EXTGRP:Информационные
 https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 
+#EXTINF:0,RT Д HD
+#EXTGRP:Мультиформатные
+http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
+#EXTINF:0,Большая Азия HD
+#EXTGRP:Мультиформатные
+http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+#EXTINF:0,Вместе РФ HD
+#EXTGRP:Мультиформатные
+https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 #EXTINF:0,Москва 24 HD
-#EXTGRP:Мультиформатный
+#EXTGRP:Мультиформатные
 https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
 #EXTINF:0,Москва. Доверие
-#EXTGRP:Мультиформатный
+#EXTGRP:Мультиформатные
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
-#EXTINF:0,Вместе РФ HD
-#EXTGRP:Мультиформатный
-https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
-#EXTINF:0,Большая Азия HD
-#EXTGRP:Мультиформатный
-http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+#EXTINF:0,Саратов 24 HD
+#EXTGRP:Мультиформатные
+http://109.248.11.19:8081/web/c24/playlist.m3u8
 #EXTINF:0,Светлое ТВ
-#EXTGRP:Мультиформатный
+#EXTGRP:Мультиформатные
 http://176.107.219.20:9000/play/a009/index.m3u8
 #EXTINF:0,Теледом HD
-#EXTGRP:Мультиформатный
+#EXTGRP:Мультиформатные
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
-#EXTINF:0,Саратов 24 HD
-#EXTGRP:Мультиформатный
-http://109.248.11.19:8081/web/c24/playlist.m3u8
-#EXTINF:0,RT Д HD
-#EXTGRP:Мультиформатный
-http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
 
 #EXTINF:0,365 дней
 #EXTGRP:Познавательные
@@ -679,3 +679,4 @@ http://176.118.197.101/RodnoeKino/index.m3u8
 #EXTINF:0,Ретро
 #EXTGRP:Фильмовые
 http://176.118.197.101/Retro/index.m3u8
+
