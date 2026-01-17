@@ -94,6 +94,9 @@ http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/track
 #EXTINF:0,Про бизнес
 #EXTGRP:Информационные
 http://176.107.219.20:9000/play/a003/index.m3u8
+#EXTINF:0,EuroNews
+#EXTGRP:Информационные
+http://ott.server-iptv.live/140/video.m3u8?token=S793FB1732
 #EXTINF:0,RTVi
 #EXTGRP:Информационные
 http://178.134.1.158:8081/rtvi/index.m3u8
@@ -566,4 +569,5 @@ http://176.118.197.101/RodnoeKino/index.m3u8
 #EXTINF:0,Ретро
 #EXTGRP:Фильмовые
 http://176.118.197.101/Retro/index.m3u8
+
 
