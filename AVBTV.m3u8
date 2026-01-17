@@ -244,9 +244,6 @@ http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 http://178.212.71.253:8000/play/119/index.m3u8
 
 
-#EXTINF:0,70-80 TV HD
-#EXTGRP:Музыкальные
-https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
 #EXTINF:0,Minimal / Deep Tech HD
 #EXTGRP:Музыкальные
 https://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8
@@ -274,24 +271,15 @@ https://d2hnivx8upksrk.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 #EXTINF:0,Hot Rock HD
 #EXTGRP:Музыкальные
 https://rpn.bozztv.com/gusa/gusa-hotrock/tracks-v1a1/index.m3u8
-#EXTINF:0,Afrobeats HD
-#EXTGRP:Музыкальные
-https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 #EXTINF:0,Dance TV HD
 #EXTGRP:Музыкальные
 https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 #EXTINF:0,Kronehit HD
 #EXTGRP:Музыкальные
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
-#EXTINF:0,SOY Plancha TV HD
-#EXTGRP:Музыкальные
-https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
 #EXTINF:0,STZ Telebista HD
 #EXTGRP:Музыкальные
 https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
-#EXTINF:0,VM Latino HD
-#EXTGRP:Музыкальные
-https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 #EXTINF:0,V2BEAT TV HD
 #EXTGRP:Музыкальные
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
@@ -301,88 +289,42 @@ http://91.247.68.229:8000/play/eee/index.m3u8
 #EXTINF:0,30A MUSIC TV HD
 #EXTGRP:Музыкальные
 https://30a-tv.com/feeds/720p/6.m3u8
-#EXTINF:0,Kpop Play TV HD
-#EXTGRP:Музыкальные
-https://fl1001.bozztv.com/ushba-m4/tracks-v1a1/mono.m3u8
-#EXTINF:0,Radio Ibiza TV HD
-#EXTGRP:Музыкальные
-https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/chunklist_w1014685428.m3u8
-#EXTINF:0,Record Супердискотека 90х HD
-#EXTGRP:Музыкальные
-https://bl.rutube.ru/livestream/351f0e84a7db69a73658bbf61debcf62/index.m3u8?s=Qg65AaI0A35ky4YWb9isww&e=2067815836&scheme=https
-#EXTINF:0,Zerouno TV HD
-#EXTGRP:Музыкальные
-https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
 #EXTINF:0,ММТВ HD
 #EXTGRP:Музыкальные
 http://95.47.156.60:8000/play/a014/index.m3u8
 #EXTINF:0,О!2
 #EXTGRP:Музыкальные
 http://77.232.131.211/O2TV/index.m3u8
-#EXTINF:0,RADIO CITTA HD
-#EXTGRP:Музыкальные
-https://stream10.xdevel.com/video0s977971-2391/stream/playlist.m3u8
 #EXTINF:0,Trace Urban HD
 #EXTGRP:Музыкальные
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:0,VIVA Russia HD
-#EXTGRP:Музыкальные
-https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=jrfRIb1f4xf49QVQJR0HRw&e=2067815838&scheme=https
 #EXTINF:0,A21 Network HD
 #EXTGRP:Спортивные
 http://tv.a21network.ru/stream/37909/index.m3u8
-#EXTINF:0,Eurosport 2 HD
-#EXTGRP:Спортивные
-http://vod.splay.uz/live_splay/original/Eurosport2HD/tracks-v1a1/mono.m3u8
 #EXTINF:0,KHL
 #EXTGRP:Спортивные
 http://176.118.197.101/KHL/index.m3u8
-
-#EXTINF:0,MMA-TV.COM HD
-#EXTGRP:Спортивные
-http://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:0,Red Bull HD
 #EXTGRP:Спортивные
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
-#EXTINF:0,Russian Extreme
-#EXTGRP:Спортивные
-http://85.208.223.249:8888/play/a004
 #EXTINF:0,Setanta Sports 2 HD
 #EXTGRP:Спортивные
 http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
-#EXTINF:0,Trace Sport Start [RU]
-#EXTGRP:Спортивные
-http://87.120.142.11:18000/Rossiya1
 #EXTINF:0,VITAL DRIVE HD
 #EXTGRP:Спортивные
 https://autopilot.catcast.tv/content/37909/index.m3u8
-#EXTINF:0,Бокс ТВ HD
-#EXTGRP:Спортивные
-http://185.46.16.239:8000/Eurosport_1
 #EXTINF:0,Волейбол HD
 #EXTGRP:Спортивные
 https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=yLRKcLLgpyWK0Pr2YTVwLw&e=2067815840&scheme=https
 #EXTINF:0,Конный Мир HD
 #EXTGRP:Спортивные
 https://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
-#EXTINF:0,МАТЧ! БОЕЦ
-#EXTGRP:Спортивные
-http://87.120.142.11:18000/Match!
-#EXTINF:0,МАТЧ! Игра
-#EXTGRP:Спортивные
-http://87.120.142.11:18000/Match!Igra
 #EXTINF:0,Матч Премьер HD
 #EXTGRP:Спортивные
 http://89.232.68.194:8080/matchpremier/tracks-v3a1/index.m3u8
 #EXTINF:0,Матч! HD
 #EXTGRP:Спортивные
 http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
-#EXTINF:0,Матч! Арена
-#EXTGRP:Спортивные
-http://194.143.148.28:8080/MatchArena/mpegts
-#EXTINF:0,Матч! Боец
-#EXTGRP:Спортивные
-http://31.148.48.15/Match_Boec/tracks-v1a1/mono.m3u8?token=default
 #EXTINF:0,Спортивный HD
 #EXTGRP:Спортивные
 http://live-3.otcnet.ru/sportivny/index.m3u8
@@ -395,9 +337,8 @@ https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd
 #EXTINF:0,Футбол
 #EXTGRP:Спортивные
 http://hls127.freeott.top:8080/Football/mono.m3u8
-#EXTINF:0,Детский телеканал Мультимания
-#EXTGRP:Детские
-http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:0,Ералаш
 #EXTGRP:Детские
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
@@ -410,9 +351,6 @@ http://stv.mediacdn.ru/live/cdn/multimuzika/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,Смайлик ТВ HD
 #EXTGRP:Детские
 https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
-#EXTINF:0,СуперГерои
-#EXTGRP:Детские
-http://185.46.16.239:8000/National_Geographic_HD
 #EXTINF:0,Солнце HD
 #EXTGRP:Детские
 https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
@@ -422,27 +360,20 @@ http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:0,Ani HD
 #EXTGRP:Детские
 http://176.118.197.125/Ani/index.m3u8
-#EXTINF:0,Тооку HD
-#EXTGRP:Детские
-http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 #EXTINF:0,Clarity4K Anime
 #EXTGRP:Детские
 http://hls127.freeott.top:8080/Clarity4K_Anime/mono.m3u8
 #EXTINF:0,Gulli Girl HD
 #EXTGRP:Детские
 http://176.118.197.125/Gulli-Girl/index.m3u8
-#EXTINF:0,Пингвин Лоло
-#EXTGRP:Детские
-http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
 #EXTINF:0,СТС Kids
 #EXTGRP:Детские
 http://hls127.freeott.top:8080/STS_Kids/mono.m3u8
 #EXTINF:0,Суббота HD
 #EXTGRP:Детские
 https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=fGF8IP-Az_cZHwwgk-of9w&e=2067815805&scheme=https
-#EXTINF:0,СТС Love
-#EXTGRP:Кинозалы
-http://tv.streams.baikal-telecom.net:8080/CTC_LOVE/index.m3u8
+
+
 #EXTINF:0,НТВ Сериал HD
 #EXTGRP:Кинозалы
 https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
@@ -485,15 +416,6 @@ https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:0,Смотрим Кино и сериалы
 #EXTGRP:Кинозалы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
-#EXTINF:0,Смотрим Детское
-#EXTGRP:Кинозалы
-http://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab089
-#EXTINF:0,Смотрим Любовь
-#EXTGRP:Кинозалы
-http://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248
-#EXTINF:0,Смотрим Мужское
-#EXTGRP:Кинозалы
-http://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d.m3u8
 #EXTINF:0,Доктор Достоевский
 #EXTGRP:Кинозалы
 https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
