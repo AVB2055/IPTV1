@@ -440,18 +440,33 @@ http://hls127.freeott.top:8080/BCUStarsHD/mono.m3u8
 #EXTINF:0,Bolt
 #EXTGRP:Фильмовые
 http://hls127.freeott.top:8080/Bolt/mono.m3u8
-#EXTINF:0,Clarity4K Gamefilm
-#EXTGRP:Фильмовые
-http://hls127.freeott.top:8080/Clarity4K_Gamefilm/mono.m3u8
 #EXTINF:0,Clarity4K Ужасы
-#EXTGRP:Фильмовые
+#EXTGRP:Cloudflare_Inc
 http://hls127.freeott.top:8080/Clarity4K_Uzhasi/mono.m3u8
+#EXTINF:0,Clarity4K Anime
+#EXTGRP:Cloudflare_Inc
+http://hls127.freeott.top:8080/Clarity4K_Anime/mono.m3u8
 #EXTINF:0,Clarity4K Asia
-#EXTGRP:Фильмовые
+#EXTGRP:Cloudflare_Inc
 http://hls127.freeott.top:8080/Clarity4K_Asia/mono.m3u8
 #EXTINF:0,Clarity4k Концерт
-#EXTGRP:Фильмовые
+#EXTGRP:Cloudflare_Inc
 http://hls127.freeott.top:8080/Clarity4K_Concert/mono.m3u8
+#EXTINF:0,Clarity4k Единоборства
+#EXTGRP:Cloudflare_Inc
+http://hls127.freeott.top:8080/Clarity4K_Edinoborstva/mono.m3u8
+#EXTINF:0,Clarity4K Фантастика
+#EXTGRP:Cloudflare_Inc
+http://hls127.freeott.top:8080/Clarity4K_Fantastic/mono.m3u8
+#EXTINF:0,Clarity4K Gamefilm
+#EXTGRP:Cloudflare_Inc
+http://hls127.freeott.top:8080/Clarity4K_Gamefilm/mono.m3u8
+#EXTINF:0,Clarity4K Космомир
+#EXTGRP:Cloudflare_Inc
+http://hls127.freeott.top:8080/Clarity4K_Kosmomir/mono.m3u8
+#EXTINF:0,Clarity4K Netflix
+#EXTGRP:Cloudflare_Inc
+http://hls127.freeott.top:8080/Clarity4K_Netflix/mono.m3u8
 #EXTINF:0,Cinema
 #EXTGRP:Фильмовые
 http://176.118.197.101/Cinema/index.m3u8
