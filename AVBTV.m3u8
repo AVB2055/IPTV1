@@ -204,9 +204,6 @@ http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 #EXTINF:0,Совершенно секретно
 #EXTGRP:Познавательные
 http://hls127.freeott.top:8080/Sovershenno_Sekretno/mono.m3u8
-#EXTINF:0,Телекафе HD
-#EXTGRP:Познавательные
-http://176.118.197.101/Telekafe/index.m3u8
 #EXTINF:0,Точка.РФ HD
 #EXTGRP:Познавательные
 http://45.145.32.13:20440/hdl/index.m3u8?token=test
@@ -301,9 +298,6 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:0,A21 Network HD
 #EXTGRP:Спортивные
 http://tv.a21network.ru/stream/37909/index.m3u8
-#EXTINF:0,KHL
-#EXTGRP:Спортивные
-http://176.118.197.101/KHL/index.m3u8
 #EXTINF:0,Red Bull HD
 #EXTGRP:Спортивные
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
@@ -425,12 +419,6 @@ https://fl1001.bozztv.com/ushba28/tracks-v1a1/mono.m3u8
 #EXTINF:0,Документалка 2 Вне закона HD
 #EXTGRP:Кинозалы
 http://162.212.179.43/ushba29/tracks-v1a1/mono.m3u8
-#EXTINF:0,.Black
-#EXTGRP:Фильмовые
-http://176.118.197.125/Black/index.m3u8
-#EXTINF:0,.SCI-FI
-#EXTGRP:Фильмовые
-http://176.118.197.125/SCI-FI/index.m3u8
 #EXTINF:0,Arpinet ITC
 #EXTGRP:Фильмовые
 http://timeshift.arpinet.am/237/index.m3u8
@@ -440,9 +428,6 @@ http://hls127.freeott.top:8080/BCUStarsHD/mono.m3u8
 #EXTINF:0,Bolt
 #EXTGRP:Фильмовые
 http://hls127.freeott.top:8080/Bolt/mono.m3u8
-#EXTINF:0,Cinema
-#EXTGRP:Фильмовые
-http://176.118.197.101/Cinema/index.m3u8
 #EXTINF:0,LAV-KINO HD
 #EXTGRP:Фильмовые
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
@@ -452,21 +437,9 @@ http://hls127.freeott.top:8080/MyTV/mono.m3u8
 #EXTINF:0,viju TV1000 HD
 #EXTGRP:Фильмовые
 http://vod.splay.uz/live_splay/original/TV1000/tracks-v1a1/mono.m3u8
-#EXTINF:0,viju TV1000 HD action
-#EXTGRP:Фильмовые
-http://188.225.31.197/bpk-tv/000003910/tve/index.m3u8
 #EXTINF:0,VIP Comedy
 #EXTGRP:Фильмовые
 http://89.232.68.194:8080/ComedyHD/tracks-v1a1/index.m3u8
-#EXTINF:0,Дом Кино HD
-#EXTGRP:Фильмовые
-http://176.118.197.101/Dom_kino/index.m3u8
-#EXTINF:0,Еврокино HD
-#EXTGRP:Фильмовые
-http://176.118.197.101/Evrokino/index.m3u8
-#EXTINF:0,Иллюзион+
-#EXTGRP:Фильмовые
-http://176.118.197.101/Illuzion+/index.m3u8
 #EXTINF:0,Кино 1 International
 #EXTGRP:Фильмовые
 http://kino-1.catcast.tv/content/38617/index.m3u8
@@ -482,30 +455,18 @@ https://vod.splay.uz/live_splay/original/Kinoxit/tracks-v1a1/mono.m3u8
 #EXTINF:0,Киносвидание HD
 #EXTGRP:Фильмовые
 http://vod.splay.uz/live_splay/original/Kinosvidanie/tracks-v1a1/mono.m3u8
-#EXTINF:0,Киносерия HD
-#EXTGRP:Фильмовые
-http://176.118.197.101/Kinoseria/index.m3u8
 #EXTINF:0,Кino Премьера HD
 #EXTGRP:Фильмовые
 http://157.90.0.245:8070/KINOPREMIERA/index.m3u8
 #EXTINF:0,Кинопоказ HD
 #EXTGRP:Фильмовые
 http://hls127.freeott.top:8080/Kinopokaz_HD/mono.m3u8
-#EXTINF:0,Кино ТВ
-#EXTGRP:Фильмовые
-http://185.46.16.239:8000/Kino_TV
 #EXTINF:0,Кино и Жизнь HD
 #EXTGRP:Фильмовые
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=cN1dKvjJ3x7Celu28kgs2Q&e=2067815831&scheme=https
 #EXTINF:0,Киножелезо HD
 #EXTGRP:Фильмовые
 https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=ef6_lx1jeE7fA4D_mGr-tQ&e=2067815807&scheme=https
-#EXTINF:0,Кинокомедия
-#EXTGRP:Фильмовые
-http://176.118.197.101/Kinokomediya/index.m3u8
-#EXTINF:0,Комедия
-#EXTGRP:Фильмовые
-http://176.118.197.101/Komediya/index.m3u8
 #EXTINF:0,Кинолаффка HD
 #EXTGRP:Фильмовые
 https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=19TY0JRfXJzPhrZLaUHGGg&e=2067815807&scheme=https
@@ -515,9 +476,6 @@ https://fl1001.bozztv.com/ushba26/tracks-v1a1/mono.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция HD
 #EXTGRP:Фильмовые
 http://5.8.11.96:8099/mosfilmhd/index.m3u8
-#EXTINF:0,НСТ
-#EXTGRP:Фильмовые
-http://176.118.197.101/HCT/index.m3u8
 #EXTINF:0,PRO100 ТВ
 #EXTGRP:Фильмовые
 http://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
@@ -530,12 +488,6 @@ http://185.46.16.239:8000/Russkiy_Illyuzion
 #EXTINF:0,Русский детектив
 #EXTGRP:Фильмовые
 http://31.148.48.15:80/Russkiy_Detektiv/index.m3u8
-#EXTINF:0,Русский роман
-#EXTGRP:Фильмовые
-http://vod.tuva.ru/rusroman/index.m3u8
-#EXTINF:0,Родное кино
-#EXTGRP:Фильмовые
-http://176.118.197.101/RodnoeKino/index.m3u8
 #EXTINF:0,Ретро
 #EXTGRP:Фильмовые
 http://176.118.197.101/Retro/index.m3u8
@@ -566,5 +518,6 @@ http://hls127.freeott.top:8080/Clarity4K_Kosmomir/mono.m3u8
 #EXTINF:0,Clarity4K Netflix
 #EXTGRP:Cloudflare_Inc
 http://hls127.freeott.top:8080/Clarity4K_Netflix/mono.m3u8
+
 
 
