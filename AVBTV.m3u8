@@ -233,7 +233,7 @@ http://193.25.8.59:8000/usadba
 https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=clcteH4Il3eAVctq1Tm50w&e=2067815804&scheme=https
 #EXTINF:0,Че!
 #EXTGRP:Развлекательные
-http://178.212.71.253:8000/play/139/index.m3u8
+http://176.118.197.101/Che/index.m3u8
 #EXTINF:0,Ю HD
 #EXTGRP:Развлекательные
 http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
@@ -678,6 +678,7 @@ http://176.118.197.101/Retro/index.m3u8
 #EXTINF:0,Тайна HD
 #EXTGRP:Познавательные
 https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=GmFSizHee8DpOJI6J0bwMA&e=2067815807&scheme=https
+
 
 
 
