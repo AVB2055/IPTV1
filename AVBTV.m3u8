@@ -186,9 +186,6 @@ http://178.212.71.253:8000/play/94/index.m3u8
 #EXTINF:0,Китай ТВ HD
 #EXTGRP:Познавательные
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
-#EXTINF:0,Моя планета HD
-#EXTGRP:Познавательные
-http://tv.streams.baikal-telecom.net:8080/MoyaPlanetaHD/index.m3u8
 #EXTINF:0,Наука 2.0
 #EXTGRP:Познавательные
 http://hls127.freeott.top:8080/NAUKA/mono.m3u8
@@ -253,9 +250,6 @@ https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
 #EXTINF:0,Minimal / Deep Tech HD
 #EXTGRP:Музыкальные
 https://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8
-#EXTINF:0,Музыка 1 HD
-#EXTGRP:Музыкальные
-https://fl1001.bozztv.com/ushba-t1/tracks-v1a1/mono.m3u8
 #EXTINF:0,Музыка 2 HD
 #EXTGRP:Музыкальные
 https://fl1001.bozztv.com/ushba-t2/tracks-v1a1/mono.m3u8
@@ -286,15 +280,9 @@ https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 #EXTINF:0,Dance TV HD
 #EXTGRP:Музыкальные
 https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
-#EXTINF:0,Kiss Kiss Italia HD
-#EXTGRP:Музыкальные
-https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
 #EXTINF:0,Kronehit HD
 #EXTGRP:Музыкальные
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
-#EXTINF:0,O2TV HD
-#EXTGRP:Музыкальные
-http://77.232.131.211/O2TV/index.m3u8
 #EXTINF:0,SOY Plancha TV HD
 #EXTGRP:Музыкальные
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
@@ -313,9 +301,6 @@ http://91.247.68.229:8000/play/eee/index.m3u8
 #EXTINF:0,30A MUSIC TV HD
 #EXTGRP:Музыкальные
 https://30a-tv.com/feeds/720p/6.m3u8
-#EXTINF:0,COMPANY TV HD
-#EXTGRP:Музыкальные
-https://5929b138b139d.streamlock.net/CompanyTV/livestream/playlist.m3u8
 #EXTINF:0,Kpop Play TV HD
 #EXTGRP:Музыкальные
 https://fl1001.bozztv.com/ushba-m4/tracks-v1a1/mono.m3u8
@@ -352,9 +337,7 @@ http://vod.splay.uz/live_splay/original/Eurosport2HD/tracks-v1a1/mono.m3u8
 #EXTINF:0,KHL
 #EXTGRP:Спортивные
 http://176.118.197.101/KHL/index.m3u8
-#EXTINF:0,KHL Prime HD
-#EXTGRP:Спортивные
-http://tv.streams.baikal-telecom.net:8080/KHL_HD/mpegts
+
 #EXTINF:0,MMA-TV.COM HD
 #EXTGRP:Спортивные
 http://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
@@ -382,9 +365,6 @@ https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=yL
 #EXTINF:0,Конный Мир HD
 #EXTGRP:Спортивные
 https://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
-#EXTINF:0,Матч! Арена
-#EXTGRP:Спортивные
-http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 #EXTINF:0,МАТЧ! БОЕЦ
 #EXTGRP:Спортивные
 http://87.120.142.11:18000/Match!
@@ -553,15 +533,6 @@ http://hls127.freeott.top:8080/Clarity4K_Concert/mono.m3u8
 #EXTINF:0,Cinema
 #EXTGRP:Фильмовые
 http://176.118.197.101/Cinema/index.m3u8
-#EXTINF:0,Fantastic Mistyc 1 HD
-#EXTGRP:Фильмовые
-http://195.9.195.3:8080/hls/187741.m3u8
-#EXTINF:0,Kino Non Stop HD
-#EXTGRP:Фильмовые
-http://195.9.195.3:8080/hls/218251.m3u8
-#EXTINF:0,Start Air HD
-#EXTGRP:Фильмовые
-https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 #EXTINF:0,LAV-KINO HD
 #EXTGRP:Фильмовые
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
@@ -613,9 +584,6 @@ http://hls127.freeott.top:8080/Kinopokaz_HD/mono.m3u8
 #EXTINF:0,Кино ТВ
 #EXTGRP:Фильмовые
 http://185.46.16.239:8000/Kino_TV
-#EXTINF:0,Кинеко
-#EXTGRP:Фильмовые
-http://tv.streams.baikal-telecom.net:8080/KINEKO/index.m3u8
 #EXTINF:0,Кино и Жизнь HD
 #EXTGRP:Фильмовые
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=cN1dKvjJ3x7Celu28kgs2Q&e=2067815831&scheme=https
@@ -640,9 +608,6 @@ http://5.8.11.96:8099/mosfilmhd/index.m3u8
 #EXTINF:0,НСТ
 #EXTGRP:Фильмовые
 http://176.118.197.101/HCT/index.m3u8
-#EXTINF:0,Наше новое кино
-#EXTGRP:Фильмовые
-http://178.212.71.253:8000/play/128/index.m3u8
 #EXTINF:0,PRO100 ТВ
 #EXTGRP:Фильмовые
 http://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
