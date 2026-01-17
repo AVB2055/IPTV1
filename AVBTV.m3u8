@@ -147,12 +147,6 @@ http://176.118.197.125/365_dney_tv/index.m3u8
 #EXTINF:0,Galaxy HD
 #EXTGRP:Познавательные
 http://176.118.197.125/Galaxy/index.m3u8
-#EXTINF:0,Nano HD
-#EXTGRP:Познавательные
-http://194.143.148.28:8080/NanoTV/tracks-v1a1/mono.m3u8
-#EXTINF:0,RTG HD
-#EXTGRP:Познавательные
-http://194.143.148.28:8080/RTG_HD/index.m3u8
 #EXTINF:0,Travel+Adventure HD
 #EXTGRP:Познавательные
 http://77.232.131.211/TravelAdventureHD/index.m3u8
@@ -186,18 +180,9 @@ https://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
 #EXTINF:0,Звезда Плюс HD
 #EXTGRP:Познавательные
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0,Здоровое ТВ
-#EXTGRP:Познавательные
-http://178.212.71.253:8000/play/94/index.m3u8
 #EXTINF:0,Китай ТВ HD
 #EXTGRP:Познавательные
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
-#EXTINF:0,Моя планета HD
-#EXTGRP:Познавательные
-http://tv.streams.baikal-telecom.net:8080/MoyaPlanetaHD/index.m3u8
-#EXTINF:0,Нано ТВ HD
-#EXTGRP:Познавательные
-http://tv.streams.baikal-telecom.net:8080/NanoTV/index.m3u8
 #EXTINF:0,Наука 2.0
 #EXTGRP:Познавательные
 http://hls127.freeott.top:8080/NAUKA/mono.m3u8
@@ -210,9 +195,6 @@ https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 #EXTINF:0,Ностальгия HD
 #EXTGRP:Познавательные
 http://hls127.freeott.top:8080/Nostalgiya/mono.m3u8
-#EXTINF:0,Поехали!
-#EXTGRP:Познавательные
-http://193.25.8.59:8000/360
 #EXTINF:0,Продвижение HD
 #EXTGRP:Познавательные
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
@@ -225,9 +207,6 @@ http://176.118.197.101/Telekafe/index.m3u8
 #EXTINF:0,Точка.РФ HD
 #EXTGRP:Познавательные
 http://45.145.32.13:20440/hdl/index.m3u8?token=test
-#EXTINF:0,Усадьба
-#EXTGRP:Познавательные
-http://193.25.8.59:8000/usadba
 #EXTINF:0,Тайна HD
 #EXTGRP:Познавательные
 https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=GmFSizHee8DpOJI6J0bwMA&e=2067815807&scheme=https
