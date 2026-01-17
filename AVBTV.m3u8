@@ -147,6 +147,9 @@ http://176.118.197.125/365_dney_tv/index.m3u8
 #EXTINF:0,Galaxy HD
 #EXTGRP:Познавательные
 http://176.118.197.125/Galaxy/index.m3u8
+#EXTINF:0,RTG HD
+#EXTGRP:Познавательные
+http://176.118.197.125/RTG-TV/index.m3u8
 #EXTINF:0,Travel+Adventure HD
 #EXTGRP:Познавательные
 http://77.232.131.211/TravelAdventureHD/index.m3u8
@@ -180,9 +183,6 @@ https://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
 #EXTINF:0,Звезда Плюс HD
 #EXTGRP:Познавательные
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0,Здоровое ТВ
-#EXTGRP:Познавательные
-http://178.212.71.253:8000/play/94/index.m3u8
 #EXTINF:0,Китай ТВ HD
 #EXTGRP:Познавательные
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
@@ -217,7 +217,7 @@ https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=Gm
 
 #EXTINF:0,Че!
 #EXTGRP:Развлекательные
-http://5.188.221.43:8080/play/che
+http://uiptv.do.am/1ufc/109121273/playlist.m3u8
 #EXTINF:0,Ю HD
 #EXTGRP:Развлекательные
 http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
@@ -241,7 +241,7 @@ http://tvoetv.space:8080/tvoetv_humor/tracks-v1a1/mono.m3u8
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 #EXTINF:0,КВН ТВ
 #EXTGRP:Развлекательные
-http://178.212.71.253:8000/play/119/index.m3u8
+http://93.170.254.17/KVN/index.m3u8
 
 
 #EXTINF:0,Minimal / Deep Tech HD
