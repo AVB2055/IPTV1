@@ -14,7 +14,7 @@ http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:0,Пятый Канал
 #EXTGRP:Федеральные
 http://89.232.68.194:8080/5kanal/tracks-v3a1/index.m3u8
-#EXTINF:0,РОССИЯ К
+#EXTINF:0,Россия К
 #EXTGRP:Федеральные
 http://89.232.68.194:8080/rossiyak/tracks-v3a1/index.m3u8
 #EXTINF:0,Россия 24 HD
@@ -679,5 +679,4 @@ http://176.118.197.101/RodnoeKino/index.m3u8
 #EXTINF:0,Ретро
 #EXTGRP:Фильмовые
 http://176.118.197.101/Retro/index.m3u8
-
 
