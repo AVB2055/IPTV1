@@ -137,9 +137,6 @@ http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:0,Про бизнес
 #EXTGRP:Информационные
 http://176.107.219.20:9000/play/a003/index.m3u8
-#EXTINF:0,Kabbalah TV (Russian)
-#EXTGRP:Информационные
-http://edge3.uk.kab.tv/live/tvrus-rus-high/chunks.m3u8
 #EXTINF:0,365 дней
 #EXTGRP:Познавательные
 http://176.118.197.125/365_dney_tv/index.m3u8
@@ -200,9 +197,6 @@ http://178.212.71.253:8000/play/94/index.m3u8
 #EXTINF:0,Зоо ТВ
 #EXTGRP:Познавательные
 http://193.25.8.59:8000/zoo
-#EXTINF:0,История
-#EXTGRP:Познавательные
-http://213.230.65.254:8000/play/a01w
 #EXTINF:0,Китай ТВ HD
 #EXTGRP:Познавательные
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
@@ -224,9 +218,6 @@ https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 #EXTINF:0,Ностальгия HD
 #EXTGRP:Познавательные
 http://31.148.48.15:80/Nostalgiya/index.m3u8?token=rostik_tv
-#EXTINF:0,Первый автомобильный HD
-#EXTGRP:Познавательные
-http://195.9.195.3:8080/hls/206355.m3u8
 #EXTINF:0,Поехали!
 #EXTGRP:Познавательные
 http://193.25.8.59:8000/360
@@ -260,9 +251,6 @@ http://5.188.221.43:8080/play/che
 #EXTINF:0,Ю HD
 #EXTGRP:Развлекательные
 http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
-#EXTINF:0,Alpha Funny HD
-#EXTGRP:Развлекательные
-http://195.9.195.3:8080/hls/206963.m3u8
 #EXTINF:0,Mr.Bean Cartoon
 #EXTGRP:Развлекательные
 https://bl.rutube.ru/livestream/0e9e44725d5d5ab7ee92c10b40215419/index.m3u8?s=PKlr1KsTF2d2tE-J0_gjZw&e=2067815808&scheme=https
@@ -380,9 +368,6 @@ https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/chunklist_w10146854
 #EXTINF:0,Record Супердискотека 90х HD
 #EXTGRP:Музыкальные
 https://bl.rutube.ru/livestream/351f0e84a7db69a73658bbf61debcf62/index.m3u8?s=Qg65AaI0A35ky4YWb9isww&e=2067815836&scheme=https
-#EXTINF:0,TMF RUS HD
-#EXTGRP:Музыкальные
-http://195.9.195.3:8080/hls/201891.m3u8
 #EXTINF:0,Zerouno TV HD
 #EXTGRP:Музыкальные
 https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
@@ -506,15 +491,9 @@ http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 #EXTINF:0,Clarity4K Anime
 #EXTGRP:Детские
 http://hls127.freeott.top:8080/Clarity4K_Anime/mono.m3u8
-#EXTINF:0,Futurama HD
-#EXTGRP:Детские
-http://195.9.195.3:8080/hls/199417.m3u8
 #EXTINF:0,Gulli Girl HD
 #EXTGRP:Детские
 http://176.118.197.125/Gulli-Girl/index.m3u8
-#EXTINF:0,JimJam HD
-#EXTGRP:Детские
-http://176.118.197.125/JimJam/index.m3u8
 #EXTINF:0,Пингвин Лоло
 #EXTGRP:Детские
 http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
@@ -593,21 +572,9 @@ http://176.118.197.125/Black/index.m3u8
 #EXTINF:0,.SCI-FI
 #EXTGRP:Фильмовые
 http://176.118.197.125/SCI-FI/index.m3u8
-#EXTINF:0,1FILMAX
-#EXTGRP:Фильмовые
-http://195.9.195.3:8080/hls/204708.m3u8
 #EXTINF:0,Arpinet ITC
 #EXTGRP:Фильмовые
 http://timeshift.arpinet.am/237/index.m3u8
-#EXTINF:0,Akudji HD
-#EXTGRP:Фильмовые
-http://195.9.195.3:8080/hls/5346.m3u8
-#EXTINF:0,alpha Cinema HD
-#EXTGRP:Фильмовые
-http://195.9.195.3:8080/hls/205072.m3u8
-#EXTINF:0,alpha Onenite HD
-#EXTGRP:Фильмовые
-http://195.9.195.3:8080/hls/205116.m3u8
 #EXTINF:0,BCU Stars HD
 #EXTGRP:Фильмовые
 http://hls127.freeott.top:8080/BCUStarsHD/mono.m3u8
@@ -650,12 +617,6 @@ http://188.225.31.197/bpk-tv/000003910/tve/index.m3u8
 #EXTINF:0,VIP Comedy
 #EXTGRP:Фильмовые
 http://89.232.68.194:8080/ComedyHD/tracks-v1a1/index.m3u8
-#EXTINF:0,VHS кино HD
-#EXTGRP:Фильмовые
-http://195.9.195.3:8080/hls/218531.m3u8
-#EXTINF:0,Видеокасета VHS HD
-#EXTGRP:Фильмовые
-http://195.9.195.3:8080/hls/176975.m3u8
 #EXTINF:0,Дом Кино HD
 #EXTGRP:Фильмовые
 http://176.118.197.101/Dom_kino/index.m3u8
@@ -698,9 +659,6 @@ http://tv.streams.baikal-telecom.net:8080/KINEKO/index.m3u8
 #EXTINF:0,Кино и Жизнь HD
 #EXTGRP:Фильмовые
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=cN1dKvjJ3x7Celu28kgs2Q&e=2067815831&scheme=https
-#EXTINF:0,КиноФраншизы 24/7 HD
-#EXTGRP:Фильмовые
-http://195.9.195.3:8080/hls/218193.m3u8
 #EXTINF:0,Киножелезо HD
 #EXTGRP:Фильмовые
 https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=ef6_lx1jeE7fA4D_mGr-tQ&e=2067815807&scheme=https
@@ -713,18 +671,12 @@ http://176.118.197.101/Komediya/index.m3u8
 #EXTINF:0,Кинолаффка HD
 #EXTGRP:Фильмовые
 https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=19TY0JRfXJzPhrZLaUHGGg&e=2067815807&scheme=https
-#EXTINF:0,Кошмар
-#EXTGRP:Фильмовые
-http://195.9.195.3:8080/hls/204709.m3u8
 #EXTINF:0,Кинозалы 4
 #EXTGRP:Фильмовые
 https://fl1001.bozztv.com/ushba26/tracks-v1a1/mono.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция HD
 #EXTGRP:Фильмовые
 http://5.8.11.96:8099/mosfilmhd/index.m3u8
-#EXTINF:0,Moviee Toper HD
-#EXTGRP:Фильмовые
-http://195.9.195.3:8080/hls/214749.m3u8
 #EXTINF:0,НСТ
 #EXTGRP:Фильмовые
 http://176.118.197.101/HCT/index.m3u8
@@ -755,10 +707,5 @@ http://176.118.197.101/Retro/index.m3u8
 #EXTINF:0,MyTV HD
 #EXTGRP:Фильмовые
 http://hls127.freeott.top:8080/MyTV/mono.m3u8
-#EXTINF:0,Selecao TV HD
-#EXTGRP:Фильмовые
-http://195.9.195.3:8080/hls/163253.m3u8
-#EXTINF:0,Selecao TV2 HD
-#EXTGRP:Фильмовые
-http://195.9.195.3:8080/manifest/157269_master.m3u8
+
 
