@@ -180,9 +180,15 @@ https://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
 #EXTINF:0,Звезда Плюс HD
 #EXTGRP:Познавательные
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0,Здоровое ТВ
+#EXTGRP:Познавательные
+http://178.212.71.253:8000/play/94/index.m3u8
 #EXTINF:0,Китай ТВ HD
 #EXTGRP:Познавательные
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
+#EXTINF:0,Моя планета HD
+#EXTGRP:Познавательные
+http://tv.streams.baikal-telecom.net:8080/MoyaPlanetaHD/index.m3u8
 #EXTINF:0,Наука 2.0
 #EXTGRP:Познавательные
 http://hls127.freeott.top:8080/NAUKA/mono.m3u8
