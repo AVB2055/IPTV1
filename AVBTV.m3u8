@@ -239,9 +239,6 @@ http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 #EXTGRP:Развлекательные
 http://93.170.254.17/KVN/index.m3u8
 -------------------------------
-#EXTINF:0,Minimal / Deep Tech HD
-#EXTGRP:Музыкальные
-https://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8
 #EXTINF:0,Музыка 2 HD
 #EXTGRP:Музыкальные
 https://fl1001.bozztv.com/ushba-t2/tracks-v1a1/mono.m3u8
@@ -251,21 +248,12 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:0,radio m2o HD
 #EXTGRP:Музыкальные
 http://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1728000.m3u8
-#EXTINF:0,Радио Шансон HD
-#EXTGRP:Музыкальные
-http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
-#EXTINF:0,Новое Радио ТВ HD
-#EXTGRP:Музыкальные
-http://hls-video01.cdnvideo.ru/video01/hDvideo01-0O.sdp/playlist.m3u8
 #EXTINF:0,MIXM TB HD
 #EXTGRP:Музыкальные
 http://89.179.247.144/hls/mixm.m3u8
 #EXTINF:0,Deluxe Dance HD
 #EXTGRP:Музыкальные
 https://d2hnivx8upksrk.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1q019khonuqjh/01efc271-2cc2-49ed-adfc-a8c5117f7d26/3.m3u8
-#EXTINF:0,Hot Rock HD
-#EXTGRP:Музыкальные
-https://rpn.bozztv.com/gusa/gusa-hotrock/tracks-v1a1/index.m3u8
 #EXTINF:0,Dance TV HD
 #EXTGRP:Музыкальные
 https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
@@ -275,9 +263,6 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 #EXTINF:0,STZ Telebista HD
 #EXTGRP:Музыкальные
 https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
-#EXTINF:0,V2BEAT TV HD
-#EXTGRP:Музыкальные
-https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 #EXTINF:0,1HD Music
 #EXTGRP:Музыкальные
 http://91.247.68.229:8000/play/eee/index.m3u8
@@ -346,9 +331,6 @@ https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/play
 #EXTINF:0,Солнце HD
 #EXTGRP:Детские
 https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
-#EXTINF:0,СоюзМультфильм HD
-#EXTGRP:Детские
-http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:0,Ani HD
 #EXTGRP:Детские
 http://176.118.197.125/Ani/index.m3u8
@@ -480,12 +462,6 @@ http://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:0,Патриот
 #EXTGRP:Фильмовые
 http://catchup.videoline.ru/asvtv/index.m3u8
-#EXTINF:0,Русский Иллюзион
-#EXTGRP:Фильмовые
-http://185.46.16.239:8000/Russkiy_Illyuzion
-#EXTINF:0,Русский детектив
-#EXTGRP:Фильмовые
-http://31.148.48.15:80/Russkiy_Detektiv/index.m3u8
 #EXTINF:0,Ретро
 #EXTGRP:Фильмовые
 http://176.118.197.101/Retro/index.m3u8
