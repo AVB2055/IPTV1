@@ -490,6 +490,376 @@ http://hls127.freeott.top:8080/Clarity4K_Kosmomir/mono.m3u8
 #EXTINF:0,Clarity4K Netflix
 #EXTGRP:Cloudflare_Inc
 http://hls127.freeott.top:8080/Clarity4K_Netflix/mono.m3u8
+--------------------------
+#EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://iptvx.one/picons/sony-turbo.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",.Black
+http://158.101.222.193:88/georgia_play.php?id=black
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://iptvx.one/picons/amedia1.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Amedia 1
+http://158.101.222.193:88/georgia_play.php?id=amedia
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://iptvx.one/picons/amedia2.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Amedia 2
+http://158.101.222.193:88/georgia_play.php?id=amedia2
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="../Channel/Logo/Amedia Hit.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Amedia 2
+http://45.145.32.13:20440/kineko/index.m3u8?token=test
+#EXTINF:-1 group-title="Кино | Кинозалы 📽" tvg-logo="../Channel/Logo/Amedia Hit.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Amedia 2 HD
+http://hls127.freeott.top:8080/Amedia_2_HD/video.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://iptvx.one/picons/amedia-hit.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Amedia Hit
+http://158.101.222.193:88/georgia_play.php?id=amediahit
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="../Channel/Logo/Amedia Hit.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Amedia Hit
+http://45.145.32.13:20440/mama/index.m3u8?token=test
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://iptvx.one/picons/amedia-premium.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Amedia Premium
+http://158.101.222.193:88/georgia_play.php?id=amediapremium
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="../Channel/Logo/Amedia Premium HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Amedia Premium
+http://45.145.32.13:20440/amedia_premium_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/2394.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",ATV Armenia Premium 6
+http://timeshift.arpinet.am/255/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",ATV Bazmoc
+http://109.68.122.117:8899/bazmoc
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/2394.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",ATV CineMan HD
+http://185.57.68.33:80/255/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",BCU Stars HD
+http://hls127.freeott.top:8080/BCUStarsHD/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="../Channel/Logo/Bollywood HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Bollywood HD
+http://45.145.32.13:20440/bollywood_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="Кино | Кинозалы 📽" tvg-logo="../Channel/Logo/Bolt HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Bolt
+http://hls127.freeott.top:8080/Bolt/video.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://iptvx.one/picons/cinema-ru.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",CINEMA
+http://catchup.videoline.ru/cinema/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://iptvx.one/picons/cinema-ru.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",CINEMA
+http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://iptvx.one/picons/cinema-ru.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Cinema
+http://catchup.videoline.ru/cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://logo.vivamax.pro/logo/cineman.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Cineman HD AM
+http://185.57.68.33:80/255/playlist.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",CPS Action
+http://hls127.freeott.top:8080/CPS_Action/video.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",CPS Anime
+http://hls127.freeott.top:8080/CPS_Anime/video.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",CPS Cartoon
+http://hls127.freeott.top:8080/CPS_Cartoon/video.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",CPS Comedy
+http://hls127.freeott.top:8080/CPS_Comedy/video.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",CPS Drama
+http://hls127.freeott.top:8080/CPS_Drama/video.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",CPS Fiction
+http://hls127.freeott.top:8080/CPS_Fiction/video.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",CPS Fresh
+http://hls127.freeott.top:8080/CPS_Fresh/video.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",CPS Investigation
+http://hls127.freeott.top:8080/CPS_Investigation/video.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",CPS Jackie Chan
+http://hls127.freeott.top:8080/CPS_Jackie_Chan/video.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://static.goodgame.ru/files/avatars/av_avatar_elf.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",DTR Zona 1
+https://kino-stream.online/hls/DTRZONA1.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://iptvx.one/picons/fox.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",FX
+http://185.164.82.18:9010/ykMHqK_Fox
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",illuzionplus
+http://158.101.222.193:88/georgia_play.php?id=illuzionplus
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://img.catcast.tv/uploads/21102022/logos/39161-6352c0c04b9bd.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",IPTVPLAY Великая Отечественная HD
+http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://i124.fastpic.org/big/2025/0331/af/5fc8449eef075c1ac3e44cd3af1bcfaf.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО
+http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i123.fastpic.org/big/2024/0826/ee/6d269a3701fd505b42ad593a52cd9eee.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",IPTVPLAY ИНТЕРНЫ
+http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://i124.fastpic.org/big/2025/0331/d2/e5f1757464664ac96703393b95dff9d2.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",IPTVPLAY МультСказки HD
+http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://i124.fastpic.org/big/2025/0331/3d/26621b89b1f6365733d3b5021b259f3d.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",IPTVPLAY ПАМЯТЬ
+http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://i124.fastpic.org/big/2025/0331/3d/2ff96b10804c50a986a4e57a5c571f3d.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",IPTVPLAY УЖАСТИК
+http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://i124.fastpic.org/big/2025/0331/c2/eb38990c55ea051e02c8815ab7fd58c2.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",IPTVPLAY ФАНТАСТИКА
+http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Kino 24.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Kino 24
+http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="../Channel/Logo/Kino 24.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",kinokomediya
+http://158.101.222.193:88/georgia_play.php?id=kinokomediya
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",MM Скорость
+http://hls127.freeott.top:8080/minimax-skorost-m4f/video.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",MyTV
+http://hls127.freeott.top:8080/MyTV/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",MyTV 2
+http://hls127.freeott.top:8080/MyTV2/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",MyTV 3
+http://hls127.freeott.top:8080/MyTV3/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/3ycBZqx3/image-14.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",PRO100 TV
+http://sirius.greenhosting.ru/Pro100tvRu/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Saga TV
+http://46.175.123.164:4022/udp/239.195.65.56:1234
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://m3u.admuspeh.my/icon/.sci-fi%20orig.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Sci-Fi HD
+http://158.101.222.193:88/georgia_play.php?id=scifi
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://suzustv.clan.su/Logo/SCRIPACH_TV.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",SCRIPACH TV
+https://kino-stream.online/hls/scripach.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/SeleCaoTV.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",SeleCaoTV
+https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/playlist.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/SeleCaoTV.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",SeleCaoTV 2
+https://live20.bozztv.com/akamaissh101/ssh101/esperanza/chunks.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="../Channel/Logo/Global Star tv.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Star Media
+https://fl1001.bozztv.com/ushba4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://static.goodgame.ru/files/avatars/av_avatar_elf.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Striam Suspense
+http://146.120.14.239:3001/play/a08o
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="http://rafail1982.uz/logo/kino2.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",TikTok
+https://fl1001.bozztv.com/ushba61/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://suzustv.clan.su/Logo/TV_1_KG_FHD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",TV 1 KG HD
+http://212.2.225.30:1935/live/site.stream/playlist.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="../Channel/Logo/TV1000 Action.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",TV1000 action
+http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img/6258.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Tviksel Кино 1 International
+http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img/6258.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Tviksel Кино 1 International
+https://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://i115.fastpic.org/big/2021/0927/ca/82311b0ff394749dd8fc9916fd7b83ca.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Tviksel Музыка Кино International
+https://kino-1.catcast.tv/content/37739/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",VB VHS Classic
+https://rpn3.bozztv.com/dvrfl07/ushba-rvision/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://1lot.tv/ch/6822.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",VHS
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://rpn3.bozztv.com/dvrfl07/ushba-films-yz/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://iptvx.one/picons/vip-comedy-cee.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",VIASAT Kino Comedy HD
+http://ukr2.ukrainske.tv/493/video.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",viju TV1000 R Kino
+http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
+#EXTINF:-1 group-title="Кино | Кинозалы 📽" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",viju+ Megahit HD
+http://hls127.freeott.top:8080/ViP_Megahit/video.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/kggBNFF4/image-46.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Балабол
+https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/RKk8ncX/image-34.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Видеокассета VHS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://live21.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://iptvx.one/picons/eurokino.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Евркино
+http://158.101.222.193:88/georgia_play.php?id=eurokino
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="../Channel/Logo/Еврокино.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Еврокино
+http://45.145.32.13:20440/eurokino/index.m3u8?token=test
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://iptvx.one/picons/zee-tv.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",индия
+http://158.101.222.193:88/georgia_play.php?id=zeetv
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://img.catcast.tv/uploads/25062020/logos/38617-5ef3d12196e3e.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Кино 1 International
+https://kino-1.catcast.tv/content/38617/index.m3u8?token=0ee1b810cb70fabf816a92c7fbac144a
+#EXTINF:-1 group-title="Кино | Кинозалы 📽" tvg-logo="https://iptvx.one/picons/kino1int-tviksel.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Кино 1 International
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Дом кино премиум HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Кино без границ
+http://185.57.68.33:8091/237/playlist.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://iptvx.one/picons/kino-tv.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Кино ТВ
+https://vod.tuva.ru/kinotv/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://iptvx.one/picons/kino-tv.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Кино ТВ
+http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",КИНОДРОМ 1
+https://fl1001.bozztv.com/ushba-films-c/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-films-d/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-films-e/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-films-f/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-films-g/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-films-h/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-films-i/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-films-j/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-films-m/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-films-n/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-films-o/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-films-p/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-films-qr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-films-s/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-films-t/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-films-uv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-films-w/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-films-yz/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-rfilrms-0/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-rfilrms-a/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-rfilrms-b/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-rfilrms-e/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-rfilrms-g/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-rfilrms-i/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-rvisionclassic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",КИНОДРОМ
+https://fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",КИНОДРОМ
+https://fl1001.bozztv.com/ushba26/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",КИНОДРОМ
+https://fl1001.bozztv.com/ushba64/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",КИНОДРОМ
+https://fl1001.bozztv.com/ushba65/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://epg.one/img2/8796.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",КИНОДРОМ
+https://fl1001.bozztv.com/ushba-films-b/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://suzustv.clan.su/Logo/929e536b0ad861b672bf4de8d4ca3586.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Кинозал
+http://185.57.68.33/237/mpegts
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://www.giniko.com/logos/190x110/1576.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Кинозал Cinemator
+https://fl1003.bozztv.com/ushba-films-p/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://www.giniko.com/logos/190x110/1578.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Кинозал Film Visit
+https://fl1003.bozztv.com/ushba-films-l/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://img.catcast.tv/uploads/26012021/logos/39749-600fef81376fc.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Кинозал FilmOFF
+https://stream.ushba.tv/akamaiushba/ushba65/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://img.catcast.tv/uploads/26012021/logos/39749-600fef81376fc.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Кинозал FilmON
+https://stream.ushba.tv/akamaiushba/ushba64/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://img.catcast.tv/uploads/04092021/logos/40672-61329195ca44d.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Кинозал LAV-KINO
+https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://www.giniko.com/logos/190x110/1657.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Кинозал LentaKino
+https://fl1001.bozztv.com/ushba-films-w/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://img.catcast.tv/uploads/13052022/logos/41660-627e5adaa9772.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Кинозал Logovo Films
+https://stream.ushba.tv/akamaiushba/ushba-films-a/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://suzustv.clan.su/Logo/929e536b0ad861b672bf4de8d4ca3586.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Кинозал MB TV
+https://dvrfl07.bozztv.com/ushba-films-yz/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://www.giniko.com/logos/190x110/1600.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Кинозал Popcorn Theatre
+https://stream.ushba.tv/akamaiushba/ushba-films-uv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://www.giniko.com/logos/190x110/1654.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Кинозал SSAFilm
+https://fl1003.bozztv.com/ushba-films-c/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://img.catcast.tv/uploads/17102025/banners/49702-68f21e2ea83d1.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Кинозал TVBoom
+https://kb.catcast.tv/content/49702/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://img.catcast.tv/logos/1d545e850f06eafd2f85526e1913c07e.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Кинозал Кинорейс
+https://stream.ushba.tv/akamaiushba/ushba32/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://iptvx.one/picons/kinomiks.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Киномикс
+http://158.101.222.193:88/georgia_play.php?id=kinomiks
+#EXTINF:-1 group-title="Кино | Кинозалы 📽" tvg-logo="../Channel/Logo/Кинопоказ HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Кинопоказ HD
+http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
+#EXTINF:-1 group-title="Кино | Кинозалы 📽" tvg-logo="../Channel/Logo/Кинопремьера.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Кинопремьера HD
+http://158.101.222.193:88/georgia_play.php?id=kinopremyerahd
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://iptvx.one/picons/kinosvidanie.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Киносвидание
+http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://iptvx.one/picons/kinosemia.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Киносемья
+http://158.101.222.193:88/georgia_play.php?id=kinosemya
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://iptvx.one/picons/kinoseria.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Киносерия
+http://158.101.222.193:88/georgia_play.php?id=kinoseria
+#EXTINF:-1 group-title="Кино | Кинозалы 📽" tvg-logo="../Channel/Logo/Киносерия.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Киносерия HD
+http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://iptvx.one/picons/kinouzhas.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Киноужас
+http://158.101.222.193:88/georgia_play.php?id=kinoujas
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://iptvx.one/picons/kinoxit.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Кинохит
+http://158.101.222.193:88/georgia_play.php?id=kinohit
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://iptvx.one/picons/klassika-kino.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Классика кино
+https://dvrfl07.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://iptvx.one/picons/lubimoe-kino.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",ЛЮБИМОЕ КИНО HD
+http://84.54.128.52:9090/play/a002/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/bgKXShY5/image-14.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Маша и Медведь
+https://live21.bozztv.com/giatvplayout7/ushba79/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="../Channel/Logo/Мир сериала.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Мир сериала
+http://45.145.32.13:20440/ctc_kids_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://iptvx.one/picons/mir-seriala.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Мир Сериала
+http://84.54.128.52:9090/play/a003/index.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://iptvx.one/picons/mir-seriala.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Мир сериала
+http://94.236.201.114/MIR_SERIALA_SD/index.m3u8
+#EXTINF:-1 group-title="Кино | Кинозалы 📽" tvg-logo="../Channel/Logo/Мосфильм. Золотая коллекция.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Мосфильм. Золотая коллекция
+http://178.134.1.158:8081/mosfilm/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",МУви ТВ
+http://cdn.voka.tv/live/5007-req_5k_v5.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://iptvx.one/picons/muzhskoe-kino.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Мужское Кино
+http://158.101.222.193:88/georgia_play.php?id=interesnoetv
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="../Channel/Logo/Наш кинопоказ.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Наш Киномир
+http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://iptvx.one/picons/nashe-novoe-kino.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Наше новое кино
+http://158.101.222.193:88/georgia_play.php?id=nashanovoekino
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/Mxv7fjsN/image-32.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Невский
+https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="https://iptvx.one/picons/nst.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",НСТ
+http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://iptvx.one/picons/ntv-serial.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",НТВ Сериал
+https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://iptvx.one/picons/ntv-serial.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",НТВ Сериал
+https://cdn.ntv.ru/th_serial/playlist.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://iptvx.one/picons/ntv-xit.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",НТВ Хит
+https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://iptvx.one/picons/ntv-xit.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",НТВ Хит
+#EXTVLCOPT:http-user-agent=SmartTV
+http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино | Кинозалы 📽" tvg-logo="../Channel/Logo/НТВ-Хит.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",НТВ-Сериал
+http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино | Кинозалы 📽" tvg-logo="../Channel/Logo/НТВ-Хит.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",НТВ-Хит
+http://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/7tSd2XYf/image-31.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Первый Отдел
+https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Кино | Кинозалы 📽" tvg-logo="../Channel/Logo/Про любовь.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Про любовь HD
+http://hls127.freeott.top:8080/ProLubovHD/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/HpNJPkGR/image-47.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Пять минут тишины
+https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/nsjTTHm2/image-44.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Пёс
+https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="../Channel/Logo/Русский иллюзион.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Русский иллюзион
+http://45.145.32.13:20440/ocean_tv/index.m3u8?token=test
+#EXTINF:-1 group-title="📽 Кино | Кинозалы" tvg-logo="../Channel/Logo/Русский роман.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Русский Роман
+http://vod.tuva.ru/rusroman/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/60nhtkx6/image-4.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Сити Эдем - КиноАзия
+https://cityeden.catcast.tv/content/34393/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/S7nxTYbg/image-9.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Сити Эдем - КиноАрт
+https://cityeden.catcast.tv/content/38398/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/CKnJRBd0/image-12.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Сити Эдем - КиноДок
+https://cityeden.catcast.tv/content/38354/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/GQKpsxmC/image-14.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Сити Эдем - КиноДрама
+https://cityeden.catcast.tv/content/45269/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/qMrRd04Y/image-15.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Сити Эдем - КиноКлассика
+https://cityeden.catcast.tv/content/34185/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/WNMR4pxD/image-16.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Сити Эдем - КиноКомедия
+https://cityeden.catcast.tv/content/41331/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/KxqVmt9B/image-17.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Сити Эдем - КиноМистика
+https://cityeden.catcast.tv/content/40783/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/XxFPCHT6/image-18.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Сити Эдем - КиноФантастика
+https://cityeden.catcast.tv/content/45268/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/Zp0rStg2/image-19.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Сити Эдем - КиноЭкшен
+https://cityeden.catcast.tv/content/41333/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/SDGvD0bh/image-22.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Сити Эдем - Классическая Музыка
+https://cityeden.catcast.tv/content/47400/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/SXsV7qpb/image-26.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Сити Эдем - МедЗдрав
+https://cityeden.catcast.tv/content/47519/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/8D2Pnhd1/image-23.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Сити Эдем - Сиртаки ТВ
+https://cityeden.catcast.tv/content/46421/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/ynB5bFXQ/image-45.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Скорая помощь
+https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/nMsMD0Q4/image-34.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Следствие вели...
+https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://i122.fastpic.org/big/2023/0603/9b/c9b9f8b6914f6c1456c356ccff97589b.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Смотрим
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://suzustv.clan.su/Logo/wo37spz.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Смотрим
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://i121.fastpic.org/big/2023/0110/46/4c20b6b7c8b6bc277120cad791ad1b46.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Смотрим Кино и сериалы HD
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/4nV26ShC/image-4.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Смотрим Мужское
+http://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/4nV26ShC/image-4.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Смотрим Праздник
+http://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://suzustv.clan.su/Logo/u3lIkS8.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Союзмультфильм
+http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/qZJGKb4/image-15.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",СССР Мульты
+https://live21.bozztv.com/giatvplayout7/ushba80/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://iptvx.one/picons/strk.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",СТРК HD
+http://sochinskayatrk.ru/hdtv/hls/CTPK_HD/playlist.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://iptvx.one/picons/strk.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",СТРК HD
+http://sochinskayatrk.ru/hdtv/hls/CTPK_400/playlist.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://iptvx.one/picons/tvoyo-tv-hd.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Твоё ТВ HD
+https://tvoetv.space/tvoetv/video.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="http://i122.fastpic.org/big/2023/0805/8d/2a254e4e6a494c311f0a4536688e948d.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Твоё ТВ HD Юмор
+http://tvoetv.space:8080/tvoetv_humor/video.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/CpYZFf54/image-38.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Ты супер !
+https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://suzustv.clan.su/Logo/ExL2z8V.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Чип и Дейл
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:-1 group-title="📽 КиноПлюс" tvg-logo="https://i.ibb.co/pBZQdVdM/image-30.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="ГЕДЕМ",Шеф
+https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
+
 
 
 
