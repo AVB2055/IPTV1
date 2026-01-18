@@ -275,9 +275,6 @@ http://95.47.156.60:8000/play/a014/index.m3u8
 #EXTINF:0,О!2
 #EXTGRP:Музыкальные
 http://77.232.131.211/O2TV/index.m3u8
-#EXTINF:0,Trace Urban HD
-#EXTGRP:Музыкальные
-https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 -------------------------------
 #EXTINF:0,A21 Network HD
 #EXTGRP:Спортивные
@@ -493,6 +490,7 @@ http://hls127.freeott.top:8080/Clarity4K_Kosmomir/mono.m3u8
 #EXTINF:0,Clarity4K Netflix
 #EXTGRP:Cloudflare_Inc
 http://hls127.freeott.top:8080/Clarity4K_Netflix/mono.m3u8
+
 
 
 
