@@ -128,18 +128,12 @@ https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce
 #EXTINF:0,Теледом HD
 #EXTGRP:Новостные
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
-#EXTINF:0,365 дней
-#EXTGRP:Познавательные
-http://176.118.197.125/365_dney_tv/index.m3u8
 #EXTINF:0,RT Д HD
 #EXTGRP:Познавательные
 http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
 #EXTINF:0,Звезда Плюс HD
 #EXTGRP:Познавательные
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0,Время HD
-#EXTGRP:Познавательные
-http://176.118.197.125/Vremya/index.m3u8
 #EXTINF:0,CGTN HD
 #EXTGRP:Познавательные
 https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
@@ -161,21 +155,12 @@ http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:0,Продвижение HD
 #EXTGRP:Познавательные
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
-#EXTINF:0,Galaxy HD
-#EXTGRP:Познавательные
-http://176.118.197.125/Galaxy/index.m3u8
 #EXTINF:0,Наука 2.0
 #EXTGRP:Познавательные
 http://hls127.freeott.top:8080/NAUKA/mono.m3u8
-#EXTINF:0,RTG HD
-#EXTGRP:Познавательные
-http://176.118.197.125/RTG-TV/index.m3u8
 #EXTINF:0,Travel+Adventure HD
 #EXTGRP:Познавательные
 http://77.232.131.211/TravelAdventureHD/index.m3u8
-#EXTINF:0,Драйв
-#EXTGRP:Познавательные
-http://176.118.197.125/Draiv/index.m3u8
 #EXTINF:0,Точка.РФ HD
 #EXTGRP:Познавательные
 http://45.145.32.13:20440/hdl/index.m3u8?token=test
@@ -260,9 +245,6 @@ http://89.179.247.144/hls/mixm.m3u8
 #EXTINF:0,Deluxe Dance HD
 #EXTGRP:Музыкальные
 https://d2hnivx8upksrk.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1q019khonuqjh/01efc271-2cc2-49ed-adfc-a8c5117f7d26/3.m3u8
-#EXTINF:0,Dance TV HD
-#EXTGRP:Музыкальные
-https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 #EXTINF:0,Kronehit HD
 #EXTGRP:Музыкальные
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
@@ -332,15 +314,9 @@ https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/play
 #EXTINF:0,Солнце HD
 #EXTGRP:Детские
 https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
-#EXTINF:0,Ani HD
-#EXTGRP:Детские
-http://176.118.197.125/Ani/index.m3u8
 #EXTINF:0,Clarity4K Anime
 #EXTGRP:Детские
 http://hls127.freeott.top:8080/Clarity4K_Anime/mono.m3u8
-#EXTINF:0,Gulli Girl HD
-#EXTGRP:Детские
-http://176.118.197.125/Gulli-Girl/index.m3u8
 #EXTINF:0,СТС Kids
 #EXTGRP:Детские
 http://hls127.freeott.top:8080/STS_Kids/mono.m3u8
@@ -408,9 +384,6 @@ http://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:0,Патриот
 #EXTGRP:Кино | Кинозалы
 http://catchup.videoline.ru/asvtv/index.m3u8
-#EXTINF:0,Ретро
-#EXTGRP:Кино | Кинозалы
-http://176.118.197.101/Retro/index.m3u8
 #EXTINF:0,Amedia 1
 #EXTGRP:Кино | Кинозалы
 http://158.101.222.193:88/georgia_play.php?id=amedia
