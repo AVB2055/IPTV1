@@ -59,9 +59,6 @@ http://stream-tv.ew21.ru/019/video.m3u8?hash=TN66TE4YB
 #EXTINF:0,Муз ТВ
 #EXTGRP:Федеральные
 https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
-#EXTINF:0,Вместе РФ HD
-#EXTGRP:Новостные
-http://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 #EXTINF:0,Мир 24 HD
 #EXTGRP:Новостные
 http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
@@ -80,21 +77,12 @@ http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,Крик-ТВ HD
 #EXTGRP:Новостные
 http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8
-#EXTINF:0,ПРНК HD
-#EXTGRP:Новостные
-https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
-#EXTINF:0,TV BRICS HD
-#EXTGRP:Новостные
-http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 #EXTINF:0,360 Новости HD
 #EXTGRP:Новостные
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v5a1/mono.m3u8
 #EXTINF:0,360 HD
 #EXTGRP:Новостные
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
-#EXTINF:0,Про бизнес
-#EXTGRP:Новостные
-http://176.107.219.20:9000/play/a003/index.m3u8
 #EXTINF:0,RTVi
 #EXTGRP:Новостные
 http://178.134.1.158:8081/rtvi/index.m3u8
@@ -122,12 +110,27 @@ https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
 #EXTINF:0,ПЕРВЫЙ ИНФОРМАЦИОННЫЙᴴᴰ
 #EXTGRP:Новостные
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w868240704_b5160000_sleng.m3u8
+#EXTINF:0,Вместе РФ HD
+#EXTGRP:Новостные
+http://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
+#EXTINF:0,ПРНК HD
+#EXTGRP:Новостные
+https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
+#EXTINF:0,TV BRICS HD
+#EXTGRP:Новостные
+http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
+#EXTINF:0,Про бизнес
+#EXTGRP:Новостные
+http://176.107.219.20:9000/play/a003/index.m3u8
 #EXTINF:0,Москва 24 HD
 #EXTGRP:Новостные
 https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
-#EXTINF:0,Теледом HD
+#EXTINF:0,Москва. Доверие
 #EXTGRP:Новостные
-http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
+http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
+#EXTINF:0,Саратов 24 HD
+#EXTGRP:Новостные
+http://109.248.11.19:8081/web/c24/playlist.m3u8
 #EXTINF:0,RT Д HD
 #EXTGRP:Познавательные
 http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
@@ -137,15 +140,6 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,CGTN HD
 #EXTGRP:Познавательные
 https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
-#EXTINF:0,Китай ТВ HD
-#EXTGRP:Познавательные
-https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
-#EXTINF:0,Москва. Доверие
-#EXTGRP:Познавательные
-http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
-#EXTINF:0,Саратов 24 HD
-#EXTGRP:Познавательные
-http://109.248.11.19:8081/web/c24/playlist.m3u8
 #EXTINF:0,Неизвестная россия HD
 #EXTGRP:Познавательные
 http://cdn2.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
@@ -153,7 +147,7 @@ http://cdn2.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
 #EXTGRP:Познавательные
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:0,Продвижение HD
-#EXTGRP:Познавательные
+#EXTGRP:Сериалы
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 #EXTINF:0,Наука 2.0
 #EXTGRP:Познавательные
@@ -179,7 +173,7 @@ http://hls127.freeott.top:8080/Sovershenno_Sekretno/mono.m3u8
 #EXTINF:0,Тайна HD
 #EXTGRP:Познавательные
 https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=GmFSizHee8DpOJI6J0bwMA&e=2067815807&scheme=https
-#EXTINF:0,Ностальгия HD
+#EXTINF:0,Развлекательные HD
 #EXTGRP:Познавательные
 http://hls127.freeott.top:8080/Nostalgiya/mono.m3u8
 #EXTINF:0,Арт
@@ -230,6 +224,12 @@ http://158.101.222.193:88/georgia_play.php?id=kvntv
 #EXTINF:0,Смотрим Праздник
 #EXTGRP:Развлекательные
 http://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564.m3u8
+#EXTINF:0,Теледом HD
+#EXTGRP:Развлекательные
+http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
+#EXTINF:0,Китай ТВ HD
+#EXTGRP:Развлекательные
+https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
 #EXTINF:0,Музыка 2 HD
 #EXTGRP:Музыкальные
 https://fl1001.bozztv.com/ushba-t2/tracks-v1a1/mono.m3u8
@@ -329,7 +329,6 @@ http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:0,Чип и Дейл
 #EXTGRP:Детские
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
-
 #EXTINF:0,Arpinet ITC
 #EXTGRP:Кино | Кинозалы
 http://timeshift.arpinet.am/237/index.m3u8
@@ -888,6 +887,3 @@ https://tvoetv.space/tvoetv/video.m3u8
 #EXTINF:0,Твоё ТВ HD Юмор
 #EXTGRP:КиноПлюс
 http://tvoetv.space:8080/tvoetv_humor/video.m3u8
-
-
-
