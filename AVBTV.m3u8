@@ -1,63 +1,63 @@
 #EXTM3U
 #EXTINF:0,Первый канал HD
-#EXTGRP:Основные
+#EXTGRP:Федеральные
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:0,Россия 1 HD
-#EXTGRP:Основные
+#EXTGRP:Федеральные
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:0,Матч ТВ HD
-#EXTGRP:Основные
+#EXTGRP:Федеральные
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:0,НТВ HD
-#EXTGRP:Основные
+#EXTGRP:Федеральные
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:0,Пятый Канал
-#EXTGRP:Основные
+#EXTGRP:Федеральные
 http://stream-tv.ew21.ru/005/video.m3u8?hash=TN66TE4YB
 #EXTINF:0,Россия К
-#EXTGRP:Основные
+#EXTGRP:Федеральные
 http://stream-tv.ew21.ru/006/video.m3u8?hash=TN66TE4YB
 #EXTINF:0,Россия 24 HD
-#EXTGRP:Основные
+#EXTGRP:Федеральные
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
 #EXTINF:0,Карусель HD
-#EXTGRP:Основные
+#EXTGRP:Федеральные
 http://stream-tv.ew21.ru/008/video.m3u8?hash=TN66TE4YB
 #EXTINF:0,ОТР HD
-#EXTGRP:Основные
+#EXTGRP:Федеральные
 http://stream-tv.ew21.ru/009/video.m3u8?hash=TN66TE4YB
 #EXTINF:0,ТВЦ HD
-#EXTGRP:Основные
+#EXTGRP:Федеральные
 http://stream-tv.ew21.ru/010/video.m3u8?hash=TN66TE4YB
 #EXTINF:0,Рен ТВ
-#EXTGRP:Основные
+#EXTGRP:Федеральные
 http://stream-tv.ew21.ru/011/video.m3u8?hash=TN66TE4YB
 #EXTINF:0,СПАС
-#EXTGRP:Основные
+#EXTGRP:Федеральные
 http://stream-tv.ew21.ru/012/video.m3u8?hash=TN66TE4YB
 #EXTINF:0,СТС
-#EXTGRP:Основные
+#EXTGRP:Федеральные
 http://stream-tv.ew21.ru/013/video.m3u8?hash=TN66TE4YB
 #EXTINF:0,Домашний
-#EXTGRP:Основные ⓵
+#EXTGRP:Федеральные
 http://45.145.32.13:20440/domashnij/index.m3u8?token=test
 #EXTINF:0,ТВ3
-#EXTGRP:Основные
+#EXTGRP:Федеральные
 http://stream-tv.ew21.ru/015/video.m3u8?hash=TN66TE4YB
 #EXTINF:0,Пятница
-#EXTGRP:Основные
+#EXTGRP:Федеральные
 http://stream-tv.ew21.ru/016/video.m3u8?hash=TN66TE4YB
 #EXTINF:0,Звезда HD
-#EXTGRP:Основные
+#EXTGRP:Федеральные
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:0,Мир
-#EXTGRP:Основные
+#EXTGRP:Федеральные
 http://95.47.156.60:8000/play/18/index.m3u8
 #EXTINF:0,ТНТ
-#EXTGRP:Основные
+#EXTGRP:Федеральные
 http://stream-tv.ew21.ru/019/video.m3u8?hash=TN66TE4YB
 #EXTINF:0,Муз ТВ
-#EXTGRP:Основные
+#EXTGRP:Федеральные
 https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
 #EXTINF:0,Вместе РФ HD
 #EXTGRP:Новостные
@@ -888,5 +888,6 @@ https://tvoetv.space/tvoetv/video.m3u8
 #EXTINF:0,Твоё ТВ HD Юмор
 #EXTGRP:КиноПлюс
 http://tvoetv.space:8080/tvoetv_humor/video.m3u8
+
 
 
