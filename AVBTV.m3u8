@@ -149,12 +149,6 @@ http://hls127.freeott.top:8080/NAUKA/mono.m3u8
 #EXTINF:0,Viasat History
 #EXTGRP:Познавательные
 http://89.232.68.194:8080/HISTORY/tracks-v1a1/index.m3u8
-#EXTINF:0,USHBA Star Media
-#EXTGRP:Познавательные
-https://fl1001.bozztv.com/Кинофильмы4/tracks-v1a1/mono.m3u8
-#EXTINF:0,USHBA Доктор Достоевский
-#EXTGRP:Познавательные
-https://fl1001.bozztv.com/Кинофильмы3/tracks-v1a1/mono.m3u8
 #EXTINF:0,Совершенно секретно
 #EXTGRP:Познавательные
 http://hls127.freeott.top:8080/Sovershenno_Sekretno/mono.m3u8
@@ -233,15 +227,9 @@ https://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
 #EXTINF:0,НТВ конкурс Ты супер ! HD
 #EXTGRP:Развлекательные
 https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:0,USHBA Gameplay SD
-#EXTGRP:Развлекательные
-https://fl1001.bozztv.com/Кинофильмы31/tracks-v1a1/mono.m3u8
 #EXTINF:0,Смотрим Праздник
 #EXTGRP:Развлекательные
 http://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564.m3u8
-#EXTINF:0,USHBA Музыка 2 HD
-#EXTGRP:Музыкальные
-https://fl1001.bozztv.com/Кинофильмы-t2/tracks-v1a1/mono.m3u8
 #EXTINF:0,Страна FM HD
 #EXTGRP:Музыкальные
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
@@ -308,9 +296,6 @@ https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd
 #EXTINF:0,Футбол
 #EXTGRP:Спортивные
 http://hls127.freeott.top:8080/Football/mono.m3u8
-#EXTINF:0,USHBA Ералаш
-#EXTGRP:Детские
-https://fl1001.bozztv.com/Кинофильмы8/tracks-v1a1/mono.m3u8
 #EXTINF:0,Мульт HD
 #EXTGRP:Детские
 http://stv.mediacdn.ru/live/cdn/mult/tracks-v1a1/mono.ts.m3u8
@@ -340,13 +325,7 @@ http://194.26.229.213/souzmultfilm/index.m3u8
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:0,Alpha Cinemaᴴᴰ
 #EXTGRP:Кинофильмы
-https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb_output_0.m3u8?session=W2y6fJk87CThRKzDw8KxVh
-#EXTINF:0,Alpha Cinemaᴴᴰ
-#EXTGRP:Кинофильмы
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
-#EXTINF:0,Alpha Moretimeᴴᴰ
-#EXTGRP:Кинофильмы
-https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd_output_0.m3u8?session=4AoZN7Rxw59jYpjVBmY4th
 #EXTINF:0,Alpha Moretimeᴴᴰ
 #EXTGRP:Кинофильмы
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
@@ -356,9 +335,6 @@ http://timeshift.arpinet.am/255/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,Arpinet SD
 #EXTGRP:Кинофильмы
 http://185.57.68.33/237/mpegts
-#EXTINF:0,Arpinet ITC
-#EXTGRP:Кинофильмы
-http://timeshift.arpinet.am/237/index.m3u8
 #EXTINF:0,ATV Bazmoc
 #EXTGRP:Кинофильмы
 http://109.68.122.117:8899/bazmoc
@@ -368,15 +344,6 @@ http://185.57.68.33:80/255/index.m3u8
 #EXTINF:0,BCU Stars HD+
 #EXTGRP:Кинофильмы
 http://hls127.freeott.top:8080/BCUStarsHD/mono.m3u8
-#EXTINF:0,Bollywood HD
-#EXTGRP:Кинофильмы
-http://45.145.32.13:20440/bollywood_hd/index.m3u8?token=test
-#EXTINF:0,Cinema [720x576]
-#EXTGRP:Кинофильмы
-http://catchup.videoline.ru/cinema/tracks-v1a1/mono.m3u8
-#EXTINF:0,Cinema [720x576]
-#EXTGRP:Кинофильмы
-http://catchup.videoline.ru/cinema/index.m3u8
 #EXTINF:0,Cineman HD AM
 #EXTGRP:Кинофильмы
 http://185.57.68.33:80/255/playlist.m3u8
@@ -434,34 +401,9 @@ http://hls127.freeott.top:8080/CPS_Investigation/video.m3u8
 #EXTINF:0,CPS Jackie Chan
 #EXTGRP:Кинофильмы
 http://hls127.freeott.top:8080/CPS_Jackie_Chan/video.m3u8
-#EXTINF:0,HollywooD HD [1920x1080]
-#EXTGRP:Кинофильмы
-http://77.106.252.178:4022/udp/233.33.210.189:5050
-#EXTINF:0,HollywooD HD [1920x1080]
-#EXTGRP:Кинофильмы
-http://31.148.48.15/MGM_HD/index.m3u8
-#EXTINF:0,IPTVPLAY Великая Отечественная HD
-#EXTGRP:Кинофильмы
-http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:0,IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО
-#EXTGRP:Кинофильмы
-http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:0,IPTVPLAY ИНТЕРНЫ
-#EXTGRP:Кинофильмы
-http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:0,IPTVPLAY МультСказки HD
-#EXTGRP:Кинофильмы
-http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:0,IPTVPLAY ПАМЯТЬ
-#EXTGRP:Кинофильмы
-http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:0,IPTVPLAY УЖАСТИК
-#EXTGRP:Кинофильмы
-http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:0,IPTVPLAY ФАНТАСТИКА
 #EXTGRP:Кинофильмы
 http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
-
 #EXTINF:0,MM Скорость
 #EXTGRP:Кинофильмы
 http://hls127.freeott.top:8080/minimax-skorost-m4f/video.m3u8
@@ -486,24 +428,9 @@ http://89.232.68.194:8080/ComedyHD/tracks-v1a1/index.m3u8
 #EXTINF:0,viju TV1000 HD
 #EXTGRP:Кинофильмы
 http://vod.splay.uz/live_splay/original/TV1000/tracks-v1a1/mono.m3u8
-#EXTINF:0,TV1000 action
-#EXTGRP:Кинофильмы
-http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
-#EXTINF:0,viju TV1000 R Kino
-#EXTGRP:Кинофильмы
-http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
 #EXTINF:0,viju+ Megahit HD
 #EXTGRP:Кинофильмы
 http://hls127.freeott.top:8080/ViP_Megahit/video.m3u8
-#EXTINF:0,ЕвроКино
-#EXTGRP:Кинофильмы
-http://45.145.32.13:20440/eurokino/index.m3u8?token=test
-#EXTINF:0,ЕвроКино
-#EXTGRP:Кинофильмы
-http://158.101.222.193:88/georgia_play.php?id=eurokino
-#EXTINF:0,Иллюзион+
-#EXTGRP:Кинофильмы
-http://158.101.222.193:88/georgia_play.php?id=illuzionplus
 #EXTINF:0,Киномикс
 #EXTGRP:Кинофильмы
 https://vod.splay.uz/live_splay/original/KinomiksHD/tracks-v1a1/mono.m3u8
@@ -513,45 +440,6 @@ https://vod.splay.uz/live_splay/original/Kinosemya/tracks-v1a1/mono.m3u8
 #EXTINF:0,Кинохит HD
 #EXTGRP:Кинофильмы
 https://vod.splay.uz/live_splay/original/Kinoxit/tracks-v1a1/mono.m3u8
-#EXTINF:0,Киносвидание HD
-#EXTGRP:Кинофильмы
-http://vod.splay.uz/live_splay/original/Kinosvidanie/tracks-v1a1/mono.m3u8
-#EXTINF:0,Киномикс
-#EXTGRP:Кинофильмы
-http://158.101.222.193:88/georgia_play.php?id=kinomiks
-#EXTINF:0,Кинопремьера HD
-#EXTGRP:Кинофильмы
-http://158.101.222.193:88/georgia_play.php?id=kinopremyerahd
-#EXTINF:0,Киносвидание
-#EXTGRP:Кинофильмы
-http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
-#EXTINF:0,Киносемья
-#EXTGRP:Кинофильмы
-http://158.101.222.193:88/georgia_play.php?id=kinosemya
-#EXTINF:0,Кинохит
-#EXTGRP:Кинофильмы
-http://158.101.222.193:88/georgia_play.php?id=kinohit
-#EXTINF:0,Мужское Кино
-#EXTGRP:Кинофильмы
-http://158.101.222.193:88/georgia_play.php?id=interesnoetv
-#EXTINF:0,Наше новое Кино
-#EXTGRP:Кинофильмы
-http://158.101.222.193:88/georgia_play.php?id=nashanovoekino
-#EXTINF:0,Патриот
-#EXTGRP:Кинофильмы
-http://catchup.videoline.ru/asvtv/index.m3u8
-#EXTINF:0,Кино 1 International
-#EXTGRP:Кинофильмы
-https://kino-1.catcast.tv/content/38617/index.m3u8?token=0ee1b810cb70fabf816a92c7fbac144a
-#EXTINF:0,Kino 24
-#EXTGRP:Кинофильмы
-http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
-#EXTINF:0,Кинокомедия
-#EXTGRP:Кинофильмы
-http://158.101.222.193:88/georgia_play.php?id=kinokomediya
-#EXTINF:0,Кино 1 International
-#EXTGRP:Кинофильмы
-http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:0,Кинопоказ HD
 #EXTGRP:Кинофильмы
 http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
@@ -561,12 +449,6 @@ http://hls127.freeott.top:8080/Kinopokaz_HD/mono.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция HD
 #EXTGRP:Кинофильмы
 http://5.8.11.96:8099/mosfilmhd/index.m3u8
-#EXTINF:0,Мосфильм. Золотая коллекция
-#EXTGRP:Кинофильмы
-http://178.134.1.158:8081/mosfilm/index.m3u8
-#EXTINF:0,Русский иллюзион
-#EXTGRP:Кинофильмы
-http://45.145.32.13:20440/ocean_tv/index.m3u8?token=test
 #EXTINF:0,Кino Премьера HD
 #EXTGRP:Кинофильмы
 http://157.90.0.245:8070/KINOPREMIERA/index.m3u8
@@ -582,187 +464,23 @@ https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=19
 #EXTINF:0,Кино без границ
 #EXTGRP:Кинофильмы
 http://185.57.68.33:8091/237/playlist.m3u8
-#EXTINF:0,Сити Эдем - КиноАзия
-#EXTGRP:Кинофильмы
-https://cityeden.catcast.tv/content/34393/index.m3u8
-#EXTINF:0,Сити Эдем - КиноАрт
-#EXTGRP:Кинофильмы
-https://cityeden.catcast.tv/content/38398/index.m3u8
-#EXTINF:0,Сити Эдем - КиноДок
-#EXTGRP:Кинофильмы
-https://cityeden.catcast.tv/content/38354/index.m3u8
-#EXTINF:0,Сити Эдем - КиноДрама
-#EXTGRP:Кинофильмы
-https://cityeden.catcast.tv/content/45269/index.m3u8
-#EXTINF:0,Сити Эдем - КиноКлассика
-#EXTGRP:Кинофильмы
-https://cityeden.catcast.tv/content/34185/index.m3u8
-#EXTINF:0,Сити Эдем - КиноКомедия
-#EXTGRP:Кинофильмы
-https://cityeden.catcast.tv/content/41331/index.m3u8
-#EXTINF:0,Сити Эдем - КиноМистика
-#EXTGRP:Кинофильмы
-https://cityeden.catcast.tv/content/40783/index.m3u8
-#EXTINF:0,Сити Эдем - КиноФантастика
-#EXTGRP:Кинофильмы
-https://cityeden.catcast.tv/content/45268/index.m3u8
-#EXTINF:0,Сити Эдем - КиноЭкшен
-#EXTGRP:Кинофильмы
-https://cityeden.catcast.tv/content/41333/index.m3u8
-#EXTINF:0,Сити Эдем - Классическая Музыка
-#EXTGRP:Кинофильмы
-https://cityeden.catcast.tv/content/47400/index.m3u8
-#EXTINF:0,Сити Эдем - МедЗдрав
-#EXTGRP:Кинофильмы
-https://cityeden.catcast.tv/content/47519/index.m3u8
-#EXTINF:0,Сити Эдем - Сиртаки ТВ
-#EXTGRP:Кинофильмы
-https://cityeden.catcast.tv/content/46421/index.m3u8
-#EXTINF:0,Lenta Kino
-#EXTGRP:Кинофильмы
-http://tinyurl.com/TvZaTak20/Кинофильмы-films-w/tracks-v1a1/mono.m3u8
-#EXTINF:0,BreakingBadᴴᴰ
-#EXTGRP:Кинофильмы
-https://liveplay.trovo.live/live/73846_117132673_117132673.flv?bizid=73846&txSecret=6026d1a456491b502f282535e7196658&txTime=692e053c&_bmlj_t=ChxLSjE2TTlJQ1U4Qmh5eU40ZjdxNXJaSXd1UzA9EiQzYmQ4OGRiNi02ZmQyLTQ5OTUtYmMzMS02NmQxZDU5ODllMjAaHjExNzEzMjY3M18xMTcxMzI2NzNfMTc2NDAxODg3NiCVnKnKBiiP%2BMQ3Mhk3Mzg0Nl8xMTcxMzI2NzNfMTE3MTMyNjczQg00Ni4xMzguMTQ4LjgyShtsaXZlLXJlYWRlci1zdnJfR2V0TGl2ZUluZm9QBGACehI5ODIxOTQwNzM2MjUwOTEwMjCQAQQ%3D&playScene=innerSite&pvid=982194073625091020&_f_=1766477338289
-#EXTINF:0,Kin0ZALL HD
-#EXTGRP:Кинофильмы
-https://liveplay.trovo.live/live/73846_116058117_116058117.flv?bizid=73846&txSecret=5018db03ac0508edf13f9aa18bb6d2eb&txTime=695e209d&_bmlj_t=ChxMeU5LQWdrTzBqNGdCZExCdjR2elNUcGIwTDg9EiRlYTNkYTA4MC0wOTJlLTQzMjUtOTU1My1jM2QyMTkwZmUxNGUaHjExNjA1ODExN18xMTYwNTgxMTdfMTc2NzE3MTYxMyCT19TKBiiP%2BMQ3Mhk3Mzg0Nl8xMTYwNTgxMTdfMTE2MDU4MTE3Qg00Ni4xMzguMTQ4LjgyShtsaXZlLXJlYWRlci1zdnJfR2V0TGl2ZUluZm9QBGACehI4ODUwMTI2ODQ4MjUxMjIzMTmQAQQ%3D&playScene=innerSite&pvid=885012684825122319&_f_=1767189399211
-#EXTINF:0,PryaniKᴴᴰ
-#EXTGRP:Кинофильмы
-https://liveplay2.trovocdn.net/mist/flv/video+f704nk3yz8kbqvup.flv?bizid=73846&txSecret=6d9000d0831c04e61c1ca43b0e67652d&txTime=694a9aa3&waittrackcount=7&maxwaittrackms=30000&buffer=10&startunix=-10&trovoFlv=1&video=5000kbps&_bmlj_t=ChxyRy8wRjA5V0xYSVJrY1dOYUUzckFMRTBNaEk9EiQwYWMxZjAwYS05MjIyLTQ1ZWMtYjU1Mi0zZTRkZTgyYTRmZDkaHjExNjgxNjc1MF8xMTY4MTY3NTBfMTc2NTg5MjEyNiDZxZXKBiiP%2BMQ3MhZ2aWRlbytmNzA0bmszeXo4a2JxdnVwONg2Qg00Ni4xMzguMTQ4LjgyShtsaXZlLXJlYWRlci1zdnJfR2V0TGl2ZUluZm9QBGACehI5ODIxOTQwNzM2MjUwOTEwMjCQAQQ%3D&playScene=innerSite&pvid=982194073625091020&_f_=1766154972225
-#EXTINF:0,USHBA LAV-KINO
-#EXTGRP:Кинофильмы
-https://fl1004.bozztv.com/Кинофильмы32/tracks-v1a1/mono.m3u8
 #EXTINF:0,USHBA SeleCaoTV
 #EXTGRP:Кинофильмы
 https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/playlist.m3u8
-#EXTINF:0,USHBA SeleCaoTV SD
-#EXTGRP:Кинофильмы
-https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/chunks.m3u8
 #EXTINF:0,USHBA SeleCaoTV 2
 #EXTGRP:Кинофильмы
 https://live20.bozztv.com/akamaissh101/ssh101/esperanza/chunks.m3u8
 #EXTINF:0,USHBA Видеокассетаᴴᴰ
 #EXTGRP:Кинофильмы
 https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
-#EXTINF:0,USHBA Классика Кино
-#EXTGRP:Кинофильмы
-https://dvrfl07.bozztv.com/Кинофильмы-rvisionmovies/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0,USHBA Сов.Ком
-#EXTGRP:Кинофильмы
-https://live20.bozztv.com/giatvplayout7/Кинофильмы-rfilrms-z/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0,USHBA KINOSTREAM
-#EXTGRP:Кинофильмы
-https://live20.bozztv.com/giatvplayout7/Кинофильмы102/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0,USHBA КлассикаКино SD
-#EXTGRP:Кинофильмы
-https://dvrfl07.bozztv.com/Кинофильмы-rvisionmovies/tracks-v1a1/mono.m3u8
-#EXTINF:0,USHBA UniverMedia
-#EXTGRP:Кинофильмы
-https://live20.bozztv.com/giatvplayout7/Кинофильмы101/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0,USHBA K1HO
-#EXTGRP:Кинофильмы
-https://live20.bozztv.com/giatvplayout7/Кинофильмы100/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0,USHBA KINO FILE
-#EXTGRP:Кинофильмы
-https://live21.bozztv.com/giatvplayout7/Кинофильмы99/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0,USHBA Film Visit
-#EXTGRP:Кинофильмы
-https://fl1003.bozztv.com/Кинофильмы-films-l/tracks-v1a1/mono.m3u8
-#EXTINF:0,USHBA FilmON SD
-#EXTGRP:Кинофильмы
-https://rpn3.bozztv.com/dvrfl07/Кинофильмы64/index.m3u8
-#EXTINF:0,USHBA Cinemator
-#EXTGRP:Кинофильмы
-https://fl1003.bozztv.com/Кинофильмы-films-p/tracks-v1a1/mono.m3u8
-#EXTINF:0,USHBA RVision SD
-#EXTGRP:Кинофильмы
-https://fl1003.bozztv.com/Кинофильмы-rvisionmovies/tracks-v1a1/mono.m3u8
-#EXTINF:0,USHBA SSAFilm
-#EXTGRP:Кинофильмы
-https://fl1003.bozztv.com/Кинофильмы-films-c/tracks-v1a1/mono.m3u8
-#EXTINF:0,USHBA КИНОЗАЛ 1 RU
-#EXTGRP:Кинофильмы
-https://rpn3.bozztv.com/dvrfl07/Кинофильмы24/tracks-v1a1/mono.m3u8
-#EXTINF:0,USHBA Украiна
-#EXTGRP:Кинофильмы
-https://fl1004.bozztv.com/Кинофильмы12/tracks-v1a1/mono.m3u8
-#EXTINF:0,USHBA Кинорейс SD
-#EXTGRP:Кинофильмы
-https://stream.Кинофильмы.tv/akamaiКинофильмы/Кинофильмы32/tracks-v1a1/mono.m3u8
-#EXTINF:0,USHBAКинорейс
-#EXTGRP:Кинофильмы
-https://stream.Кинофильмы.tv/akamaiКинофильмы/Кинофильмы82/tracks-v1a1/mono.m3u8
-#EXTINF:0,USHBA К-Показ
-#EXTGRP:Кинофильмы
-https://stream.Кинофильмы.tv/akamaiКинофильмы/Кинофильмы98/tracks-v1a1/mono.m3u8
-#EXTINF:0,USHBA Logovo Films
-#EXTGRP:Кинофильмы
-https://stream.Кинофильмы.tv/akamaiКинофильмы/Кинофильмы-films-a/tracks-v1a1/mono.m3u8
-#EXTINF:0,USHBA Popcorn Theatre
-#EXTGRP:Кинофильмы
-https://stream.Кинофильмы.tv/akamaiКинофильмы/Кинофильмы-films-uv/tracks-v1a1/mono.m3u8
-#EXTINF:0,USHBA FilmOFF SD
-#EXTGRP:Кинофильмы
-https://stream.Кинофильмы.tv/akamaiКинофильмы/Кинофильмы65/tracks-v1a1/mono.m3u8
-#EXTINF:0,USHBA FilmON SD
-#EXTGRP:Кинофильмы
-https://stream.Кинофильмы.tv/akamaiКинофильмы/Кинофильмы64/tracks-v1a1/mono.m3u8
-#EXTINF:0,USHBA Rvision Кинопанорама
-#EXTGRP:Кинофильмы
-https://fl1003.bozztv.com/Кинофильмы-rvisionkinopanorama/tracks-v1a1/mono.m3u8
-#EXTINF:0,USHBA Кинозалы 4
-#EXTGRP:Кинофильмы
-http://162.212.179.43/Кинофильмы26/tracks-v1a1/mono.m3u8
-#EXTINF:0,USHBA Кинозалы 5
-#EXTGRP:Кинофильмы
-http://162.212.179.43/Кинофильмы-films-b/tracks-v1a1/mono.m3u8
-#EXTINF:0,USHBA Кинозалы 8
-#EXTGRP:Кинофильмы
-http://162.212.179.43/Кинофильмы-films-e/tracks-v1a1/mono.m3u8
-#EXTINF:0,USHBA Кинозалы 10
-#EXTGRP:Кинофильмы
-http://162.212.179.43/Кинофильмы-films-g/tracks-v1a1/mono.m3u8
-#EXTINF:0,USHBA Кинозалы 12
-#EXTGRP:Кинофильмы
-http://162.212.179.43/Кинофильмы-films-i/tracks-v1a1/mono.m3u8
-#EXTINF:0,USHBA Кинозалы 19
-#EXTGRP:Кинофильмы
-http://162.212.179.43/Кинофильмы-films-qr/tracks-v1a1/mono.m3u8
 
-#EXTINF:0,Amedia 1
-#EXTGRP:Кинофильмы | Сериалы
-http://158.101.222.193:88/georgia_play.php?id=amedia
-#EXTINF:0,Amedia 2
-#EXTGRP:Кинофильмы | Сериалы
-http://158.101.222.193:88/georgia_play.php?id=amedia2
-#EXTINF:0,Amedia 2
-#EXTGRP:Кинофильмы | Сериалы
-http://45.145.32.13:20440/kineko/index.m3u8?token=test
+
 #EXTINF:0,Amedia 2 HD
 #EXTGRP:Кинофильмы | Сериалы
 http://hls127.freeott.top:8080/Amedia_2_HD/video.m3u8
-#EXTINF:0,Amedia Hit
+#EXTINF:0,IPTVPLAY ИНТЕРНЫ
 #EXTGRP:Кинофильмы | Сериалы
-http://45.145.32.13:20440/mama/index.m3u8?token=test
-#EXTINF:0,Amedia Premium
-#EXTGRP:Кинофильмы | Сериалы
-http://158.101.222.193:88/georgia_play.php?id=amediapremium
-#EXTINF:0,Amedia Premium
-#EXTGRP:Кинофильмы | Сериалы
-http://45.145.32.13:20440/amedia_premium_hd/index.m3u8?token=test
-#EXTINF:0,Sci-Fi HD
-#EXTGRP:Кинофильмы | Сериалы
-http://158.101.222.193:88/georgia_play.php?id=scifi
-#EXTINF:0,PRO100 TV
-#EXTGRP:Кинофильмы | Сериалы
-http://sirius.greenhosting.ru/Pro100tvRu/tracks-v1a1/mono.m3u8
-#EXTINF:0,Индия
-#EXTGRP:Кинофильмы | Сериалы
-http://158.101.222.193:88/georgia_play.php?id=zeetv
-#EXTINF:0,Киносерия
-#EXTGRP:Кинофильмы | Сериалы
-http://158.101.222.193:88/georgia_play.php?id=kinoseria
+http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:0,Киносерия HD
 #EXTGRP:Кинофильмы | Сериалы
 http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
@@ -771,28 +489,10 @@ http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
 #EXTINF:0,Мир сериала
 #EXTGRP:Кинофильмы | Сериалы
-http://45.145.32.13:20440/ctc_kids_hd/index.m3u8?token=test
-#EXTINF:0,Мир Сериала
-#EXTGRP:Кинофильмы | Сериалы
-http://84.54.128.52:9090/play/a003/index.m3u8
-#EXTINF:0,Мир сериала
-#EXTGRP:Кинофильмы | Сериалы
 http://94.236.201.114/MIR_SERIALA_SD/index.m3u8
-#EXTINF:0,Про любовь HD
-#EXTGRP:Кинофильмы | Сериалы
-http://hls127.freeott.top:8080/ProLubovHD/mono.m3u8
-#EXTINF:0,Saga TV
-#EXTGRP:Кинофильмы | Сериалы
-http://46.175.123.164:4022/udp/239.195.65.56:1234
 #EXTINF:0,НТВ Сериал HD
 #EXTGRP:Кинофильмы | Сериалы
 https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
-#EXTINF:0,НТВ Сериал HD
-#EXTGRP:Кинофильмы | Сериалы
-https://cdn.ntv.ru/th_serial/playlist.m3u8
-#EXTINF:0,НТВ Хит HD
-#EXTGRP:Кинофильмы | Сериалы
-http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
 #EXTINF:0,НТВ Хит
 #EXTGRP:Кинофильмы | Сериалы
 https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
@@ -808,36 +508,18 @@ https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:0,НТВ Сериалы Первый отдел HD
 #EXTGRP:Кинофильмы | Сериалы
 https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:0,НТВ Сериалы Первый отдел HD
-#EXTGRP:Кинофильмы | Сериалы
-https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,НТВ Сериалы Шеф HD
 #EXTGRP:Кинофильмы | Сериалы
 https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:0,НТВ Сериалы Шеф HD
-#EXTGRP:Кинофильмы | Сериалы
-https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,НТВ Сериалы Невский HD
 #EXTGRP:Кинофильмы | Сериалы
 https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0,НТВ Сериалы Невский HD
-#EXTGRP:Кинофильмы | Сериалы
-https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:0,НТВ Сериалы Балабол HD
 #EXTGRP:Кинофильмы | Сериалы
 https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:0,НТВ Сериалы Пять минут тишины HD
 #EXTGRP:Кинофильмы | Сериалы
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:0,Наш Киномир
-#EXTGRP:Кинофильмы | Сериалы
-http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
-#EXTINF:0,Смотрим
-#EXTGRP:Кинофильмы | Сериалы
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
-#EXTINF:0,Смотрим Кино и сериалы HD
-#EXTGRP:Кинофильмы | Сериалы
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v3a1/mono.m3u8
 #EXTINF:0,Смотрим Кино и сериалы
 #EXTGRP:Кинофильмы | Сериалы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
