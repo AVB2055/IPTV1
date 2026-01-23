@@ -183,9 +183,6 @@ https://bl.rutube.ru/livestream/0e9e44725d5d5ab7ee92c10b40215419/index.m3u8?s=PK
 #EXTINF:0,ТНТ4 HD
 #EXTGRP:Развлекательные
 https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=uwhizdZPB-2J2x80Ov49_A&e=2067815802&scheme=https
-#EXTINF:0,DTR Zona 1
-#EXTGRP:Развлекательные
-https://kino-stream.online/hls/DTRZONA1.m3u8
 #EXTINF:0,Твоё ТВ HD
 #EXTGRP:Развлекательные
 http://tvoetv.space:8080/tvoetv/tracks-v1a1/mono.m3u8
@@ -520,6 +517,7 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v
 #EXTINF:0,Смотрим Мужское
 #EXTGRP:Кинофильмы | Сериалы
 http://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d.m3u8
+
 
 
 
