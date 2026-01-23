@@ -83,6 +83,12 @@ http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/track
 #EXTINF:0,360 HD
 #EXTGRP:Новостные
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 ,Радио Вести FM [1920x1080]
+#EXTGRP:Новостные
+https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015173
+#EXTINF:-1 ,Радио Говорит Москва [1920x1080]
+#EXTGRP:Новостные
+https://video.govoritmoskva.ru/rufm/tracks-v1a1/mono.m3u8
 #EXTINF:0,RTVi
 #EXTGRP:Новостные
 http://178.134.1.158:8081/rtvi/index.m3u8
@@ -204,10 +210,19 @@ https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:0,Смотрим Праздник
 #EXTGRP:Развлекательные
 http://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564.m3u8
+#EXTINF:-1 ,Танец ТВ 
+#EXTGRP:Развлекательные
+https://efirtanectv-hls.cdnvideo.ru/hls/61c641b176face0001223636/1080p.m3u8
 
-#EXTINF:-1 ,Afrobeats TV [za] [1920x1080]
+#EXTINF:-1 ,Afrobeats TV [za] 
 #EXTGRP:Музыкальные
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,CHD TV ROCK 
+#EXTGRP:Музыкальные
+http://194.26.229.213/chdtv_rock/index.m3u8
+#EXTINF:-1 ,CHD TV RU ROCK 
+#EXTGRP:Музыкальные
+http://194.26.229.213/chdtv_ru_rock/index.m3u8
 #EXTINF:0,radio m2o HD
 #EXTGRP:Музыкальные
 http://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1728000.m3u8
@@ -235,6 +250,9 @@ http://95.47.156.60:8000/play/a014/index.m3u8
 #EXTINF:0,О!2
 #EXTGRP:Музыкальные
 http://77.232.131.211/O2TV/index.m3u8
+#EXTINF:-1 ,Первый Музыкальный Россия
+#EXTGRP:Музыкальные
+https://162.212.179.31/dvrfl05/gin-1muscom/tracks-v1a1/mono.m3u8
 #EXTINF:0,Страна FM HD
 #EXTGRP:Музыкальные
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
@@ -421,6 +439,8 @@ http://5.8.11.96:8099/mosfilmhd/index.m3u8
 #EXTINF:0,Кino Премьера HD
 #EXTGRP:Кинофильмы
 http://157.90.0.245:8070/KINOPREMIERA/index.m3u8
+#EXTINF:-1 ,Кинозал 
+http://185.57.68.33/237/mpegts
 #EXTINF:0,Кино и Жизнь HD
 #EXTGRP:Кинофильмы
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=cN1dKvjJ3x7Celu28kgs2Q&e=2067815831&scheme=https
@@ -442,7 +462,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/esperanza/chunks.m3u8
 #EXTINF:0,USHBA Видеокассетаᴴᴰ
 #EXTGRP:Кинофильмы
 https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
-
+#EXTINF:-1 ,Победа 
+#EXTGRP:Кинофильмы
+https://streaming.televizor-24-tochka.ru/live/43.m3u8
 
 #EXTINF:0,Amedia 2 HD
 #EXTGRP:Кинофильмы | Сериалы
