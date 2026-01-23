@@ -143,15 +143,6 @@ https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFX
 #EXTINF:0,Неизвестная россия HD
 #EXTGRP:Познавательные
 http://cdn2.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
-#EXTINF:0,Наука 2.0
-#EXTGRP:Познавательные
-http://hls127.freeott.top:8080/NAUKA/mono.m3u8
-#EXTINF:0,Viasat History
-#EXTGRP:Познавательные
-http://89.232.68.194:8080/HISTORY/tracks-v1a1/index.m3u8
-#EXTINF:0,Совершенно секретно
-#EXTGRP:Познавательные
-http://hls127.freeott.top:8080/Sovershenno_Sekretno/mono.m3u8
 #EXTINF:0,Тайна HD
 #EXTGRP:Познавательные
 https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=GmFSizHee8DpOJI6J0bwMA&e=2067815807&scheme=https
@@ -167,24 +158,11 @@ http://45.145.32.13:20440/hdl/index.m3u8?token=test
 #EXTINF:0,Арсенал HD
 #EXTGRP:Познавательные
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Arsenal_HD
-#EXTINF:0,Дикий
-#EXTGRP:Познавательные
-http://hls127.freeott.top:8080/Dikiy/mono.m3u8
-#EXTINF:0,Доктор
-#EXTGRP:Познавательные
-http://45.11.139.43:8555/doctor/index.m3u8
-#EXTINF:0,Загородная жизнь HD
-#EXTGRP:Познавательные
-http://185.57.68.33/40/index.m3u8
 #EXTINF:0,Загородный Int. HD
 #EXTGRP:Познавательные
 https://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
 #EXTINF:0,Продвижение HD
 #EXTGRP:Познавательные
-http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
-#EXTINF:0,НТВ Право
-#EXTGRP:Познавательные
-https://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
 #EXTINF:0,Че!
 #EXTGRP:Развлекательные
 http://uiptv.do.am/1ufc/109121273/playlist.m3u8
@@ -209,18 +187,12 @@ http://tvoetv.space:8080/tvoetv_humor/tracks-v1a1/mono.m3u8
 #EXTINF:0,TV1 KG HD (Кыргызстан) HD
 #EXTGRP:Развлекательные
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
-#EXTINF:0,КВН ТВ
-#EXTGRP:Развлекательные
-http://158.101.222.193:88/georgia_play.php?id=kvntv
 #EXTINF:0,Смотрим Праздник
 #EXTGRP:Развлекательные
 http://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564.m3u8
 #EXTINF:0,Теледом HD
 #EXTGRP:Развлекательные
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
-#EXTINF:0,Ностальгия
-#EXTGRP:Развлекательные
-http://hls127.freeott.top:8080/Nostalgiya/mono.m3u8
 #EXTINF:0,НТВ Стиль HD
 #EXTGRP:Развлекательные
 https://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
@@ -230,9 +202,13 @@ https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:0,Смотрим Праздник
 #EXTGRP:Развлекательные
 http://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564.m3u8
-#EXTINF:0,Страна FM HD
+
+#EXTINF:-1 ,Afrobeats TV [za] [1920x1080]
 #EXTGRP:Музыкальные
-http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Afrobeats TV [za] [1920x1080]
+#EXTGRP:Музыкальные
+https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:0,radio m2o HD
 #EXTGRP:Музыкальные
 http://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1728000.m3u8
@@ -260,6 +236,9 @@ http://95.47.156.60:8000/play/a014/index.m3u8
 #EXTINF:0,О!2
 #EXTGRP:Музыкальные
 http://77.232.131.211/O2TV/index.m3u8
+#EXTINF:0,Страна FM HD
+#EXTGRP:Музыкальные
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:0,A21 Network HD
 #EXTGRP:Спортивные
 http://tv.a21network.ru/stream/37909/index.m3u8
@@ -293,27 +272,18 @@ https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33
 #EXTINF:0,Старт Триумф HD
 #EXTGRP:Спортивные
 https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd/33_85479982/1080p/4eaec8986e2012fb936478856fbf3b4b/4818731006.m3u8?live=15&ref=https://tvstart.ru/ru/pages/start-triumph
-#EXTINF:0,Футбол
-#EXTGRP:Спортивные
-http://hls127.freeott.top:8080/Football/mono.m3u8
+#EXTINF:0,Clarity4K Anime
+#EXTGRP:Детские
+http://hls127.freeott.top:8080/Clarity4K_Anime/mono.m3u8
 #EXTINF:0,Мульт HD
 #EXTGRP:Детские
 http://stv.mediacdn.ru/live/cdn/mult/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0,Мульт и музыка
-#EXTGRP:Детские
-http://stv.mediacdn.ru/live/cdn/multimuzika/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,Смайлик ТВ HD
 #EXTGRP:Детские
 https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:0,Солнце HD
 #EXTGRP:Детские
 https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
-#EXTINF:0,Clarity4K Anime
-#EXTGRP:Детские
-http://hls127.freeott.top:8080/Clarity4K_Anime/mono.m3u8
-#EXTINF:0,СТС Kids
-#EXTGRP:Детские
-http://hls127.freeott.top:8080/STS_Kids/mono.m3u8
 #EXTINF:0,Суббота HD
 #EXTGRP:Детские
 https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=fGF8IP-Az_cZHwwgk-of9w&e=2067815805&scheme=https
