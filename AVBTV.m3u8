@@ -214,6 +214,12 @@ http://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542
 #EXTGRP:Развлекательные
 https://efirtanectv-hls.cdnvideo.ru/hls/61c641b176face0001223636/1080p.m3u8
 
+#EXTINF:0,67 
+#EXTGRP:Музыкальные
+https://fl1004.bozztv.com/ushba67/tracks-v1a1/mono.m3u8
+#EXTINF:0,Dmitry-tv HD
+#EXTGRP:Музыкальные
+http://dmitry-tv.ddns.net:8000/his/CH_DMITRY-TVHD
 #EXTINF:-1 ,Afrobeats TV [za] 
 #EXTGRP:Музыкальные
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
@@ -517,4 +523,5 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v
 #EXTINF:0,Смотрим Мужское
 #EXTGRP:Кинофильмы | Сериалы
 http://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d.m3u8
+
 
