@@ -59,246 +59,50 @@ http://31.131.141.195:8000/play/2090/index.m3u8
 #EXTINF:0,МузТВ
 #EXTGRP:Федеральные
 http://31.131.141.195:8000/play/2100/index.m3u8
-#EXTINF:0,English Club TV
-#EXTGRP:Информационные
-http://188.225.31.197/bpk-tv/000000202/tve/index.m3u8
-#EXTINF:0,Вопросы и ответы
-#EXTGRP:Информационные
-http://188.225.31.197/bpk-tv/000000195/tve/index.m3u8
-#EXTINF:0,Время
-#EXTGRP:Информационные
-http://188.225.31.197/bpk-tv/000000205/tve/index.m3u8
+
 #EXTINF:0,Глазами Туриста HD
 #EXTGRP:Информационные
 http://188.225.31.197/bpk-tv/000001414/tve/index.m3u8
-#EXTINF:0,Диалоги о Рыбалке
-#EXTGRP:Информационные
-http://188.225.31.197/bpk-tv/000003174/tve/index.m3u8
 #EXTINF:0,Загородная жизнь HD
 #EXTGRP:Информационные
 http://188.225.31.197/bpk-tv/000000289/tve/index.m3u8
 #EXTINF:0,Зал суда HD
 #EXTGRP:Информационные
 http://188.225.31.197/bpk-tv/000006638/tve/index.m3u8
-#EXTINF:0,Здоровое ТВ
-#EXTGRP:Информационные
-http://188.225.31.197/bpk-tv/000000057/tve/index.m3u8
-#EXTINF:0,КтоКуда
-#EXTGRP:Информационные
-http://188.225.31.197/bpk-tv/000001377/tve/index.m3u8
-#EXTINF:0,Наша Тема
-#EXTGRP:Информационные
-http://188.225.31.197/bpk-tv/000003785/tve/index.m3u8
-#EXTINF:0,Оружие
-#EXTGRP:Информационные
-http://188.225.31.197/bpk-tv/000000308/tve/index.m3u8
-#EXTINF:0,Поехали!
-#EXTGRP:Информационные
-http://188.225.31.197/bpk-tv/000002991/tve/index.m3u8
 #EXTINF:0,Мужской HD
 #EXTGRP:Информационные
 http://188.225.31.197/bpk-tv/000000286/tve/index.m3u8
-#EXTINF:0,Рыбалка и охота
-#EXTGRP:Информационные
-http://188.225.31.197/bpk-tv/000002510/tve/index.m3u8
-#EXTINF:0,Точка отрыва
-#EXTGRP:Информационные
-http://188.225.31.197/bpk-tv/000003208/tve/index.m3u8
-#EXTINF:0,АВТО 24
-#EXTGRP:Информационные
-http://188.225.31.197/bpk-tv/000000815/tve/index.m3u8
 #EXTINF:0,ЕДА HD
 #EXTGRP:Информационные
 http://188.225.31.197/bpk-tv/000000588/tve/index.m3u8
 #EXTINF:0,МОДА HD
 #EXTGRP:Информационные
 http://188.225.31.197/bpk-tv/000000439/tve/index.m3u8
-#EXTINF:0,Уникум
-#EXTGRP:Детские
-http://188.225.31.197/bpk-tv/000000048/tve/index.m3u8
-#EXTINF:0,Cartoon Network
-#EXTGRP:Детские
-http://188.225.31.197/bpk-tv/000000015/tve/index.m3u8
-#EXTINF:0,Cartoonito
-#EXTGRP:Детские
-http://188.225.31.197/bpk-tv/000000160/tve/index.m3u8
-#EXTINF:0,Nick Jr
-#EXTGRP:Детские
-http://188.225.31.197/bpk-tv/000000449/tve/index.m3u8
+
 #EXTINF:0,Nickelodeon HD
 #EXTGRP:Детские
 http://188.225.31.197/bpk-tv/000000499/tve/index.m3u8
 #EXTINF:0,Nicktoons HD
 #EXTGRP:Детские
 http://188.225.31.197/bpk-tv/000004365/tve/index.m3u8
-#EXTINF:0,TiJi
-#EXTGRP:Детские
-http://188.225.31.197/bpk-tv/000000174/tve/index.m3u8
 #EXTINF:0,Детский мир HD
 #EXTGRP:Детские
 http://188.225.31.197/bpk-tv/000000049/tve/index.m3u8
-#EXTINF:0,Мульт
-#EXTGRP:Детские
-http://188.225.31.197/bpk-tv/000001207/tve/index.m3u8
 #EXTINF:0,Мультиландия HD
 #EXTGRP:Детские
 http://188.225.31.197/bpk-tv/000000203/tve/index.m3u8
-#EXTINF:0,Бобер
-#EXTGRP:Детские
-http://188.225.31.197/bpk-tv/000001478/tve/index.m3u8
 #EXTINF:0,Лёва HD
 #EXTGRP:Детские
 http://188.225.31.197/bpk-tv/000008003/tve/index.m3u8
-#EXTINF:0,Лапки LIVE
-#EXTGRP:Детские
-http://188.225.31.197/bpk-tv/000008551/tve/index.m3u8
-#EXTINF:0,MTV 00s
-#EXTGRP:Музыкальные
-http://188.225.31.197/bpk-tv/000000264/tve/index.m3u8
-#EXTINF:0,MTV Live HD
-#EXTGRP:Музыкальные
-http://188.225.31.197/bpk-tv/000000447/tve/index.m3u8
-#EXTINF:0,Mezzo
-#EXTGRP:Музыкальные
-http://188.225.31.197/bpk-tv/000000030/tve/index.m3u8
-#EXTINF:0,Muzzone
-#EXTGRP:Музыкальные
-http://188.225.31.197/bpk-tv/000000783/tve/index.m3u8
-#EXTINF:0,Trace Urban HD --
-#EXTGRP:Музыкальные
-http://188.225.31.197/bpk-tv/000001661/tve/index.m3u8
-#EXTINF:0,TNT Music
-#EXTGRP:Музыкальные
-http://188.225.31.197/bpk-tv/000000013/tve/index.m3u8
-#EXTINF:0,Шансон ТВ
-#EXTGRP:Музыкальные
-http://188.225.31.197/bpk-tv/000000210/tve/index.m3u8
-#EXTINF:0,Музыка Первого
-#EXTGRP:Музыкальные
-http://188.225.31.197/bpk-tv/000000204/tve/index.m3u8
-#EXTINF:0,MCM Top
-#EXTGRP:Музыкальные
-http://188.225.31.197/bpk-tv/000000327/tve/index.m3u8
-#EXTINF:0,1HD HD
-#EXTGRP:Музыкальные
-http://188.225.31.197/bpk-tv/000001020/tve/index.m3u8
-#EXTINF:0,Animal Planet HD
-#EXTGRP:Познавательные
-http://188.225.31.197/bpk-tv/000000216/tve/index.m3u8
-#EXTINF:0,Da Vinci
-#EXTGRP:Познавательные
-http://188.225.31.197/bpk-tv/000000333/tve/index.m3u8
-#EXTINF:0,Discovery Channel HD
-#EXTGRP:Познавательные
-http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
-#EXTINF:0,History HD
-#EXTGRP:Познавательные
-http://188.225.31.197/bpk-tv/000001000/tve/index.m3u8
-#EXTINF:0,Nat Geo Wild HD
-#EXTGRP:Познавательные
-http://188.225.31.197/bpk-tv/000004474/tve/index.m3u8
-#EXTINF:0,National Geographic HD
-#EXTGRP:Познавательные
-http://188.225.31.197/bpk-tv/000000034/tve/index.m3u8
-#EXTINF:0,Viasat Explore HD
-#EXTGRP:Познавательные
-http://188.225.31.197/bpk-tv/000004157/tve/index.m3u8
-#EXTINF:0,Viasat Nature HD
-#EXTGRP:Познавательные
-http://188.225.31.197/bpk-tv/000006482/tve/index.m3u8
-#EXTINF:0,Visast History HD
-#EXTGRP:Познавательные
-http://188.225.31.197/bpk-tv/000005528/tve/index.m3u8
-#EXTINF:0,Живая природа HD
-#EXTGRP:Познавательные
-http://188.225.31.197/bpk-tv/000001187/tve/index.m3u8
-#EXTINF:0,Домашние животные
-#EXTGRP:Познавательные
-http://188.225.31.197/bpk-tv/000000146/tve/index.m3u8
-#EXTINF:0,Зоопарк HD
-#EXTGRP:Познавательные
-http://188.225.31.197/bpk-tv/000000260/tve/index.m3u8
-#EXTINF:0,Тайны галактики HD
-#EXTGRP:Познавательные
-http://188.225.31.197/bpk-tv/000000332/tve/index.m3u8
-#EXTINF:0,Планета HD
-#EXTGRP:Познавательные
-http://188.225.31.197/bpk-tv/000001049/tve/index.m3u8
-#EXTINF:0,Big Planet HD
-#EXTGRP:Познавательные
-http://188.225.31.197/bpk-tv/000008052/tve/index.m3u8
-#EXTINF:0,Terra HD
-#EXTGRP:Познавательные
-http://188.225.31.197/bpk-tv/000008142/tve/index.m3u8
-#EXTINF:0,.Black
-#EXTGRP:Развлекательные
-http://188.225.31.197/bpk-tv/000000520/tve/index.m3u8
-#EXTINF:0,.Red
-#EXTGRP:Развлекательные
-http://188.225.31.197/bpk-tv/000000213/tve/index.m3u8
-#EXTINF:0,Gagsnetwork HD
-#EXTGRP:Развлекательные
-http://188.225.31.197/bpk-tv/000006639/tve/index.m3u8
-#EXTINF:0,HIT TV
-#EXTGRP:Развлекательные
-http://188.225.31.197/bpk-tv/000001213/tve/index.m3u8
-#EXTINF:0,Anecdote TV (Анекдот ТВ)
-#EXTGRP:Развлекательные
-http://188.225.31.197/bpk-tv/000001921/tve/index.m3u8
-#EXTINF:0,Телекафе
-#EXTGRP:Развлекательные
-http://188.225.31.197/bpk-tv/000000206/tve/index.m3u8
-#EXTINF:0,О!
-#EXTGRP:Развлекательные
-http://188.225.31.197/bpk-tv/000002928/tve/index.m3u8
-#EXTINF:0,НСТ
-#EXTGRP:Развлекательные
-http://188.225.31.197/bpk-tv/000000078/tve/index.m3u8
-#EXTINF:0,Твоё телевидение
-#EXTGRP:Развлекательные
-http://188.225.31.197/bpk-tv/000002721/tve/index.m3u8
-#EXTINF:0,Новый игровой канал
-#EXTGRP:Развлекательные
-http://188.225.31.197/bpk-tv/000008615/tve/index.m3u8
-#EXTINF:0,Gakku TV
-#EXTGRP:Развлекательные
-http://188.225.31.197/bpk-tv/000001383/tve/index.m3u8
-#EXTINF:0,Plan B
-#EXTGRP:Развлекательные
-http://188.225.31.197/bpk-tv/000007625/tve/index.m3u8
-#EXTINF:0,Trash HD ---
-#EXTGRP:Развлекательные
-http://188.225.31.197/bpk-tv/000005621/tve/index.m3u8
-#EXTINF:0,viju+ Sport HD
-#EXTGRP:Развлекательные
-http://188.225.31.197/bpk-tv/000000135/tve/index.m3u8
-#EXTINF:0,Eurosport 1 HD
-#EXTGRP:Развлекательные
-http://188.225.31.197/bpk-tv/000002478/tve/index.m3u8
-#EXTINF:0,Eurosport 2 HD
-#EXTGRP:Развлекательные
-http://188.225.31.197/bpk-tv/000002479/tve/index.m3u8
-#EXTINF:0,Setanta Sports 1 HD
-#EXTGRP:Развлекательные
-http://188.225.31.197/bpk-tv/000004498/tve/index.m3u8
-#EXTINF:0,Setanta Sports 2 HD
-#EXTGRP:Развлекательные
-http://188.225.31.197/bpk-tv/000004499/tve/index.m3u8
-#EXTINF:0,Trace Sport Stars HD
-#EXTGRP:Развлекательные
-http://188.225.31.197/bpk-tv/000001122/tve/index.m3u8
-#EXTINF:0,Удар HD
-#EXTGRP:Развлекательные
-http://188.225.31.197/bpk-tv/000007802/tve/index.m3u8
+
+
+
 #EXTINF:0,Start Air HD
 #EXTGRP:Развлекательные
 http://188.225.31.197/bpk-tv/000007815/tve/index.m3u8
 #EXTINF:0,Start World HD
 #EXTGRP:Развлекательные
 http://188.225.31.197/bpk-tv/000007818/tve/index.m3u8
-#EXTINF:0,DTR ZONA 1 HD
-#EXTGRP:Развлекательные
-https://kino-stream.online/hls/DTRZONA1.m3u8
 #EXTINF:0,Amedia 1 HD
 #EXTGRP:Фильмовые
 http://188.225.31.197/bpk-tv/000000710/tve/index.m3u8
@@ -311,9 +115,6 @@ http://188.225.31.197/bpk-tv/000001662/tve/index.m3u8
 #EXTINF:0,Amedia Premium HD
 #EXTGRP:Фильмовые
 http://188.225.31.197/bpk-tv/000000709/tve/index.m3u8
-#EXTINF:0,Cinema
-#EXTGRP:Фильмовые
-http://188.225.31.197/bpk-tv/000000239/tve/index.m3u8
 #EXTINF:0,FOX HD
 #EXTGRP:Фильмовые
 http://188.225.31.197/bpk-tv/000004472/tve/index.m3u8
@@ -323,9 +124,6 @@ http://188.225.31.197/bpk-tv/000004471/tve/index.m3u8
 #EXTINF:0,FlixSnip HD
 #EXTGRP:Фильмовые
 http://188.225.31.197/bpk-tv/000004466/tve/index.m3u8
-#EXTINF:0,Hollywood
-#EXTGRP:Фильмовые
-http://188.225.31.197/bpk-tv/000000031/tve/index.m3u8
 #EXTINF:0,TV1000 HD
 #EXTGRP:Фильмовые
 http://188.225.31.197/bpk-tv/000003747/tve/index.m3u8
@@ -347,9 +145,6 @@ http://188.225.31.197/bpk-tv/000000868/tve/index.m3u8
 #EXTINF:0,Vip Serial HD
 #EXTGRP:Фильмовые
 http://188.225.31.197/bpk-tv/000004375/tve/index.m3u8
-#EXTINF:0,Дом кино
-#EXTGRP:Фильмовые
-http://188.225.31.197/bpk-tv/000000050/tve/index.m3u8
 #EXTINF:0,Дом кино Premium HD
 #EXTGRP:Фильмовые
 http://188.225.31.197/bpk-tv/000002943/tve/index.m3u8
@@ -362,59 +157,19 @@ http://188.225.31.197/bpk-tv/000008136/tve/index.m3u8
 #EXTINF:0,Кинобоевик HD
 #EXTGRP:Фильмовые
 http://188.225.31.197/bpk-tv/000008490/tve/index.m3u8
-#EXTINF:0,Киноман
-#EXTGRP:Фильмовые
-http://188.225.31.197/bpk-tv/000003871/tve/index.m3u8
 #EXTINF:0,Ключ HD
 #EXTGRP:Фильмовые
 http://188.225.31.197/bpk-tv/000004585/tve/index.m3u8
-#EXTINF:0,Любимое Кино
-#EXTGRP:Фильмовые
-http://188.225.31.197/bpk-tv/000000283/tve/index.m3u8
-#EXTINF:0,Мир Сериала
-#EXTGRP:Фильмовые
-http://188.225.31.197/bpk-tv/000000319/tve/index.m3u8
-#EXTINF:0,Мировое Кино HD
-#EXTGRP:Фильмовые
-http://188.225.31.197/bpk-tv/000008488/tve/index.m3u8
-#EXTINF:0,Мосфильм. Золотая коллекция
-#EXTGRP:Фильмовые
-http://188.225.31.197/bpk-tv/000006365/tve/index.m3u8
-
-#EXTINF:0,Победа
-#EXTGRP:Фильмовые
-http://188.225.31.197/bpk-tv/000004534/tve/index.m3u8
-#EXTINF:0,Русский Иллюзион
-#EXTGRP:Фильмовые
-http://188.225.31.197/bpk-tv/000004207/tve/index.m3u8
 #EXTINF:0,Сапфир HD
 #EXTGRP:Фильмовые
 http://188.225.31.197/bpk-tv/000008135/tve/index.m3u8
 #EXTINF:0,Семейное кино HD
 #EXTGRP:Фильмовые
 http://188.225.31.197/bpk-tv/000008489/tve/index.m3u8
-#EXTINF:0,Феникс+Кино
-#EXTGRP:Фильмовые
-http://188.225.31.197/bpk-tv/000000125/tve/index.m3u8
 #EXTINF:0,Премиум Кино HD
 #EXTGRP:Фильмовые
 http://188.225.31.197/bpk-tv/000008491/tve/index.m3u8
-#EXTINF:0,8 канал
-#EXTGRP:Фильмовые
-http://188.225.31.197/bpk-tv/000001564/tve/index.m3u8
-#EXTINF:0,.Sci-Fi
-#EXTGRP:Фильмовые
-http://188.225.31.197/bpk-tv/000000134/tve/index.m3u8
-#EXTINF:0,RTVi HD
-#EXTGRP:Фильмовые
-http://188.225.31.197/bpk-tv/000000039/tve/index.m3u8
 #EXTINF:0,Bollywood HD
 #EXTGRP:Фильмовые
 http://188.225.31.197/bpk-tv/000001419/tve/index.m3u8
-#EXTINF:0,Т24
-#EXTGRP:Фильмовые
-http://188.225.31.197/bpk-tv/000000008/tve/index.m3u8
-#EXTINF:0,ТВ21
-#EXTGRP:Фильмовые
-http://188.225.31.197/bpk-tv/000000006/tve/index.m3u8
 
