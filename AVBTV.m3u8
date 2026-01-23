@@ -553,6 +553,7 @@ http://5.8.11.96:8099/mosfilmhd/index.m3u8
 #EXTGRP:Кинофильмы
 http://157.90.0.245:8070/KINOPREMIERA/index.m3u8
 #EXTINF:-1 ,Кинозал 
+#EXTGRP:Кинофильмы
 http://185.57.68.33/237/mpegts
 #EXTINF:0,Кино и Жизнь HD
 #EXTGRP:Кинофильмы
@@ -638,73 +639,73 @@ http://188.225.31.197/bpk-tv/000007815/tve/index.m3u8
 #EXTGRP:Развлекательные
 http://188.225.31.197/bpk-tv/000007818/tve/index.m3u8
 #EXTINF:0,Amedia 1 HD
-#EXTGRP:Кинофильмы+
+#EXTGRP:Кинофильмы плюс
 http://188.225.31.197/bpk-tv/000000710/tve/index.m3u8
 #EXTINF:0,Amedia 2 HD
-#EXTGRP:Кинофильмы+
+#EXTGRP:Кинофильмы плюс
 http://188.225.31.197/bpk-tv/000000351/tve/index.m3u8
 #EXTINF:0,Amedia HiT HD
-#EXTGRP:Кинофильмы+
+#EXTGRP:Кинофильмы плюс
 http://188.225.31.197/bpk-tv/000001662/tve/index.m3u8
 #EXTINF:0,Amedia Premium HD
-#EXTGRP:Кинофильмы+
+#EXTGRP:Кинофильмы плюс
 http://188.225.31.197/bpk-tv/000000709/tve/index.m3u8
 #EXTINF:0,FOX HD
-#EXTGRP:Кинофильмы+
+#EXTGRP:Кинофильмы плюс
 http://188.225.31.197/bpk-tv/000004472/tve/index.m3u8
 #EXTINF:0,FOX Life HD
-#EXTGRP:Кинофильмы+
+#EXTGRP:Кинофильмы плюс
 http://188.225.31.197/bpk-tv/000004471/tve/index.m3u8
 #EXTINF:0,FlixSnip HD
-#EXTGRP:Кинофильмы+
+#EXTGRP:Кинофильмы плюс
 http://188.225.31.197/bpk-tv/000004466/tve/index.m3u8
 #EXTINF:0,TV1000 HD
-#EXTGRP:Кинофильмы+
+#EXTGRP:Кинофильмы плюс
 http://188.225.31.197/bpk-tv/000003747/tve/index.m3u8
 #EXTINF:0,TV1000 action HD
-#EXTGRP:Кинофильмы+
+#EXTGRP:Кинофильмы плюс
 http://188.225.31.197/bpk-tv/000003910/tve/index.m3u8
 #EXTINF:0,TV1000 русское HD
-#EXTGRP:Кинофильмы+
+#EXTGRP:Кинофильмы плюс
 http://188.225.31.197/bpk-tv/000003748/tve/index.m3u8
 #EXTINF:0,Vip Comedy HD
-#EXTGRP:Кинофильмы+
+#EXTGRP:Кинофильмы плюс
 http://188.225.31.197/bpk-tv/000000870/tve/index.m3u8
 #EXTINF:0,Vip Megahit HD
-#EXTGRP:Кинофильмы+
+#EXTGRP:Кинофильмы плюс
 http://188.225.31.197/bpk-tv/000000869/tve/index.m3u8
 #EXTINF:0,Vip Premiere HD
-#EXTGRP:Кинофильмы+
+#EXTGRP:Кинофильмы плюс
 http://188.225.31.197/bpk-tv/000000868/tve/index.m3u8
 #EXTINF:0,Vip Serial HD
-#EXTGRP:Кинофильмы+
+#EXTGRP:Кинофильмы плюс
 http://188.225.31.197/bpk-tv/000004375/tve/index.m3u8
 #EXTINF:0,Дом кино Premium HD
-#EXTGRP:Кинофильмы+
+#EXTGRP:Кинофильмы плюс
 http://188.225.31.197/bpk-tv/000002943/tve/index.m3u8
 #EXTINF:0,Еврокино HD
-#EXTGRP:Кинофильмы+
+#EXTGRP:Кинофильмы плюс
 http://188.225.31.197/bpk-tv/000000152/tve/index.m3u8
 #EXTINF:0,Кинеко HD
-#EXTGRP:Кинофильмы+
+#EXTGRP:Кинофильмы плюс
 http://188.225.31.197/bpk-tv/000008136/tve/index.m3u8
 #EXTINF:0,Кинобоевик HD
-#EXTGRP:Кинофильмы+
+#EXTGRP:Кинофильмы плюс
 http://188.225.31.197/bpk-tv/000008490/tve/index.m3u8
 #EXTINF:0,Ключ HD
-#EXTGRP:Кинофильмы+
+#EXTGRP:Кинофильмы плюс
 http://188.225.31.197/bpk-tv/000004585/tve/index.m3u8
 #EXTINF:0,Сапфир HD
-#EXTGRP:Кинофильмы+
+#EXTGRP:Кинофильмы плюс
 http://188.225.31.197/bpk-tv/000008135/tve/index.m3u8
 #EXTINF:0,Семейное кино HD
-#EXTGRP:Кинофильмы+
+#EXTGRP:Кинофильмы плюс
 http://188.225.31.197/bpk-tv/000008489/tve/index.m3u8
 #EXTINF:0,Премиум Кино HD
-#EXTGRP:Кинофильмы+
+#EXTGRP:Кинофильмы плюс
 http://188.225.31.197/bpk-tv/000008491/tve/index.m3u8
 #EXTINF:0,Bollywood HD
-#EXTGRP:Кинофильмы+
+#EXTGRP:Кинофильмы плюс
 http://188.225.31.197/bpk-tv/000001419/tve/index.m3u8
 
 
