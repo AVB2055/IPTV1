@@ -155,14 +155,16 @@ http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:0,Точка.РФ HD
 #EXTGRP:Познавательные
 http://45.145.32.13:20440/hdl/index.m3u8?token=test
+#EXTINF:0,Продвижение HD
+#EXTGRP:Познавательные
+http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 #EXTINF:0,Арсенал HD
 #EXTGRP:Познавательные
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Arsenal_HD
 #EXTINF:0,Загородный Int. HD
 #EXTGRP:Познавательные
 https://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
-#EXTINF:0,Продвижение HD
-#EXTGRP:Познавательные
+
 #EXTINF:0,Че!
 #EXTGRP:Развлекательные
 http://uiptv.do.am/1ufc/109121273/playlist.m3u8
@@ -206,9 +208,6 @@ http://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542
 #EXTINF:-1 ,Afrobeats TV [za] [1920x1080]
 #EXTGRP:Музыкальные
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Afrobeats TV [za] [1920x1080]
-#EXTGRP:Музыкальные
-https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:0,radio m2o HD
 #EXTGRP:Музыкальные
 http://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1728000.m3u8
