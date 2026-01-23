@@ -2,3 +2,547 @@
 #EXTINF:0,DTR ZONA 1 
 #EXTGRP:24КИНОЗАЛЫStream
 https://kino-stream.online/hls/DTRZONA1.m3u8
+#EXTM3U
+#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="http://iptvx.one/epg/epg_lite.xml.gz" refresh="86400" tvg-shift=0 cache=500
+
+#EXTINF:-1 group-title="Общие",ПЕРВЫЙ КАНАЛ
+http://31.131.141.195:8000/play/1010/index.m3u8
+#EXTINF:-1 group-title="Общие",Рен ТВ
+http://31.131.141.195:8000/play/2010/index.m3u8
+#EXTINF:-1 group-title="Общие",Россия 1
+http://31.131.141.195:8000/play/1020/index.m3u8
+#EXTINF:-1 group-title="Общие",НТВ
+http://31.131.141.195:8000/play/1040/index.m3u8
+#EXTINF:-1 group-title="Общие",ТНТ
+http://31.131.141.195:8000/play/2090/index.m3u8
+#EXTINF:-1 group-title="Общие",Россия К
+http://31.131.141.195:8000/play/1060/index.m3u8
+#EXTINF:-1 group-title="Общие",Пятый канал
+http://31.131.141.195:8000/play/1050/index.m3u8
+#EXTINF:-1 group-title="Общие",ОТР
+http://31.131.141.195:8000/play/1090/index.m3u8
+#EXTINF:-1 group-title="Общие",ТВЦ
+http://31.131.141.195:8000/play/1100/index.m3u8
+#EXTINF:-1 group-title="Общие",Спас
+http://31.131.141.195:8000/play/2020/index.m3u8
+#EXTINF:-1 group-title="Общие",СТС
+http://31.131.141.195:8000/play/2030/index.m3u8
+#EXTINF:-1 group-title="Общие",Пятница
+http://31.131.141.195:8000/play/2060/index.m3u8
+#EXTINF:-1 group-title="Общие",Домашний
+http://31.131.141.195:8000/play/a001/index.m3u8
+#EXTINF:-1 group-title="Общие",ТВ3
+http://31.131.141.195:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="Общие",Мир
+http://31.131.141.195:8000/play/a003/index.m3u8
+#EXTINF:-1 group-title="Общие",Звезда
+http://31.131.141.195:8000/play/2070/index.m3u8
+#EXTINF:-1 group-title="Общие",МузТВ
+http://31.131.141.195:8000/play/2100/index.m3u8
+#EXTINF:-1 group-title="Общие",Карусель
+http://31.131.141.195:8000/play/1080/index.m3u8
+#EXTINF:-1 group-title="Общие",Матч ТВ
+http://31.131.141.195:8000/play/1030/index.m3u8
+
+
+
+#EXTGRP:Информационные
+#EXTINF:-1,English Club TV
+http://188.225.31.197/bpk-tv/000000202/tve/index.m3u8
+#EXTINF:-1,Вопросы и ответы
+http://188.225.31.197/bpk-tv/000000195/tve/index.m3u8
+#EXTINF:-1,Время
+http://188.225.31.197/bpk-tv/000000205/tve/index.m3u8
+#EXTINF:-1,Глазами Туриста HD
+http://188.225.31.197/bpk-tv/000001414/tve/index.m3u8
+#EXTINF:-1,Диалоги о Рыбалке
+http://188.225.31.197/bpk-tv/000003174/tve/index.m3u8
+#EXTINF:-1,Загородная жизнь HD
+http://188.225.31.197/bpk-tv/000000289/tve/index.m3u8
+#EXTINF:-1,Зал суда
+http://188.225.31.197/bpk-tv/000006638/tve/index.m3u8
+#EXTINF:-1,Здоровое ТВ
+http://188.225.31.197/bpk-tv/000000057/tve/index.m3u8
+#EXTINF:-1,КтоКуда
+http://188.225.31.197/bpk-tv/000001377/tve/index.m3u8
+#EXTINF:-1,Наша Тема
+http://188.225.31.197/bpk-tv/000003785/tve/index.m3u8
+#EXTINF:-1,Оружие
+http://188.225.31.197/bpk-tv/000000308/tve/index.m3u8
+#EXTINF:-1,Поехали!
+http://188.225.31.197/bpk-tv/000002991/tve/index.m3u8
+#EXTINF:-1,Рыбалка и охота
+http://188.225.31.197/bpk-tv/000002510/tve/index.m3u8
+#EXTINF:-1,Точка отрыва
+http://188.225.31.197/bpk-tv/000003208/tve/index.m3u8
+#EXTINF:-1,АВТО 24
+http://188.225.31.197/bpk-tv/000000815/tve/index.m3u8
+#EXTINF:-1,ЕДА
+http://188.225.31.197/bpk-tv/000000588/tve/index.m3u8
+#EXTINF:-1,МОДА
+http://188.225.31.197/bpk-tv/000000439/tve/index.m3u8
+#EXTINF:-1,Аппетитный
+http://188.225.31.197/bpk-tv/000008877/tve/index.m3u8
+
+#EXTGRP:Детские
+#EXTINF:-1,Уникум
+http://188.225.31.197/bpk-tv/000000048/tve/index.m3u8
+#EXTINF:-1,Cartoon Network
+http://188.225.31.197/bpk-tv/000000015/tve/index.m3u8
+#EXTINF:-1,Cartoonito
+http://188.225.31.197/bpk-tv/000000160/tve/index.m3u8
+#EXTINF:-1,Nick Jr
+http://188.225.31.197/bpk-tv/000000449/tve/index.m3u8
+#EXTINF:-1,Nickelodeon
+http://188.225.31.197/bpk-tv/000000499/tve/index.m3u8
+#EXTINF:-1,Nicktoons
+http://188.225.31.197/bpk-tv/000004365/tve/index.m3u8
+#EXTINF:-1,TiJi
+http://188.225.31.197/bpk-tv/000000174/tve/index.m3u8
+#EXTINF:-1,Детский мир
+http://188.225.31.197/bpk-tv/000000049/tve/index.m3u8
+#EXTINF:-1,Мульт
+http://188.225.31.197/bpk-tv/000001207/tve/index.m3u8
+#EXTINF:-1,Мультиландия
+http://188.225.31.197/bpk-tv/000000203/tve/index.m3u8
+#EXTINF:-1,Бобер
+http://188.225.31.197/bpk-tv/000001478/tve/index.m3u8
+#EXTINF:-1,Лёва
+http://188.225.31.197/bpk-tv/000008003/tve/index.m3u8
+#EXTINF:-1,Лапки LIVE
+http://188.225.31.197/bpk-tv/000008551/tve/index.m3u8
+
+#EXTGRP:Музыкальные
+#EXTINF:-1,MTV 00s
+http://188.225.31.197/bpk-tv/000000264/tve/index.m3u8
+#EXTINF:-1,MTV Live HD
+http://188.225.31.197/bpk-tv/000000447/tve/index.m3u8
+#EXTINF:-1,Mezzo
+http://188.225.31.197/bpk-tv/000000030/tve/index.m3u8
+#EXTINF:-1,Muzzone
+http://188.225.31.197/bpk-tv/000000783/tve/index.m3u8
+#EXTINF:-1,Trace Urban HD
+http://188.225.31.197/bpk-tv/000001661/tve/index.m3u8
+#EXTINF:-1,TNT Music
+http://188.225.31.197/bpk-tv/000000013/tve/index.m3u8
+#EXTINF:-1,Шансон ТВ
+http://188.225.31.197/bpk-tv/000000210/tve/index.m3u8
+#EXTINF:-1,Музыка Первого
+http://188.225.31.197/bpk-tv/000000204/tve/index.m3u8
+#EXTINF:-1,MCM Top
+http://188.225.31.197/bpk-tv/000000327/tve/index.m3u8
+#EXTINF:-1,1HD
+http://188.225.31.197/bpk-tv/000001020/tve/index.m3u8
+
+#EXTGRP:Познавательные
+#EXTINF:-1,Animal Planet HD
+http://188.225.31.197/bpk-tv/000000216/tve/index.m3u8
+#EXTINF:-1,Da Vinci
+http://188.225.31.197/bpk-tv/000000333/tve/index.m3u8
+#EXTINF:-1,Discovery Channel HD
+http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
+#EXTINF:-1,History HD
+http://188.225.31.197/bpk-tv/000001000/tve/index.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+http://188.225.31.197/bpk-tv/000004474/tve/index.m3u8
+#EXTINF:-1,National Geographic HD
+http://188.225.31.197/bpk-tv/000000034/tve/index.m3u8
+#EXTINF:-1,Viasat Explore HD
+http://188.225.31.197/bpk-tv/000004157/tve/index.m3u8
+#EXTINF:-1,Viasat Nature HD
+http://188.225.31.197/bpk-tv/000006482/tve/index.m3u8
+#EXTINF:-1,Visast History HD
+http://188.225.31.197/bpk-tv/000005528/tve/index.m3u8
+#EXTINF:-1,Живая природа HD
+http://188.225.31.197/bpk-tv/000001187/tve/index.m3u8
+#EXTINF:-1,Домашние животные
+http://188.225.31.197/bpk-tv/000000146/tve/index.m3u8
+#EXTINF:-1,Зоопарк
+http://188.225.31.197/bpk-tv/000000260/tve/index.m3u8
+#EXTINF:-1,Тайны галактики HD
+http://188.225.31.197/bpk-tv/000000332/tve/index.m3u8
+#EXTINF:-1,Планета HD
+http://188.225.31.197/bpk-tv/000001049/tve/index.m3u8
+#EXTINF:-1,Big Planet HD
+http://188.225.31.197/bpk-tv/000008052/tve/index.m3u8
+#EXTINF:-1,Terra HD
+http://188.225.31.197/bpk-tv/000008142/tve/index.m3u8
+
+#EXTGRP:Развлекательные
+#EXTINF:-1,.Black
+http://188.225.31.197/bpk-tv/000000520/tve/index.m3u8
+#EXTINF:-1,.Red
+http://188.225.31.197/bpk-tv/000000213/tve/index.m3u8
+#EXTINF:-1,Gagsnetwork
+http://188.225.31.197/bpk-tv/000006639/tve/index.m3u8
+#EXTINF:-1,HIT TV
+http://188.225.31.197/bpk-tv/000001213/tve/index.m3u8
+#EXTINF:-1,Anecdote TV (Анекдот ТВ)
+http://188.225.31.197/bpk-tv/000001921/tve/index.m3u8
+#EXTINF:-1,Телекафе
+http://188.225.31.197/bpk-tv/000000206/tve/index.m3u8
+#EXTINF:-1,О!
+http://188.225.31.197/bpk-tv/000002928/tve/index.m3u8
+#EXTINF:-1,НСТ
+http://188.225.31.197/bpk-tv/000000078/tve/index.m3u8
+#EXTINF:-1,Твоё телевидение
+http://188.225.31.197/bpk-tv/000002721/tve/index.m3u8
+#EXTINF:-1,Новый игровой канал
+http://188.225.31.197/bpk-tv/000008615/tve/index.m3u8
+#EXTINF:-1,Gakku TV
+http://188.225.31.197/bpk-tv/000001383/tve/index.m3u8
+#EXTINF:-1,Plan B
+http://188.225.31.197/bpk-tv/000007625/tve/index.m3u8
+#EXTINF:-1,Trash HD
+http://188.225.31.197/bpk-tv/000005621/tve/index.m3u8
+#EXTINF:-1,viju+ Sport
+http://188.225.31.197/bpk-tv/000000135/tve/index.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://188.225.31.197/bpk-tv/000002478/tve/index.m3u8
+#EXTINF:-1,Eurosport 2 HD
+http://188.225.31.197/bpk-tv/000002479/tve/index.m3u8
+#EXTINF:-1,Setanta Sports 1 HD
+http://188.225.31.197/bpk-tv/000004498/tve/index.m3u8
+#EXTINF:-1,Setanta Sports 2 HD
+http://188.225.31.197/bpk-tv/000004499/tve/index.m3u8
+#EXTINF:-1,Trace Sport Stars HD
+http://188.225.31.197/bpk-tv/000001122/tve/index.m3u8
+#EXTINF:-1,Удар HD
+http://188.225.31.197/bpk-tv/000007802/tve/index.m3u8
+#EXTINF:-1,Start Air HD
+http://188.225.31.197/bpk-tv/000007815/tve/index.m3u8
+#EXTINF:-1,Start World HD
+http://188.225.31.197/bpk-tv/000007818/tve/index.m3u8
+
+#EXTGRP:Кино
+#EXTINF:-1,Amedia 1 HD
+http://188.225.31.197/bpk-tv/000000710/tve/index.m3u8
+#EXTINF:-1,Amedia 2
+http://188.225.31.197/bpk-tv/000000351/tve/index.m3u8
+#EXTINF:-1,Amedia HiT HD
+http://188.225.31.197/bpk-tv/000001662/tve/index.m3u8
+#EXTINF:-1,Amedia Premium HD
+http://188.225.31.197/bpk-tv/000000709/tve/index.m3u8
+#EXTINF:-1,Cinema
+http://188.225.31.197/bpk-tv/000000239/tve/index.m3u8
+#EXTINF:-1,FOX HD
+http://188.225.31.197/bpk-tv/000004472/tve/index.m3u8
+#EXTINF:-1,FOX Life HD
+http://188.225.31.197/bpk-tv/000004471/tve/index.m3u8
+#EXTINF:-1,FlixSnip HD
+http://188.225.31.197/bpk-tv/000004466/tve/index.m3u8
+#EXTINF:-1,Hollywood
+http://188.225.31.197/bpk-tv/000000031/tve/index.m3u8
+#EXTINF:-1,TV1000 HD
+http://188.225.31.197/bpk-tv/000003747/tve/index.m3u8
+#EXTINF:-1,TV1000 action HD
+http://188.225.31.197/bpk-tv/000003910/tve/index.m3u8
+#EXTINF:-1,TV1000 русское HD
+http://188.225.31.197/bpk-tv/000003748/tve/index.m3u8
+#EXTINF:-1,Vip Comedy HD
+http://188.225.31.197/bpk-tv/000000870/tve/index.m3u8
+#EXTINF:-1,Vip Megahit HD
+http://188.225.31.197/bpk-tv/000000869/tve/index.m3u8
+#EXTINF:-1,Vip Premiere HD
+http://188.225.31.197/bpk-tv/000000868/tve/index.m3u8
+#EXTINF:-1,Vip Serial HD
+http://188.225.31.197/bpk-tv/000004375/tve/index.m3u8
+#EXTINF:-1,Дом кино
+http://188.225.31.197/bpk-tv/000000050/tve/index.m3u8
+#EXTINF:-1,Дом кино Premium HD
+http://188.225.31.197/bpk-tv/000002943/tve/index.m3u8
+#EXTINF:-1,Еврокино
+http://188.225.31.197/bpk-tv/000000152/tve/index.m3u8
+#EXTINF:-1,Кинеко HD
+http://188.225.31.197/bpk-tv/000008136/tve/index.m3u8
+#EXTINF:-1,Кинобоевик HD
+http://188.225.31.197/bpk-tv/000008490/tve/index.m3u8
+#EXTINF:-1,Киноман
+http://188.225.31.197/bpk-tv/000003871/tve/index.m3u8
+#EXTINF:-1,Ключ
+http://188.225.31.197/bpk-tv/000004585/tve/index.m3u8
+#EXTINF:-1,Любимое Кино
+http://188.225.31.197/bpk-tv/000000283/tve/index.m3u8
+#EXTINF:-1,Мир Сериала
+http://188.225.31.197/bpk-tv/000000319/tve/index.m3u8
+#EXTINF:-1,Мировое Кино HD
+http://188.225.31.197/bpk-tv/000008488/tve/index.m3u8
+#EXTINF:-1,Мосфильм. Золотая коллекция
+http://188.225.31.197/bpk-tv/000006365/tve/index.m3u8
+#EXTINF:-1,Мужской
+http://188.225.31.197/bpk-tv/000000286/tve/index.m3u8
+#EXTINF:-1,Победа
+http://188.225.31.197/bpk-tv/000004534/tve/index.m3u8
+#EXTINF:-1,Русский Иллюзион
+http://188.225.31.197/bpk-tv/000004207/tve/index.m3u8
+#EXTINF:-1,Сапфир HD
+http://188.225.31.197/bpk-tv/000008135/tve/index.m3u8
+#EXTINF:-1,Семейное кино HD
+http://188.225.31.197/bpk-tv/000008489/tve/index.m3u8
+#EXTINF:-1,Феникс+Кино
+http://188.225.31.197/bpk-tv/000000125/tve/index.m3u8
+#EXTINF:-1,Премиум Кино HD
+http://188.225.31.197/bpk-tv/000008491/tve/index.m3u8
+#EXTINF:-1,8 канал
+http://188.225.31.197/bpk-tv/000001564/tve/index.m3u8
+#EXTINF:-1,.Sci-Fi
+http://188.225.31.197/bpk-tv/000000134/tve/index.m3u8
+#EXTINF:-1,RTVi HD
+http://188.225.31.197/bpk-tv/000000039/tve/index.m3u8
+#EXTINF:-1,Bollywood HD
+http://188.225.31.197/bpk-tv/000001419/tve/index.m3u8
+#EXTINF:-1,Т24
+http://188.225.31.197/bpk-tv/000000008/tve/index.m3u8
+#EXTINF:-1,ТВ21
+http://188.225.31.197/bpk-tv/000000006/tve/index.m3u8
+
+#EXTGRP:Информационные
+#EXTINF:-1,English Club TV
+http://188.225.31.197/bpk-tv/000000202/tve/index.m3u8
+#EXTINF:-1,Вопросы и ответы
+http://188.225.31.197/bpk-tv/000000195/tve/index.m3u8
+#EXTINF:-1,Время
+http://188.225.31.197/bpk-tv/000000205/tve/index.m3u8
+#EXTINF:-1,Глазами Туриста HD
+http://188.225.31.197/bpk-tv/000001414/tve/index.m3u8
+#EXTINF:-1,Диалоги о Рыбалке
+http://188.225.31.197/bpk-tv/000003174/tve/index.m3u8
+#EXTINF:-1,Загородная жизнь HD
+http://188.225.31.197/bpk-tv/000000289/tve/index.m3u8
+#EXTINF:-1,Зал суда
+http://188.225.31.197/bpk-tv/000006638/tve/index.m3u8
+#EXTINF:-1,Здоровое ТВ
+http://188.225.31.197/bpk-tv/000000057/tve/index.m3u8
+#EXTINF:-1,КтоКуда
+http://188.225.31.197/bpk-tv/000001377/tve/index.m3u8
+#EXTINF:-1,Наша Тема
+http://188.225.31.197/bpk-tv/000003785/tve/index.m3u8
+#EXTINF:-1,Оружие
+http://188.225.31.197/bpk-tv/000000308/tve/index.m3u8
+#EXTINF:-1,Поехали!
+http://188.225.31.197/bpk-tv/000002991/tve/index.m3u8
+#EXTINF:-1,Рыбалка и охота
+http://188.225.31.197/bpk-tv/000002510/tve/index.m3u8
+#EXTINF:-1,Точка отрыва
+http://188.225.31.197/bpk-tv/000003208/tve/index.m3u8
+#EXTINF:-1,АВТО 24
+http://188.225.31.197/bpk-tv/000000815/tve/index.m3u8
+#EXTINF:-1,ЕДА
+http://188.225.31.197/bpk-tv/000000588/tve/index.m3u8
+#EXTINF:-1,МОДА
+http://188.225.31.197/bpk-tv/000000439/tve/index.m3u8
+#EXTINF:-1,Аппетитный
+http://188.225.31.197/bpk-tv/000008877/tve/index.m3u8
+
+#EXTGRP:Детские
+#EXTINF:-1,Уникум
+http://188.225.31.197/bpk-tv/000000048/tve/index.m3u8
+#EXTINF:-1,Cartoon Network
+http://188.225.31.197/bpk-tv/000000015/tve/index.m3u8
+#EXTINF:-1,Cartoonito
+http://188.225.31.197/bpk-tv/000000160/tve/index.m3u8
+#EXTINF:-1,Nick Jr
+http://188.225.31.197/bpk-tv/000000449/tve/index.m3u8
+#EXTINF:-1,Nickelodeon
+http://188.225.31.197/bpk-tv/000000499/tve/index.m3u8
+#EXTINF:-1,Nicktoons
+http://188.225.31.197/bpk-tv/000004365/tve/index.m3u8
+#EXTINF:-1,TiJi
+http://188.225.31.197/bpk-tv/000000174/tve/index.m3u8
+#EXTINF:-1,Детский мир
+http://188.225.31.197/bpk-tv/000000049/tve/index.m3u8
+#EXTINF:-1,Мульт
+http://188.225.31.197/bpk-tv/000001207/tve/index.m3u8
+#EXTINF:-1,Мультиландия
+http://188.225.31.197/bpk-tv/000000203/tve/index.m3u8
+#EXTINF:-1,Бобер
+http://188.225.31.197/bpk-tv/000001478/tve/index.m3u8
+#EXTINF:-1,Лёва
+http://188.225.31.197/bpk-tv/000008003/tve/index.m3u8
+#EXTINF:-1,Лапки LIVE
+http://188.225.31.197/bpk-tv/000008551/tve/index.m3u8
+
+#EXTGRP:Музыкальные
+#EXTINF:-1,MTV 00s
+http://188.225.31.197/bpk-tv/000000264/tve/index.m3u8
+#EXTINF:-1,MTV Live HD
+http://188.225.31.197/bpk-tv/000000447/tve/index.m3u8
+#EXTINF:-1,Mezzo
+http://188.225.31.197/bpk-tv/000000030/tve/index.m3u8
+#EXTINF:-1,Muzzone
+http://188.225.31.197/bpk-tv/000000783/tve/index.m3u8
+#EXTINF:-1,Trace Urban HD
+http://188.225.31.197/bpk-tv/000001661/tve/index.m3u8
+#EXTINF:-1,TNT Music
+http://188.225.31.197/bpk-tv/000000013/tve/index.m3u8
+#EXTINF:-1,Шансон ТВ
+http://188.225.31.197/bpk-tv/000000210/tve/index.m3u8
+#EXTINF:-1,Музыка Первого
+http://188.225.31.197/bpk-tv/000000204/tve/index.m3u8
+#EXTINF:-1,MCM Top
+http://188.225.31.197/bpk-tv/000000327/tve/index.m3u8
+#EXTINF:-1,1HD
+http://188.225.31.197/bpk-tv/000001020/tve/index.m3u8
+
+#EXTGRP:Познавательные
+#EXTINF:-1,Animal Planet HD
+http://188.225.31.197/bpk-tv/000000216/tve/index.m3u8
+#EXTINF:-1,Da Vinci
+http://188.225.31.197/bpk-tv/000000333/tve/index.m3u8
+#EXTINF:-1,Discovery Channel HD
+http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
+#EXTINF:-1,History HD
+http://188.225.31.197/bpk-tv/000001000/tve/index.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+http://188.225.31.197/bpk-tv/000004474/tve/index.m3u8
+#EXTINF:-1,National Geographic HD
+http://188.225.31.197/bpk-tv/000000034/tve/index.m3u8
+#EXTINF:-1,Viasat Explore HD
+http://188.225.31.197/bpk-tv/000004157/tve/index.m3u8
+#EXTINF:-1,Viasat Nature HD
+http://188.225.31.197/bpk-tv/000006482/tve/index.m3u8
+#EXTINF:-1,Visast History HD
+http://188.225.31.197/bpk-tv/000005528/tve/index.m3u8
+#EXTINF:-1,Живая природа HD
+http://188.225.31.197/bpk-tv/000001187/tve/index.m3u8
+#EXTINF:-1,Домашние животные
+http://188.225.31.197/bpk-tv/000000146/tve/index.m3u8
+#EXTINF:-1,Зоопарк
+http://188.225.31.197/bpk-tv/000000260/tve/index.m3u8
+#EXTINF:-1,Тайны галактики HD
+http://188.225.31.197/bpk-tv/000000332/tve/index.m3u8
+#EXTINF:-1,Планета HD
+http://188.225.31.197/bpk-tv/000001049/tve/index.m3u8
+#EXTINF:-1,Big Planet HD
+http://188.225.31.197/bpk-tv/000008052/tve/index.m3u8
+#EXTINF:-1,Terra HD
+http://188.225.31.197/bpk-tv/000008142/tve/index.m3u8
+
+#EXTGRP:Развлекательные
+#EXTINF:-1,.Black
+http://188.225.31.197/bpk-tv/000000520/tve/index.m3u8
+#EXTINF:-1,.Red
+http://188.225.31.197/bpk-tv/000000213/tve/index.m3u8
+#EXTINF:-1,Gagsnetwork
+http://188.225.31.197/bpk-tv/000006639/tve/index.m3u8
+#EXTINF:-1,HIT TV
+http://188.225.31.197/bpk-tv/000001213/tve/index.m3u8
+#EXTINF:-1,Anecdote TV (Анекдот ТВ)
+http://188.225.31.197/bpk-tv/000001921/tve/index.m3u8
+#EXTINF:-1,Телекафе
+http://188.225.31.197/bpk-tv/000000206/tve/index.m3u8
+#EXTINF:-1,О!
+http://188.225.31.197/bpk-tv/000002928/tve/index.m3u8
+#EXTINF:-1,НСТ
+http://188.225.31.197/bpk-tv/000000078/tve/index.m3u8
+#EXTINF:-1,Твоё телевидение
+http://188.225.31.197/bpk-tv/000002721/tve/index.m3u8
+#EXTINF:-1,Новый игровой канал
+http://188.225.31.197/bpk-tv/000008615/tve/index.m3u8
+#EXTINF:-1,Gakku TV
+http://188.225.31.197/bpk-tv/000001383/tve/index.m3u8
+#EXTINF:-1,Plan B
+http://188.225.31.197/bpk-tv/000007625/tve/index.m3u8
+#EXTINF:-1,Trash HD
+http://188.225.31.197/bpk-tv/000005621/tve/index.m3u8
+#EXTINF:-1,viju+ Sport
+http://188.225.31.197/bpk-tv/000000135/tve/index.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://188.225.31.197/bpk-tv/000002478/tve/index.m3u8
+#EXTINF:-1,Eurosport 2 HD
+http://188.225.31.197/bpk-tv/000002479/tve/index.m3u8
+#EXTINF:-1,Setanta Sports 1 HD
+http://188.225.31.197/bpk-tv/000004498/tve/index.m3u8
+#EXTINF:-1,Setanta Sports 2 HD
+http://188.225.31.197/bpk-tv/000004499/tve/index.m3u8
+#EXTINF:-1,Trace Sport Stars HD
+http://188.225.31.197/bpk-tv/000001122/tve/index.m3u8
+#EXTINF:-1,Удар HD
+http://188.225.31.197/bpk-tv/000007802/tve/index.m3u8
+#EXTINF:-1,Start Air HD
+http://188.225.31.197/bpk-tv/000007815/tve/index.m3u8
+#EXTINF:-1,Start World HD
+http://188.225.31.197/bpk-tv/000007818/tve/index.m3u8
+
+#EXTGRP:Кино
+#EXTINF:-1,Amedia 1 HD
+http://188.225.31.197/bpk-tv/000000710/tve/index.m3u8
+#EXTINF:-1,Amedia 2
+http://188.225.31.197/bpk-tv/000000351/tve/index.m3u8
+#EXTINF:-1,Amedia HiT HD
+http://188.225.31.197/bpk-tv/000001662/tve/index.m3u8
+#EXTINF:-1,Amedia Premium HD
+http://188.225.31.197/bpk-tv/000000709/tve/index.m3u8
+#EXTINF:-1,Cinema
+http://188.225.31.197/bpk-tv/000000239/tve/index.m3u8
+#EXTINF:-1,FOX HD
+http://188.225.31.197/bpk-tv/000004472/tve/index.m3u8
+#EXTINF:-1,FOX Life HD
+http://188.225.31.197/bpk-tv/000004471/tve/index.m3u8
+#EXTINF:-1,FlixSnip HD
+http://188.225.31.197/bpk-tv/000004466/tve/index.m3u8
+#EXTINF:-1,Hollywood
+http://188.225.31.197/bpk-tv/000000031/tve/index.m3u8
+#EXTINF:-1,TV1000 HD
+http://188.225.31.197/bpk-tv/000003747/tve/index.m3u8
+#EXTINF:-1,TV1000 action HD
+http://188.225.31.197/bpk-tv/000003910/tve/index.m3u8
+#EXTINF:-1,TV1000 русское HD
+http://188.225.31.197/bpk-tv/000003748/tve/index.m3u8
+#EXTINF:-1,Vip Comedy HD
+http://188.225.31.197/bpk-tv/000000870/tve/index.m3u8
+#EXTINF:-1,Vip Megahit HD
+http://188.225.31.197/bpk-tv/000000869/tve/index.m3u8
+#EXTINF:-1,Vip Premiere HD
+http://188.225.31.197/bpk-tv/000000868/tve/index.m3u8
+#EXTINF:-1,Vip Serial HD
+http://188.225.31.197/bpk-tv/000004375/tve/index.m3u8
+#EXTINF:-1,Дом кино
+http://188.225.31.197/bpk-tv/000000050/tve/index.m3u8
+#EXTINF:-1,Дом кино Premium HD
+http://188.225.31.197/bpk-tv/000002943/tve/index.m3u8
+#EXTINF:-1,Еврокино
+http://188.225.31.197/bpk-tv/000000152/tve/index.m3u8
+#EXTINF:-1,Кинеко HD
+http://188.225.31.197/bpk-tv/000008136/tve/index.m3u8
+#EXTINF:-1,Кинобоевик HD
+http://188.225.31.197/bpk-tv/000008490/tve/index.m3u8
+#EXTINF:-1,Киноман
+http://188.225.31.197/bpk-tv/000003871/tve/index.m3u8
+#EXTINF:-1,Ключ
+http://188.225.31.197/bpk-tv/000004585/tve/index.m3u8
+#EXTINF:-1,Любимое Кино
+http://188.225.31.197/bpk-tv/000000283/tve/index.m3u8
+#EXTINF:-1,Мир Сериала
+http://188.225.31.197/bpk-tv/000000319/tve/index.m3u8
+#EXTINF:-1,Мировое Кино HD
+http://188.225.31.197/bpk-tv/000008488/tve/index.m3u8
+#EXTINF:-1,Мосфильм. Золотая коллекция
+http://188.225.31.197/bpk-tv/000006365/tve/index.m3u8
+#EXTINF:-1,Мужской
+http://188.225.31.197/bpk-tv/000000286/tve/index.m3u8
+#EXTINF:-1,Победа
+http://188.225.31.197/bpk-tv/000004534/tve/index.m3u8
+#EXTINF:-1,Русский Иллюзион
+http://188.225.31.197/bpk-tv/000004207/tve/index.m3u8
+#EXTINF:-1,Сапфир HD
+http://188.225.31.197/bpk-tv/000008135/tve/index.m3u8
+#EXTINF:-1,Семейное кино HD
+http://188.225.31.197/bpk-tv/000008489/tve/index.m3u8
+#EXTINF:-1,Феникс+Кино
+http://188.225.31.197/bpk-tv/000000125/tve/index.m3u8
+#EXTINF:-1,Премиум Кино HD
+http://188.225.31.197/bpk-tv/000008491/tve/index.m3u8
+#EXTINF:-1,8 канал
+http://188.225.31.197/bpk-tv/000001564/tve/index.m3u8
+#EXTINF:-1,.Sci-Fi
+http://188.225.31.197/bpk-tv/000000134/tve/index.m3u8
+#EXTINF:-1,RTVi HD
+http://188.225.31.197/bpk-tv/000000039/tve/index.m3u8
+#EXTINF:-1,Bollywood HD
+http://188.225.31.197/bpk-tv/000001419/tve/index.m3u8
+#EXTINF:-1,Т24
+http://188.225.31.197/bpk-tv/000000008/tve/index.m3u8
+#EXTINF:-1,ТВ21
+http://188.225.31.197/bpk-tv/000000006/tve/index.m3u8
+
