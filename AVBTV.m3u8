@@ -59,6 +59,69 @@ http://stream-tv.ew21.ru/019/video.m3u8?hash=TN66TE4YB
 #EXTINF:0,Муз ТВ
 #EXTGRP:Федеральные
 https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
+#EXTINF:0,Первый канал
+#EXTGRP:Федеральные
+http://31.131.141.195:8000/play/1010/index.m3u8
+#EXTINF:0,Россия 1
+#EXTGRP:Федеральные
+http://31.131.141.195:8000/play/1020/index.m3u8
+#EXTINF:0,Матч ТВ
+#EXTGRP:Федеральные
+http://31.131.141.195:8000/play/1030/index.m3u8
+#EXTINF:0,НТВ
+#EXTGRP:Федеральные
+http://31.131.141.195:8000/play/1040/index.m3u8
+#EXTINF:0,Пятый канал
+#EXTGRP:Федеральные
+http://31.131.141.195:8000/play/1050/index.m3u8
+#EXTINF:0,Россия К
+#EXTGRP:Федеральные
+http://31.131.141.195:8000/play/1060/index.m3u8
+#EXTINF:0,Россия 24 HD
+#EXTGRP:Федеральные
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
+#EXTINF:0,Карусель
+#EXTGRP:Федеральные
+http://31.131.141.195:8000/play/1080/index.m3u8
+#EXTINF:0,ОТР
+#EXTGRP:Федеральные
+http://31.131.141.195:8000/play/1090/index.m3u8
+#EXTINF:0,ТВЦ
+#EXTGRP:Федеральные
+http://31.131.141.195:8000/play/1100/index.m3u8
+#EXTINF:0,Рен ТВ
+#EXTGRP:Федеральные
+http://31.131.141.195:8000/play/2010/index.m3u8
+#EXTINF:0,Спас
+#EXTGRP:Федеральные
+http://31.131.141.195:8000/play/2020/index.m3u8
+#EXTINF:0,СТС
+#EXTGRP:Федеральные
+http://31.131.141.195:8000/play/2030/index.m3u8
+#EXTINF:0,Домашний
+#EXTGRP:Федеральные
+http://31.131.141.195:8000/play/a001/index.m3u8
+#EXTINF:0,ТВ3
+#EXTGRP:Федеральные
+http://31.131.141.195:8000/play/a002/index.m3u8
+#EXTINF:0,Пятница
+#EXTGRP:Федеральные
+http://31.131.141.195:8000/play/2060/index.m3u8
+#EXTINF:0,Звезда
+#EXTGRP:Федеральные
+http://31.131.141.195:8000/play/2070/index.m3u8
+#EXTINF:0,Мир
+#EXTGRP:Федеральные
+http://31.131.141.195:8000/play/a003/index.m3u8
+#EXTINF:0,ТНТ
+#EXTGRP:Федеральные
+http://31.131.141.195:8000/play/2090/index.m3u8
+#EXTINF:0,МузТВ
+#EXTGRP:Федеральные
+http://31.131.141.195:8000/play/2100/index.m3u8
+
+
+
 #EXTINF:0,Мир 24 HD
 #EXTGRP:Новостные
 http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
@@ -130,7 +193,7 @@ https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 #EXTINF:0,Про бизнес
 #EXTGRP:Новостные
-http://176.107.219.20:9000/play/a003/index.m3u8
+https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/chunklist.m3u8
 #EXTINF:0,Москва 24 HD
 #EXTGRP:Новостные
 https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
@@ -234,6 +297,9 @@ http://188.225.31.197/bpk-tv/000008052/tve/index.m3u8
 #EXTINF:0,Terra HD
 #EXTGRP:Познавательные
 http://188.225.31.197/bpk-tv/000008142/tve/index.m3u8
+#EXTINF:0,Ключ HD
+#EXTGRP:Познавательные
+http://188.225.31.197/bpk-tv/000004585/tve/index.m3u8
 
 #EXTINF:0,Че!
 #EXTGRP:Развлекательные
@@ -256,9 +322,6 @@ http://tvoetv.space:8080/tvoetv_humor/tracks-v1a1/mono.m3u8
 #EXTINF:0,TV1 KG HD (Кыргызстан) HD
 #EXTGRP:Развлекательные
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
-#EXTINF:0,Смотрим Праздник
-#EXTGRP:Развлекательные
-http://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564.m3u8
 #EXTINF:0,Теледом HD
 #EXTGRP:Развлекательные
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
@@ -366,25 +429,25 @@ https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33
 #EXTGRP:Спортивные
 https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd/33_85479982/1080p/4eaec8986e2012fb936478856fbf3b4b/4818731006.m3u8?live=15&ref=https://tvstart.ru/ru/pages/start-triumph
 #EXTINF:0,viju+ Sport HD
-#EXTGRP:Развлекательные
+#EXTGRP:Спортивные
 http://188.225.31.197/bpk-tv/000000135/tve/index.m3u8
 #EXTINF:0,Eurosport 1 HD
-#EXTGRP:Развлекательные
+#EXTGRP:Спортивные
 http://188.225.31.197/bpk-tv/000002478/tve/index.m3u8
 #EXTINF:0,Eurosport 2 HD
-#EXTGRP:Развлекательные
+#EXTGRP:Спортивные
 http://188.225.31.197/bpk-tv/000002479/tve/index.m3u8
 #EXTINF:0,Setanta Sports 1 HD
-#EXTGRP:Развлекательные
+#EXTGRP:Спортивные
 http://188.225.31.197/bpk-tv/000004498/tve/index.m3u8
 #EXTINF:0,Setanta Sports 2 HD
-#EXTGRP:Развлекательные
+#EXTGRP:Спортивные
 http://188.225.31.197/bpk-tv/000004499/tve/index.m3u8
 #EXTINF:0,Trace Sport Stars HD
-#EXTGRP:Развлекательные
+#EXTGRP:Спортивные
 http://188.225.31.197/bpk-tv/000001122/tve/index.m3u8
 #EXTINF:0,Удар HD
-#EXTGRP:Развлекательные
+#EXTGRP:Спортивные
 http://188.225.31.197/bpk-tv/000007802/tve/index.m3u8
 #EXTINF:0,Clarity4K Anime
 #EXTGRP:Детские
@@ -501,6 +564,9 @@ http://hls127.freeott.top:8080/CPS_Investigation/video.m3u8
 #EXTINF:0,CPS Jackie Chan
 #EXTGRP:Кинофильмы
 http://hls127.freeott.top:8080/CPS_Jackie_Chan/video.m3u8
+#EXTINF:0,FlixSnip HD
+#EXTGRP:Кинофильмы
+http://188.225.31.197/bpk-tv/000004466/tve/index.m3u8
 #EXTINF:0,IPTVPLAY ФАНТАСТИКА
 #EXTGRP:Кинофильмы
 http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
@@ -580,12 +646,43 @@ https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
 #EXTGRP:Кинофильмы
 https://streaming.televizor-24-tochka.ru/live/43.m3u8
 
+
+#EXTINF:0,Amedia 1 HD
+#EXTGRP:Кинофильмы | Сериалы
+http://188.225.31.197/bpk-tv/000000710/tve/index.m3u8
+#EXTINF:0,Amedia 2 HD
+#EXTGRP:Кинофильмы | Сериалы
+http://188.225.31.197/bpk-tv/000000351/tve/index.m3u8
+#EXTINF:0,Amedia HiT HD
+#EXTGRP:Кинофильмы | Сериалы
+http://188.225.31.197/bpk-tv/000001662/tve/index.m3u8
+#EXTINF:0,Amedia Premium HD
+#EXTGRP:Кинофильмы | Сериалы
+http://188.225.31.197/bpk-tv/000000709/tve/index.m3u8
 #EXTINF:0,Amedia 2 HD
 #EXTGRP:Кинофильмы | Сериалы
 http://hls127.freeott.top:8080/Amedia_2_HD/video.m3u8
+#EXTINF:0,Bollywood HD
+#EXTGRP:Кинофильмы плюс
+http://188.225.31.197/bpk-tv/000001419/tve/index.m3u8
+#EXTINF:0,FOX HD
+#EXTGRP:Кинофильмы | Сериалы
+http://188.225.31.197/bpk-tv/000004472/tve/index.m3u8
+#EXTINF:0,FOX Life HD
+#EXTGRP:Кинофильмы | Сериалы
+http://188.225.31.197/bpk-tv/000004471/tve/index.m3u8
 #EXTINF:0,IPTVPLAY ИНТЕРНЫ
 #EXTGRP:Кинофильмы | Сериалы
 http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:0,Start Air HD
+#EXTGRP:Кинофильмы | Сериалы
+http://188.225.31.197/bpk-tv/000007815/tve/index.m3u8
+#EXTINF:0,Start World HD
+#EXTGRP:Кинофильмы | Сериалы
+http://188.225.31.197/bpk-tv/000007818/tve/index.m3u8
+#EXTINF:0,Кинеко HD
+#EXTGRP:Кинофильмы | Сериалы
+http://188.225.31.197/bpk-tv/000008136/tve/index.m3u8
 #EXTINF:0,Киносерия HD
 #EXTGRP:Кинофильмы | Сериалы
 http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
@@ -631,6 +728,9 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v
 #EXTINF:0,Смотрим Мужское
 #EXTGRP:Кинофильмы | Сериалы
 http://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d.m3u8
+#EXTINF:0,Сапфир HD
+#EXTGRP:Кинофильмы | Сериалы
+http://188.225.31.197/bpk-tv/000008135/tve/index.m3u8
 
 #EXTINF:0,Start Air HD
 #EXTGRP:Развлекательные
@@ -686,26 +786,17 @@ http://188.225.31.197/bpk-tv/000002943/tve/index.m3u8
 #EXTINF:0,Еврокино HD
 #EXTGRP:Кинофильмы плюс
 http://188.225.31.197/bpk-tv/000000152/tve/index.m3u8
-#EXTINF:0,Кинеко HD
-#EXTGRP:Кинофильмы плюс
-http://188.225.31.197/bpk-tv/000008136/tve/index.m3u8
 #EXTINF:0,Кинобоевик HD
 #EXTGRP:Кинофильмы плюс
 http://188.225.31.197/bpk-tv/000008490/tve/index.m3u8
-#EXTINF:0,Ключ HD
-#EXTGRP:Кинофильмы плюс
-http://188.225.31.197/bpk-tv/000004585/tve/index.m3u8
-#EXTINF:0,Сапфир HD
-#EXTGRP:Кинофильмы плюс
-http://188.225.31.197/bpk-tv/000008135/tve/index.m3u8
-#EXTINF:0,Семейное кино HD
-#EXTGRP:Кинофильмы плюс
-http://188.225.31.197/bpk-tv/000008489/tve/index.m3u8
 #EXTINF:0,Премиум Кино HD
 #EXTGRP:Кинофильмы плюс
 http://188.225.31.197/bpk-tv/000008491/tve/index.m3u8
-#EXTINF:0,Bollywood HD
+#EXTINF:0,Семейное кино HD
 #EXTGRP:Кинофильмы плюс
-http://188.225.31.197/bpk-tv/000001419/tve/index.m3u8
+http://188.225.31.197/bpk-tv/000008489/tve/index.m3u8
+
+
+
 
 
