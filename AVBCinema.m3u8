@@ -309,6 +309,10 @@ https://river-5-540.rtbcdn.ru/hls-vod/Saajc7-A9txvF9VsVX0-Bw/1769275634/2720/0x5
 #EXTINF:0,Трудная мишень (1993) [4K 3840x2160]
 #EXTGRP:4K KINO ZAL VPN
 https://river-5-540.rtbcdn.ru/hls-vod/3ARXN7lWG3Iwr_Q_Z_eYtQ/1769275636/2726/0x5000039ce868f779/b40ac16b786a4eb48f20513577281a1e.mp4.m3u8?i=3840x2160_15400
+#EXTINF:0,Путешественники (2025) [4K 3840x2160]
+#EXTGRP:4K KINO ZAL VPN
+https://river-3-343.rtbcdn.ru/hls-vod/8Gz3m_gCwLGtgIQ65Fqoeg/1769275497/3328/0x5000c500e9cf1e38/26fe6b7ddab74e449ad7b4384391ee09.mp4.m3u8?i=3840x2160_4897
+
 #EXTINF:0,Лакомый кусок (2026)
 #EXTGRP:KINO ZAL VPN
 https://river-1.rutube.ru/hls-vod/UAzMk_7QqUwZhomlErFR7Q/1769274624/3282/0x5000c500fa775e7d/8cd9f260be55431e90b43b1228edb0a7.mp4.m3u8?i=1920x1080_1766
@@ -1725,3 +1729,4 @@ https://kinoleha.net/load/ya-videl-dyavola?original
 #EXTINF:0,Я хочу вернуть тебя (2022)
 #EXTGRP:SD
 https://kinoleha.net/load/ya-hochu-vernut-tebya?original
+
