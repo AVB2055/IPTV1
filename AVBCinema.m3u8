@@ -1,43 +1,13 @@
 #EXTM3U
-#EXTINF:0,Гарри Поттер и философский камень (2001)
-#EXTGRP:Фильмы для GIK
-https://river-m9-rtk-318.rtbcdn.ru/hls-vod/PhKU-_hjWH6Q0VDkKxFeXw/1769862072/3270/0x5000c500e3e0ad5e/c2d2d00a8cde4590834cec9bb0ee593b.mp4.m3u8?i=3840x1600_7554
-#EXTINF:0,Гарри Поттер и Тайная комната (2002)
-#EXTGRP:Фильмы для GIK
-https://vkvd355.okcdn.ru/?expires=1769602654628&srcIp=5.228.112.124&pr=40&srcAg=CHROME&ms=45.136.21.198&type=5&subId=9866924329481&sig=r7nlD6HmQ08&ct=0&urls=95.163.35.130&clientType=13&appId=512000384397&id=9844700350985
-#EXTINF:0,Гарри Поттер и узник Азкабана (2004)
-#EXTGRP:Фильмы для GIK
-https://river-ntv-rtk-d431.rtbcdn.ru/hls-vod/w3um4-f1MDe0cT359F9gSQ/1769863147/3334/0x5000c500fa782ba0/3cfb64b8ae9646619aa032c186fe60fd.mp4.m3u8?i=3840x1600_7091
-#EXTINF:0,Гарри Поттер и Кубок огня (2005)
-#EXTGRP:Фильмы для GIK
-https://vk1-42.vkuser.net/?srcIp=5.228.112.124&pr=40&expires=1769802771400&srcAg=CHROME&fromCache=1&ms=95.142.207.130&type=5&subId=9857399392993&sig=xf0b1R5xL8w&ct=0&urls=185.180.203.152%3B185.226.55.191&clientType=13&appId=512000384397&zs=69&id=9833426979553
-#EXTINF:0,Гарри Поттер и Орден Феникса (2007)
-#EXTGRP:Фильмы для GIK
-https://river-m9-rtk-334.rtbcdn.ru/hls-vod/38kVVoo2z5pfTRnGLT5iwA/1769863207/3396/0x5000c500fa77646e/a5d0bba2ca554006a22a60f395002428.mp4.m3u8?i=3840x1600_5175
-#EXTINF:0,Гарри Поттер и Принц-полукровка (2009)
-#EXTGRP:Фильмы для GIK
-https://vkvd406.okcdn.ru/?expires=1769603473316&srcIp=5.228.112.124&pr=40&srcAg=CHROME&ms=185.226.53.154&type=5&subId=9987559066325&sig=ZMR-wZclnTM&ct=0&urls=178.237.23.129&clientType=13&appId=512000384397&id=9967966423765
-#EXTINF:0,Гарри Поттер и Дары Смерти. Часть 1 (2010)
-#EXTGRP:Фильмы для GIK
-https://vkvd563.okcdn.ru/?expires=1769603036536&srcIp=5.228.112.124&pr=40&srcAg=CHROME&ms=45.136.21.223&type=5&subId=9829562059492&sig=LXz0KTzvE0A&ct=0&urls=185.226.55.185&clientType=13&appId=512000384397&id=7363880552994
-#EXTINF:0,Гарри Поттер и Дары Смерти. Часть 2 (2011) 720
-#EXTGRP:Фильмы для GIK
-https://vkvd524.okcdn.ru/?expires=1769603578522&srcIp=5.228.112.124&pr=40&srcAg=CHROME&ms=185.226.55.162&type=5&subId=10105013406387&sig=qjZiM0IkPkc&ct=0&urls=178.237.23.134&clientType=13&appId=512000384397&id=7770620103346#EXTINF:0,Прощай, Джун (2025)
-
+#EXTINF:0,Проект Флорида(2025)
 #EXTGRP:Тест
-https://river-m9-rtk-331.rtbcdn.ru/hls-vod/nHoCDyDBOgQ2Lt6Mv7PWQw/1769862368/3402/0x5000c500fa6e920e/42eec252d6cb4831820dd91f63bb1bba.mp4.m3u8?i=1920x1080_2203
-#EXTINF:0,Злая. Часть 2 (2025)
+https://cache1.tvigle.ru/28/hls/2018/09/03/943a33e7-d73b-4990-be4a-035d49bcac7f.mp4/index-v1-a1.m3u8?expire=1769448975&key=yAe9W9IbWIwqpOV9l_pORA&video_id=5737303&owner_id=24&pad_id=24&slink=v2&
+#EXTINF:0,Японский мультфиль
 #EXTGRP:Тест
-https://river-1.Тест.ru/hls-vod/bqLWvpdFQLXQisrFCkbftw/1769862415/3314/0x5000c50074475ffd/69304e990b6c4244bb83eb36263a267e.mp4.m3u8?i=3840x1608_6193
-#EXTINF:0,Пять ночей с Фредди 2  (2025)
+https://www.dropbox.com/scl/fi/iqynn3f6drtm7try06wp8/2026.mp4?rlkey=tz2ewjteewfq5oybs4oj5oen9&st=deiy80cn&raw=1
+#EXTINF:0, Аватар: Огонь и пепел (2025) 
 #EXTGRP:Тест
-https://river-m9-rtk-353.rtbcdn.ru/hls-vod/bwK3HJnDUc1Ky2piayCSUg/1769862735/3366/0x5000c500fa78baf1/567d61a412fc44d7827fe3c5f48df184.mp4.m3u8?i=3840x2160_4685
-#EXTINF:0,Опустошение (2025)
-#EXTGRP:Тест
-https://river-m9-rtk-351.rtbcdn.ru/hls-vod/hrCIMETWsPgSn6a5iN-axw/1769862902/2736/0x5000039ce86336d1/fb3c883c8f054e35bebf76d9a02e156d.mp4.m3u8?i=1920x1080_5093
-#EXTINF:0,Проблемы с шампанским (2025)
-#EXTGRP:Тест
-https://river-ost-rtk-521.rtbcdn.ru/hls-vod/RCDiKS14Suyl_5U0FZaKTQ/1769863294/3372/0x5000c500fa6e80ae/745d28fd4363401ba59eafb6561ca1e6.mp4.m3u8?i=3840x2160_5042
+https://s19.kvb.cool/video_mp4/films/2025/AvatarFireAsh/Y1xjV3ZsaHh2OBo3ECwxD3cdJToEAxUR_YkVlQHV1bAFzUw::/AvatarFireAsh2025_480.mp4
 
 #EXTINF:0,Конёк-Горбунок (2021)
 #EXTGRP:FHD
@@ -1176,6 +1146,7 @@ https://kinoleha.net/load/ya-videl-dyavola?original
 #EXTINF:0,Я хочу вернуть тебя (2022)
 #EXTGRP:SD
 https://kinoleha.net/load/ya-hochu-vernut-tebya?original
+
 
 
 
