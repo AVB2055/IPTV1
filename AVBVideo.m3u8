@@ -1,13 +1,4 @@
 #EXTM3U
-#EXTINF:0,НТВ
-#EXTGRP:Россия
-https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
-#EXTINF:0,ОТР
-#EXTGRP:Россия
-https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
-#EXTINF:0,Первый канал
-#EXTGRP:Россия
-https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
 #EXTINF:0,Бразилия 1
 #EXTGRP:Бразилия
 http://cameras.interaviation.com.br/camera01/interaviation1.m3u8
