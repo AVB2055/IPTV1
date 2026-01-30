@@ -176,10 +176,7 @@ https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852ca
 #EXTINF:0,Царьград
 #EXTGRP:Новостные
 https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=VqspvlW-ypxFeER1lqbuOw&e=2067815826&scheme=https
-#EXTINF:0,CBC SD
-#EXTGRP:Новостные
-https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
-#EXTINF:0,ПЕРВЫЙ ИНФОРМАЦИОННЫЙᴴᴰ
+#EXTINF:0,Первый информационный
 #EXTGRP:Новостные
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w868240704_b5160000_sleng.m3u8
 #EXTINF:0,Вместе РФ HD
@@ -230,13 +227,9 @@ http://45.145.32.13:20440/hdl/index.m3u8?token=test
 #EXTINF:0,Продвижение HD
 #EXTGRP:Познавательные
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
-#EXTINF:0,Арсенал HD
-#EXTGRP:Познавательные
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Arsenal_HD
 #EXTINF:0,Загородный Int. HD
 #EXTGRP:Познавательные
 https://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
-
 #EXTINF:0,Глазами Туриста HD
 #EXTGRP:Познавательные
 http://188.225.31.197/bpk-tv/000001414/tve/index.m3u8
@@ -389,9 +382,6 @@ https://162.212.179.31/dvrfl05/gin-1muscom/tracks-v1a1/mono.m3u8
 #EXTINF:0,Страна FM HD
 #EXTGRP:Музыкальные
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:0,MTV Live HD
-#EXTGRP:Музыкальные
-http://188.225.31.197/bpk-tv/000000447/tve/index.m3u8
 #EXTINF:0,1HD HD
 #EXTGRP:Музыкальные
 http://188.225.31.197/bpk-tv/000001020/tve/index.m3u8
@@ -504,9 +494,6 @@ http://109.68.122.117:8899/bazmoc
 #EXTINF:0,ATV CineMan HD
 #EXTGRP:Кинофильмы
 http://185.57.68.33:80/255/index.m3u8
-#EXTINF:0,BCU Stars HD+
-#EXTGRP:Кинофильмы
-http://hls127.freeott.top:8080/BCUStarsHD/mono.m3u8
 #EXTINF:0,Cineman HD AM
 #EXTGRP:Кинофильмы
 http://185.57.68.33:80/255/playlist.m3u8
@@ -582,9 +569,6 @@ http://hls127.freeott.top:8080/MyTV2/mono.m3u8
 #EXTINF:0,MyTV 3
 #EXTGRP:Кинофильмы
 http://hls127.freeott.top:8080/MyTV3/mono.m3u8
-#EXTINF:0,SCRIPACH TV
-#EXTGRP:Кинофильмы
-https://kino-stream.online/hls/scripach.m3u8
 #EXTINF:0,VIASAT Kino Comedy HD
 #EXTGRP:Кинофильмы
 http://ukr2.ukrainske.tv/493/video.m3u8
