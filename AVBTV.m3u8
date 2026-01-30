@@ -333,6 +333,9 @@ http://188.225.31.197/bpk-tv/000006639/tve/index.m3u8
 #EXTINF:0,DTR ZONA 1 HD
 #EXTGRP:Развлекательные
 https://kino-stream.online/hls/DTRZONA1.m3u8
+#EXTINF:0,6 кадров
+#EXTGRP:Развлекательные
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal28_SD
 
 #EXTINF:0,67 
 #EXTGRP:Музыкальные
@@ -779,6 +782,7 @@ http://188.225.31.197/bpk-tv/000008491/tve/index.m3u8
 #EXTINF:0,Семейное кино HD
 #EXTGRP:Кинофильмы плюс
 http://188.225.31.197/bpk-tv/000008489/tve/index.m3u8
+
 
 
 
