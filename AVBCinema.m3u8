@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:0,Аватар Пламя и пепел
-https://meteor.z2.superdupercdn.com/contents/3b1fe952bfe2abcc73f8415981ad77d21625336d/8741ea388f0c1603d11393da7845cb43:2026013018/1080.mp4:hls:manifest.m3u8
 #EXTINF:5280,(НЕ)идеальный мужчина (2020)
 https://kinoleha.net/load/-ne-idealqnyj-muzhchina?original
 #EXTINF:0,...А зори здесь тихие (1972)
@@ -2147,8 +2145,6 @@ http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vod
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Shugaley_3_2021/stream.m3u8
 #EXTINF:0,Щегол (2019)
 https://kinoleha.net/load/wegol?original
-#EXTINF:0,Щенячья любовь (2023)
-http://m.cdntv.online/f/k7jmaefy8d/PuppyLove.m3u8
 #EXTINF:0,Эбигейл (2024)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/285970/stream.m3u8
 #EXTINF:0,Эверест (2015)
@@ -2207,4 +2203,5 @@ http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vod
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/I_Want_You_Back_2022/stream.m3u8
 #EXTINF:0,Яд (2023)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/283388/stream.m3u8
+
 
