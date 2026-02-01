@@ -1,17 +1,4 @@
 #EXTM3U
-
-#EXTINF:0,Руки (фильм 2026) 
-#EXTGRP:Тестирование
-https://c3-video.cmtv.ru/hm/bABgsmyJxu0/eyJpZCI6InRBSmdVY3k4RWdNIiwiY29kZWMiOiJoMjY0IiwidXNlclF1YWxpdHkiOltdLCJzZWNyZXQiOjE3Njk4NDUxMjJ9/index-f4-v1-a1.m3u8
-#EXTINF:0,Иван Васильевич меняет всё (2023)
-#EXTGRP:Тестирование
-https://c2-video.cmtv.ru/hm/iQCAAv_Ui-0/eyJpZCI6Ikx3REFYbzJhNlFFIiwiY29kZWMiOiJoMjY0IiwidXNlclF1YWxpdHkiOltdLCJzZWNyZXQiOjE3Njk4NDU0NDl9/index-f3-v1-a1.m3u8
-#EXTINF:0,"Охотники за привидениями" Леденящий ужас" год 2024.
-#EXTGRP:Тестирование
-https://c1-video.cmtv.ru/hm/xgJAnqi6yeo/eyJpZCI6ImdBSmdXN1N4ei1JIiwiY29kZWMiOiJoMjY0IiwidXNlclF1YWxpdHkiOltdLCJzZWNyZXQiOjE3Njk4NDU3MTl9/index-f4-v1-a1.m3u8
-#EXTINF:0,Жига. На полной скорости (2025)
-#EXTGRP:Тестирование
-https://c3-video.cmtv.ru/hm/uAHgZf-9t-0/eyJpZCI6ImZRQmduanllREFNIiwiY29kZWMiOiJoMjY0IiwidXNlclF1YWxpdHkiOltdLCJzZWNyZXQiOjE3Njk4NDU4NDF9/index-f4-v1-a1.m3u8
 #EXTINF:0,Том и Джерри выпуск 1
 #EXTGRP:Мультфильмы Tom  Jerry
 https://v.tom-dzherri.net/video/s/1.mp4
