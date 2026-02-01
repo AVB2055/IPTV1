@@ -119,9 +119,6 @@ http://31.131.141.195:8000/play/2090/index.m3u8
 #EXTINF:0,МузТВ
 #EXTGRP:Федеральные
 http://31.131.141.195:8000/play/2100/index.m3u8
-
-
-
 #EXTINF:0,Мир 24 HD
 #EXTGRP:Новостные
 http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
@@ -146,10 +143,10 @@ http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/track
 #EXTINF:0,360 HD
 #EXTGRP:Новостные
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 ,Радио Вести FM [1920x1080]
+#EXTINF:0,Радио Вести FM [1920x1080]
 #EXTGRP:Новостные
 https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015173
-#EXTINF:-1 ,Радио Говорит Москва [1920x1080]
+#EXTINF:0,Радио Говорит Москва [1920x1080]
 #EXTGRP:Новостные
 https://video.govoritmoskva.ru/rufm/tracks-v1a1/mono.m3u8
 #EXTINF:0,RTVi
@@ -221,9 +218,6 @@ http://77.232.131.211/TravelAdventureHD/index.m3u8
 #EXTINF:0,Большая Азия HD
 #EXTGRP:Познавательные
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
-#EXTINF:0,Точка.РФ HD
-#EXTGRP:Познавательные
-http://45.145.32.13:20440/hdl/index.m3u8?token=test
 #EXTINF:0,Продвижение HD
 #EXTGRP:Познавательные
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
@@ -293,7 +287,6 @@ http://188.225.31.197/bpk-tv/000008142/tve/index.m3u8
 #EXTINF:0,Ключ HD
 #EXTGRP:Познавательные
 http://188.225.31.197/bpk-tv/000004585/tve/index.m3u8
-
 #EXTINF:0,Че!
 #EXTGRP:Развлекательные
 http://uiptv.do.am/1ufc/109121273/playlist.m3u8
@@ -336,22 +329,21 @@ https://kino-stream.online/hls/DTRZONA1.m3u8
 #EXTINF:0,6 кадров
 #EXTGRP:Развлекательные
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal28_SD
-
-#EXTINF:0,67 
+#EXTINF:0,Start Air HD
+#EXTGRP:Развлекательные
+http://188.225.31.197/bpk-tv/000007815/tve/index.m3u8
+#EXTINF:0,Start World HD
+#EXTGRP:Развлекательные
+http://188.225.31.197/bpk-tv/000007818/tve/index.m3u8
+#EXTINF:0,67
 #EXTGRP:Музыкальные
 https://fl1004.bozztv.com/ushba67/tracks-v1a1/mono.m3u8
 #EXTINF:0,Dmitry-tv HD
 #EXTGRP:Музыкальные
 http://dmitry-tv.ddns.net:8000/his/CH_DMITRY-TVHD
-#EXTINF:-1 ,Afrobeats TV [za] 
+#EXTINF:0,Afrobeats TV [za]
 #EXTGRP:Музыкальные
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,CHD TV ROCK 
-#EXTGRP:Музыкальные
-http://194.26.229.213/chdtv_rock/index.m3u8
-#EXTINF:-1 ,CHD TV RU ROCK 
-#EXTGRP:Музыкальные
-http://194.26.229.213/chdtv_ru_rock/index.m3u8
 #EXTINF:0,radio m2o HD
 #EXTGRP:Музыкальные
 http://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1728000.m3u8
@@ -379,7 +371,7 @@ http://95.47.156.60:8000/play/a014/index.m3u8
 #EXTINF:0,О!2
 #EXTGRP:Музыкальные
 http://77.232.131.211/O2TV/index.m3u8
-#EXTINF:-1 ,Первый Музыкальный Россия
+#EXTINF:0,Первый Музыкальный Россия
 #EXTGRP:Музыкальные
 https://162.212.179.31/dvrfl05/gin-1muscom/tracks-v1a1/mono.m3u8
 #EXTINF:0,Страна FM HD
@@ -457,12 +449,6 @@ https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 #EXTINF:0,Суббота HD
 #EXTGRP:Детские
 https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=fGF8IP-Az_cZHwwgk-of9w&e=2067815805&scheme=https
-#EXTINF:0,Союзмультфильм
-#EXTGRP:Детские
-http://194.26.229.213/souzmultfilm/index.m3u8
-#EXTINF:0,Чип и Дейл
-#EXTGRP:Детские
-http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:0,Nickelodeon HD
 #EXTGRP:Детские
 http://188.225.31.197/bpk-tv/000000499/tve/index.m3u8
@@ -478,13 +464,9 @@ http://188.225.31.197/bpk-tv/000000203/tve/index.m3u8
 #EXTINF:0,Лёва HD
 #EXTGRP:Детские
 http://188.225.31.197/bpk-tv/000008003/tve/index.m3u8
-
 #EXTINF:0,Alpha Cinemaᴴᴰ
 #EXTGRP:Кинофильмы
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
-#EXTINF:0,Alpha Moretimeᴴᴰ
-#EXTGRP:Кинофильмы
-http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:0,ATV Armenia Premium 6
 #EXTGRP:Кинофильмы
 http://timeshift.arpinet.am/255/tracks-v1a1/mono.ts.m3u8
@@ -533,9 +515,6 @@ http://hls127.freeott.top:8080/CPS_Action/video.m3u8
 #EXTINF:0,CPS Anime
 #EXTGRP:Кинофильмы
 http://hls127.freeott.top:8080/CPS_Anime/video.m3u8
-#EXTINF:0,CPS Cartoon
-#EXTGRP:Кинофильмы
-http://hls127.freeott.top:8080/CPS_Cartoon/video.m3u8
 #EXTINF:0,CPS Comedy
 #EXTGRP:Кинофильмы
 http://hls127.freeott.top:8080/CPS_Comedy/video.m3u8
@@ -551,9 +530,6 @@ http://hls127.freeott.top:8080/CPS_Fresh/video.m3u8
 #EXTINF:0,CPS Investigation
 #EXTGRP:Кинофильмы
 http://hls127.freeott.top:8080/CPS_Investigation/video.m3u8
-#EXTINF:0,CPS Jackie Chan
-#EXTGRP:Кинофильмы
-http://hls127.freeott.top:8080/CPS_Jackie_Chan/video.m3u8
 #EXTINF:0,FlixSnip HD
 #EXTGRP:Кинофильмы
 http://188.225.31.197/bpk-tv/000004466/tve/index.m3u8
@@ -605,7 +581,7 @@ http://5.8.11.96:8099/mosfilmhd/index.m3u8
 #EXTINF:0,Кino Премьера HD
 #EXTGRP:Кинофильмы
 http://157.90.0.245:8070/KINOPREMIERA/index.m3u8
-#EXTINF:-1 ,Кинозал 
+#EXTINF:0,Кинозал
 #EXTGRP:Кинофильмы
 http://185.57.68.33/237/mpegts
 #EXTINF:0,Кино и Жизнь HD
@@ -629,11 +605,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/esperanza/chunks.m3u8
 #EXTINF:0,USHBA Видеокассетаᴴᴰ
 #EXTGRP:Кинофильмы
 https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
-#EXTINF:-1 ,Победа 
+#EXTINF:0,Победа
 #EXTGRP:Кинофильмы
 https://streaming.televizor-24-tochka.ru/live/43.m3u8
-
-
 #EXTINF:0,Amedia 1 HD
 #EXTGRP:Кинофильмы | Сериалы
 http://188.225.31.197/bpk-tv/000000710/tve/index.m3u8
@@ -649,9 +623,6 @@ http://188.225.31.197/bpk-tv/000000709/tve/index.m3u8
 #EXTINF:0,Amedia 2 HD
 #EXTGRP:Кинофильмы | Сериалы
 http://hls127.freeott.top:8080/Amedia_2_HD/video.m3u8
-#EXTINF:0,Bollywood HD
-#EXTGRP:Кинофильмы плюс
-http://188.225.31.197/bpk-tv/000001419/tve/index.m3u8
 #EXTINF:0,FOX HD
 #EXTGRP:Кинофильмы | Сериалы
 http://188.225.31.197/bpk-tv/000004472/tve/index.m3u8
@@ -718,13 +689,9 @@ http://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af776192
 #EXTINF:0,Сапфир HD
 #EXTGRP:Кинофильмы | Сериалы
 http://188.225.31.197/bpk-tv/000008135/tve/index.m3u8
-
-#EXTINF:0,Start Air HD
-#EXTGRP:Развлекательные
-http://188.225.31.197/bpk-tv/000007815/tve/index.m3u8
-#EXTINF:0,Start World HD
-#EXTGRP:Развлекательные
-http://188.225.31.197/bpk-tv/000007818/tve/index.m3u8
+#EXTINF:0,Bollywood HD
+#EXTGRP:Кинофильмы плюс
+http://188.225.31.197/bpk-tv/000001419/tve/index.m3u8
 #EXTINF:0,Amedia 1 HD
 #EXTGRP:Кинофильмы плюс
 http://188.225.31.197/bpk-tv/000000710/tve/index.m3u8
@@ -782,14 +749,3 @@ http://188.225.31.197/bpk-tv/000008491/tve/index.m3u8
 #EXTINF:0,Семейное кино HD
 #EXTGRP:Кинофильмы плюс
 http://188.225.31.197/bpk-tv/000008489/tve/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
