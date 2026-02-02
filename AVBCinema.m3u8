@@ -1,14 +1,10 @@
 #EXTM3U
-#EXTINF:0,(*)300 спартанцев (2006)
+#EXTINF:6998,(*)300 спартанцев (2006)
 https://c3-video.cmtv.ru/hm/uAHgZf-9t-0/eyJpZCI6Ii1BRWdJaHI4OXdJIiwiY29kZWMiOiJoMjY0IiwidXNlclF1YWxpdHkiOltdLCJzZWNyZXQiOjE3NzAwMjM3ODd9/index-f7-v1-a1.m3u8
-#EXTINF:0,(*)Анаконда (2025)
-https://c3-video.cmtv.ru/hm/6wFA801rrwA/eyJpZCI6IjVnSGdLU0ZISVFNIiwiY29kZWMiOiJoMjY0IiwidXNlclF1YWxpdHkiOltdLCJzZWNyZXQiOjE3NzAwMjM1NjN9/index-f7-v1-a1.m3u8
 #EXTINF:0,(*)Геракл (2014)
 https://c3-video.cmtv.ru/hm/uAHgZf-9t-0/eyJpZCI6Im5RQkFmV0pzRUFNIiwiY29kZWMiOiJoMjY0IiwidXNlclF1YWxpdHkiOltdLCJzZWNyZXQiOjE3NzAwMjQyMTR9/index-f13-v1-a1.m3u8
 #EXTINF:0,(*)Железная хватка (2010)
 https://c3-video.cmtv.ru/hm/uAHgZf-9t-0/eyJpZCI6IktnTmdYMlNWQ2dNIiwiY29kZWMiOiJoMjY0IiwidXNlclF1YWxpdHkiOltdLCJzZWNyZXQiOjE3NzAwMjQwNTh9/index-f16-v1-a1.m3u8
-#EXTINF:0,(*)Жига. На полной скорости (2025)
-https://c3-video.cmtv.ru/hm/uAHgZf-9t-0/eyJpZCI6ImZRQmduanllREFNIiwiY29kZWMiOiJoMjY0IiwidXNlclF1YWxpdHkiOltdLCJzZWNyZXQiOjE3Njk4NDU4NDF9/index-f4-v1-a1.m3u8
 #EXTINF:0,(*)Ик (2024)
 https://c3-video.cmtv.ru/hm/ZwCAYCwIbfk/eyJpZCI6IjF3UEFGVWljRndNIiwiY29kZWMiOiJoMjY0IiwidXNlclF1YWxpdHkiOltdLCJzZWNyZXQiOjE3NzAwMjQzMDZ9/index-f4-v1-a1.m3u8
 #EXTINF:0,(*)Лакомый кусок (2026)
@@ -123,6 +119,8 @@ http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vod
 https://kinoleha.net/load/alita-boevoj-angel?original
 #EXTINF:0,Амстердам (2022)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Amsterdam_2022/stream.m3u8
+#EXTINF:0,Анаконда (2025)
+https://c3-video.cmtv.ru/hm/6wFA801rrwA/eyJpZCI6IjVnSGdLU0ZISVFNIiwiY29kZWMiOiJoMjY0IiwidXNlclF1YWxpdHkiOltdLCJzZWNyZXQiOjE3NzAwMjM1NjN9/index-f7-v1-a1.m3u8
 #EXTINF:0,Ангелы и Демоны (2009)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Angels_and_Demons_2009/stream.m3u8
 #EXTINF:0,Английский пациент (1996)
@@ -200,9 +198,9 @@ http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vod
 #EXTINF:0,Безумный Макс 3: Под куполом грома (1985)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Mad_Max_Beyond_Thunderdome_1985/stream.m3u8
 #EXTINF:0,Безумный Макс: Дорога ярости (2015)
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Mad_Max_Fury_Road_2015/stream.m3u8
-#EXTINF:0,Безумный Макс: Дорога ярости (2015)
 https://kinoleha.net/load/bezumnyj-maks-doroga-yarosti?original
+#EXTINF:0,Безумный Макс: Дорога ярости (2015)
+http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Mad_Max_Fury_Road_2015/stream.m3u8
 #EXTINF:0,Белое солнце пустыни (1969)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Beloe_Solnce_Pustyni_1969/stream.m3u8
 #EXTINF:0,Белый снег (2021)
@@ -274,9 +272,9 @@ http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vod
 #EXTINF:0,Бэтмен (2022)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/The_Batman_2022/stream.m3u8
 #EXTINF:0,Бэтмен: Начало (2005)
-https://kinoleha.net/load/byetmen-nachalo?original
-#EXTINF:0,Бэтмен: Начало (2005)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Batman_Begins_2005/stream.m3u8
+#EXTINF:0,Бэтмен: Начало (2005)
+https://kinoleha.net/load/byetmen-nachalo?original
 #EXTINF:0,Бюро магических услуг (2021)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/288072/stream.m3u8
 #EXTINF:0,В бой идут одни старики (1973)
@@ -558,9 +556,9 @@ http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vod
 #EXTINF:0,Джиу-джитсу: Битва за Землю (2020)
 https://kinoleha.net/load/dzhiu-dzhitsu-bitva-za-zemlyu?original
 #EXTINF:0,Джокер (2019)
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Joker_2019/stream.m3u8
-#EXTINF:0,Джокер (2019)
 https://kinoleha.net/load/dzhoker?original
+#EXTINF:0,Джокер (2019)
+http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Joker_2019/stream.m3u8
 #EXTINF:0,Джон Уик (2014)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/John_Wick_2014/stream.m3u8
 #EXTINF:0,Джон Уик 2 (2017)
@@ -572,9 +570,9 @@ http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vod
 #EXTINF:0,Джуманджи (1995)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Jumanji_1995/stream.m3u8
 #EXTINF:0,Джуманджи: Новый уровень (2019)
-https://kinoleha.net/load/dzhumandzhi-novyj-urovenq?original
-#EXTINF:0,Джуманджи: Новый уровень (2019)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Jumanji_The_Next_Level_2019/stream.m3u8
+#EXTINF:0,Джуманджи: Новый уровень (2019)
+https://kinoleha.net/load/dzhumandzhi-novyj-urovenq?original
 #EXTINF:0,Джунгли зовут! В поисках Марсупилами (2012)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Talasa_2012/stream.m3u8
 #EXTINF:0,Дикие предки (2022)
@@ -669,6 +667,8 @@ http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vod
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Zhestokiy_Romans_1984/stream.m3u8
 #EXTINF:0,Живая сталь (2011)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Real_Steel_2011/stream.m3u8
+#EXTINF:0,Жига. На полной скорости (2025)
+https://c3-video.cmtv.ru/hm/uAHgZf-9t-0/eyJpZCI6ImZRQmduanllREFNIiwiY29kZWMiOiJoMjY0IiwidXNlclF1YWxpdHkiOltdLCJzZWNyZXQiOjE3Njk4NDU4NDF9/index-f4-v1-a1.m3u8
 #EXTINF:0,Жизнь Пи (2012)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Life_of_Pi_2012/stream.m3u8
 #EXTINF:0,Жизнь других (2006)
@@ -840,9 +840,9 @@ http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vod
 #EXTINF:0,Коммандос (1985)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Commando_1985/stream.m3u8
 #EXTINF:0,Конг: Остров черепа (2017)
-https://kinoleha.net/load/kong-ostrov-cherepa?original
-#EXTINF:0,Конг: Остров черепа (2017)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Kong_Skull_Island_2017/stream.m3u8
+#EXTINF:0,Конг: Остров черепа (2017)
+https://kinoleha.net/load/kong-ostrov-cherepa?original
 #EXTINF:0,Конец Евангелиона (1997)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/konec_evangeliona_1997/stream.m3u8
 #EXTINF:0,Конец славы (2023)
@@ -1006,9 +1006,9 @@ http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vod
 #EXTINF:0,Люди Икс: Апокалипсис (2016)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/X-Men_Apocalypse_2016/stream.m3u8
 #EXTINF:0,Люди Икс: Дни минувшего будущего (2014)
-https://kinoleha.net/load/lyudi-iks-dni-minuvshego-buduwego?original
-#EXTINF:0,Люди Икс: Дни минувшего будущего (2014)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/X-Men_Days_of_Future_Past_2014/stream.m3u8
+#EXTINF:0,Люди Икс: Дни минувшего будущего (2014)
+https://kinoleha.net/load/lyudi-iks-dni-minuvshego-buduwego?original
 #EXTINF:0,Люди Икс: Начало. Росомаха (2009)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/X-Men_Origins_Wolverine_2009/stream.m3u8
 #EXTINF:0,Люди Икс: Первый класс (2011)
@@ -1106,9 +1106,9 @@ http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vod
 #EXTINF:0,Мир Юрского периода 2 (2018)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Jurassic_World_Fallen_Kingdom_2018/stream.m3u8
 #EXTINF:0,Мир Юрского периода: Господство (2022)
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Jurassic_World_Dominion_2022/stream.m3u8
-#EXTINF:0,Мир Юрского периода: Господство (2022)
 https://kinoleha.net/load/mir-yurskogo-perioda-3-novaya-era?original
+#EXTINF:0,Мир Юрского периода: Господство (2022)
+http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Jurassic_World_Dominion_2022/stream.m3u8
 #EXTINF:0,Миссия невыполнима: Смертельная расплата. Часть первая (2023)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/283136/stream.m3u8
 #EXTINF:0,Мистер Никто (2010)
@@ -1146,9 +1146,9 @@ http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vod
 #EXTINF:0,Мстители: Война бесконечности (2018)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Avengers_Infinity_War_2018/stream.m3u8
 #EXTINF:0,Мстители: Финал (2019)
-https://kinoleha.net/load/mstiteli-final?original
-#EXTINF:0,Мстители: Финал (2019)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Avengers_Endgame_2019/stream.m3u8
+#EXTINF:0,Мстители: Финал (2019)
+https://kinoleha.net/load/mstiteli-final?original
 #EXTINF:0,Мстители: Эра Альтрона (2015)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Avengers_Age_of_Ultron_2015/stream.m3u8
 #EXTINF:0,Мужики!.. (1981)
@@ -1380,9 +1380,9 @@ http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vod
 #EXTINF:0,Отпуск по обмену (2006)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/The_Holiday_2006/stream.m3u8
 #EXTINF:0,Отряд самоубийц (2016)
-https://kinoleha.net/load/otryad-samoubijc?original
-#EXTINF:0,Отряд самоубийц (2016)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Suicide_Squad_2016/stream.m3u8
+#EXTINF:0,Отряд самоубийц (2016)
+https://kinoleha.net/load/otryad-samoubijc?original
 #EXTINF:0,Отряд самоубийц: Миссия навылет (2021)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/The_Suicide_Squad_2021/stream.m3u8
 #EXTINF:0,Офицеры (1971)
@@ -1456,13 +1456,13 @@ http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vod
 #EXTINF:0,Пингвины мистера Поппера (2011)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Mr_Poppers_Penguins_2011/stream.m3u8
 #EXTINF:0,Пипец (2010)
-https://kinoleha.net/load/pipec?original
-#EXTINF:0,Пипец (2010)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Kick_Ass_2010/stream.m3u8
-#EXTINF:0,Пипец 2 (2013)
-https://kinoleha.net/load/pipec-2?original
+#EXTINF:0,Пипец (2010)
+https://kinoleha.net/load/pipec?original
 #EXTINF:0,Пипец 2 (2013)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Kick_Ass_2_2013/stream.m3u8
+#EXTINF:0,Пипец 2 (2013)
+https://kinoleha.net/load/pipec-2?original
 #EXTINF:0,План побега (2013)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Escape_Plan_2013/stream.m3u8
 #EXTINF:0,План побега 2 (2018)
@@ -1668,9 +1668,9 @@ http://video-cdn.simpletv.eu/video/Raya.And.The.Last.Dragon.2021.DSNP.WEB-DL.108
 #EXTINF:0,Реальная любовь (2003)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Love_Actually_2003/stream.m3u8
 #EXTINF:0,Реквием по мечте (2000)
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Requiem_for_a_Dream_2000/stream.m3u8
-#EXTINF:0,Реквием по мечте (2000)
 https://kinoleha.net/load/rekviem-po-mechte?original
+#EXTINF:0,Реквием по мечте (2000)
+http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Requiem_for_a_Dream_2000/stream.m3u8
 #EXTINF:0,Республика ШКИД (1966)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Respublika_Shkid_1966/stream.m3u8
 #EXTINF:0,Решение уйти (2022)
@@ -1692,9 +1692,9 @@ http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vod
 #EXTINF:0,Рок-волна (2009)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/The_Boat_That_Rocked_2009/stream.m3u8
 #EXTINF:0,Росомаха: Бессмертный (2013)
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/The_Wolverine_Unleashed_2013/stream.m3u8
-#EXTINF:0,Росомаха: Бессмертный (2013)
 https://kinoleha.net/load/rosomaha-bessmertnyj?original
+#EXTINF:0,Росомаха: Бессмертный (2013)
+http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/The_Wolverine_Unleashed_2013/stream.m3u8
 #EXTINF:0,Русалочка (2023)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/281623/stream.m3u8
 #EXTINF:0,Русский рейд (2019)
@@ -1816,9 +1816,9 @@ http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/nat
 #EXTINF:0,Стражи Галактики (2014)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Guardians_of_the_Galaxy_2014/stream.m3u8
 #EXTINF:0,Стражи Галактики. Часть 2 (2017)
-https://kinoleha.net/load/strazhi-galaktiki-chastq-2?original
-#EXTINF:0,Стражи Галактики. Часть 2 (2017)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Guardians_of_the_Galaxy_Vol2_2017/stream.m3u8
+#EXTINF:0,Стражи Галактики. Часть 2 (2017)
+https://kinoleha.net/load/strazhi-galaktiki-chastq-2?original
 #EXTINF:0,Стражи Галактики. Часть 3 (2023)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/281474/stream.m3u8
 #EXTINF:0,Стражи Галактики: Праздничный спецвыпуск (2022)
@@ -1910,17 +1910,17 @@ http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vod
 #EXTINF:0,Тор: Любовь и гром (2022)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Thor_Love_and_Thunder_2022/stream.m3u8
 #EXTINF:0,Тор: Рагнарёк (2017)
-https://kinoleha.net/load/tor-ragnaryok?original
-#EXTINF:0,Тор: Рагнарёк (2017)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Thor_Ragnarok_2017/stream.m3u8
+#EXTINF:0,Тор: Рагнарёк (2017)
+https://kinoleha.net/load/tor-ragnaryok?original
 #EXTINF:0,Тот самый Мюнхгаузен (1979)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Tot_Samyj_Mjunhauzen_1979/stream.m3u8
 #EXTINF:0,Точка отрыва (2018)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/tochka_otryva_2018/stream.m3u8
 #EXTINF:0,Трансформеры (2007)
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Transformers_2007/stream.m3u8
-#EXTINF:0,Трансформеры (2007)
 https://kinoleha.net/load/transformery?original
+#EXTINF:0,Трансформеры (2007)
+http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Transformers_2007/stream.m3u8
 #EXTINF:0,Трансформеры 3: Тёмная сторона Луны (2011)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Transformers_Dark_of_the_Moon_2011/stream.m3u8
 #EXTINF:0,Трансформеры: Восхождение Звероботов (2023)
@@ -2102,9 +2102,9 @@ https://kinoleha.net/load/chelovek-pauk-3-net-dorogi-domoj?original
 #EXTINF:0,Человек с бульвара Капуцинов (1987)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Chelovek_S_Bulvara_Kaputsinov_1987/stream.m3u8
 #EXTINF:0,Человек-муравей (2015)
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Ant_Man_2015/stream.m3u8
-#EXTINF:0,Человек-муравей (2015)
 https://kinoleha.net/load/chelovek-muravej?original
+#EXTINF:0,Человек-муравей (2015)
+http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Ant_Man_2015/stream.m3u8
 #EXTINF:0,Человек-муравей и Оса (2018)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Ant_Man_and_the_Wasp_2018/stream.m3u8
 #EXTINF:0,Человек-муравей и Оса: Квантомания (2023)
