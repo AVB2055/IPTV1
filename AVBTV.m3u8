@@ -524,9 +524,6 @@ http://hls127.freeott.top:8080/CPS_Drama/video.m3u8
 #EXTINF:0,CPS Fiction
 #EXTGRP:Кинофильмы
 http://hls127.freeott.top:8080/CPS_Fiction/video.m3u8
-#EXTINF:0,CPS Fresh
-#EXTGRP:Кинофильмы
-http://hls127.freeott.top:8080/CPS_Fresh/video.m3u8
 #EXTINF:0,CPS Investigation
 #EXTGRP:Кинофильмы
 http://hls127.freeott.top:8080/CPS_Investigation/video.m3u8
