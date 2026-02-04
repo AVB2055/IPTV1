@@ -19,7 +19,7 @@ http://stream-tv.ew21.ru/005/video.m3u8?hash=TN66TE4YB
 http://stream-tv.ew21.ru/006/video.m3u8?hash=TN66TE4YB
 #EXTINF:0,Россия 24 HD
 #EXTGRP:Федеральные
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
 #EXTINF:0,Карусель HD
 #EXTGRP:Федеральные
 http://stream-tv.ew21.ru/008/video.m3u8?hash=TN66TE4YB
@@ -746,3 +746,4 @@ http://188.225.31.197/bpk-tv/000008491/tve/index.m3u8
 #EXTINF:0,Семейное кино HD
 #EXTGRP:Кинофильмы плюс
 http://188.225.31.197/bpk-tv/000008489/tve/index.m3u8
+
