@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:6998,(*)Любовь (2015)
+https://cfnd.cinemap.cc/1770380705-X%2F1Rm79d7iUfL9tCT04CUfOdI2ToGP%2F8LKZXuObOTi8%3D/movies/23bb82027e23123c7842e3cd63eb0d262a071031/c08aee3296f4eac1576713848479b31e:2026020612/1080.mp4:hls:manifest.m3u8
+#EXTINF:6998,Любовь (2015)
 https://vkvd721.okcdn.ru/?expires=1770617923052&srcIp=5.228.112.124&pr=40&srcAg=CHROME&ms=176.112.172.165&type=5&subId=9261598902840&sig=udugtnImTxY&ct=0&urls=185.180.203.167&clientType=13&appId=512000384397&id=8767314201240
 #EXTINF:6998,(*)300 спартанцев (2006)
 https://c3-video.cmtv.ru/hm/uAHgZf-9t-0/eyJpZCI6Ii1BRWdJaHI4OXdJIiwiY29kZWMiOiJoMjY0IiwidXNlclF1YWxpdHkiOltdLCJzZWNyZXQiOjE3NzAwMjM3ODd9/index-f7-v1-a1.m3u8
@@ -2241,5 +2243,6 @@ http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vod
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/283388/stream.m3u8
 #EXTINF:0,Следующий гол - победный (2023)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/284222/stream.m3u8
+
 
 
