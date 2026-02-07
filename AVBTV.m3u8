@@ -198,9 +198,6 @@ http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
 #EXTINF:0,Звезда Плюс HD
 #EXTGRP:Познавательные
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0,CGTN HD
-#EXTGRP:Познавательные
-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 #EXTINF:0,Неизвестная россия HD
 #EXTGRP:Познавательные
 http://cdn2.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
@@ -583,9 +580,6 @@ http://188.225.31.197/bpk-tv/000000710/tve/index.m3u8
 #EXTINF:0,Amedia 2 HD
 #EXTGRP:Кинофильмы | Сериалы
 http://188.225.31.197/bpk-tv/000000351/tve/index.m3u8
-#EXTINF:0,Amedia 2 HD
-#EXTGRP:Кинофильмы | Сериалы
-http://hls127.freeott.top:8080/Amedia_2_HD/video.m3u8
 #EXTINF:0,Amedia HiT HD
 #EXTGRP:Кинофильмы | Сериалы
 http://188.225.31.197/bpk-tv/000001662/tve/index.m3u8
