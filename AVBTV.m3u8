@@ -59,66 +59,6 @@ http://stream-tv.ew21.ru/019/video.m3u8?hash=TN66TE4YB
 #EXTINF:0,Муз ТВ
 #EXTGRP:Федеральные
 https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
-#EXTINF:0,Первый канал
-#EXTGRP:Федеральные
-http://31.131.141.195:8000/play/1010/index.m3u8
-#EXTINF:0,Россия 1
-#EXTGRP:Федеральные
-http://31.131.141.195:8000/play/1020/index.m3u8
-#EXTINF:0,Матч ТВ
-#EXTGRP:Федеральные
-http://31.131.141.195:8000/play/1030/index.m3u8
-#EXTINF:0,НТВ
-#EXTGRP:Федеральные
-http://31.131.141.195:8000/play/1040/index.m3u8
-#EXTINF:0,Пятый канал
-#EXTGRP:Федеральные
-http://31.131.141.195:8000/play/1050/index.m3u8
-#EXTINF:0,Россия К
-#EXTGRP:Федеральные
-http://31.131.141.195:8000/play/1060/index.m3u8
-#EXTINF:0,Россия 24 HD
-#EXTGRP:Федеральные
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
-#EXTINF:0,Карусель
-#EXTGRP:Федеральные
-http://31.131.141.195:8000/play/1080/index.m3u8
-#EXTINF:0,ОТР
-#EXTGRP:Федеральные
-http://31.131.141.195:8000/play/1090/index.m3u8
-#EXTINF:0,ТВЦ
-#EXTGRP:Федеральные
-http://31.131.141.195:8000/play/1100/index.m3u8
-#EXTINF:0,Рен ТВ
-#EXTGRP:Федеральные
-http://31.131.141.195:8000/play/2010/index.m3u8
-#EXTINF:0,Спас
-#EXTGRP:Федеральные
-http://31.131.141.195:8000/play/2020/index.m3u8
-#EXTINF:0,СТС
-#EXTGRP:Федеральные
-http://31.131.141.195:8000/play/2030/index.m3u8
-#EXTINF:0,Домашний
-#EXTGRP:Федеральные
-http://31.131.141.195:8000/play/a001/index.m3u8
-#EXTINF:0,ТВ3
-#EXTGRP:Федеральные
-http://31.131.141.195:8000/play/a002/index.m3u8
-#EXTINF:0,Пятница
-#EXTGRP:Федеральные
-http://31.131.141.195:8000/play/2060/index.m3u8
-#EXTINF:0,Звезда
-#EXTGRP:Федеральные
-http://31.131.141.195:8000/play/2070/index.m3u8
-#EXTINF:0,Мир
-#EXTGRP:Федеральные
-http://31.131.141.195:8000/play/a003/index.m3u8
-#EXTINF:0,ТНТ
-#EXTGRP:Федеральные
-http://31.131.141.195:8000/play/2090/index.m3u8
-#EXTINF:0,МузТВ
-#EXTGRP:Федеральные
-http://31.131.141.195:8000/play/2100/index.m3u8
 #EXTINF:0,Мир 24 HD
 #EXTGRP:Новостные
 http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
