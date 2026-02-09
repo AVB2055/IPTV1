@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:6998,(*)Любовь (2015)
-https://cfnd.cinemap.cc/1770380705-X%2F1Rm79d7iUfL9tCT04CUfOdI2ToGP%2F8LKZXuObOTi8%3D/movies/23bb82027e23123c7842e3cd63eb0d262a071031/c08aee3296f4eac1576713848479b31e:2026020612/1080.mp4:hls:manifest.m3u8
-#EXTINF:6998,Любовь (2015)
-https://vkvd721.okcdn.ru/?expires=1770617923052&srcIp=5.228.112.124&pr=40&srcAg=CHROME&ms=176.112.172.165&type=5&subId=9261598902840&sig=udugtnImTxY&ct=0&urls=185.180.203.167&clientType=13&appId=512000384397&id=8767314201240
 #EXTINF:6998,(*)300 спартанцев (2006)
 https://c3-video.cmtv.ru/hm/uAHgZf-9t-0/eyJpZCI6Ii1BRWdJaHI4OXdJIiwiY29kZWMiOiJoMjY0IiwidXNlclF1YWxpdHkiOltdLCJzZWNyZXQiOjE3NzAwMjM3ODd9/index-f7-v1-a1.m3u8
 #EXTINF:0,(*)Геракл (2014)
@@ -143,8 +139,6 @@ http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vod
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Insidious_2010/stream.m3u8
 #EXTINF:0,Астрал 4: Последний ключ (2018)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Insidious_The_Last_Key_2018/stream.m3u8
-#EXTINF:0,Астрал 5: Красная дверь (2023)
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/281855/stream.m3u8
 #EXTINF:0,Астрал. Онлайн (2020)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Host_2020/stream.m3u8
 #EXTINF:0,Астрал: Глава 2 (2013)
@@ -211,8 +205,6 @@ http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vod
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Belyy_Sneg_2021/stream.m3u8
 #EXTINF:0,Бесславные ублюдки (2009)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Inglourious_Basterds_2009/stream.m3u8
-#EXTINF:0,Бешенство (2023)
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/281852/stream.m3u8
 #EXTINF:0,Билет в рай (2022)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Bilet_v_Ray_2022/stream.m3u8
 #EXTINF:0,Битва за Севастополь (2015)
@@ -457,8 +449,6 @@ http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vod
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Gattaca_1997/stream.m3u8
 #EXTINF:0,Геркулес (1997)
 https://kinoleha.net/load/gerkules?original
-#EXTINF:0,Гипнотик (2023)
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/281493/stream.m3u8
 #EXTINF:0,Гладиатор (2000)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/286624/stream.m3u8
 #EXTINF:0,Глубоководный горизонт (2016)
@@ -489,8 +479,6 @@ http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vod
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Rush_2013/stream.m3u8
 #EXTINF:0,Гордость и предубеждение (2005)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Pride_Prejudice_2005/stream.m3u8
-#EXTINF:0,Город астероидов (2023)
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/281476/stream.m3u8
 #EXTINF:0,Город грехов (2005)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Sin_City_2005/stream.m3u8
 #EXTINF:0,Город грехов 2: Женщина ради которой стоит убивать (2014)
@@ -593,8 +581,6 @@ http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vod
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Dobro_Pozhalovatj_Ili_Postoronnim_Vhod_Vospreshjen_1964/stream.m3u8
 #EXTINF:0,Добрый медбрат (2022)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/dobryj_medbrat_2022/stream.m3u8
-#EXTINF:0,Догма (1999)
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/281537/stream.m3u8
 #EXTINF:0,Догмен (2023)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/284051/stream.m3u8
 #EXTINF:0,Доктор Лиза (2020)
@@ -717,8 +703,6 @@ http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vod
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/283124/stream.m3u8
 #EXTINF:0,Звёздные войны: Последние джедаи (2017)
 https://kinoleha.net/load/zvyozdnyee-vojny-poslednie-dzhedai?original
-#EXTINF:0,Звёзды в полдень (2022)
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/281627/stream.m3u8
 #EXTINF:0,Звёзды мне укажут путь (2022)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Zvyezdy_Mne_Ukazhut_Putj_2022/stream.m3u8
 #EXTINF:0,Земля. Перезагрузка (2021)
@@ -797,8 +781,6 @@ http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vod
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Kanikuly_Strogogo_Rezima_2009/stream.m3u8
 #EXTINF:0,Капернаум (2018)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Capharnaum_2018/stream.m3u8
-#EXTINF:0,Капитан Волконогов бежал (2021)
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/281569/stream.m3u8
 #EXTINF:0,Капитан Марвел (2019)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Captain_Marvel_2019/stream.m3u8
 #EXTINF:0,Капитан Марвел 2 (2023)
@@ -915,8 +897,6 @@ http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vod
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Peter_Rabbit_2018/stream.m3u8
 #EXTINF:0,Крупная рыба (2003)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Big_Fish_2003/stream.m3u8
-#EXTINF:0,Круче некуда (2023)
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/281792/stream.m3u8
 #EXTINF:0,Крушение (Боевик с Д.Батлером 2023)
 https://kinoleha.net/player/krushenie.mp4?original
 #EXTINF:0,Кто угодно кроме тебя (2023)
@@ -925,8 +905,6 @@ http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/nat
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Who_Am_I_2014/stream.m3u8
 #EXTINF:0,Куда приводят мечты (1998)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/What_Dreams_May_Come_1998/stream.m3u8
-#EXTINF:0,Кунг-фу жеребец (2023)
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/281473/stream.m3u8
 #EXTINF:0,Курьер (1986)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Kurjer_1986/stream.m3u8
 #EXTINF:0,Кутёж 2: Этот чудесный запой (2022)
@@ -1099,8 +1077,6 @@ https://kinoleha.net/load/mestq?original
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Metro_2012/stream.m3u8
 #EXTINF:0,Меч короля Артура (2017)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/King_Arthur_Legend_of_the_Sword_2017/stream.m3u8
-#EXTINF:0,Мизантроп (2022)
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/281478/stream.m3u8
 #EXTINF:0,Миллионер из трущоб (2008)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Slumdog_Millionaire_2008/stream.m3u8
 #EXTINF:0,Мимино (1977)
@@ -1509,8 +1485,6 @@ http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vod
 https://kinoleha.net/load/pogrebalqnyee-bajki?original
 #EXTINF:0,Под облаками (2021)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Zero_Fucks_Given_2021/stream.m3u8
-#EXTINF:0,Подземелья и драконы: Честь среди воров (2023)
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/282003/stream.m3u8
 #EXTINF:0,Подольские курсанты (2020)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Podoljskie_Kursanty_2020/stream.m3u8
 #EXTINF:0,Поезд в Пусан (2016)
@@ -1551,8 +1525,6 @@ http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vod
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/After_We_Fell_2021/stream.m3u8
 #EXTINF:0,После. Долго и счастливо (2022)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Posle_Dolgo_i_Schastlivo_2022/stream.m3u8
-#EXTINF:0,Последнее королевство: Семь королей должны умереть (2023)
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/281534/stream.m3u8
 #EXTINF:0,Последний богатырь (2017)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Posledniy_Bogatyrj_2017/stream.m3u8
 #EXTINF:0,Последний богатырь: Корень зла
@@ -1699,8 +1671,6 @@ http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vod
 https://kinoleha.net/load/rosomaha-bessmertnyj?original
 #EXTINF:0,Росомаха: Бессмертный (2013)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/The_Wolverine_Unleashed_2013/stream.m3u8
-#EXTINF:0,Русалочка (2023)
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/281623/stream.m3u8
 #EXTINF:0,Русский рейд (2019)
 https://kinoleha.net/load/russkij-rejd?original
 #EXTINF:0,Рыцарь дня (2010)
@@ -1823,8 +1793,6 @@ http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vod
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Guardians_of_the_Galaxy_Vol2_2017/stream.m3u8
 #EXTINF:0,Стражи Галактики. Часть 2 (2017)
 https://kinoleha.net/load/strazhi-galaktiki-chastq-2?original
-#EXTINF:0,Стражи Галактики. Часть 3 (2023)
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/281474/stream.m3u8
 #EXTINF:0,Стражи Галактики: Праздничный спецвыпуск (2022)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/The_Guardians_of_the_Galaxy_Holiday_Special_2022/stream.m3u8
 #EXTINF:0,Страна снов (2022)
@@ -1927,8 +1895,6 @@ https://kinoleha.net/load/transformery?original
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Transformers_2007/stream.m3u8
 #EXTINF:0,Трансформеры 3: Тёмная сторона Луны (2011)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Transformers_Dark_of_the_Moon_2011/stream.m3u8
-#EXTINF:0,Трансформеры: Восхождение Звероботов (2023)
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/281477/stream.m3u8
 #EXTINF:0,Трансформеры: Месть падших (2009)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Transformers_Revenge_of_the_Fallen_2009/stream.m3u8
 #EXTINF:0,Трансформеры: Последний рыцарь (2017)
@@ -2041,8 +2007,6 @@ https://kinoleha.net/load/fukushima?original
 https://kinoleha.net/load/hardkor?original
 #EXTINF:0,Харли Дэвидсон и ковбой Мальборо (1991)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Harley_Davidson_and_the_Marlboro_Man_1991/stream.m3u8
-#EXTINF:0,Хитровка. Знак четырех (2023)
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/281625/stream.m3u8
 #EXTINF:0,Хищник (1987)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Predator_1987/stream.m3u8
 #EXTINF:0,Хоббит: Битва пяти воинств (2014)
@@ -2243,6 +2207,7 @@ http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vod
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/283388/stream.m3u8
 #EXTINF:0,Следующий гол - победный (2023)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/284222/stream.m3u8
+
 
 
 
