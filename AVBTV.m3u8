@@ -554,9 +554,9 @@ http://tv.lamro.workers.dev/?ID=4921
 http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 group-title="Кинофильмы | Сериалы" ,IPTVPLAY ИНТЕРНЫ
 http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:24,Kino 24
+#EXTINF:-1 group-title="Кинофильмы | Сериалы" ,Kino 24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
-#EXTINF:24,Kino 24
+#EXTINF:-1 group-title="Кинофильмы | Сериалы" ,Kino 24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 group-title="Кинофильмы | Сериалы" ,KinoJam
 http://kinowalk.hopto.org/kinojam_live
@@ -770,5 +770,6 @@ http://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af776192
 http://tv.lamro.workers.dev/?ID=4972
 #EXTINF:-1 group-title="Кинофильмы | Сериалы" ,Хит HD
 http://tv.lamro.workers.dev/?ID=4972
+
 
 
