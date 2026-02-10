@@ -695,7 +695,7 @@ https://cityeden.catcast.tv/content/47400/index.m3u8
 #EXTGRP:Музыкальные
 https://cityeden.catcast.tv/content/46421/index.m3u8
 #EXTINF:0,Сити Эдем - МедЗдрав
-#EXTGRP:Позновательные
+#EXTGRP:Познавательные
 https://cityeden.catcast.tv/content/47519/index.m3u8
 #EXTINF:0,Шеф
 #EXTGRP:Кинофильмы плюс
@@ -976,5 +976,6 @@ http://tv.lamro.workers.dev/?ID=5186
 #EXTINF:0,BCU Kids+ HD
 #EXTGRP:Детские
 http://tv.lamro.workers.dev/?ID=5188
+
 
 
