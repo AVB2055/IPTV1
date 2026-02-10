@@ -327,6 +327,10 @@ http://hls127.freeott.top:8080/Clarity4K_Uzhasi/mono.m3u8
 http://hls127.freeott.top:8080/Clarity4K_Fantastic/mono.m3u8
 #EXTINF:-1 group-title="Кинофильмы" tvg-id="simpleTVFakeEpgId",Dimpon HD
 http://kinowalk.hopto.org/dimpon_live
+#EXTINF:-1 group-title="Кинофильмы | Сериалы" ,Flix Snip HD
+http://tv.lamro.workers.dev/?ID=5066
+#EXTINF:-1 group-title="Кинофильмы | Сериалы" ,FlixSnip HD
+http://188.225.31.197/bpk-tv/000004466/tve/index.m3u8
 #EXTINF:-1 group-title="Кинофильмы" tvg-logo="../Channel/Logo/Hollywood HD.png" tvg-id="simpleTVFakeEpgId",Hollywood HD
 http://tv.lamro.workers.dev/?ID=4589
 #EXTINF:-1 group-title="Кинофильмы" tvg-id="simpleTVFakeEpgId",IPTVPLAY ВЕДЬМАК
@@ -503,10 +507,6 @@ http://109.68.122.117:8899/bazmoc
 http://tv.lamro.workers.dev/?ID=5180
 #EXTINF:-1 group-title="Кинофильмы | Сериалы" ,BCU Сваты HD
 http://tv.lamro.workers.dev/?ID=5181
-#EXTINF:-1 group-title="Кинофильмы | Сериалы" ,Flix Snip HD
-http://tv.lamro.workers.dev/?ID=5066
-#EXTINF:-1 group-title="Кинофильмы | Сериалы" ,FlixSnip HD
-http://188.225.31.197/bpk-tv/000004466/tve/index.m3u8
 #EXTINF:-1 group-title="Кинофильмы | Сериалы" ,FOX HD
 http://188.225.31.197/bpk-tv/000004472/tve/index.m3u8
 #EXTINF:-1 group-title="Кинофильмы | Сериалы" ,FOX Life HD
@@ -630,6 +630,7 @@ http://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4
 http://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d.m3u8
 #EXTINF:-1 group-title="Кинофильмы | Сериалы" ,Хит HD
 http://tv.lamro.workers.dev/?ID=4972
+
 
 
 
