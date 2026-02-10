@@ -605,64 +605,64 @@ http://188.225.31.197/bpk-tv/000008135/tve/index.m3u8
 
 
 #EXTINF:0,Kino Walk
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://kinowalk.hopto.org/kinowalk_live
 #EXTINF:0,Скрипач ТВ
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 https://live20.bozztv.com/akamaissh101/ssh101/scripachmovie/playlist.m3u8
 #EXTINF:0,Скрипач ТВ
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://kinowalk.hopto.org/scripachtv_live
 #EXTINF:0,Kino Mix
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://kinowalk.hopto.org/yurich_kinomix_live
 #EXTINF:0,Кинолаффка
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://188.208.197.173/kinolafka/video.m3u8?token=tvon
 #EXTINF:0,Киножелезо
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://188.208.197.173/kinojelezo/video.m3u8?token=tvon
 #EXTINF:0,NSC
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210_output_0.m3u8?session=bomhMGCHEtND9D3hX7kb4M
 #EXTINF:0,KinoJam
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://kinowalk.hopto.org/kinojam_live
 #EXTINF:0,Dimpon HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://kinowalk.hopto.org/dimpon_live
 #EXTINF:0,Kinolampa FHD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://kinowalk.hopto.org/kinolampa_live
 #EXTINF:0,Cinema Time FHD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://kinowalk.hopto.org/cinemaa_live
 #EXTINF:0,Blockbusters Time FHD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://kinowalk.hopto.org/blockbusterstime_live
 #EXTINF:0,TimeToMovie FHD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://kinowalk.hopto.org/timetomovie_live
 #EXTINF:0,TimeToHorror FHD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://kinowalk.hopto.org/timetohorror_live
 #EXTINF:0,Video_Prokat FHD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://kinowalk.hopto.org/video_prokat_live
 #EXTINF:0,SeleCaoTV 1
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/playlist.m3u8
 #EXTINF:0,SeleCaoTV 2
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 https://live20.bozztv.com/akamaissh101/ssh101/esperanza/chunks.m3u8
 #EXTINF:0,Смотрим Кино и сериалы
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:0,Смотрим Праздник
-#EXTGRP:Развлечение
+#EXTGRP:Развлекательные
 http://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564.m3u8
 #EXTINF:0,Смотрим Мужское
-#EXTGRP:Позновательные
+#EXTGRP:Познавательные
 http://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d.m3u8
 #EXTINF:0,Смотрим Факты
 #EXTGRP:Познавательные
@@ -671,49 +671,49 @@ http://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d
 #EXTGRP:Детские
 http://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab089.m3u8
 #EXTINF:0,Смотрим Классика
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338.m3u8
 #EXTINF:0,Смотрим Любовь
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248.m3u8
 #EXTINF:0,Патриот
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://185.46.48.18/asvtv/index.m3u8
 #EXTINF:0,Fox Life HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://188.237.47.212:6008
 #EXTINF:0,Мосфильм. Золотая коллекция
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://5.8.11.96:8099/mosfilmhd/index.m3u8
 #EXTINF:0,НТВ Стиль
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 #EXTINF:0,Сити Эдем - КиноАзия
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 https://cityeden.catcast.tv/content/34393/index.m3u8
 #EXTINF:0,Сити Эдем - КиноАрт
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 https://cityeden.catcast.tv/content/38398/index.m3u8
 #EXTINF:0,Сити Эдем - КиноДетектив
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 https://cityeden.catcast.tv/content/41327/index.m3u8
 #EXTINF:0,Сити Эдем - КиноДок
 #EXTGRP:Познавательные
 https://cityeden.catcast.tv/content/38354/index.m3u8
 #EXTINF:0,Сити Эдем - КиноДрама
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 https://cityeden.catcast.tv/content/45269/index.m3u8
 #EXTINF:0,Сити Эдем - КиноКлассика
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 https://cityeden.catcast.tv/content/34185/index.m3u8
 #EXTINF:0,Сити Эдем - КиноКомедия
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 https://cityeden.catcast.tv/content/41331/index.m3u8
 #EXTINF:0,Сити Эдем - КиноМистика
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 https://cityeden.catcast.tv/content/40783/index.m3u8
 #EXTINF:0,Сити Эдем - КиноЭкшен
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 https://cityeden.catcast.tv/content/41333/index.m3u8
 #EXTINF:0,Сити Эдем - Бирма Play
 #EXTGRP:Музыкальные
@@ -728,325 +728,325 @@ https://cityeden.catcast.tv/content/46421/index.m3u8
 #EXTGRP:Позновательные
 https://cityeden.catcast.tv/content/47519/index.m3u8
 #EXTINF:0,Шеф
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,Первый Отдел
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,Невский
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,Пёс
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:0,Скорая помощь
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:0,Балабол
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:0,Пять минут тишины
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:0,Следствие вели...
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:0,Своя Игра
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 https://cdn-dvr.ntv.ru/svoya_igra/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:0,Ты супер !
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:0,TV1 (KG)
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 #EXTINF:0,Kino 24
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:0,ATV Bazmoc
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://109.68.122.117:8899/bazmoc
 #EXTINF:0,Armenia Premium 6
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://timeshift.arpinet.am/255/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,Кино Без Границ
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://185.57.68.33:8091/237/playlist.m3u8
 #EXTINF:0,Кино Боевик
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://188.225.31.197/bpk-tv/000008490/tve/index.m3u8
 #EXTINF:0,Мировое Кино
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://188.225.31.197/bpk-tv/000008488/tve/index.m3u8
 #EXTINF:0,Премиум Кино
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://188.225.31.197/bpk-tv/000008491/tve/index.m3u8
 #EXTINF:0,Семейное Кино
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://188.225.31.197/bpk-tv/000008489/tve/index.m3u8
 #EXTINF:0,Кинозал
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://185.57.68.33/237/mpegts
 #EXTINF:0,IPTVPLAY МультСказки HD
 #EXTGRP:Детские
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:0,IPTVPLAY ВЕДЬМАК
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:0,IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:0,IPTVPLAY ИНТЕРНЫ
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:0,IPTVPLAY ФАНТАСТИКА
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:0,IPTVPLAY ПАМЯТЬ
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:0,IPTVPLAY УЖАСТИК
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:0,IPTVPLAY Великая Отечественная HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:0,Alpha Cinema
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 #EXTINF:0,Alpha Funny
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
 #EXTINF:0,Alpha Moretime
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:0,Ключайка
 #EXTGRP:Детские
 https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=8hKIWF5Ng40B0-kW7qvWBA&e=2070122249&scheme=https
 #EXTINF:0,Jetix Online
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 https://live.jtx-online.ru/memfs/e30ea533-4abf-4a88-91bc-73744ecfd06f.m3u8
 #EXTINF:0,СоюзМультфильм
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:0,Чип и Дейл
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:0,Мультимания
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 #EXTINF:0,Пингвин Лоло
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
 #EXTINF:0,Мамонтёнок ТВ
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
 #EXTINF:0,Bollywood HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=4730
 #EXTINF:0,Киносерия
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=4883
 #EXTINF:0,Кинохит HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=5089
 #EXTINF:0,Киноужас HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=4966
 #EXTINF:0,Киносемья HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=5088
 #EXTINF:0,Кинокомедия HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=5090
 #EXTINF:0,Киносвидание HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=5087
 #EXTINF:0,Мужское Кино HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=3374
 #EXTINF:0,Кинопремьера HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=3791
 #EXTINF:0,A1 HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=4920
 #EXTINF:0,A2 HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=4927
 #EXTINF:0,Cinema HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=5057
 #EXTINF:0,Мир сериала HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=5092
 #EXTINF:0,Hit HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=4921
 #EXTINF:0,Premium HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=3718
 #EXTINF:0,viju+ Serial HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=4962
 #EXTINF:0,viju+ Megahit
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=4051
 #EXTINF:0,viju+ Comedy
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=4111
 #EXTINF:0,viju+ Premiere HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=4117
 #EXTINF:0,Мосфильм Золотая коллекция
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=4968
 #EXTINF:0,Fox Life HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=4941
 #EXTINF:0,Камеди HD
-#EXTGRP:Развлечение
+#EXTGRP:Развлекательные
 http://tv.lamro.workers.dev/?ID=4965
 #EXTINF:0,Кино ТВ HD
 #EXTGRP:Детские
 http://tv.lamro.workers.dev/?ID=4917
 #EXTINF:0,Hollywood HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=4589
 #EXTINF:0,Блокбастер HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=4963
 #EXTINF:0,Комедийное HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=4860
 #EXTINF:0,Шокирующее HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=4961
 #EXTINF:0,Остросюжетное HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=4748
 #EXTINF:0,Наше HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=4970
 #EXTINF:0,Наше Мужское HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=4971
 #EXTINF:0,Наш Кинопоказ HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=4967
 #EXTINF:0,Наш Кинороман HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=4729
 #EXTINF:0,Русский роман HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=4612
 #EXTINF:0,Хит HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=4972
 #EXTINF:0,.red HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=4918
 #EXTINF:0,.black HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=5055
 #EXTINF:0,Plan B HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=5017
 #EXTINF:0,Flix Snip HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=5066
 #EXTINF:0,KinoJam 1 HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=5067
 #EXTINF:0,KinoJam 2 HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=5068
 #EXTINF:0,Про Любовь HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=4973
 #EXTINF:0,Премиальное HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=4988
 #EXTINF:0,Start Air
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=5081
 #EXTINF:0,.sci-fi HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=5073
 #EXTINF:0,Кинеко HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=5085
 #EXTINF:0,Scream HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=5074
 #EXTINF:0,Start World
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=5082
 #EXTINF:0,Star Family HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=5080
 #EXTINF:0,Star Cinema HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=5079
 #EXTINF:0,BCU Premiere 1 HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=5162
 #EXTINF:0,BCU Premiere 2 HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=5163
 #EXTINF:0,BCU Premiere 3 HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=5165
 #EXTINF:0,BCU CCCP HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=5167
 #EXTINF:0,BCU Action HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=5168
 #EXTINF:0,BCU Catastrophe HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=5169
 #EXTINF:0,BCU Fantastic HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=5171
 #EXTINF:0,BCU FilMystic HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=5172
 #EXTINF:0,BCU History HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=5173
 #EXTINF:0,BCU Premiere HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=5175
 #EXTINF:0,BCU Stars HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=5177
 #EXTINF:0,BCU RUSERIAL HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=5180
 #EXTINF:0,BCU Сваты HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=5181
 #EXTINF:0,BCU Criminal HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=5182
 #EXTINF:0,BCU Cinema HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=5183
 #EXTINF:0,BCU Kinorating HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=5184
 #EXTINF:0,BCU Cosmo HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=5237
 #EXTINF:0,Сапфир HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=5232
 #EXTINF:0,Душевное HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=5231
 #EXTINF:0,Романтичное HD
-#EXTGRP:Кинозалы
+#EXTGRP:Кинофильмы+
 http://tv.lamro.workers.dev/?ID=5233
 #EXTINF:0,BCU Мультсериал HD
 #EXTGRP:Детские
@@ -1057,4 +1057,5 @@ http://tv.lamro.workers.dev/?ID=5186
 #EXTINF:0,BCU Kids+ HD
 #EXTGRP:Детские
 http://tv.lamro.workers.dev/?ID=5188
+
 
