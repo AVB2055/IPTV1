@@ -314,7 +314,7 @@ http://tv.a21network.ru/stream/37909/index.m3u8
 http://hls127.freeott.top:8080/Clarity4K_Edinoborstva/mono.m3u8
 #EXTINF:0,Eurosport 1 HD
 #EXTGRP:Спортивные
-http://188.225.31.197/bpk-tv/000002478/tve/index.m3u8
+http://178.134.1.158:8081/eurosport/index.m3u8
 #EXTINF:0,Eurosport 2 HD
 #EXTGRP:Спортивные
 http://188.225.31.197/bpk-tv/000002479/tve/index.m3u8
@@ -914,3 +914,4 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v
 #EXTINF:0,Хит HD
 #EXTGRP:Кинофильмы | Сериалы
 http://tv.lamro.workers.dev/?ID=4972
+
