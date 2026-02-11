@@ -349,8 +349,6 @@ http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
 http://kinowalk.hopto.org/yurich_kinomix_live
 #EXTINF:-1 group-title="Кинофильмы" tvg-logo="../Channel/Logo/Kino 24.png" tvg-id="simpleTVFakeEpgId",Kino Walk
 http://kinowalk.hopto.org/kinowalk_live
-#EXTINF:-1 group-title="Кинофильмы" tvg-logo="../Channel/Logo/Kino 24.png" tvg-id="simpleTVFakeEpgId",KinoJam 2 HD
-http://tv.lamro.workers.dev/?ID=5068
 #EXTINF:-1 group-title="Кинофильмы" tvg-logo="../Channel/Logo/Kino 24.png" tvg-id="simpleTVFakeEpgId",Kinolampa FHD
 http://kinowalk.hopto.org/kinolampa_live
 #EXTINF:-1 group-title="Кинофильмы" tvg-id="simpleTVFakeEpgId",MyTV
@@ -467,26 +465,16 @@ http://188.225.31.197/bpk-tv/000008489/tve/index.m3u8
 http://kinowalk.hopto.org/scripachtv_live
 #EXTINF:-1 group-title="Кинофильмы" tvg-id="simpleTVFakeEpgId",Скрипач ТВ
 https://live20.bozztv.com/akamaissh101/ssh101/scripachmovie/playlist.m3u8
-#EXTINF:-1 group-title="Кинофильмы" tvg-id="simpleTVFakeEpgId",Смотрим Классика
-http://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338.m3u8
 #EXTINF:-1 group-title="Кинофильмы" tvg-logo="../Channel/Logo/Шокирующее.png" tvg-id="simpleTVFakeEpgId",Шокирующее HD
 http://tv.lamro.workers.dev/?ID=4961
 
 
 #EXTINF:-1 group-title="Кинофильмы | Сериалы" ,.black HD
 http://tv.lamro.workers.dev/?ID=5055
-#EXTINF:-1 group-title="Кинофильмы | Сериалы" ,.black HD
-http://tv.lamro.workers.dev/?ID=5055
-#EXTINF:-1 group-title="Кинофильмы | Сериалы" ,.red HD
-http://tv.lamro.workers.dev/?ID=4918
 #EXTINF:-1 group-title="Кинофильмы | Сериалы" ,.red HD
 http://tv.lamro.workers.dev/?ID=4918
 #EXTINF:-1 group-title="Кинофильмы | Сериалы" ,.sci-fi HD
 http://tv.lamro.workers.dev/?ID=5073
-#EXTINF:-1 group-title="Кинофильмы | Сериалы" ,.sci-fi HD
-http://tv.lamro.workers.dev/?ID=5073
-#EXTINF:-1 group-title="Кинофильмы | Сериалы" ,A2 HD
-http://tv.lamro.workers.dev/?ID=4927
 #EXTINF:-1 group-title="Кинофильмы | Сериалы" ,A2 HD
 http://tv.lamro.workers.dev/?ID=4927
 #EXTINF:-1 group-title="Кинофильмы | Сериалы" ,Alpha Moretime
@@ -525,6 +513,8 @@ http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 http://kinowalk.hopto.org/kinojam_live
 #EXTINF:-1 group-title="Кинофильмы | Сериалы" ,KinoJam 1 HD
 http://tv.lamro.workers.dev/?ID=5067
+#EXTINF:-1 group-title="Кинофильмы | Сериалы" ,KinoJam 2 HD
+http://tv.lamro.workers.dev/?ID=5068
 #EXTINF:-1 group-title="Кинофильмы | Сериалы" ,MM Скорость
 http://hls127.freeott.top:8080/minimax-skorost-m4f/video.m3u8
 #EXTINF:-1 group-title="Кинофильмы | Сериалы" ,Premium HD
@@ -571,8 +561,6 @@ http://tv.lamro.workers.dev/?ID=4883
 http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
 #EXTINF:-1 group-title="Кинофильмы | Сериалы" ,Китай ТВ HD
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
-#EXTINF:-1 group-title="Кинофильмы | Сериалы" ,Мир сериала
-http://94.236.201.114/MIR_SERIALA_SD/index.m3u8
 #EXTINF:-1 group-title="Кинофильмы | Сериалы" ,Мир сериала HD
 http://tv.lamro.workers.dev/?ID=5092
 #EXTINF:-1 group-title="Кинофильмы | Сериалы" ,Мужское Кино HD
@@ -596,12 +584,12 @@ https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
 https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="Кинофильмы | Сериалы" ,НТВ Сериалы Шеф HD
 https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="Кинофильмы | Сериалы" ,НТВ Сериалы Шеф HD
+https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Кинофильмы | Сериалы" ,НТВ Следствие вели... HD
 https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="Кинофильмы | Сериалы" ,НТВ Хит
 https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Кинофильмы | Сериалы" ,НТВ Шеф
-https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Кинофильмы | Сериалы" ,Наш Кинопоказ HD
 http://tv.lamro.workers.dev/?ID=4967
 #EXTINF:-1 group-title="Кинофильмы | Сериалы" ,Наш Кинороман HD
@@ -624,10 +612,6 @@ http://tv.lamro.workers.dev/?ID=5232
 http://188.225.31.197/bpk-tv/000008135/tve/index.m3u8
 #EXTINF:-1 group-title="Кинофильмы | Сериалы" ,Смотрим Кино и сериалы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Кинофильмы | Сериалы" ,Смотрим Любовь
-http://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248.m3u8
-#EXTINF:-1 group-title="Кинофильмы | Сериалы" ,Смотрим Мужское
-http://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d.m3u8
 #EXTINF:-1 group-title="Кинофильмы | Сериалы" ,Хит HD
 http://tv.lamro.workers.dev/?ID=4972
 
