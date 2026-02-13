@@ -89,9 +89,6 @@ https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e01
 #EXTINF:0,Радио Говорит Москва [1920x1080]
 #EXTGRP:Новостные
 https://video.govoritmoskva.ru/rufm/tracks-v1a1/mono.m3u8
-#EXTINF:0,RTVi
-#EXTGRP:Новостные
-http://178.134.1.158:8081/rtvi/index.m3u8
 #EXTINF:0,RTVi HD
 #EXTGRP:Новостные
 http://188.225.31.197/bpk-tv/000000039/tve/index.m3u8
@@ -1063,3 +1060,4 @@ https://stream.teotv.ru/live/site360/playlist.m3u8
 #EXTINF:0,Хит HD
 #EXTGRP:Кинофильмы | Сериалы
 http://tv.lamro.workers.dev/?ID=4972
+
