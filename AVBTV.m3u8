@@ -110,9 +110,6 @@ https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852ca
 #EXTINF:0,Соловьев Live
 #EXTGRP:Новостные
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
-#EXTINF:0,News Front
-#EXTGRP:Новостные
-http://s45177.cdn.ngenix.net/hls/CH_R01_NEXTTV/variant.m3u8
 #EXTINF:0,Первый информационный
 #EXTGRP:Новостные
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w868240704_b5160000_sleng.m3u8
@@ -1057,5 +1054,6 @@ https://stream.teotv.ru/live/site360/playlist.m3u8
 #EXTINF:0,Хит HD
 #EXTGRP:Кинофильмы | Сериалы
 http://tv.lamro.workers.dev/?ID=4972
+
 
 
