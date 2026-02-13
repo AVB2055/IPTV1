@@ -322,9 +322,6 @@ http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
 #EXTINF:0,1HD HD
 #EXTGRP:Музыкальные
 http://188.225.31.197/bpk-tv/000001020/tve/index.m3u8
-#EXTINF:0,30A MUSIC TV HD
-#EXTGRP:Музыкальные
-https://30a-tv.com/feeds/720p/6.m3u8
 #EXTINF:0,4fun dance
 #EXTGRP:Музыкальные
 https://d3s7x6kmqcnb6b.cloudfront.net/hls/3MXYR7I/2A8CFE9544F0/m.m3u8
@@ -337,9 +334,6 @@ https://video04.logicahost.com.br/assimeportugal/assimeportugal/.m3u8
 #EXTINF:0,Bridge Deluxe
 #EXTGRP:Музыкальные
 http://ip1.orgip.net/466/video.m3u8?token=SB31175290
-#EXTINF:0,Chilecito
-#EXTGRP:Музыкальные
-https://live20.bozztv.com/akamaissh101/ssh101/1234chivacoa/chunks.m3u8
 #EXTINF:0,Deluxe Dance HD
 #EXTGRP:Музыкальные
 https://d2hnivx8upksrk.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1q019khonuqjh/01efc271-2cc2-49ed-adfc-a8c5117f7d26/3.m3u8
@@ -367,21 +361,9 @@ http://89.179.247.144/hls/mixm.m3u8
 #EXTINF:0,M6 MUSIC
 #EXTGRP:Музыкальные
 http://ultimateiptv.me:8080/80:47:86:b5:30:99/kwLmfvxZT6HF/9175
-#EXTINF:0,MUSICBOX HITS
-#EXTGRP:Музыкальные
-http://vipketseyket.top:8080/VIP013641755335535556/dd266c93e3b5/1038
-#EXTINF:0,NM
-#EXTGRP:Музыкальные
-https://tv.a21network.ru/stream/40650/index.m3u8
-#EXTINF:0,Power
-#EXTGRP:Музыкальные
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
 #EXTINF:0,radio m2o HD
 #EXTGRP:Музыкальные
 http://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1728000.m3u8
-#EXTINF:0,Record Trance
-#EXTGRP:Музыкальные
-https://bl.rutube.ru/livestream/26aeb9043f519687846255556ee891aa/index.m3u8?s=aHNxtrPeXybDh_232K_e5g&e=2070450962&scheme=https
 #EXTINF:0,STZ Telebista HD
 #EXTGRP:Музыкальные
 https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
@@ -394,12 +376,6 @@ https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=DM
 #EXTINF:0,Мафия Музыка
 #EXTGRP:Музыкальные
 https://live20.bozztv.com/giatvplayout7/ushba-mafia/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0,МУЗЫКА Live
-#EXTGRP:Музыкальные
-http://31.148.48.15/La-Minor_TV/index.m3u8
-#EXTINF:0,Музыка 1
-#EXTGRP:Музыкальные
-http://176.96.241.40/MuzikaPervogo/index.m3u8
 #EXTINF:0,Рица ТВ
 #EXTGRP:Музыкальные
 http://185.221.213.254:8080/Ritsa/index.m3u8
@@ -515,7 +491,7 @@ http://185.234.59.200:9090/channel/n3f09b9b3/index.m3u8?q=406925e0657258d990e0f9
 #EXTINF:0,Jetix Online
 #EXTGRP:Детские
 https://live.jtx-online.ru/memfs/e30ea533-4abf-4a88-91bc-73744ecfd06f.m3u8
-#EXTINF:0,Kids Tv
+#EXTINF:0,Kids TV
 #EXTGRP:Детские
 http://185.234.59.200:9090/channel/4d6d7af3/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
 #EXTINF:0,Nickelodeon HD
@@ -539,15 +515,9 @@ http://188.225.31.197/bpk-tv/000008003/tve/index.m3u8
 #EXTINF:0,Лёва
 #EXTGRP:Детские
 http://185.234.59.200:9090/channel/n5ef94b24/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:0,Мамонтёнок ТВ
-#EXTGRP:Детские
-http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
 #EXTINF:0,Мультиландия HD
 #EXTGRP:Детские
 http://188.225.31.197/bpk-tv/000000203/tve/index.m3u8
-#EXTINF:0,Пингвин Лоло
-#EXTGRP:Детские
-http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
 #EXTINF:0,Смайлик ТВ HD
 #EXTGRP:Детские
 https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
@@ -796,33 +766,6 @@ http://157.90.0.245:8070/KINOPREMIERA/index.m3u8
 #EXTINF:0,Кино без границ
 #EXTGRP:Кинофильмы
 http://185.57.68.33:8091/237/playlist.m3u8
-#EXTINF:0,Киносемья HD
-#EXTGRP:Кинофильмы
-http://tv.lamro.workers.dev/?ID=4883
-#EXTINF:0,Сити Эдем - КиноАзия
-#EXTGRP:Кинофильмы
-https://cityeden.catcast.tv/content/34393/index.m3u8
-#EXTINF:0,Сити Эдем - КиноАрт
-#EXTGRP:Кинофильмы
-https://cityeden.catcast.tv/content/38398/index.m3u8
-#EXTINF:0,Сити Эдем - КиноДетектив
-#EXTGRP:Кинофильмы
-https://cityeden.catcast.tv/content/41327/index.m3u8
-#EXTINF:0,Сити Эдем - КиноДрама
-#EXTGRP:Кинофильмы
-https://cityeden.catcast.tv/content/45269/index.m3u8
-#EXTINF:0,Сити Эдем - КиноКлассика
-#EXTGRP:Кинофильмы
-https://cityeden.catcast.tv/content/34185/index.m3u8
-#EXTINF:0,Сити Эдем - КиноКомедия
-#EXTGRP:Кинофильмы
-https://cityeden.catcast.tv/content/41331/index.m3u8
-#EXTINF:0,Сити Эдем - КиноМистика
-#EXTGRP:Кинофильмы
-https://cityeden.catcast.tv/content/40783/index.m3u8
-#EXTINF:0,Сити Эдем - КиноЭкшен
-#EXTGRP:Кинофильмы
-https://cityeden.catcast.tv/content/41333/index.m3u8
 #EXTINF:0,Кинобоевик HD
 #EXTGRP:Кинофильмы
 http://188.225.31.197/bpk-tv/000008490/tve/index.m3u8
@@ -841,6 +784,9 @@ http://tv.lamro.workers.dev/?ID=3791
 #EXTINF:0,Киносвидание HD
 #EXTGRP:Кинофильмы
 http://tv.lamro.workers.dev/?ID=5087
+#EXTINF:0,Киносемья HD
+#EXTGRP:Кинофильмы
+http://tv.lamro.workers.dev/?ID=4883
 #EXTINF:0,Киносемья HD
 #EXTGRP:Кинофильмы
 http://tv.lamro.workers.dev/?ID=5088
@@ -874,6 +820,30 @@ http://tv.lamro.workers.dev/?ID=4612
 #EXTINF:0,Семейное кино HD
 #EXTGRP:Кинофильмы
 http://188.225.31.197/bpk-tv/000008489/tve/index.m3u8
+#EXTINF:0,Сити Эдем - КиноАзия
+#EXTGRP:Кинофильмы
+https://cityeden.catcast.tv/content/34393/index.m3u8
+#EXTINF:0,Сити Эдем - КиноАрт
+#EXTGRP:Кинофильмы
+https://cityeden.catcast.tv/content/38398/index.m3u8
+#EXTINF:0,Сити Эдем - КиноДетектив
+#EXTGRP:Кинофильмы
+https://cityeden.catcast.tv/content/41327/index.m3u8
+#EXTINF:0,Сити Эдем - КиноДрама
+#EXTGRP:Кинофильмы
+https://cityeden.catcast.tv/content/45269/index.m3u8
+#EXTINF:0,Сити Эдем - КиноКлассика
+#EXTGRP:Кинофильмы
+https://cityeden.catcast.tv/content/34185/index.m3u8
+#EXTINF:0,Сити Эдем - КиноКомедия
+#EXTGRP:Кинофильмы
+https://cityeden.catcast.tv/content/41331/index.m3u8
+#EXTINF:0,Сити Эдем - КиноМистика
+#EXTGRP:Кинофильмы
+https://cityeden.catcast.tv/content/40783/index.m3u8
+#EXTINF:0,Сити Эдем - КиноЭкшен
+#EXTGRP:Кинофильмы
+https://cityeden.catcast.tv/content/41333/index.m3u8
 #EXTINF:0,Толк ТВ
 #EXTGRP:Кинофильмы
 https://live-tolknews.cdnvideo.ru/tolknews/stream/tracks-v1a1/mono.m3u8
@@ -946,9 +916,6 @@ http://188.237.47.212:6008
 #EXTINF:0,IPTVPLAY ИНТЕРНЫ
 #EXTGRP:Кинофильмы | Сериалы
 http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:0,Kino 24
-#EXTGRP:Кинофильмы | Сериалы
-http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:0,KinoJam 1 HD
 #EXTGRP:Кинофильмы | Сериалы
 http://tv.lamro.workers.dev/?ID=5067
@@ -1072,9 +1039,6 @@ http://tv.lamro.workers.dev/?ID=4970
 #EXTINF:0,Наше Мужское HD
 #EXTGRP:Кинофильмы | Сериалы
 http://tv.lamro.workers.dev/?ID=4971
-#EXTINF:0,Патриот
-#EXTGRP:Кинофильмы | Сериалы
-http://185.46.48.18/asvtv/index.m3u8
 #EXTINF:0,Премиальное HD
 #EXTGRP:Кинофильмы | Сериалы
 http://tv.lamro.workers.dev/?ID=4988
