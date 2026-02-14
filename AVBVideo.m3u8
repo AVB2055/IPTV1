@@ -1,4 +1,40 @@
 #EXTM3U
+#EXTINF:0,Beнчaниe 2026
+#EXTGRP:Kinobolt
+https://b-401.fotpro135alto.com/stream2/b-401/984486d06fb24dca2a087f754b8e56d7/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21kanRTW6V0MPRkSo5ERNJTTtZEaapWV61UbW1mTy4kaapGaq1kejVjWqVUP:1771055141:5.228.112.124:2e5038880d8e452d03a1d5db577b49263f37d9238ce8f6c1dbb2831e03a500fd:ru:=40U0kXTqdWdNRVR5xkaFlnTB1TP/1080/index.m3u8
+#EXTINF:0,Кристи
+#EXTGRP:Rutube
+https://river-ost-rtk-519.rtbcdn.ru/hls-vod/0bdQqx__HqqtXFRdGzcylQ/1771656733/3324/0x5000c500e9ec26e1/b466146e87c24118a0b1c8f431b65db6.mp4.m3u8?i=1920x1080_1515
+#EXTINF:0,Путешественники 4K
+#EXTGRP:Rutube
+https://river-m9-rtk-389.rtbcdn.ru/hls-vod/2J3ZbtGcbF14M9ZXvJwEzg/1771656789/3366/0x5000c500fa786c68/fb2a488e04f1413e8c789c51dd2ed266.mp4.m3u8?i=3840x2160_4337
+#EXTINF:0,Путешественники 2K
+#EXTGRP:Rutube
+https://river-1.rutube.ru/hls-vod/ggEBIeRNSdPAVFo5lyRAHQ/1771656789/2718/0x5000039ce8382979/901d08c06ce443509b7b8dea6d25809a.mp4.m3u8?i=2560x1440_2409
+#EXTINF:0,Первобытная война 2K
+#EXTGRP:Rutube
+https://river-ntv-rtk-d406.rtbcdn.ru/hls-vod/2Xd259t7ZrbsD2KyS7GuUw/1771656879/3336/0x5000c500e9ebe92a/7d0f0bd5687c44a4aaa7fa14881888f1.mp4.m3u8?i=3840x1936_6460
+#EXTINF:0,Первобытная война 
+#EXTGRP:Rutube
+https://river-1.rutube.ru/hls-vod/XOWsy_SmzillLKAIOnSHlg/1771656879/2159/0x5000c500e66aa768/13a093d54ffe42a1a01d094fcd82aa57.mp4.m3u8?i=2560x1296_3661
+#EXTINF:0,Чума 2K
+#EXTGRP:Rutube
+https://river-ntv-rtk-d431.rtbcdn.ru/hls-vod/QFujMbE4mOsklGoiKmptOA/1771657019/2205/0x5000c500e74f8d5b/d493170b89fc4c9b99af04432afe259f.mp4.m3u8?i=3840x1600_15321
+#EXTINF:0,Бессмертный: Кровавая дорога домой 4K
+#EXTGRP:Rutube
+https://river-ost-rtk-542.rtbcdn.ru/hls-vod/HOUqPdQA_bEylKwTYRE8qA/1771657080/1802/0x5000c500c8b7fd7e/72e0b1917c474874ae133d2a394cd863.mp4.m3u8?i=3840x2160_10271
+#EXTINF:0,Бессмертный: Кровавая дорога домой 2K
+#EXTGRP:Rutube
+https://river-ost-rtk-542.rtbcdn.ru/hls-vod/aQjzYJ4EyZN1llQ4l9hgqQ/1771657080/2730/0x5000039ce8687041/49a7f955f0a548e090063823f94e6460.mp4.m3u8?i=2560x1440_4238
+#EXTINF:0,Бессмертный: Кровавая дорога домой 1080
+#EXTGRP:Rutube
+https://river-ost-rtk-542.rtbcdn.ru/hls-vod/wLGwo7uPCpuR77WQro2luw/1771657080/3350/0x5000c500e9ebb76a/34eb6986a9484313837ee5f3c3d8a0cf.mp4.m3u8?i=1920x1080_2457
+#EXTINF:0,Возвращение в офис
+#EXTGRP:Rutube
+https://river-1.rutube.ru/hls-vod/DulO21PTHXptB4unH95NnQ/1771657245/2720/0x5000039ce869e3f5/06d562504f4447c4be0ee74ebd1be678.mp4.m3u8?i=1920x1080_2107
+#EXTINF:0,Она не мать
+#EXTGRP:Rutube
+https://river-ost-rtk-519.rtbcdn.ru/hls-vod/gBgsfSRnfvFiTbr_-9jWsw/1771657287/2708/0x5000039ce838057d/d551c248018548ce9a0be4e2d5371828.mp4.m3u8?i=1920x1080_2438
 #EXTINF:0,Kino 24
 #EXTGRP:Фильмы
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
