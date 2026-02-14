@@ -1053,16 +1053,12 @@ http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vod
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Jurassic_World_Fallen_Kingdom_2018/stream.m3u8
 #EXTINF:0,Мир Юрского периода: Господство (2022)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Jurassic_World_Dominion_2022/stream.m3u8
-#EXTINF:0,Мир Юрского периода: Господство (2022)
-https://kinoleha.net/load/mir-yurskogo-perioda-3-novaya-era?original
 #EXTINF:0,Миссия невыполнима: Смертельная расплата. Часть первая (2023)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/283136/stream.m3u8
 #EXTINF:0,Мистер Никто (2010)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/The_Traveler_2010/stream.m3u8
 #EXTINF:0,Мистер Нокаут (2022)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Mister_Nokaut_2022/stream.m3u8
-#EXTINF:0,Мистецтво на війні (Док.фільм)
-https://e13p.starlight.digital/get-playlist/hls-vod/files/29/62/2426229/mq.mp4/index.m3u8
 #EXTINF:0,Моана (2016)
 https://kinoleha.net/load/moana?original
 #EXTINF:0,Моана (2016)
@@ -1193,8 +1189,6 @@ http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vod
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/The_Expendables_3_2014/stream.m3u8
 #EXTINF:0,Неудержимые 4 (2023)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/283177/stream.m3u8
-#EXTINF:0,Неудержимые 4 Трейлер
-https://kinoleha.net/player/neuderzhimye-4.mp4?trailer
 #EXTINF:0,Нечего терять (2022)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/nechego_terjat_2022/stream.m3u8
 #EXTINF:0,Нечто (1982)
@@ -2077,10 +2071,6 @@ http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vod
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/The_Reader_2008/stream.m3u8
 #EXTINF:0,Что происходит потом (2023)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/283571/stream.m3u8
-#EXTINF:0,Чудесная история Генри Шугара (2023)
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/283387/stream.m3u8
-#EXTINF:0,Чудо-женщина: 1984 (2020)
-https://kinoleha.net/load/chudo-zhenwina-1984?original
 #EXTINF:0,Чужие (1986)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Aliens_1986/stream.m3u8
 #EXTINF:0,Чужой (1979)
@@ -2183,4 +2173,5 @@ http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vod
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/283388/stream.m3u8
 #EXTINF:0,Следующий гол - победный (2023)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/284222/stream.m3u8
+
 
