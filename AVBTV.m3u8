@@ -89,9 +89,6 @@ https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e01
 #EXTINF:0,Радио Говорит Москва [1920x1080]
 #EXTGRP:Новостные
 https://video.govoritmoskva.ru/rufm/tracks-v1a1/mono.m3u8
-#EXTINF:0,RTVi
-#EXTGRP:Новостные
-http://178.134.1.158:8081/rtvi/index.m3u8
 #EXTINF:0,RTVi HD
 #EXTGRP:Новостные
 http://188.225.31.197/bpk-tv/000000039/tve/index.m3u8
@@ -138,9 +135,6 @@ http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 #EXTGRP:Новостные
 http://109.248.11.19:8081/web/c24/playlist.m3u8
 
-#EXTINF:0,A1 HD
-#EXTGRP:Познавательные
-http://tv.lamro.workers.dev/?ID=4920
 #EXTINF:0,Animal Planet HD
 #EXTGRP:Познавательные
 http://188.225.31.197/bpk-tv/000000216/tve/index.m3u8
@@ -258,10 +252,6 @@ https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=Gm
 #EXTINF:0,Тайны галактики HD
 #EXTGRP:Познавательные
 http://188.225.31.197/bpk-tv/000000332/tve/index.m3u8
-#EXTINF:0,Точка РФ
-#EXTGRP:Познавательные
-http://45.145.32.13:20440/hdl/index.m3u8?token=test
-
 
 
 #EXTINF:0,DTR ZONA 1 HD
@@ -325,9 +315,7 @@ https://fl1004.bozztv.com/ushba67/tracks-v1a1/mono.m3u8
 #EXTINF:0,Assim E Portugal
 #EXTGRP:Музыкальные
 https://video04.logicahost.com.br/assimeportugal/assimeportugal/.m3u8
-#EXTINF:0,Bridge Deluxe
-#EXTGRP:Музыкальные
-http://ip1.orgip.net/466/video.m3u8?token=SB31175290
+
 #EXTINF:0,Deluxe Dance HD
 #EXTGRP:Музыкальные
 https://d2hnivx8upksrk.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1q019khonuqjh/01efc271-2cc2-49ed-adfc-a8c5117f7d26/3.m3u8
@@ -352,9 +340,6 @@ https://kisstv.siliconweb.com/kissfm/kisstv/chunks.m3u8
 #EXTINF:0,MIXM TB HD
 #EXTGRP:Музыкальные
 http://89.179.247.144/hls/mixm.m3u8
-#EXTINF:0,M6 MUSIC
-#EXTGRP:Музыкальные
-http://ultimateiptv.me:8080/80:47:86:b5:30:99/kwLmfvxZT6HF/9175
 #EXTINF:0,radio m2o HD
 #EXTGRP:Музыкальные
 http://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1728000.m3u8
@@ -381,16 +366,12 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 
 
-
 #EXTINF:30,A21 Network HD
 #EXTGRP:Спортивные
 http://tv.a21network.ru/stream/37909/index.m3u8
 #EXTINF:0,Clarity4k Единоборства
 #EXTGRP:Спортивные
 http://hls127.freeott.top:8080/Clarity4K_Edinoborstva/mono.m3u8
-#EXTINF:0,Eurosport 1 HD
-#EXTGRP:Спортивные
-http://178.134.1.158:8081/eurosport/index.m3u8
 #EXTINF:0,Eurosport 1 HD
 #EXTGRP:Спортивные
 http://176.96.241.40/Eurosport1/index.m3u8
@@ -406,9 +387,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv
 #EXTINF:0,Red Bull HD
 #EXTGRP:Спортивные
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:iptvcat.com
-#EXTINF:0,RUSSIAN EXTREME
-#EXTGRP:Спортивные
-http://185.234.59.200:8080/russian_extreme_hd/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:0,Setanta Sports 1 HD
 #EXTGRP:Спортивные
 http://188.225.31.197/bpk-tv/000004498/tve/index.m3u8
@@ -442,9 +420,6 @@ http://185.234.59.200:8080/match_boets_hd/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:0,Мир Баскетбола
 #EXTGRP:Спортивные
 http://185.234.59.200:8080/mir_basketbola_hd/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:0,МЯЧ
-#EXTGRP:Спортивные
-http://185.234.59.200:9090/channel/3f8c6c26/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
 #EXTINF:0,Спортивный HD
 #EXTGRP:Спортивные
 http://live-3.otcnet.ru/sportivny/index.m3u8
@@ -467,6 +442,8 @@ http://188.225.31.197/bpk-tv/000007802/tve/index.m3u8
 #EXTGRP:Спортивные
 https://a787201481-s80718.cdn.ngenix.net/hls/CH_UDARHD/video_1920x1080_avc1/playlist.m3u8
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
+
+
 #EXTINF:0,Clarity4K Anime
 #EXTGRP:Детские
 http://hls127.freeott.top:8080/Clarity4K_Anime/mono.m3u8
@@ -485,9 +462,6 @@ http://188.225.31.197/bpk-tv/000000499/tve/index.m3u8
 #EXTINF:0,Nicktoons HD
 #EXTGRP:Детские
 http://188.225.31.197/bpk-tv/000004365/tve/index.m3u8
-#EXTINF:0Smile TV
-#EXTGRP:Детские
-https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:0,Детский мир HD
 #EXTGRP:Детские
 http://188.225.31.197/bpk-tv/000000049/tve/index.m3u8
@@ -497,9 +471,6 @@ http://185.234.59.200:8080/kapitan_fantastika_hd/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:0,Лёва HD
 #EXTGRP:Детские
 http://188.225.31.197/bpk-tv/000008003/tve/index.m3u8
-#EXTINF:0,Лёва
-#EXTGRP:Детские
-http://185.234.59.200:9090/channel/n5ef94b24/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
 #EXTINF:0,Мультиландия HD
 #EXTGRP:Детские
 http://188.225.31.197/bpk-tv/000000203/tve/index.m3u8
@@ -512,19 +483,12 @@ https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 #EXTINF:0,СоюзМультфильм
 #EXTGRP:Детские
 http://194.26.229.213/souzmultfilm/index.m3u8
-#EXTINF:0,СТС Kids
-#EXTGRP:Детские
-http://185.234.59.200:9090/channel/n77d4bdfd/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
 #EXTINF:0,Суббота HD
 #EXTGRP:Детские
 https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=fGF8IP-Az_cZHwwgk-of9w&e=2067815805&scheme=https
 #EXTINF:0,Чип и Дейл
 #EXTGRP:Детские
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
-#EXTINF:0,Чижик
-#EXTGRP:Детские
-http://185.234.59.200:9090/channel/3d030e81/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-
 
 #EXTINF:0,Arpinet SD
 #EXTGRP:Кинофильмы
