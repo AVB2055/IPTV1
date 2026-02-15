@@ -1,22 +1,14 @@
 #EXTM3U 
 #EXTINF:-1 group-title="Rutube" tvg-logo="../Channel/Logo/Крик ТВ (Екатеринбург).png" tvg-id="simpleTVFakeEpgId",Кристи
 https://river-ost-rtk-519.rtbcdn.ru/hls-vod/0bdQqx__HqqtXFRdGzcylQ/1771656733/3324/0x5000c500e9ec26e1/b466146e87c24118a0b1c8f431b65db6.mp4.m3u8?i=1920x1080_1515
-#EXTINF:-1 group-title="Rutube" tvg-logo="../Channel/Logo/Телепутешествия.png" tvg-id="simpleTVFakeEpgId",Путешественники 4K
-https://river-m9-rtk-389.rtbcdn.ru/hls-vod/2J3ZbtGcbF14M9ZXvJwEzg/1771656789/3366/0x5000c500fa786c68/fb2a488e04f1413e8c789c51dd2ed266.mp4.m3u8?i=3840x2160_4337
 #EXTINF:-1 group-title="Rutube" tvg-logo="../Channel/Logo/Телепутешествия.png" tvg-id="simpleTVFakeEpgId",Путешественники 2K
 https://river-1.rutube.ru/hls-vod/ggEBIeRNSdPAVFo5lyRAHQ/1771656789/2718/0x5000039ce8382979/901d08c06ce443509b7b8dea6d25809a.mp4.m3u8?i=2560x1440_2409
 #EXTINF:-1 group-title="Rutube" tvg-id="simpleTVFakeEpgId",Первобытная война 2K
 https://river-ntv-rtk-d406.rtbcdn.ru/hls-vod/2Xd259t7ZrbsD2KyS7GuUw/1771656879/3336/0x5000c500e9ebe92a/7d0f0bd5687c44a4aaa7fa14881888f1.mp4.m3u8?i=3840x1936_6460
-#EXTINF:-1 group-title="Rutube" tvg-id="simpleTVFakeEpgId",Первобытная война
-https://river-1.rutube.ru/hls-vod/XOWsy_SmzillLKAIOnSHlg/1771656879/2159/0x5000c500e66aa768/13a093d54ffe42a1a01d094fcd82aa57.mp4.m3u8?i=2560x1296_3661
 #EXTINF:-1 group-title="Rutube" tvg-id="simpleTVFakeEpgId",Чума 2K
 https://river-ntv-rtk-d431.rtbcdn.ru/hls-vod/QFujMbE4mOsklGoiKmptOA/1771657019/2205/0x5000c500e74f8d5b/d493170b89fc4c9b99af04432afe259f.mp4.m3u8?i=3840x1600_15321
 #EXTINF:-1 group-title="Rutube" tvg-id="simpleTVFakeEpgId",Бессмертный: Кровавая дорога домой 4K
 https://river-ost-rtk-542.rtbcdn.ru/hls-vod/HOUqPdQA_bEylKwTYRE8qA/1771657080/1802/0x5000c500c8b7fd7e/72e0b1917c474874ae133d2a394cd863.mp4.m3u8?i=3840x2160_10271
-#EXTINF:-1 group-title="Rutube" tvg-id="simpleTVFakeEpgId",Бессмертный: Кровавая дорога домой 2K
-https://river-ost-rtk-542.rtbcdn.ru/hls-vod/aQjzYJ4EyZN1llQ4l9hgqQ/1771657080/2730/0x5000039ce8687041/49a7f955f0a548e090063823f94e6460.mp4.m3u8?i=2560x1440_4238
-#EXTINF:-1 group-title="Rutube" tvg-id="simpleTVFakeEpgId",Бессмертный: Кровавая дорога домой 1080
-https://river-ost-rtk-542.rtbcdn.ru/hls-vod/wLGwo7uPCpuR77WQro2luw/1771657080/3350/0x5000c500e9ebb76a/34eb6986a9484313837ee5f3c3d8a0cf.mp4.m3u8?i=1920x1080_2457
 #EXTINF:-1 group-title="Rutube" tvg-id="simpleTVFakeEpgId",Возвращение в офис
 https://river-1.rutube.ru/hls-vod/DulO21PTHXptB4unH95NnQ/1771657245/2720/0x5000039ce869e3f5/06d562504f4447c4be0ee74ebd1be678.mp4.m3u8?i=1920x1080_2107
 #EXTINF:-1 group-title="Rutube" tvg-id="simpleTVFakeEpgId",Она не мать
@@ -2195,5 +2187,6 @@ http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vod
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/283388/stream.m3u8
 #EXTINF:-1 group-title="Кинофильмы" tvg-id="simpleTVFakeEpgId",Следующий гол - победный (2023)
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/native/284222/stream.m3u8
+
 
 
