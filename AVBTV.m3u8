@@ -2114,149 +2114,149 @@ http://185.234.59.200:8080/BOX_MSerial_HD/video.m3u8?token=5uGLTS1oibSIu0
 http://185.234.59.200:8080/BOX_Serial_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Box Music
 http://185.234.59.200:8080/BOX_Music_4K/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Bcu кинозал
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BCU",Bcu кинозал
 http://185.234.59.200:8080/BCU_Kinozal_Premiere_1_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Bcu кинозал 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BCU",Bcu кинозал 2
 http://185.234.59.200:8080/BCU_Kinozal_Premiere_2_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Bcu Кинозал 3
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BCU",Bcu Кинозал 3
 http://185.234.59.200:8080/BCU_Kinozal_Premiere_3_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Bcu action
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BCU",Bcu action
 http://185.234.59.200:8080/BCU_Action_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Катастрофы
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BCU",Катастрофы
 http://185.234.59.200:8080/BCU_Catastrophe_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Bcu cinema
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BCU",Bcu cinema
 http://185.234.59.200:8080/BCU_Cinema_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Bcu cinema+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BCU",Bcu cinema+
 http://185.234.59.200:8080/BCU_Cinema_Plus_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Bcu criminal
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BCU",Bcu criminal
 http://185.234.59.200:8080/BCU_Criminal_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Bcu Fantastic
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BCU",Bcu Fantastic
 http://185.234.59.200:8080/BCU_Fantastic_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Bcu Film
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BCU",Bcu Film
 http://185.234.59.200:8080/BCU_FilMystic_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Bcu History
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BCU",Bcu History
 http://185.234.59.200:8080/BCU_History_HD/video.m3u8?token=5uGLTS1oibSIu
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Bcu Comedy
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BCU",Bcu Comedy
 http://185.234.59.200:8080/BCU_Comedy_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Bcu Cosmo
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BCU",Bcu Cosmo
 http://185.234.59.200:9090/channel/n1bd83275/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Bcu Romantic
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BCU",Bcu Romantic
 http://185.234.59.200:8080/BCU_Romantic_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Bcu Kinorating
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BCU",Bcu Kinorating
 http://185.234.59.200:8080/BCU_Kinorating_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Bcu Marvel
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BCU",Bcu Marvel
 http://185.234.59.200:8080/BCU_Marvel_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Bcu Premiere
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BCU",Bcu Premiere
 http://185.234.59.200:8080/BCU_Premiere_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Bcu Stars
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BCU",Bcu Stars
 http://185.234.59.200:8080/BCU_Stars_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Bcu Reality
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BCU",Bcu Reality
 http://185.234.59.200:9090/channel/n613379be/index.m3u8?q=406925e0657258d990e0f9948bac4f
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Bcu Survial
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BCU",Bcu Survial
 http://185.234.59.200:9090/channel/n794d8763/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Bcu trumotion
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BCU",Bcu trumotion
 http://185.234.59.200:9090/channel/3dada88d/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Bcu ultrA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BCU",Bcu ultrA
 http://185.234.59.200:8080/BCU_Ultra_4K/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Bcu сваты
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BCU",Bcu сваты
 http://185.234.59.200:8080/BCU_Svaty_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Bcu VHS
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BCU",Bcu VHS
 http://185.234.59.200:8080/BCU_VHS_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Bcu мультсериал
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BCU",Bcu мультсериал
 http://185.234.59.200:8080/BCU_Multserial_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Bcu медиа
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BCU",Bcu медиа
 http://185.234.59.200:8080/BCUMEDIA_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Bcu kids+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BCU",Bcu kids+
 http://185.234.59.200:8080/BCU_Kids_Plus_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Bcu kids
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BCU",Bcu kids
 http://185.234.59.200:8080/BCU_Kids_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Bcu Ruserial
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BCU",Bcu Ruserial
 http://185.234.59.200:8080/BCU_RUSERIAL_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Bcu СССР
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BCU",Bcu СССР
 http://185.234.59.200:8080/BCU_USSR_HD/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BCU",Bcu Russian
+http://185.234.59.200:8080/BCU_Russian_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Русское 90е
 http://185.234.59.200:9090/channel/n30e1bc93/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Bcu Russian
-http://185.234.59.200:8080/BCU_Russian_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Bunny
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SKY HIGH",Bunny
 http://185.234.59.200:8080/BUNNYHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Mydoc
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SKY HIGH",Mydoc
 http://185.234.59.200:8080/SKY_HIGH_DOC_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Brain
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SKY HIGH",Brain
 http://185.234.59.200:8080/SKYHIGHBRAINFHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Firezone
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SKY HIGH",Firezone
 http://185.234.59.200:8080/SKY_HIGH_FIREZONE_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Strike
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SKY HIGH",Strike
 http://185.234.59.200:8080/SKY_HIGH_STRIKE_VHS_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Brick
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SKY HIGH",Brick
 http://185.234.59.200:8080/SKY_HIGH_BRICK_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Dusts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SKY HIGH",Dusts
 http://185.234.59.200:8080/SKY_HIGH_DUST_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Jetix
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SKY HIGH",Jetix
 http://185.234.59.200:8080/SKY_HIGH_JETIX_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",GunRush
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SKY HIGH",GunRush
 http://185.234.59.200:8080/SKY_HIGH_GUNRUSH_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Fear
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SKY HIGH",Fear
 http://185.234.59.200:8080/SKY_HIGH_FEAR_VHS_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Bat
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SKY HIGH",Bat
 http://185.234.59.200:8080/SKY_HIGH_BAT_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Танос
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SKY HIGH",Танос
 http://185.234.59.200:8080/SKY_HIGH_TANOS_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",quants
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SKY HIGH",quants
 http://185.234.59.200:8080/SKY_HIGH_QUANT_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Future
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SKY HIGH",Future
 http://185.234.59.200:8080/SKY_HIGH_FUTURE_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Neon
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SKY HIGH",Neon
 http://185.234.59.200:8080/SKY_HIGH_NEON_VHS_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Toon
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SKY HIGH",Toon
 http://185.234.59.200:8080/SKY_HIGH_TOON_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Nick
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SKY HIGH",Nick
 http://185.234.59.200:8080/SKY_HIGH_NICK_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Civil
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SKY HIGH",Civil
 http://185.234.59.200:8080/SKY_HIGH_CIVIL_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Boom
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SKY HIGH",Boom
 http://185.234.59.200:8080/SKY_HIGH_BOOM_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Teen
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SKY HIGH",Teen
 http://185.234.59.200:8080/SKY_HIGH_TEEN_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Junior
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SKY HIGH",Junior
 http://185.234.59.200:8080/SKY_HIGH_JUNIOR_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Archive
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SKY HIGH",Archive
 http://185.234.59.200:8080/SKY_HIGH_ARCHIVE_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Trace
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SKY HIGH",Trace
 http://185.234.59.200:8080/SKY_HIGH_TRACE_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Votum
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SKY HIGH",Votum
 http://185.234.59.200:8080/SKY_HIGH_VOTUM_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Case
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SKY HIGH",Case
 http://185.234.59.200:8080/SKY_HIGH_CASE_VHS_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",ZIPPY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SKY HIGH",ZIPPY
 http://185.234.59.200:8080/SKY_HIGH_ZIPPY_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Heart
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SKY HIGH",Heart
 http://185.234.59.200:8080/SKY_HIGH_HEART_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Joke
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SKY HIGH",Joke
 http://185.234.59.200:8080/SKY_HIGH_JOKE_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Medy
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SKY HIGH",Medy
 http://185.234.59.200:8080/SKY_HIGH_MEDY_VHS_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Romix
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SKY HIGH",Romix
 http://185.234.59.200:8080/SKY_HIGH_ROMIX_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Red s
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SKY HIGH",Red s
 http://185.234.59.200:8080/SKY_HIGH_RED_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Wizz s
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SKY HIGH",Wizz s
 http://185.234.59.200:8080/SKY_HIGH_WIZZ_VHS_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Woonder
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SKY HIGH",Woonder
 http://185.234.59.200:8080/SKY_HIGH_WOONDER_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Dragon
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SKY HIGH",Dragon
 http://185.234.59.200:8080/SKY_HIGH_DRAGON_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Space
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SKY HIGH",Space
 http://185.234.59.200:8080/SKY_HIGH_SPACE_4K_HDR/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Horror
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SKY HIGH",Horror
 http://185.234.59.200:8080/SKY_HIGH_HORROR_4K_HDR/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Lofi
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SKY HIGH",Lofi
 http://185.234.59.200:8080/SKY_HIGH_LO_FIHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Beyond
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SKY HIGH",Beyond
 http://185.234.59.200:8080/SKY_HIGH_BEYOND_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Scream
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SKY HIGH",Scream
 http://185.234.59.200:8080/SKY_HIGH_SCREAM_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Nature
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SKY HIGH",Nature
 http://185.234.59.200:8080/SKY_HIGH_NATURE_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",KTV SPORT+
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist_b3500000_t64NzIwcA==.m3u8
