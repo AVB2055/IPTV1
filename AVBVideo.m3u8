@@ -1,12 +1,15 @@
 #EXTM3U
 
 #EXTINF:0,IPTVPLAY ВЕДЬМАК
+#EXTVLCOPT:network-caching=1000
 #EXTGRP:Нестабильные Кинофильмы
 http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:0,IPTVPLAY Великая Отечественная HD
+#EXTVLCOPT:network-caching=1000
 #EXTGRP:Нестабильные Кинофильмы
 http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:0,IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО
+#EXTVLCOPT:network-caching=1000
 #EXTGRP:Нестабильные Кинофильмы
 http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:0,IPTVPLAY ПАМЯТЬ
