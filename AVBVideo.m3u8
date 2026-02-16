@@ -1,15 +1,11 @@
 #EXTM3U
 
 #EXTINF:0,IPTVPLAY ВЕДЬМАК
-#EXTVLCOPT:network-caching=1000
-#EXTGRP:Нестабильные Кинофильмы
 http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:0,IPTVPLAY Великая Отечественная HD
-#EXTVLCOPT:network-caching=1000
 #EXTGRP:Нестабильные Кинофильмы
 http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:0,IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО
-#EXTVLCOPT:network-caching=1000
 #EXTGRP:Нестабильные Кинофильмы
 http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:0,IPTVPLAY ПАМЯТЬ
@@ -27,9 +23,14 @@ http://kinowalk.hopto.org/kinolampa_live
 #EXTINF:0,Scream HD
 #EXTGRP:Нестабильные Кинофильмы
 http://tv.lamro.workers.dev/?ID=5074
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Scream замена?
+http://185.234.59.200:8080/SKY_HIGH_SCREAM_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:0,Русский роман HD
 #EXTGRP:Нестабильные Кинофильмы
 http://tv.lamro.workers.dev/?ID=4612
+#EXTINF:0,Русский роман HD замена?
+#EXTGRP:Нестабильные Кинофильмы
+http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
 #EXTINF:0,Сити Эдем - КиноАрт
 #EXTGRP:Нестабильные Кинофильмы
 https://cityeden.catcast.tv/content/38398/index.m3u8
@@ -42,6 +43,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/playlist.m3u8
 #EXTINF:0,Кинохит HD
 #EXTGRP:Нестабильные Кинофильмы
 http://tv.lamro.workers.dev/?ID=5089
+#EXTINF:0,Кинохит HD замена?
+#EXTGRP:Нестабильные Кинофильмы
+http://158.101.222.193:88/georgia_play.php?id=kinohit
 #EXTINF:0,BCU Action HD ++
 #EXTGRP:Нестабильные Кинофильмы
 http://tv.lamro.workers.dev/?ID=5168
@@ -87,5 +91,6 @@ http://tv.lamro.workers.dev/?ID=4918
 #EXTINF:0,IPTVPLAY ИНТЕРНЫ ++
 #EXTGRP:Нестабильные Кинофильмы | Сериалы
 http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
-http://tv.lamro.workers.dev/?ID=5168
+
+
 
