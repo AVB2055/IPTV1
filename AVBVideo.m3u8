@@ -1,27 +1,28 @@
 #EXTM3U
+
 #EXTINF:0,IPTVPLAY ВЕДЬМАК
-#EXTGRP:Кинофильмы
+#EXTGRP:Нестабильные Кинофильмы
 http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:0,IPTVPLAY Великая Отечественная HD
-#EXTGRP:Кинофильмы
+#EXTGRP:Нестабильные Кинофильмы
 http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:0,IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО
-#EXTGRP:Кинофильмы
+#EXTGRP:Нестабильные Кинофильмы
 http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:0,IPTVPLAY ПАМЯТЬ
-#EXTGRP:Кинофильмы
+#EXTGRP:Нестабильные Кинофильмы
 http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:0,IPTVPLAY УЖАСТИК
-#EXTGRP:Кинофильмы
+#EXTGRP:Нестабильные Кинофильмы
 http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:0,IPTVPLAY ФАНТАСТИКА
-#EXTGRP:Кинофильмы
+#EXTGRP:Нестабильные Кинофильмы
 http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:0,Kinolampa FHD
-#EXTGRP:Кинофильмы
+#EXTGRP:Нестабильные Кинофильмы
 http://kinowalk.hopto.org/kinolampa_live
 #EXTINF:0,Scream HD
-#EXTGRP:Кинофильмы
+#EXTGRP:Нестабильные Кинофильмы
 http://tv.lamro.workers.dev/?ID=5074
 #EXTINF:0,Русский роман HD
 #EXTGRP:Нестабильные Кинофильмы
@@ -33,29 +34,25 @@ https://cityeden.catcast.tv/content/38398/index.m3u8
 #EXTGRP:Нестабильные Кинофильмы
 https://live20.bozztv.com/akamaissh101/ssh101/scripachmovie/playlist.m3u8
 #EXTINF:0,USHBA SeleCaoTV 1
-#EXTGRP:Кинофильмы
+#EXTGRP:Нестабильные Кинофильмы
 https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/playlist.m3u8
 #EXTINF:0,Кинохит HD
 #EXTGRP:Нестабильные Кинофильмы
 http://tv.lamro.workers.dev/?ID=5089
 #EXTINF:0,BCU Action HD ++
-#EXTGRP:Кинофильмы
-http://tv.lamro.workers.dev/?ID=5168
-#EXTINF:0,IPTVPLAY ИНТЕРНЫ ++
-#EXTGRP:Кинофильмы | Сериалы
-http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTGRP:Нестабильные Кинофильмы
 http://tv.lamro.workers.dev/?ID=5168
 #EXTINF:0,USHBA SeleCaoTV 2 ++
-#EXTGRP:Кинофильмы
+#EXTGRP:Нестабильные Кинофильмы
 https://live20.bozztv.com/akamaissh101/ssh101/esperanza/chunks.m3u8
 #EXTINF:0,viju+ Comedy ++
-#EXTGRP:Кинофильмы
+#EXTGRP:Нестабильные Кинофильмы
 http://tv.lamro.workers.dev/?ID=4111
 #EXTINF:0,viju+ Megahit ++
-#EXTGRP:Кинофильмы
+#EXTGRP:Нестабильные Кинофильмы
 http://tv.lamro.workers.dev/?ID=4051
 #EXTINF:0,viju+ Premiere HD -+
-#EXTGRP:Кинофильмы
+#EXTGRP:Нестабильные Кинофильмы
 http://tv.lamro.workers.dev/?ID=4117
 #EXTINF:0,Кинопремьера HD +-
 #EXTGRP:Нестабильные Кинофильмы
@@ -84,4 +81,7 @@ http://tv.lamro.workers.dev/?ID=5055
 #EXTINF:0,.red HD -+
 #EXTGRP:Нестабильные Кинофильмы | Сериалы
 http://tv.lamro.workers.dev/?ID=4918
-
+#EXTINF:0,IPTVPLAY ИНТЕРНЫ ++
+#EXTGRP:Нестабильные Кинофильмы | Сериалы
+http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
+http://tv.lamro.workers.dev/?ID=5168
