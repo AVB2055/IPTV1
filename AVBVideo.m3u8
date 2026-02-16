@@ -1,6 +1,4 @@
-#EXTINF:0,BCU Action HD
-#EXTGRP:Кинофильмы
-http://tv.lamro.workers.dev/?ID=5168
+#EXTM3U
 #EXTINF:0,IPTVPLAY ВЕДЬМАК
 #EXTGRP:Кинофильмы
 http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
@@ -25,57 +23,65 @@ http://kinowalk.hopto.org/kinolampa_live
 #EXTINF:0,Scream HD
 #EXTGRP:Кинофильмы
 http://tv.lamro.workers.dev/?ID=5074
+#EXTINF:0,Русский роман HD
+#EXTGRP:Нестабильные Кинофильмы
+http://tv.lamro.workers.dev/?ID=4612
+#EXTINF:0,Сити Эдем - КиноАрт
+#EXTGRP:Нестабильные Кинофильмы
+https://cityeden.catcast.tv/content/38398/index.m3u8
+#EXTINF:0,Скрипач ТВ
+#EXTGRP:Нестабильные Кинофильмы
+https://live20.bozztv.com/akamaissh101/ssh101/scripachmovie/playlist.m3u8
 #EXTINF:0,USHBA SeleCaoTV 1
 #EXTGRP:Кинофильмы
 https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/playlist.m3u8
-#EXTINF:0,USHBA SeleCaoTV 2
+#EXTINF:0,Кинохит HD
+#EXTGRP:Нестабильные Кинофильмы
+http://tv.lamro.workers.dev/?ID=5089
+#EXTINF:0,BCU Action HD ++
+#EXTGRP:Кинофильмы
+http://tv.lamro.workers.dev/?ID=5168
+#EXTINF:0,IPTVPLAY ИНТЕРНЫ ++
+#EXTGRP:Кинофильмы | Сериалы
+http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
+http://tv.lamro.workers.dev/?ID=5168
+#EXTINF:0,USHBA SeleCaoTV 2 ++
 #EXTGRP:Кинофильмы
 https://live20.bozztv.com/akamaissh101/ssh101/esperanza/chunks.m3u8
-#EXTINF:0,viju+ Comedy
+#EXTINF:0,viju+ Comedy ++
 #EXTGRP:Кинофильмы
 http://tv.lamro.workers.dev/?ID=4111
-#EXTINF:0,viju+ Megahit
+#EXTINF:0,viju+ Megahit ++
 #EXTGRP:Кинофильмы
 http://tv.lamro.workers.dev/?ID=4051
-#EXTINF:0,Кино Премьера HD
+#EXTINF:0,viju+ Premiere HD -+
 #EXTGRP:Кинофильмы
-http://157.90.0.245:8070/KINOPREMIERA/index.m3u8
-#EXTINF:0,Кинопремьера HD
-#EXTGRP:Кинофильмы
+http://tv.lamro.workers.dev/?ID=4117
+#EXTINF:0,Кинопремьера HD +-
+#EXTGRP:Нестабильные Кинофильмы
 http://tv.lamro.workers.dev/?ID=3791
-#EXTINF:0,Киносвидание HD
-#EXTGRP:Кинофильмы
+#EXTINF:0,Киносвидание HD ++
+#EXTGRP:Нестабильные Кинофильмы
 http://tv.lamro.workers.dev/?ID=5087
-#EXTINF:0,Киноужас HD
-#EXTGRP:Кинофильмы
+#EXTINF:0,Киноужас HD ++
+#EXTGRP:Нестабильные Кинофильмы
 http://tv.lamro.workers.dev/?ID=4966
-#EXTINF:0,Кинохит HD
-#EXTGRP:Кинофильмы
-http://tv.lamro.workers.dev/?ID=5089
-#EXTINF:0,Комедийное HD
-#EXTGRP:Кинофильмы
+#EXTINF:0,Комедийное HD +-
+#EXTGRP:Нестабильные Кинофильмы
 http://tv.lamro.workers.dev/?ID=4860
-#EXTINF:0,Мосфильм. Золотая коллекция HD
-#EXTGRP:Кинофильмы
+#EXTINF:0,Мосфильм. Золотая коллекция HD -+
+#EXTGRP:Нестабильные Кинофильмы
 http://tv.lamro.workers.dev/?ID=4968
-#EXTINF:0,Остросюжетное HD
-#EXTGRP:Кинофильмы
+#EXTINF:0,Остросюжетное HD -+
+#EXTGRP:Нестабильные Кинофильмы
 http://tv.lamro.workers.dev/?ID=4748
-#EXTINF:0,Русский роман HD
-#EXTGRP:Кинофильмы
-http://tv.lamro.workers.dev/?ID=4612
-#EXTINF:0,Сити Эдем - КиноАрт
-#EXTGRP:Кинофильмы
-https://cityeden.catcast.tv/content/38398/index.m3u8
-#EXTINF:0,Скрипач ТВ
-#EXTGRP:Кинофильмы
-https://live20.bozztv.com/akamaissh101/ssh101/scripachmovie/playlist.m3u8
-#EXTINF:0,.black HD
-#EXTGRP:Кинофильмы | Сериалы
-http://tv.lamro.workers.dev/?ID=5055
-#EXTINF:0,.red HD
-#EXTGRP:Кинофильмы | Сериалы
-http://tv.lamro.workers.dev/?ID=4918
-#EXTINF:0,A2 HD
-#EXTGRP:Кинофильмы | Сериалы
+#EXTINF:0,A2 HD ++
+#EXTGRP:Нестабильные Кинофильмы | Сериалы
 http://tv.lamro.workers.dev/?ID=4927
+#EXTINF:0,.black HD ++
+#EXTGRP:Нестабильные Кинофильмы | Сериалы
+http://tv.lamro.workers.dev/?ID=5055
+#EXTINF:0,.red HD -+
+#EXTGRP:Нестабильные Кинофильмы | Сериалы
+http://tv.lamro.workers.dev/?ID=4918
+
