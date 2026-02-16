@@ -255,6 +255,9 @@ http://188.225.31.197/bpk-tv/000000332/tve/index.m3u8
 #EXTINF:0,Тео-ТВ
 #EXTGRP:Познавательные
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_TEOTV/variant.m3u8
+#EXTINF:0,Тео-ТВ
+#EXTGRP:Познавательные
+https://stream.teotv.ru/live/site360/playlist.m3u8
 
 #EXTINF:0,DTR ZONA 1 HD
 #EXTGRP:Развлекательные
@@ -635,9 +638,6 @@ http://kinowalk.hopto.org/video_prokat_live
 #EXTINF:0,viju+ Megahit HD
 #EXTGRP:Кинофильмы
 http://hls127.freeott.top:8080/ViP_Megahit/video.m3u8
-#EXTINF:0,viju+ Premiere HD
-#EXTGRP:Кинофильмы
-http://tv.lamro.workers.dev/?ID=4117
 #EXTINF:0,VIP Comedy
 #EXTGRP:Кинофильмы
 http://89.232.68.194:8080/ComedyHD/tracks-v1a1/index.m3u8
@@ -773,9 +773,6 @@ http://tv.lamro.workers.dev/?ID=4941
 #EXTINF:0,FX LIFE
 #EXTGRP:Кинофильмы | Сериалы
 http://188.237.47.212:6008
-#EXTINF:0,IPTVPLAY ИНТЕРНЫ
-#EXTGRP:Кинофильмы | Сериалы
-http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:0,MM Скорость
 #EXTGRP:Кинофильмы | Сериалы
 http://hls127.freeott.top:8080/minimax-skorost-m4f/video.m3u8
@@ -908,9 +905,6 @@ http://188.225.31.197/bpk-tv/000008135/tve/index.m3u8
 #EXTINF:0,Смотрим Кино и сериалы
 #EXTGRP:Кинофильмы | Сериалы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
-#EXTINF:0,Тео ТВ
-#EXTGRP:Кинофильмы | Сериалы
-https://stream.teotv.ru/live/site360/playlist.m3u8
 #EXTINF:0,Хит HD
 #EXTGRP:Кинофильмы | Сериалы
 http://tv.lamro.workers.dev/?ID=4972
