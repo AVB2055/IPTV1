@@ -3432,17 +3432,17 @@ http://185.234.59.200:9090/channel/5343ad7f/index.m3u8?q=406925e0657258d990e0f99
 #EXTINF:-1,Art house
 #EXTGRP:VF
 http://185.234.59.200:9090/channel/5343ad7f/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Телеканалы других стран
+#EXTINF:-1,Bat
 #EXTGRP:SKY HIGH
 http://185.234.59.200:8080/SKY_HIGH_BAT_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Телеканалы других стран
+#EXTINF:-1,Bat
 #EXTGRP:SKY HIGH
 http://185.234.59.200:8080/SKY_HIGH_BAT_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,Bazmoc
-#EXTGRP:Телеканалы других стран
+#EXTGRP:Кинозалы
 http://109.68.122.117:8899/bazmoc
 #EXTINF:-1,Bazmoc
-#EXTGRP:Телеканалы других стран
+#EXTGRP:Кинозалы
 http://109.68.122.117:8899/bazmoc
 #EXTINF:-1,Bcu action
 #EXTGRP:BCU
@@ -7039,6 +7039,7 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/mas
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13057/index.m3u8
 #EXTINF:-1,флип
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13057/index.m3u8
+
 
 
 #EXTINF:0,IPTVPLAY ВЕДЬМАК
