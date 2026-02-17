@@ -85,49 +85,49 @@ http://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab
 #EXTGRP:Смотрим
 http://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248.m3u8
 #EXTINF:-1,КиноАзия
-#EXTGRP:Сити Эдем
+#EXTGRP:CityEdem
 https://cityeden.catcast.tv/content/34393/index.m3u8
 #EXTINF:-1,КиноАрт
-#EXTGRP:Сити Эдем
+#EXTGRP:CityEdem
 https://cityeden.catcast.tv/content/38398/index.m3u8
 #EXTINF:-1,КиноДетектив
-#EXTGRP:Сити Эдем
+#EXTGRP:CityEdem
 https://cityeden.catcast.tv/content/41327/index.m3u8
 #EXTINF:-1,КиноДок
-#EXTGRP:Сити Эдем
+#EXTGRP:CityEdem
 https://cityeden.catcast.tv/content/38354/index.m3u8
 #EXTINF:-1,КиноДрама
-#EXTGRP:Сити Эдем
+#EXTGRP:CityEdem
 https://cityeden.catcast.tv/content/45269/index.m3u8
 #EXTINF:-1,КиноКлассика
-#EXTGRP:Сити Эдем
+#EXTGRP:CityEdem
 https://cityeden.catcast.tv/content/34185/index.m3u8
 #EXTINF:-1,Record Megamix
 #EXTGRP:Кинозалы
 https://bl.rutube.ru/livestream/60b73481dcc9880850f22690142c8d17/index.m3u8?s=CrIfvudR50Vl4NEnBnKtqg&e=2070450962&scheme=https
 #EXTINF:-1,КиноМистика
-#EXTGRP:Сити Эдем
+#EXTGRP:CityEdem
 https://cityeden.catcast.tv/content/40783/index.m3u8
 #EXTINF:-1,КиноФантастика
-#EXTGRP:Сити Эдем
+#EXTGRP:CityEdem
 https://cityeden.catcast.tv/content/45268/index.m3u8
 #EXTINF:-1,КиноЭкшен
-#EXTGRP:Сити Эдем
+#EXTGRP:CityEdem
 https://cityeden.catcast.tv/content/41333/index.m3u8
 #EXTINF:-1,Теленовелла
-#EXTGRP:Сити Эдем
+#EXTGRP:CityEdem
 https://cityeden.catcast.tv/content/46209/index.m3u8
 #EXTINF:-1,Бирма Play
-#EXTGRP:Сити Эдем
+#EXTGRP:CityEdem
 https://cityeden.catcast.tv/content/34100/index.m3u8
 #EXTINF:-1,Классическая Музыка
-#EXTGRP:Сити Эдем
+#EXTGRP:CityEdem
 https://cityeden.catcast.tv/content/47400/index.m3u8
 #EXTINF:-1,Сиртаки ТВ
-#EXTGRP:Сити Эдем
+#EXTGRP:CityEdem
 https://cityeden.catcast.tv/content/46421/index.m3u8
 #EXTINF:-1,МедЗдрав
-#EXTGRP:Сити Эдем
+#EXTGRP:CityEdem
 https://cityeden.catcast.tv/content/47519/index.m3u8
 #EXTINF:-1,Первый Отдел
 #EXTGRP:Кинозалы
@@ -3391,10 +3391,10 @@ http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/20165/index.m3u8
 #EXTGRP:BEST
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/20165/index.m3u8
 #EXTINF:-1,80s
-#EXTGRP:Сити Эдем
+#EXTGRP:CityEdem
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13002/index.m3u8
 #EXTINF:-1,80s
-#EXTGRP:Сити Эдем
+#EXTGRP:CityEdem
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13002/index.m3u8
 #EXTINF:-1,90е
 #EXTGRP:VF
@@ -7073,7 +7073,7 @@ http://tv.lamro.workers.dev/?ID=4612
 #EXTINF:0,Русский роман HD замена?
 #EXTGRP:Нестабильные Кинофильмы
 http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
-#EXTINF:0,Сити Эдем - КиноАрт
+#EXTINF:0,CityEdem - КиноАрт
 #EXTGRP:Нестабильные Кинофильмы
 https://cityeden.catcast.tv/content/38398/index.m3u8
 #EXTINF:0,Скрипач ТВ
