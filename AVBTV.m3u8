@@ -141,9 +141,6 @@ http://188.225.31.197/bpk-tv/000000216/tve/index.m3u8
 #EXTINF:0,Big Planet HD
 #EXTGRP:Познавательные
 http://188.225.31.197/bpk-tv/000008052/tve/index.m3u8
-#EXTINF:0,Clarity4K Космомир
-#EXTGRP:Познавательные
-http://hls127.freeott.top:8080/Clarity4K_Kosmomir/mono.m3u8
 #EXTINF:0,Discovery Channel HD
 #EXTGRP:Познавательные
 http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
@@ -374,9 +371,6 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:30,A21 Network HD
 #EXTGRP:Спортивные
 http://tv.a21network.ru/stream/37909/index.m3u8
-#EXTINF:0,Clarity4k Единоборства
-#EXTGRP:Спортивные
-http://hls127.freeott.top:8080/Clarity4K_Edinoborstva/mono.m3u8
 #EXTINF:0,Eurosport 1 HD
 #EXTGRP:Спортивные
 http://176.96.241.40/Eurosport1/index.m3u8
@@ -449,9 +443,6 @@ https://a787201481-s80718.cdn.ngenix.net/hls/CH_UDARHD/video_1920x1080_avc1/play
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 
 
-#EXTINF:0,Clarity4K Anime
-#EXTGRP:Детские
-http://hls127.freeott.top:8080/Clarity4K_Anime/mono.m3u8
 #EXTINF:0,Cartoon Network
 #EXTGRP:Детские
 http://176.118.197.101/Cartoon_Network/index.m3u8
@@ -563,24 +554,7 @@ http://kinowalk.hopto.org/cinemaa_live
 #EXTINF:0,Cineman HD AM
 #EXTGRP:Кинофильмы
 http://185.57.68.33:80/255/playlist.m3u8
-#EXTINF:0,Clarity4K Asia
-#EXTGRP:Кинофильмы
-http://hls127.freeott.top:8080/Clarity4K_Asia/mono.m3u8
-#EXTINF:0,Clarity4K Gamefilm
-#EXTGRP:Кинофильмы
-http://hls127.freeott.top:8080/Clarity4K_Gamefilm/mono.m3u8
-#EXTINF:0,Clarity4K Netflix
-#EXTGRP:Кинофильмы
-http://hls127.freeott.top:8080/Clarity4K_Netflix/mono.m3u8
-#EXTINF:0,Clarity4k Концерт
-#EXTGRP:Кинофильмы
-http://hls127.freeott.top:8080/Clarity4K_Concert/mono.m3u8
-#EXTINF:0,Clarity4K Ужасы
-#EXTGRP:Кинофильмы
-http://hls127.freeott.top:8080/Clarity4K_Uzhasi/mono.m3u8
-#EXTINF:0,Clarity4K Фантастика
-#EXTGRP:Кинофильмы
-http://hls127.freeott.top:8080/Clarity4K_Fantastic/mono.m3u8
+
 #EXTINF:0,Dimpon HD
 #EXTGRP:Кинофильмы
 http://kinowalk.hopto.org/dimpon_live
@@ -701,18 +675,6 @@ http://188.225.31.197/bpk-tv/000008491/tve/index.m3u8
 #EXTINF:0,Семейное кино HD
 #EXTGRP:Кинофильмы
 http://188.225.31.197/bpk-tv/000008489/tve/index.m3u8
-#EXTINF:0,Сити Эдем - КиноАзия
-#EXTGRP:Кинофильмы
-https://cityeden.catcast.tv/content/34393/index.m3u8
-#EXTINF:0,Сити Эдем - КиноКлассика
-#EXTGRP:Кинофильмы
-https://cityeden.catcast.tv/content/34185/index.m3u8
-#EXTINF:0,Сити Эдем - КиноМистика
-#EXTGRP:Кинофильмы
-https://cityeden.catcast.tv/content/40783/index.m3u8
-#EXTINF:0,Сити Эдем - КиноЭкшен
-#EXTGRP:Кинофильмы
-https://cityeden.catcast.tv/content/41333/index.m3u8
 #EXTINF:0,Толк ТВ
 #EXTGRP:Кинофильмы
 https://live-tolknews.cdnvideo.ru/tolknews/stream/tracks-v1a1/mono.m3u8
@@ -970,36 +932,70 @@ http://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4
 http://sochinskayatrk.ru/hdtv/hls/CTPK_400/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",43 канал
 http://sochinskayatrk.ru/hdtv/hls/43K_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Сити Эдем",КиноАзия
-https://cityeden.catcast.tv/content/34393/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Сити Эдем",КиноАрт
-https://cityeden.catcast.tv/content/38398/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Сити Эдем",КиноДетектив
-https://cityeden.catcast.tv/content/41327/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Сити Эдем",КиноДок
-https://cityeden.catcast.tv/content/38354/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Сити Эдем",КиноДрама
-https://cityeden.catcast.tv/content/45269/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Сити Эдем",КиноКлассика
-https://cityeden.catcast.tv/content/34185/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Кинозалы",Record Megamix
 https://bl.rutube.ru/livestream/60b73481dcc9880850f22690142c8d17/index.m3u8?s=CrIfvudR50Vl4NEnBnKtqg&e=2070450962&scheme=https
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Сити Эдем",КиноМистика
+
+#EXTINF:-1,Сити Эдем - КиноАзия
+#EXTGRP:Сити Эдем
+https://cityeden.catcast.tv/content/34393/index.m3u8
+#EXTINF:-1,Сити Эдем - КиноАрт
+#EXTGRP:Сити Эдем
+https://cityeden.catcast.tv/content/38398/index.m3u8
+#EXTINF:-1,Сити Эдем - КиноДетектив
+#EXTGRP:Сити Эдем
+https://cityeden.catcast.tv/content/41327/index.m3u8
+#EXTINF:-1,Сити Эдем - КиноДок
+#EXTGRP:Сити Эдем
+https://cityeden.catcast.tv/content/38354/index.m3u8
+#EXTINF:-1,Сити Эдем - КиноДрама
+#EXTGRP:Сити Эдем
+https://cityeden.catcast.tv/content/45269/index.m3u8
+#EXTINF:-1,Сити Эдем - КиноКлассика
+#EXTGRP:Сити Эдем
+https://cityeden.catcast.tv/content/34185/index.m3u8
+#EXTINF:-1,Сити Эдем - КиноКомедия
+#EXTGRP:Сити Эдем
+https://cityeden.catcast.tv/content/41331/index.m3u8
+#EXTINF:-1,Сити Эдем - КиноМистика
+#EXTGRP:Сити Эдем
 https://cityeden.catcast.tv/content/40783/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Сити Эдем",КиноФантастика
+#EXTINF:-1,Сити Эдем - КиноФантастика
+#EXTGRP:Сити Эдем
 https://cityeden.catcast.tv/content/45268/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Сити Эдем",КиноЭкшен
+#EXTINF:-1,Сити Эдем - КиноЭкшен
+#EXTGRP:Сити Эдем
 https://cityeden.catcast.tv/content/41333/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Сити Эдем",Теленовелла
+#EXTINF:-1,Сити Эдем - Теленовелла
+#EXTGRP:Сити Эдем
 https://cityeden.catcast.tv/content/46209/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Сити Эдем",Бирма Play
+#EXTINF:-1,Сити Эдем - Бирма Play
+#EXTGRP:Сити Эдем
 https://cityeden.catcast.tv/content/34100/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Сити Эдем",Классическая Музыка
+#EXTINF:-1,Сити Эдем - Классическая Музыка
+#EXTGRP:Сити Эдем
 https://cityeden.catcast.tv/content/47400/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Сити Эдем",Сиртаки ТВ
+#EXTINF:-1,Сити Эдем - Сиртаки ТВ
+#EXTGRP:Сити Эдем
 https://cityeden.catcast.tv/content/46421/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Сити Эдем",МедЗдрав
+#EXTINF:-1,Сити Эдем - АвтоГид
+#EXTGRP:Сити Эдем
+https://cityeden.catcast.tv/content/47515/index.m3u8
+#EXTINF:-1,Сити Эдем - МедЗдрав
+#EXTGRP:Сити Эдем
 https://cityeden.catcast.tv/content/47519/index.m3u8
+#EXTINF:-1,Сити Эдем — АвтоГид
+#EXTGRP:Хобби
+https://autopilot.catcast.tv/content/47515/index.m3u8?password=loganet
+#EXTINF:-1,Сити Эдем — МедЗдрав
+#EXTGRP:Хобби
+https://autopilot.catcast.tv/content/47519/index.m3u8?password=loganet
+#EXTINF:-1,Сити Эдем — Рецепты Гурмана
+#EXTGRP:Хобби
+https://autopilot.catcast.tv/content/47516/index.m3u8?password=loganet
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="НТВ",Первый Отдел
 https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="НТВ",Невский
@@ -2980,8 +2976,6 @@ http://188.225.31.197/bpk-tv/000000869/tve/index.m3u8
 http://185.46.16.239:8000/VIP_Premiere
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Онлайн тв",Перец Int.
 http://158.101.222.193:88/georgia_play.php?id=perec
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Онлайн тв",Рецепты Гурмана
-https://autopilot.catcast.tv/content/47516/index.m3u8?password=loganet
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Онлайн тв",Сарафан
 http://176.118.197.125/Sarafan/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Онлайн тв",САПФИР
@@ -3565,3 +3559,30 @@ http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/6396/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Онлайн тв",ХИТ
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/9090/index.m3u8
 
+#EXTINF:0,Clarity4K Asia
+#EXTGRP:Clarity4K
+http://hls127.freeott.top:8080/Clarity4K_Asia/mono.m3u8
+#EXTINF:0,Clarity4K Gamefilm
+#EXTGRP:Кинофильмы
+http://hls127.freeott.top:8080/Clarity4K_Gamefilm/mono.m3u8
+#EXTINF:0,Clarity4K Netflix
+#EXTGRP:Clarity4K
+http://hls127.freeott.top:8080/Clarity4K_Netflix/mono.m3u8
+#EXTINF:0,Clarity4k Концерт
+#EXTGRP:Clarity4K
+http://hls127.freeott.top:8080/Clarity4K_Concert/mono.m3u8
+#EXTINF:0,Clarity4K Ужасы
+#EXTGRP:Clarity4K
+http://hls127.freeott.top:8080/Clarity4K_Uzhasi/mono.m3u8
+#EXTINF:0,Clarity4K Фантастика
+#EXTGRP:Clarity4K
+http://hls127.freeott.top:8080/Clarity4K_Fantastic/mono.m3u8
+#EXTINF:0,Clarity4K Космомир
+#EXTGRP:Clarity4K
+http://hls127.freeott.top:8080/Clarity4K_Kosmomir/mono.m3u8
+#EXTINF:0,Clarity4k Единоборства
+#EXTGRP:Clarity4K
+http://hls127.freeott.top:8080/Clarity4K_Edinoborstva/mono.m3u8
+#EXTINF:0,Clarity4K Anime
+#EXTGRP:Clarity4K
+http://hls127.freeott.top:8080/Clarity4K_Anime/mono.m3u8
