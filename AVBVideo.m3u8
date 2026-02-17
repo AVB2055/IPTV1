@@ -62,587 +62,384 @@ https://cityeden.catcast.tv/content/47519/index.m3u8
 #EXTINF:-1,007
 #EXTGRP:MM
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13009/index.m3u8
-#EXTINF:-1,007
-#EXTGRP:MM
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13009/index.m3u8
-#EXTINF:-1,101 долматинец
-#EXTGRP:VENERA.TV
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30198/index.m3u8
 #EXTINF:-1,101 долматинец
 #EXTGRP:VENERA.TV
 http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30198/index.m3u8
 #EXTINF:-1,2 с половиной человека
 #EXTGRP:VF
 http://185.234.59.200:9090/channel/n61eb0115/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,2 с половиной человека
-#EXTGRP:VF
-http://185.234.59.200:9090/channel/n61eb0115/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
 #EXTINF:-1,20 век
 #EXTGRP:LIBERTY
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/20173/index.m3u8
-#EXTINF:-1,20 век
-#EXTGRP:LIBERTY
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/20173/index.m3u8
+
 #EXTINF:-1,60
 #EXTGRP:BEST
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/20165/index.m3u8
-#EXTINF:-1,60
-#EXTGRP:BEST
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/20165/index.m3u8
+
 #EXTINF:-1,80s
 #EXTGRP:CityEdem
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13002/index.m3u8
-#EXTINF:-1,80s
-#EXTGRP:CityEdem
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13002/index.m3u8
+
 #EXTINF:-1,90е
 #EXTGRP:VF
 http://185.234.59.200:9090/channel/9b95461/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
 #EXTINF:-1,90е
-#EXTGRP:VF
-http://185.234.59.200:9090/channel/9b95461/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+
 #EXTINF:-1,Alpha Cinema
 #EXTGRP:Alpha
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
-#EXTINF:-1,Alpha Cinema
-#EXTGRP:Alpha
-http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
+
 #EXTINF:-1,Alpha Funny
 #EXTGRP:Alpha
 http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
-#EXTINF:-1,Alpha Funny
-#EXTGRP:Alpha
-http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
-#EXTINF:-1,Anime
-#EXTGRP:VF
-http://185.234.59.200:9090/channel/n1c340330/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+
 #EXTINF:-1,Anime
 #EXTGRP:VF
 http://185.234.59.200:9090/channel/n1c340330/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
 #EXTINF:-1,Archive
 #EXTGRP:SKY HIGH
 http://185.234.59.200:8080/SKY_HIGH_ARCHIVE_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Archive
-#EXTGRP:SKY HIGH
-http://185.234.59.200:8080/SKY_HIGH_ARCHIVE_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Art house
-#EXTGRP:VF
-http://185.234.59.200:9090/channel/5343ad7f/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+
 #EXTINF:-1,Art house
 #EXTGRP:VF
 http://185.234.59.200:9090/channel/5343ad7f/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
 #EXTINF:-1,Bat
 #EXTGRP:SKY HIGH
 http://185.234.59.200:8080/SKY_HIGH_BAT_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Bat
-#EXTGRP:SKY HIGH
-http://185.234.59.200:8080/SKY_HIGH_BAT_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Bcu action
 #EXTGRP:BCU
 http://185.234.59.200:8080/BCU_Action_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Bcu action
-#EXTGRP:BCU
-http://185.234.59.200:8080/BCU_Action_HD/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Bcu cinema
 #EXTGRP:BCU
 http://185.234.59.200:8080/BCU_Cinema_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Bcu cinema
-#EXTGRP:BCU
-http://185.234.59.200:8080/BCU_Cinema_HD/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Bcu cinema+
 #EXTGRP:BCU
 http://185.234.59.200:8080/BCU_Cinema_Plus_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Bcu cinema+
-#EXTGRP:BCU
-http://185.234.59.200:8080/BCU_Cinema_Plus_HD/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Bcu Comedy
 #EXTGRP:BCU
 http://185.234.59.200:8080/BCU_Comedy_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Bcu Comedy
-#EXTGRP:BCU
-http://185.234.59.200:8080/BCU_Comedy_HD/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Bcu Cosmo
 #EXTGRP:BCU
 http://185.234.59.200:9090/channel/n1bd83275/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
 #EXTINF:-1,Bcu Cosmo
-#EXTGRP:BCU
-http://185.234.59.200:9090/channel/n1bd83275/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+
 #EXTINF:-1,Bcu criminal
 #EXTGRP:BCU
 http://185.234.59.200:8080/BCU_Criminal_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Bcu criminal
-#EXTGRP:BCU
-http://185.234.59.200:8080/BCU_Criminal_HD/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Bcu Fantastic
 #EXTGRP:BCU
 http://185.234.59.200:8080/BCU_Fantastic_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Bcu Fantastic
-#EXTGRP:BCU
-http://185.234.59.200:8080/BCU_Fantastic_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Bcu Film
-#EXTGRP:BCU
-http://185.234.59.200:8080/BCU_FilMystic_HD/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Bcu Film
 #EXTGRP:BCU
 http://185.234.59.200:8080/BCU_FilMystic_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,Bcu History
 #EXTGRP:BCU
 http://185.234.59.200:8080/BCU_History_HD/video.m3u8?token=5uGLTS1oibSIu
-#EXTINF:-1,Bcu History
-#EXTGRP:BCU
-http://185.234.59.200:8080/BCU_History_HD/video.m3u8?token=5uGLTS1oibSIu
+
 #EXTINF:-1,Bcu kids
 #EXTGRP:BCU
 http://185.234.59.200:8080/BCU_Kids_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Bcu kids
-#EXTGRP:BCU
-http://185.234.59.200:8080/BCU_Kids_HD/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Bcu kids+
 #EXTGRP:BCU
 http://185.234.59.200:8080/BCU_Kids_Plus_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Bcu kids+
-#EXTGRP:BCU
-http://185.234.59.200:8080/BCU_Kids_Plus_HD/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Bcu Kinorating
 #EXTGRP:BCU
 http://185.234.59.200:8080/BCU_Kinorating_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Bcu Kinorating
-#EXTGRP:BCU
-http://185.234.59.200:8080/BCU_Kinorating_HD/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,BCU LITTLE
 #EXTGRP:BCU
 http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/19425/index.m3u8
-#EXTINF:-1,BCU LITTLE
-#EXTGRP:BCU
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/19425/index.m3u8
+
 #EXTINF:-1,Bcu Marvel
 #EXTGRP:BCU
 http://185.234.59.200:8080/BCU_Marvel_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Bcu Marvel
-#EXTGRP:BCU
-http://185.234.59.200:8080/BCU_Marvel_HD/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,BCU PREMERE 2
 #EXTGRP:BCU
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11016/index.m3u8
-#EXTINF:-1,BCU PREMERE 2
-#EXTGRP:BCU
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11016/index.m3u8
+
 #EXTINF:-1,Bcu Premiere
 #EXTGRP:BCU
 http://185.234.59.200:8080/BCU_Premiere_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Bcu Premiere
-#EXTGRP:BCU
-http://185.234.59.200:8080/BCU_Premiere_HD/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Bcu premiere 3
 #EXTGRP:BCU
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11017/index.m3u8
-#EXTINF:-1,Bcu premiere 3
-#EXTGRP:BCU
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11017/index.m3u8
+
 #EXTINF:-1,Bcu Reality
 #EXTGRP:BCU
 http://185.234.59.200:9090/channel/n613379be/index.m3u8?q=406925e0657258d990e0f9948bac4f
-#EXTINF:-1,Bcu Reality
-#EXTGRP:BCU
-http://185.234.59.200:9090/channel/n613379be/index.m3u8?q=406925e0657258d990e0f9948bac4f
+
 #EXTINF:-1,Bcu Romantic
 #EXTGRP:BCU
 http://185.234.59.200:8080/BCU_Romantic_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Bcu Romantic
-#EXTGRP:BCU
-http://185.234.59.200:8080/BCU_Romantic_HD/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Bcu Ruserial
 #EXTGRP:BCU
 http://185.234.59.200:8080/BCU_RUSERIAL_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Bcu Ruserial
-#EXTGRP:BCU
-http://185.234.59.200:8080/BCU_RUSERIAL_HD/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Bcu Russian
 #EXTGRP:BCU
 http://185.234.59.200:8080/BCU_Russian_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Bcu Russian
-#EXTGRP:BCU
-http://185.234.59.200:8080/BCU_Russian_HD/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Bcu Stars
 #EXTGRP:BCU
 http://185.234.59.200:8080/BCU_Stars_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Bcu Stars
-#EXTGRP:BCU
-http://185.234.59.200:8080/BCU_Stars_HD/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Bcu Survial
 #EXTGRP:BCU
 http://185.234.59.200:9090/channel/n794d8763/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Bcu Survial
-#EXTGRP:BCU
-http://185.234.59.200:9090/channel/n794d8763/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+
 #EXTINF:-1,Bcu trumotion
 #EXTGRP:BCU
 http://185.234.59.200:9090/channel/3dada88d/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Bcu trumotion
-#EXTGRP:BCU
-http://185.234.59.200:9090/channel/3dada88d/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+
 #EXTINF:-1,Bcu ultrA
 #EXTGRP:BCU
 http://185.234.59.200:8080/BCU_Ultra_4K/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Bcu ultrA
-#EXTGRP:BCU
-http://185.234.59.200:8080/BCU_Ultra_4K/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Bcu VHS
 #EXTGRP:BCU
 http://185.234.59.200:8080/BCU_VHS_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Bcu VHS
-#EXTGRP:BCU
-http://185.234.59.200:8080/BCU_VHS_HD/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Bcu Кинозал 3
 #EXTGRP:BCU
 http://185.234.59.200:8080/BCU_Kinozal_Premiere_3_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Bcu Кинозал 3
-#EXTGRP:BCU
-http://185.234.59.200:8080/BCU_Kinozal_Premiere_3_HD/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Bcu СССР
 #EXTGRP:BCU
 http://185.234.59.200:8080/BCU_USSR_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Bcu СССР
-#EXTGRP:BCU
-http://185.234.59.200:8080/BCU_USSR_HD/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Bcu кинозал
 #EXTGRP:BCU
 http://185.234.59.200:8080/BCU_Kinozal_Premiere_1_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Bcu кинозал
-#EXTGRP:BCU
-http://185.234.59.200:8080/BCU_Kinozal_Premiere_1_HD/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Bcu кинозал 2
 #EXTGRP:BCU
 http://185.234.59.200:8080/BCU_Kinozal_Premiere_2_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Bcu кинозал 2
-#EXTGRP:BCU
-http://185.234.59.200:8080/BCU_Kinozal_Premiere_2_HD/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Bcu медиа
 #EXTGRP:BCU
 http://185.234.59.200:8080/BCUMEDIA_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Bcu медиа
-#EXTGRP:BCU
-http://185.234.59.200:8080/BCUMEDIA_HD/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Bcu мультсериал
 #EXTGRP:BCU
 http://185.234.59.200:8080/BCU_Multserial_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Bcu мультсериал
-#EXTGRP:BCU
-http://185.234.59.200:8080/BCU_Multserial_HD/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Bcu сваты
 #EXTGRP:BCU
 http://185.234.59.200:8080/BCU_Svaty_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Bcu сваты
-#EXTGRP:BCU
-http://185.234.59.200:8080/BCU_Svaty_HD/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Blockbusters Time
 http://kinowalk.hopto.org/blockbusterstime_live
-#EXTINF:-1,Blockbusters Time
-http://kinowalk.hopto.org/blockbusterstime_live
+
 #EXTINF:-1,Boom
 #EXTGRP:SKY HIGH
 http://185.234.59.200:8080/SKY_HIGH_BOOM_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Boom
-#EXTGRP:SKY HIGH
-http://185.234.59.200:8080/SKY_HIGH_BOOM_FHD/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Box Anime
 #EXTGRP:Box
 http://185.234.59.200:8080/BOX_Anime_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Box Anime
-#EXTGRP:Box
-http://185.234.59.200:8080/BOX_Anime_HD/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Box AutoTrend
 #EXTGRP:Box
 http://185.234.59.200:8080/BOX_Autotrend_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Box AutoTrend
-#EXTGRP:Box
-http://185.234.59.200:8080/BOX_Autotrend_HD/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Box cosmo
 #EXTGRP:Box
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31548/index.m3u8
-#EXTINF:-1,Box cosmo
-#EXTGRP:Box
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31548/index.m3u8
+
 #EXTINF:-1,Box Cyber
 #EXTGRP:Box
 http://185.234.59.200:8080/BOX_Cyber_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Box Cyber
-#EXTGRP:Box
-http://185.234.59.200:8080/BOX_Cyber_HD/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Box Docu
 #EXTGRP:Box
 http://185.234.59.200:8080/BOX_Docu_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Box Docu
-#EXTGRP:Box
-http://185.234.59.200:8080/BOX_Docu_HD/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Box fantasy
 #EXTGRP:Box
 http://185.234.59.200:8080/BOX_Fantasy_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Box fantasy
-#EXTGRP:Box
-http://185.234.59.200:8080/BOX_Fantasy_HD/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Box Franchise
 #EXTGRP:Box
 http://185.234.59.200:8080/BOX_Franchise_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Box Franchise
-#EXTGRP:Box
-http://185.234.59.200:8080/BOX_Franchise_HD/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Box Game
 #EXTGRP:Box
 http://185.234.59.200:8080/BOX_Game_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Box Game
-#EXTGRP:Box
-http://185.234.59.200:8080/BOX_Game_HD/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Box Gangster
 #EXTGRP:Box
 http://185.234.59.200:8080/BOX_Gangster_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Box Gangster
-#EXTGRP:Box
-http://185.234.59.200:8080/BOX_Gangster_HD/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Box Ghost
 #EXTGRP:Box
 http://185.234.59.200:8080/BOX_Ghost_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Box Ghost
-#EXTGRP:Box
-http://185.234.59.200:8080/BOX_Ghost_HD/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Box Gurman
 #EXTGRP:Box
 http://185.234.59.200:8080/BOX_Gurman_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Box Gurman
-#EXTGRP:Box
-http://185.234.59.200:8080/BOX_Gurman_HD/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Box HDR
 #EXTGRP:Box
 http://185.234.59.200:8080/BOX_Franchise_HDR/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Box HDR
-#EXTGRP:Box
-http://185.234.59.200:8080/BOX_Franchise_HDR/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Box history
 #EXTGRP:Box
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31546/index.m3u8
-#EXTINF:-1,Box history
-#EXTGRP:Box
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31546/index.m3u8
+
 #EXTINF:-1,Box hybrid
 #EXTGRP:Box
 http://185.234.59.200:8080/BOX_Hybrid_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Box hybrid
-#EXTGRP:Box
-http://185.234.59.200:8080/BOX_Hybrid_HD/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Box Memory
 #EXTGRP:Box
 http://185.234.59.200:8080/BOX_Memory_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Box Memory
-#EXTGRP:Box
-http://185.234.59.200:8080/BOX_Memory_HD/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Box Metall
 #EXTGRP:Box
 http://185.234.59.200:8080/BOX_Metall_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Box Metall
-#EXTGRP:Box
-http://185.234.59.200:8080/BOX_Metall_HD/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Box Mserial
 #EXTGRP:Box
 http://185.234.59.200:8080/BOX_MSerial_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Box Mserial
-#EXTGRP:Box
-http://185.234.59.200:8080/BOX_MSerial_HD/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Box Music
 #EXTGRP:Box
 http://185.234.59.200:8080/BOX_Music_4K/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Box Music
-#EXTGRP:Box
-http://185.234.59.200:8080/BOX_Music_4K/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Box Oscar
 #EXTGRP:Box
 http://185.234.59.200:8080/BOX_Oscar_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Box Oscar
-#EXTGRP:Box
-http://185.234.59.200:8080/BOX_Oscar_HD/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Box Premiere
 #EXTGRP:Box
 http://185.234.59.200:8080/BOX_Premiere_4K/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Box Premiere
-#EXTGRP:Box
-http://185.234.59.200:8080/BOX_Premiere_4K/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Box Relax
 #EXTGRP:Box
 http://185.234.59.200:8080/BOX_Relax_4K/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Box Relax
-#EXTGRP:Box
-http://185.234.59.200:8080/BOX_Relax_4K/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Box Remast
 #EXTGRP:Box
 http://185.234.59.200:8080/BOX_Remast_4K/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Box Remast
-#EXTGRP:Box
-http://185.234.59.200:8080/BOX_Remast_4K/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Box Remast+
-#EXTGRP:Box
-http://185.234.59.200:8080/BOX_Remast_Plus_4K/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Box Remast+
 #EXTGRP:Box
 http://185.234.59.200:8080/BOX_Remast_Plus_4K/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,Box Serial
 #EXTGRP:Box
 http://185.234.59.200:8080/BOX_Serial_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Box Serial
-#EXTGRP:Box
-http://185.234.59.200:8080/BOX_Serial_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Box Serial
-#EXTGRP:Box
-http://185.234.59.200:8080/BOX_Serial_4K/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Box Serial
 #EXTGRP:Box
 http://185.234.59.200:8080/BOX_Serial_4K/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Box Sitcom
 #EXTGRP:Box
 http://185.234.59.200:8080/BOX_Sitcom_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Box Sitcom
-#EXTGRP:Box
-http://185.234.59.200:8080/BOX_Sitcom_HD/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Box Spy
 #EXTGRP:Box
 http://185.234.59.200:8080/BOX_Spy_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Box Spy
-#EXTGRP:Box
-http://185.234.59.200:8080/BOX_Spy_HD/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Box SR SPORT
 #EXTGRP:Box
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31455/index.m3u8
-#EXTINF:-1,Box SR SPORT
-#EXTGRP:Box
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31455/index.m3u8
+
 #EXTINF:-1,Box Stories
 #EXTGRP:Box
 http://185.234.59.200:8080/BOX_Stories_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Box Stories
-#EXTGRP:Box
-http://185.234.59.200:8080/BOX_Stories_HD/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Box Travel
 #EXTGRP:Box
 http://185.234.59.200:8080/BOX_Travel_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Box Travel
-#EXTGRP:Box
-http://185.234.59.200:8080/BOX_Travel_HD/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Box travel premiere
 #EXTGRP:Box
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31652/index.m3u8
-#EXTINF:-1,Box travel premiere
-#EXTGRP:Box
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31652/index.m3u8
+
 #EXTINF:-1,Box western
 #EXTGRP:Box
 http://185.234.59.200:8080/BOX_Western_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Box western
-#EXTGRP:Box
-http://185.234.59.200:8080/BOX_Western_HD/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Box Zombie
 #EXTGRP:Box
 http://185.234.59.200:8080/BOX_Zombie_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Box Zombie
-#EXTGRP:Box
-http://185.234.59.200:8080/BOX_Zombie_HD/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Brain
 #EXTGRP:SKY HIGH
 http://185.234.59.200:8080/SKYHIGHBRAINFHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Brain
-#EXTGRP:SKY HIGH
-http://185.234.59.200:8080/SKYHIGHBRAINFHD/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Brick
 #EXTGRP:SKY HIGH
 http://185.234.59.200:8080/SKY_HIGH_BRICK_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Brick
-#EXTGRP:SKY HIGH
-http://185.234.59.200:8080/SKY_HIGH_BRICK_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,BUDO
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13003/index.m3u8
-#EXTINF:-1,BUDO
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13003/index.m3u8
+
 #EXTINF:-1,Bunny
 http://185.234.59.200:8080/BUNNYHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Bunny
-http://185.234.59.200:8080/BUNNYHD/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Cartoon
 #EXTGRP:VF
 http://185.234.59.200:9090/channel/74dfb4ca/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Cartoon
-#EXTGRP:VF
-http://185.234.59.200:9090/channel/74dfb4ca/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+
 #EXTINF:-1,Cartoon 90
 #EXTGRP:CineMan
 http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/11001/index.m3u8
-#EXTINF:-1,Cartoon 90
-#EXTGRP:CineMan
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/11001/index.m3u8
-#EXTINF:-1,Cartoon Big
-#EXTGRP:CineMan
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/11003/index.m3u8
-#EXTINF:-1,Cartoon Big
-#EXTGRP:CineMan
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/11003/index.m3u8
+
 #EXTINF:-1,Cartoon Shot
 #EXTGRP:CineMan
 http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/11002/index.m3u8
-#EXTINF:-1,Cartoon Shot
-#EXTGRP:CineMan
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/11002/index.m3u8
-#EXTINF:-1,Case
-#EXTGRP:SKY HIGH
-http://185.234.59.200:8080/SKY_HIGH_CASE_VHS_FHD/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Case
 #EXTGRP:SKY HIGH
 http://185.234.59.200:8080/SKY_HIGH_CASE_VHS_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,Celebrity
 #EXTGRP:MM
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/16084/index.m3u8
-#EXTINF:-1,Celebrity
-#EXTGRP:MM
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/16084/index.m3u8
+
 #EXTINF:-1,Cinema
 http://176.118.197.101/Cinema/index.m3u8
-#EXTINF:-1,Cinema
-http://176.118.197.101/Cinema/index.m3u8
+
 #EXTINF:-1,Cinema Time
 http://kinowalk.hopto.org/cinemaa_live
-#EXTINF:-1,Cinema Time
-http://kinowalk.hopto.org/cinemaa_live
+
 #EXTINF:-1,Cineman action
 #EXTGRP:CineMan
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11006/index.m3u8
-#EXTINF:-1,Cineman action
-#EXTGRP:CineMan
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11006/index.m3u8
+
 #EXTINF:-1,Cineman Marvel
 #EXTGRP:CineMan
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11009/index.m3u8
-#EXTINF:-1,Cineman Marvel
-#EXTGRP:CineMan
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11009/index.m3u8
+
 #EXTINF:-1,Cineman MiniSeries
 #EXTGRP:CineMan
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/19437/index.m3u8
-#EXTINF:-1,Cineman MiniSeries
-#EXTGRP:CineMan
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/19437/index.m3u8
+
 #EXTINF:-1,Cineman Thriller
 #EXTGRP:CineMan
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11007/index.m3u8
-#EXTINF:-1,Cineman Thriller
-#EXTGRP:CineMan
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11007/index.m3u8
+
 #EXTINF:-1,Cineman Top
 #EXTGRP:CineMan
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11005/index.m3u8
-#EXTINF:-1,Cineman Top
-#EXTGRP:CineMan
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11005/index.m3u8
+
 #EXTINF:-1,Cineman VHS
 #EXTGRP:CineMan
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11012/index.m3u8
-#EXTINF:-1,Cineman VHS
-#EXTGRP:CineMan
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11012/index.m3u8
+
 #EXTINF:-1,Cineman Комедия
 #EXTGRP:CineMan
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11011/index.m3u8
@@ -2720,30 +2517,6 @@ http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 http://185.57.68.33:8091/237/playlist.m3u8
 #EXTINF:-1,Кино без границ
 http://185.57.68.33:8091/237/playlist.m3u8
-#EXTINF:-1,КиноАзия
-https://cityeden.catcast.tv/content/34393/index.m3u8
-#EXTINF:-1,КиноАзия
-https://cityeden.catcast.tv/content/34393/index.m3u8
-#EXTINF:-1,КиноАрт
-https://cityeden.catcast.tv/content/38398/index.m3u8
-#EXTINF:-1,КиноАрт
-https://cityeden.catcast.tv/content/38398/index.m3u8
-#EXTINF:-1,КиноКлассика
-https://cityeden.catcast.tv/content/34185/index.m3u8
-#EXTINF:-1,КиноКлассика
-https://cityeden.catcast.tv/content/34185/index.m3u8
-#EXTINF:-1,КиноМистика
-https://cityeden.catcast.tv/content/40783/index.m3u8
-#EXTINF:-1,КиноМистика
-https://cityeden.catcast.tv/content/40783/index.m3u8
-#EXTINF:-1,КиноФантастика
-https://cityeden.catcast.tv/content/45268/index.m3u8
-#EXTINF:-1,КиноФантастика
-https://cityeden.catcast.tv/content/45268/index.m3u8
-#EXTINF:-1,КиноЭкшен
-https://cityeden.catcast.tv/content/41333/index.m3u8
-#EXTINF:-1,КиноЭкшен
-https://cityeden.catcast.tv/content/41333/index.m3u8
 #EXTINF:-1,Кинобоевик
 http://188.225.31.197/bpk-tv/000008490/tve/index.m3u8
 #EXTINF:-1,Кинобоевик
@@ -2940,10 +2713,6 @@ http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30180/index.m3u8
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31929/index.m3u8
 #EXTINF:-1,Машина времени кинозал
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31929/index.m3u8
-#EXTINF:-1,МедЗдрав
-https://cityeden.catcast.tv/content/47519/index.m3u8
-#EXTINF:-1,МедЗдрав
-https://cityeden.catcast.tv/content/47519/index.m3u8
 #EXTINF:-1,Ментовские войны
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/16063/index.m3u8
 #EXTINF:-1,Ментовские войны
@@ -3290,469 +3059,313 @@ http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13051/index.m3u8
 http://185.234.59.200:9090/channel/2ca97b95/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
 #EXTINF:-1,Свердловская киностудия
 http://185.234.59.200:9090/channel/2ca97b95/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+
 #EXTINF:-1,Сверъественное
 http://185.234.59.200:9090/channel/n59fe43e1/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Сверъественное
-http://185.234.59.200:9090/channel/n59fe43e1/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+
 #EXTINF:-1,Свинка Пеппа
 http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30158/index.m3u8
-#EXTINF:-1,Свинка Пеппа
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30158/index.m3u8
+
 #EXTINF:-1,Своя Игра
 https://cdn-dvr.ntv.ru/svoya_igra/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1,Своя Игра
-https://cdn-dvr.ntv.ru/svoya_igra/tracks-v1a1/rewind-240.ts.m3u8
+
 #EXTINF:-1,Секретные материалы
 http://185.234.59.200:9090/channel/n5e77a0b1/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Секретные материалы
-http://185.234.59.200:9090/channel/n5e77a0b1/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+
 #EXTINF:-1,Секретные материалы 2
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11055/index.m3u8
-#EXTINF:-1,Секретные материалы 2
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11055/index.m3u8
+
 #EXTINF:-1,Секс в большом городе
 http://185.234.59.200:9090/channel/3981b951/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Секс в большом городе
-http://185.234.59.200:9090/channel/3981b951/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+
 #EXTINF:-1,Семейное кино
 http://188.225.31.197/bpk-tv/000008489/tve/index.m3u8
-#EXTINF:-1,Семейное кино
-http://188.225.31.197/bpk-tv/000008489/tve/index.m3u8
+
 #EXTINF:-1,Семейный 2
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13098/index.m3u8
-#EXTINF:-1,Семейный 2
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13098/index.m3u8
+
 #EXTINF:-1,Семейный 3
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13097/index.m3u8
-#EXTINF:-1,Семейный 3
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13097/index.m3u8
+
 #EXTINF:-1,Сериал
 http://185.234.59.200:9090/channel/69835d3b/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Сериал
-http://185.234.59.200:9090/channel/69835d3b/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+
 #EXTINF:-1,Сериал 4к
 http://185.234.59.200:9090/channel/n52012c64/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Сериал 4к
-http://185.234.59.200:9090/channel/n52012c64/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+
 #EXTINF:-1,Сериал кухня
 http://185.234.59.200:9090/channel/1bd1532a/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Сериал кухня
-http://185.234.59.200:9090/channel/1bd1532a/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+
 #EXTINF:-1,Сериалы
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31665/index.m3u8
-#EXTINF:-1,Сериалы
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31665/index.m3u8
+
 #EXTINF:-1,Сериальчик
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31931/index.m3u8
-#EXTINF:-1,Сериальчик
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31931/index.m3u8
+
 #EXTINF:-1,Сибирские дома
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18133/index.m3u8
-#EXTINF:-1,Сибирские дома
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18133/index.m3u8
+
 #EXTINF:-1,Симпсоны
 http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30169/index.m3u8
-#EXTINF:-1,Симпсоны
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30169/index.m3u8
+
 #EXTINF:-1,Синематограф
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13061/index.m3u8
-#EXTINF:-1,Синематограф
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13061/index.m3u8
-#EXTINF:-1,Сиртаки ТВ
-https://cityeden.catcast.tv/content/46421/index.m3u8
-#EXTINF:-1,Сиртаки ТВ
-https://cityeden.catcast.tv/content/46421/index.m3u8
+
 #EXTINF:-1,Ситком
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13052/index.m3u8
-#EXTINF:-1,Ситком
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13052/index.m3u8
+
 #EXTINF:-1,Ситком 2.0
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13046/index.m3u8
-#EXTINF:-1,Ситком 2.0
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13046/index.m3u8
+
 #EXTINF:-1,Сказки СССР
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13021/index.m3u8
-#EXTINF:-1,Сказки СССР
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13021/index.m3u8
+
 #EXTINF:-1,Скорая
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/15100/index.m3u8
-#EXTINF:-1,Скорая
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/15100/index.m3u8
+
 #EXTINF:-1,Скорая помощь
 https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1,Скорая помощь
-https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
+
 #EXTINF:-1,Скорость
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13053/index.m3u8
-#EXTINF:-1,Скорость
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13053/index.m3u8
+
 #EXTINF:-1,Скуби-ду
 http://185.234.59.200:9090/channel/2350f52f/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Скуби-ду
-http://185.234.59.200:9090/channel/2350f52f/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+
 #EXTINF:-1,След
 http://185.234.59.200:9090/channel/19aef85d/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,След
-http://185.234.59.200:9090/channel/19aef85d/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Следствие вели...
-https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
+
 #EXTINF:-1,Следствие вели...
 https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1,Смешарики
 http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30168/index.m3u8
-#EXTINF:-1,Смешарики
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30168/index.m3u8
-#EXTINF:-1,Смотрим Детское
-http://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab089.m3u8
-#EXTINF:-1,Смотрим Детское
-http://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab089.m3u8
-#EXTINF:-1,Смотрим Кино и сериалы
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1,Смотрим Кино и сериалы
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+
 #EXTINF:-1,Смотрим Классика
 http://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338.m3u8
-#EXTINF:-1,Смотрим Классика
-http://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338.m3u8
-#EXTINF:-1,Смотрим Любовь
-http://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248.m3u8
-#EXTINF:-1,Смотрим Любовь
-http://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248.m3u8
-#EXTINF:-1,Смотрим Мужское
-http://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d.m3u8
-#EXTINF:-1,Смотрим Мужское
-http://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d.m3u8
-#EXTINF:-1,Смотрим Праздник
-http://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564.m3u8
-#EXTINF:-1,Смотрим Праздник
-http://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564.m3u8
-#EXTINF:-1,Смотрим Факты
-http://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f.m3u8
-#EXTINF:-1,Смотрим Факты
-http://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f.m3u8
+
 #EXTINF:-1,Советская классика
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/30151/index.m3u8
-#EXTINF:-1,Советская классика
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/30151/index.m3u8
-#EXTINF:-1,Советская классика
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/2146/index.m3u8
+
 #EXTINF:-1,Советская классика
 http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/2146/index.m3u8
+
 #EXTINF:-1,Советское кино
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
-#EXTINF:-1,Советское кино
-http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
+
 #EXTINF:-1,Солдаты
 http://185.234.59.200:9090/channel/n2a045a21/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Солдаты
-http://185.234.59.200:9090/channel/n2a045a21/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+
 #EXTINF:-1,Союзмультфильм
 http://194.26.229.213/souzmultfilm/index.m3u8
-#EXTINF:-1,Союзмультфильм
-http://194.26.229.213/souzmultfilm/index.m3u8
-#EXTINF:-1,Союзмультфильм
-http://185.234.59.200:9090/channel/n2d6853a9/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+
 #EXTINF:-1,Союзмультфильм
 http://185.234.59.200:9090/channel/n2d6853a9/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+
 #EXTINF:-1,Спецназ диверсант
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/20176/index.m3u8
-#EXTINF:-1,Спецназ диверсант
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/20176/index.m3u8
+
 #EXTINF:-1,Спортивка
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13054/index.m3u8
-#EXTINF:-1,Спортивка
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13054/index.m3u8
+
 #EXTINF:-1,Стивен Кинг
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13055/index.m3u8
-#EXTINF:-1,Стивен Кинг
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13055/index.m3u8
-#EXTINF:-1,Страх
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11069/index.m3u8
+
 #EXTINF:-1,Страх
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11069/index.m3u8
 #EXTINF:-1,Страх 2.0
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31720/index.m3u8
+
 #EXTINF:-1,Страшное
 http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/7247/index.m3u8
-#EXTINF:-1,Страшное
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/7247/index.m3u8
-#EXTINF:-1,Стройка
-http://185.234.59.200:9090/channel/n22e5d5b4/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+
 #EXTINF:-1,Стройка
 http://185.234.59.200:9090/channel/n22e5d5b4/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
 #EXTINF:-1,Супергерои 2
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13056/index.m3u8
-#EXTINF:-1,Супергерои 2
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13056/index.m3u8
+
 #EXTINF:-1,Суперкрошки
 http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30165/index.m3u8
-#EXTINF:-1,Суперкрошки
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30165/index.m3u8
+
 #EXTINF:-1,Счастливы вместе
 http://185.234.59.200:9090/channel/n7accaef4/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Счастливы вместе
-http://185.234.59.200:9090/channel/n7accaef4/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+
 #EXTINF:-1,Тайны следствия
 http://185.234.59.200:9090/channel/1443d724/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Тайны следствия
-http://185.234.59.200:9090/channel/1443d724/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+
 #EXTINF:-1,Танос
 http://185.234.59.200:8080/SKY_HIGH_TANOS_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Танос
-http://185.234.59.200:8080/SKY_HIGH_TANOS_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Твоё ТВ
 http://tvoetv.space:8080/tvoetv/index.m3u8
-#EXTINF:-1,Твоё ТВ
-http://tvoetv.space:8080/tvoetv/index.m3u8
+
 #EXTINF:-1,Твоё ТВ Юмор
 http://tvoetv.space:8080/tvoetv_humor/video.m3u8
-#EXTINF:-1,Твоё ТВ Юмор
-http://tvoetv.space:8080/tvoetv_humor/video.m3u8
+
 #EXTINF:-1,Телеклуб
 http://s7.merlive.am/Kinoman/index.m3u8
-#EXTINF:-1,Телеклуб
-http://s7.merlive.am/Kinoman/index.m3u8
-#EXTINF:-1,Теленовелла
-https://cityeden.catcast.tv/content/46209/index.m3u8
-#EXTINF:-1,Теленовелла
-https://cityeden.catcast.tv/content/46209/index.m3u8
+
 #EXTINF:-1,Теория большого взрыва
 http://185.234.59.200:9090/channel/63fad5f/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Теория большого взрыва
-http://185.234.59.200:9090/channel/63fad5f/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+
 #EXTINF:-1,Тимон и пумба
 http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30164/index.m3u8
-#EXTINF:-1,Тимон и пумба
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30164/index.m3u8
+
 #EXTINF:-1,Том и Джерри
 http://185.234.59.200:9090/channel/n332cfce7/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Том и Джерри
-http://185.234.59.200:9090/channel/n332cfce7/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+
 #EXTINF:-1,Том и Джерри 2
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13016/index.m3u8
-#EXTINF:-1,Том и Джерри 2
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13016/index.m3u8
+
 #EXTINF:-1,Три кота
 http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30157/index.m3u8
-#EXTINF:-1,Три кота
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30157/index.m3u8
+
 #EXTINF:-1,Триколор 3 богатыря
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18132/index.m3u8
-#EXTINF:-1,Триколор 3 богатыря
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18132/index.m3u8
+
 #EXTINF:-1,Триколор Знание
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18134/index.m3u8
-#EXTINF:-1,Триколор Знание
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18134/index.m3u8
+
 #EXTINF:-1,Триколор Мелодрамы
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18129/index.m3u8
-#EXTINF:-1,Триколор Мелодрамы
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18129/index.m3u8
-#EXTINF:-1,Триколор Ментовские аойеы
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18128/index.m3u8
-#EXTINF:-1,Триколор Ментовские аойеы
+
+#EXTINF:-1,Триколор Ментовские войны
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18128/index.m3u8
 #EXTINF:-1,Триколор След
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18127/index.m3u8
-#EXTINF:-1,Триколор След
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18127/index.m3u8
+
 #EXTINF:-1,Триколор Смешарики
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18136/index.m3u8
-#EXTINF:-1,Триколор Смешарики
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18136/index.m3u8
+
 #EXTINF:-1,Триколор комедии
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18137/index.m3u8
-#EXTINF:-1,Триколор комедии
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18137/index.m3u8
+
 #EXTINF:-1,Триколор мир без границ
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18130/index.m3u8
-#EXTINF:-1,Триколор мир без границ
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18130/index.m3u8
+
 #EXTINF:-1,Триколор некрасивая подружка
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18131/index.m3u8
-#EXTINF:-1,Триколор некрасивая подружка
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18131/index.m3u8
+
 #EXTINF:-1,Триколор советмульт
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18135/index.m3u8
-#EXTINF:-1,Триколор советмульт
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18135/index.m3u8
+
 #EXTINF:-1,Триллер
 http://185.234.59.200:9090/channel/7eba127c/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Триллер
-http://185.234.59.200:9090/channel/7eba127c/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+
 #EXTINF:-1,Турецкий сериал
 http://185.234.59.200:9090/channel/1a838d17/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Турецкий сериал
-http://185.234.59.200:9090/channel/1a838d17/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+
 #EXTINF:-1,Ты супер !
 https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1,Ты супер !
-https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
+
 #EXTINF:-1,УЖАСТИК
 http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1,УЖАСТИК
-http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
+
 #EXTINF:-1,Ужас
 http://185.234.59.200:9090/channel/1c49ef83/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Ужас
-http://185.234.59.200:9090/channel/1c49ef83/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Ужастик
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13059/index.m3u8
+
 #EXTINF:-1,Ужастик
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13059/index.m3u8
 #EXTINF:-1,Ужасы
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13099/index.m3u8
-#EXTINF:-1,Ужасы
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13099/index.m3u8
+
 #EXTINF:-1,Ужасы vhs
 http://185.234.59.200:9090/channel/nffb23c/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Ужасы vhs
-http://185.234.59.200:9090/channel/nffb23c/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+
 #EXTINF:-1,Ужасы классические
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/14128/index.m3u8
-#EXTINF:-1,Ужасы классические
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/14128/index.m3u8
+
 #EXTINF:-1,Универ
 http://185.234.59.200:9090/channel/6d5a11a3/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Универ
-http://185.234.59.200:9090/channel/6d5a11a3/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+
 #EXTINF:-1,Универ 2
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11063/index.m3u8
-#EXTINF:-1,Универ 2
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11063/index.m3u8
+
 #EXTINF:-1,Универ новая общага
 http://185.234.59.200:9090/channel/n6d1e893c/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Универ новая общага
-http://185.234.59.200:9090/channel/n6d1e893c/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+
 #EXTINF:-1,Уральские пельмени
 http://185.234.59.200:9090/channel/124864a5/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Уральские пельмени
-http://185.234.59.200:9090/channel/124864a5/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+
 #EXTINF:-1,Утиные истории
 http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30156/index.m3u8
-#EXTINF:-1,Утиные истории
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30156/index.m3u8
+
 #EXTINF:-1,ФАНТАСТИКА
 http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1,ФАНТАСТИКА
-http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
+
 #EXTINF:-1,Фантастика
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11070/index.m3u8
-#EXTINF:-1,Фантастика
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11070/index.m3u8
+
 #EXTINF:-1,Фантастика 2.0
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31722/index.m3u8
 #EXTINF:-1,Фантастическое
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13062/index.m3u8
-#EXTINF:-1,Фантастическое
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13062/index.m3u8
+
 #EXTINF:-1,Фильмы СССР
 http://185.234.59.200:9090/channel/n6aabccf9/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Фильмы СССР
-http://185.234.59.200:9090/channel/n6aabccf9/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+
 #EXTINF:-1,Фитнес
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31629/index.m3u8
-#EXTINF:-1,Фитнес
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31629/index.m3u8
+
 #EXTINF:-1,Фобия
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13063/index.m3u8
-#EXTINF:-1,Фобия
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13063/index.m3u8
+
 #EXTINF:-1,Хит парад
 http://185.234.59.200:9090/channel/n44c8e20f/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Хит парад
-http://185.234.59.200:9090/channel/n44c8e20f/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+
 #EXTINF:-1,Хитяра тв
 http://185.57.68.33/237/mpegts
-#EXTINF:-1,Хитяра тв
-http://185.57.68.33/237/mpegts
+
 #EXTINF:-1,Ходячие мертвецы
 http://185.234.59.200:9090/channel/n55c845c9/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Ходячие мертвецы
-http://185.234.59.200:9090/channel/n55c845c9/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+
 #EXTINF:-1,Чернобыль
 http://185.234.59.200:9090/channel/30f28c5a/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Чернобыль
-http://185.234.59.200:9090/channel/30f28c5a/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Честный Детектив
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1,Честный Детектив
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1,Чип и Дейл
-http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+
 #EXTINF:-1,Чип и Дейл
 http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30191/index.m3u8
-#EXTINF:-1,Чип и Дейл
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30191/index.m3u8
+
 #EXTINF:-1,Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1,Чудеса на виражах
 http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30192/index.m3u8
-#EXTINF:-1,Чудеса на виражах
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30192/index.m3u8
+
 #EXTINF:-1,Шансончик
 http://185.234.59.200:9090/channel/752d9a6f/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Шансончик
-http://185.234.59.200:9090/channel/752d9a6f/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+
 #EXTINF:-1,Шерлок Холмс
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18126/index.m3u8
-#EXTINF:-1,Шерлок Холмс
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18126/index.m3u8
+
 #EXTINF:-1,Шеф
 https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Шеф
-https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1,Шокирующее
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/6299/index.m3u8
-#EXTINF:-1,Шокирующее
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/6299/index.m3u8
+
 #EXTINF:-1,Шоу
 http://t8nlftib.russtv.net/iptv/QYUYWWB6GEC9F9Z5TSDEWH95/17030/index.m3u8
-#EXTINF:-1,Шоу
-http://t8nlftib.russtv.net/iptv/QYUYWWB6GEC9F9Z5TSDEWH95/17030/index.m3u8
+
 #EXTINF:-1,Щенячий патруль
 http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30167/index.m3u8
-#EXTINF:-1,Щенячий патруль
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30167/index.m3u8
-#EXTINF:-1,Эквадор тв
+
+#EXTINF:-1,Эквадор ТВ
 https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8
-#EXTINF:-1,Эквадор тв
-https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8
-#EXTINF:-1,Экстрасенсы
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30190/index.m3u8
 #EXTINF:-1,Экстрасенсы
 http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30190/index.m3u8
 #EXTINF:-1,Юмор 18+
 http://185.234.59.200:9090/channel/n3604f928/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Юмор 18+
-http://185.234.59.200:9090/channel/n3604f928/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
 #EXTINF:-1,Юнит
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11071/index.m3u8
-#EXTINF:-1,Юнит
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11071/index.m3u8
-#EXTINF:-1,кино 4к
+#EXTINF:-1,Кино 4к
 http://185.234.59.200:9090/channel/5983ec54/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,кино 4к
-http://185.234.59.200:9090/channel/5983ec54/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,нво
+#EXTINF:-1,НВО
 http://185.234.59.200:9090/channel/n5a118def/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,нво
-http://185.234.59.200:9090/channel/n5a118def/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,окко спорт
-http://185.234.59.200:8080/okko_sport_hd/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,окко спорт
 http://185.234.59.200:8080/okko_sport_hd/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,окко футбол
 http://185.234.59.200:8080/okko_futbol_hd/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,окко футбол
-http://185.234.59.200:8080/okko_futbol_hd/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,тоталmusic 80
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1,тоталmusic 80
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1,флип
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13057/index.m3u8
-#EXTINF:-1,флип
+#EXTINF:-1,Flip
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13057/index.m3u8
 #EXTINF:-1,IPTVPLAY ВЕДЬМАК
 http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
