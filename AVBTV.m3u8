@@ -684,7 +684,7 @@ http://188.225.31.197/bpk-tv/000008489/tve/index.m3u8
 #EXTGRP:Кинофильмы
 https://live-tolknews.cdnvideo.ru/tolknews/stream/tracks-v1a1/mono.m3u8
 #EXTINF:0,Скрипач ТВ
-#EXTGRP:Кинофильмы
+#EXTGRP:Кинофильмы 
 http://kinowalk.hopto.org/scripachtv_live
 #EXTINF:0,Шокирующее HD
 #EXTGRP:Кинофильмы
@@ -918,4 +918,105 @@ http://hls127.freeott.top:8080/Clarity4K_Edinoborstva/mono.m3u8
 #EXTGRP:Clarity4K
 http://hls127.freeott.top:8080/Clarity4K_Anime/mono.m3u8
 
-
+#EXTINF:-1,Cinema
+#EXTGRP:Тестирование
+http://176.118.197.101/Cinema/index.m3u8
+#EXTINF:-1,Alpha Cinema
+#EXTGRP:Тестирование
+http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
+#EXTINF:0,A More Time
+#EXTGRP:Тестирование
+http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
+#EXTINF:-1,Bunny
+#EXTGRP:Тестирование
+http://185.234.59.200:8080/BUNNYHD/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1,Hollywood TV
+#EXTGRP:Тестирование
+http://193.25.8.59:8000/interaz
+#EXTINF:-1,Kinojam
+#EXTGRP:Тестирование
+http://kinowalk.hopto.org/kinojam_live
+#EXTINF:-1,LIVE TV
+#EXTGRP:Тестирование
+http://tv.mobyservice.ru/livetv/index.m3u8
+#EXTINF:-1,Moviee Toper
+#EXTGRP:Тестирование
+http://kinowalk.hopto.org/movietoper_live
+#EXTINF:-1,MYTV KIDS
+#EXTGRP:Тестирование
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/19409/index.m3u8
+#EXTINF:-1,Plan B
+#EXTGRP:Тестирование
+http://188.225.31.197/bpk-tv/000007625/tve/index.m3u8
+#EXTINF:-1,PRO100 TV
+#EXTGRP:Тестирование
+http://sirius.greenhosting.ru/Pro100tvRu/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Saga TV
+#EXTGRP:Тестирование
+http://46.175.123.164:4022/udp/239.195.65.56:1234
+#EXTINF:-1,TV 21
+#EXTGRP:Тестирование
+http://188.225.31.197/bpk-tv/000000006/tve/index.m3u8
+#EXTINF:-1,VELES KIDS
+#EXTGRP:Тестирование
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/31646/index.m3u8
+#EXTINF:-1,VHS CLASSIC
+#EXTGRP:Тестирование
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/19429/index.m3u8
+#EXTINF:-1,VHS KA
+#EXTGRP:Тестирование
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/5006/index.m3u8
+#EXTINF:-1,Арсенал
+#EXTGRP:Тестирование
+http://kinowalk.hopto.org/videoarsenal_live
+#EXTINF:-1,Еврокино
+#EXTGRP:Тестирование
+http://193.25.8.59:8000/eurokino
+#EXTINF:-1,Кинеко
+#EXTGRP:Тестирование
+http://193.25.8.59:8000/fox
+#EXTINF:-1,Кино 24
+#EXTGRP:Тестирование
+http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+#EXTINF:-1,Кино без границ
+#EXTGRP:Тестирование
+http://185.57.68.33:8091/237/playlist.m3u8
+#EXTINF:-1,Киноман
+#EXTGRP:Тестирование
+http://188.225.31.197/bpk-tv/000003871/tve/index.m3u8
+#EXTINF:-1,Ключайка
+#EXTGRP:Тестирование
+https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=QltsCpJv4zS2J2PXJe5VOg&e=2070450958&scheme=https
+#EXTINF:-1,О! Кино
+#EXTGRP:Тестирование
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/20023/index.m3u8
+#EXTINF:-1,Осторожно модерн
+#EXTGRP:Тестирование
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/16005/index.m3u8
+#EXTINF:-1,СССР
+#EXTGRP:Тестирование
+http://0f7612d9.edmonst.net/iptv/UCVET5HKPH8EZF/31643/index.m3u8
+#EXTINF:-1,Сваты
+#EXTGRP:Тестирование
+http://0f7612d9.edmonst.net/iptv/UCVET5HKPH8EZF/31624/index.m3u8
+#EXTINF:-1,Скорая помощь
+#EXTGRP:Тестирование
+https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1,Советская классика
+#EXTGRP:Тестирование
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/2146/index.m3u8
+#EXTINF:-1,Союзмультфильм
+#EXTGRP:Тестирование
+http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:-1,Страшное
+#EXTGRP:Тестирование
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/7247/index.m3u8
+#EXTINF:-1,Тайны следствия
+#EXTGRP:Тестирование
+http://185.234.59.200:9090/channel/1443d724/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Том и Джерри
+#EXTGRP:Тестирование
+http://185.234.59.200:9090/channel/n332cfce7/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Чип и Дейл
+#EXTGRP:Тестирование
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
