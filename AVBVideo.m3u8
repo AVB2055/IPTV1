@@ -83,6 +83,7 @@ http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13002/index.m3u8
 #EXTINF:-1,90е
 #EXTGRP:VF
 http://185.234.59.200:9090/channel/9b95461/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,90е
 
 #EXTINF:-1,Alpha Cinema
 #EXTGRP:Alpha
@@ -2300,29 +2301,29 @@ http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13057/index.m3u8
 #EXTINF:-1,IPTVPLAY ВЕДЬМАК
 http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:0,Clarity4K Asia
-#EXTGRP:Кинофильмы
+#EXTGRP:Clarity4K
 http://hls127.freeott.top:8080/Clarity4K_Asia/mono.m3u8
 #EXTINF:0,Clarity4K Gamefilm
-#EXTGRP:Кинофильмы
+#EXTGRP:Clarity4K
 http://hls127.freeott.top:8080/Clarity4K_Gamefilm/mono.m3u8
 #EXTINF:0,Clarity4K Netflix
-#EXTGRP:Кинофильмы
+#EXTGRP:Clarity4K
 http://hls127.freeott.top:8080/Clarity4K_Netflix/mono.m3u8
 #EXTINF:0,Clarity4k Концерт
-#EXTGRP:Кинофильмы
+#EXTGRP:Clarity4K
 http://hls127.freeott.top:8080/Clarity4K_Concert/mono.m3u8
 #EXTINF:0,Clarity4K Ужасы
-#EXTGRP:Кинофильмы
+#EXTGRP:Clarity4K
 http://hls127.freeott.top:8080/Clarity4K_Uzhasi/mono.m3u8
 #EXTINF:0,Clarity4K Фантастика
-#EXTGRP:Кинофильмы
+#EXTGRP:Clarity4K
 http://hls127.freeott.top:8080/Clarity4K_Fantastic/mono.m3u8
 #EXTINF:0,Clarity4K Anime
-#EXTGRP:Детские
+#EXTGRP:Clarity4K
 http://hls127.freeott.top:8080/Clarity4K_Anime/mono.m3u8
 #EXTINF:0,Clarity4k Единоборства
-#EXTGRP:Спортивные
+#EXTGRP:Clarity4K
 http://hls127.freeott.top:8080/Clarity4K_Edinoborstva/mono.m3u8
 #EXTINF:0,Clarity4K Космомир
-#EXTGRP:Познавательные
+#EXTGRP:Clarity4K
 http://hls127.freeott.top:8080/Clarity4K_Kosmomir/mono.m3u8
