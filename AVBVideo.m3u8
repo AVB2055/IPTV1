@@ -2121,7 +2121,7 @@ http://185.234.59.200:9090/channel/n7accaef4/index.m3u8?q=406925e0657258d990e0f9
 #EXTGRP:Разные
 http://185.234.59.200:9090/channel/1443d724/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
 #EXTINF:-1,Танос
-#EXTGRP:SKI HIGH
+#EXTGRP:SKY HIGH
 http://185.234.59.200:8080/SKY_HIGH_TANOS_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,Теория большого взрыва
 #EXTGRP:VF
