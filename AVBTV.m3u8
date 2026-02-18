@@ -556,13 +556,12 @@ http://176.118.197.101/Bollywood_HD/index.m3u8
 #EXTINF:0,Cinema HD
 #EXTGRP:Кинофильмы
 http://tv.lamro.workers.dev/?ID=5057
-#EXTINF:0,Cinema Time FHD
+#EXTINF:0,Cinema Time HD
 #EXTGRP:Кинофильмы
 http://kinowalk.hopto.org/cinemaa_live
 #EXTINF:0,Cineman HD AM
 #EXTGRP:Кинофильмы
 http://185.57.68.33:80/255/playlist.m3u8
-
 #EXTINF:0,Dimpon HD
 #EXTGRP:Кинофильмы
 http://kinowalk.hopto.org/dimpon_live
@@ -593,7 +592,7 @@ https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210_output_0.m3u
 #EXTINF:0,Plan B HD
 #EXTGRP:Кинофильмы
 http://tv.lamro.workers.dev/?ID=5017
-#EXTINF:0,TimeToHorror FHD
+#EXTINF:0,TimeToHorror HD
 #EXTGRP:Кинофильмы
 http://kinowalk.hopto.org/timetohorror_live
 #EXTINF:0,TimeToMovie FHD
@@ -614,7 +613,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
 #EXTINF:0,VIASAT Kino Comedy HD
 #EXTGRP:Кинофильмы
 http://ukr2.ukrainske.tv/493/video.m3u8
-#EXTINF:0,Video_Prokat FHD
+#EXTINF:0,Video_Prokat HD
 #EXTGRP:Кинофильмы
 http://kinowalk.hopto.org/video_prokat_live
 #EXTINF:0,viju+ Megahit HD
@@ -739,9 +738,6 @@ http://188.237.47.212:6008
 #EXTINF:0,Fox Life HD
 #EXTGRP:Кинофильмы | Сериалы
 http://tv.lamro.workers.dev/?ID=4941
-#EXTINF:0,FX LIFE
-#EXTGRP:Кинофильмы | Сериалы
-http://188.237.47.212:6008
 #EXTINF:0,MM Скорость
 #EXTGRP:Кинофильмы | Сериалы
 http://hls127.freeott.top:8080/minimax-skorost-m4f/video.m3u8
@@ -874,6 +870,24 @@ http://188.225.31.197/bpk-tv/000008135/tve/index.m3u8
 #EXTINF:0,Смотрим Кино и сериалы
 #EXTGRP:Кинофильмы | Сериалы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1,Смотрим Кино и сериалы
+#EXTGRP:Смотрим
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1,Смотрим Праздник
+#EXTGRP:Смотрим
+http://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564.m3u8
+#EXTINF:-1,Смотрим Мужское
+#EXTGRP:Смотрим
+http://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d.m3u8
+#EXTINF:-1,Смотрим Факты
+#EXTGRP:Смотрим
+http://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f.m3u8
+#EXTINF:-1,Смотрим Детское
+#EXTGRP:Смотрим
+http://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab089.m3u8
+#EXTINF:-1,Смотрим Любовь
+#EXTGRP:Смотрим
+http://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248.m3u8
 #EXTINF:0,Хит HD
 #EXTGRP:Кинофильмы | Сериалы
 http://tv.lamro.workers.dev/?ID=4972
@@ -905,6 +919,5 @@ http://hls127.freeott.top:8080/Clarity4K_Edinoborstva/mono.m3u8
 #EXTINF:0,Clarity4K Anime
 #EXTGRP:Clarity4K
 http://hls127.freeott.top:8080/Clarity4K_Anime/mono.m3u8
-
 
 
