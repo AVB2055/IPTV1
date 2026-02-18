@@ -83,7 +83,6 @@ http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13002/index.m3u8
 #EXTINF:-1,90е
 #EXTGRP:VF
 http://185.234.59.200:9090/channel/9b95461/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,90е
 
 #EXTINF:-1,Alpha Cinema
 #EXTGRP:Alpha
@@ -238,9 +237,6 @@ http://185.234.59.200:8080/BCU_Multserial_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTGRP:BCU
 http://185.234.59.200:8080/BCU_Svaty_HD/video.m3u8?token=5uGLTS1oibSIu0
 
-#EXTINF:-1,Blockbusters Time
-http://kinowalk.hopto.org/blockbusterstime_live
-
 #EXTINF:-1,Boom
 #EXTGRP:SKY HIGH
 http://185.234.59.200:8080/SKY_HIGH_BOOM_FHD/video.m3u8?token=5uGLTS1oibSIu0
@@ -384,22 +380,16 @@ http://185.234.59.200:8080/SKYHIGHBRAINFHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTGRP:SKY HIGH
 http://185.234.59.200:8080/SKY_HIGH_BRICK_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
 
-#EXTINF:-1,BUDO
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13003/index.m3u8
-
-#EXTINF:-1,Bunny
-http://185.234.59.200:8080/BUNNYHD/video.m3u8?token=5uGLTS1oibSIu0
-
 #EXTINF:-1,Cartoon
 #EXTGRP:VF
 http://185.234.59.200:9090/channel/74dfb4ca/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
 
 #EXTINF:-1,Cartoon 90
-#EXTGRP:CineMan
+#EXTGRP:CINEMAN
 http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/11001/index.m3u8
 
 #EXTINF:-1,Cartoon Shot
-#EXTGRP:CineMan
+#EXTGRP:CINEMAN
 http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/11002/index.m3u8
 
 #EXTINF:-1,Case
@@ -409,70 +399,64 @@ http://185.234.59.200:8080/SKY_HIGH_CASE_VHS_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTGRP:MM
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/16084/index.m3u8
 
-#EXTINF:-1,Cinema
-http://176.118.197.101/Cinema/index.m3u8
-
-#EXTINF:-1,Cinema Time
-http://kinowalk.hopto.org/cinemaa_live
-
 #EXTINF:-1,Cineman action
-#EXTGRP:CineMan
+#EXTGRP:CINEMAN
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11006/index.m3u8
 
 #EXTINF:-1,Cineman Marvel
-#EXTGRP:CineMan
+#EXTGRP:CINEMAN
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11009/index.m3u8
 
 #EXTINF:-1,Cineman MiniSeries
-#EXTGRP:CineMan
+#EXTGRP:CINEMAN
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/19437/index.m3u8
 
 #EXTINF:-1,Cineman Thriller
-#EXTGRP:CineMan
+#EXTGRP:CINEMAN
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11007/index.m3u8
 
 #EXTINF:-1,Cineman Top
-#EXTGRP:CineMan
+#EXTGRP:CINEMAN
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11005/index.m3u8
 
 #EXTINF:-1,Cineman VHS
-#EXTGRP:CineMan
+#EXTGRP:CINEMAN
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11012/index.m3u8
 
 #EXTINF:-1,Cineman Комедия
-#EXTGRP:CineMan
+#EXTGRP:CINEMAN
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11011/index.m3u8
 
 #EXTINF:-1,Cineman Мелодрама
-#EXTGRP:CineMan
+#EXTGRP:CINEMAN
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11008/index.m3u8
 #EXTINF:-1,Cineman Рукино
-#EXTGRP:CineMan
+#EXTGRP:CINEMAN
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11013/index.m3u8
 
 #EXTINF:-1,Citris Inquests
-#EXTGRP:Citris
+#EXTGRP:CITRIS
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/16152/index.m3u8
 #EXTINF:-1,Citrus catroon
-#EXTGRP:Citris
+#EXTGRP:CITRIS
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/16050/index.m3u8
 
 #EXTINF:-1,Citrus Comedy
-#EXTGRP:Citris
+#EXTGRP:CITRIS
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/16151/index.m3u8
 #EXTINF:-1,Citrus History
-#EXTGRP:Citris
+#EXTGRP:CITRIS
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18139/index.m3u8
 
 #EXTINF:-1,Citrus holiday
-#EXTGRP:Citris
+#EXTGRP:CITRIS
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/16089/index.m3u8
 #EXTINF:-1,Citrus life
-#EXTGRP:Citris
+#EXTGRP:CITRIS
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/19436/index.m3u8
 
 #EXTINF:-1,Citrus marvel
-#EXTGRP:Citris
+#EXTGRP:CITRIS
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/16051/index.m3u8
 #EXTINF:-1,Civil
 #EXTGRP:SKY HIGH
@@ -513,9 +497,6 @@ http://185.234.59.200:8080/SKY_HIGH_DRAGON_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,DreamWorks
 #EXTGRP:LIBERTY
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31661/index.m3u8
-#EXTINF:-1,DTR Zona 1
-https://kino-stream.online/hls/DTRZONA1.m3u8
-
 #EXTINF:-1,Dusts
 #EXTGRP:SKY HIGH
 http://185.234.59.200:8080/SKY_HIGH_DUST_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
@@ -669,15 +650,6 @@ http://185.234.59.200:8080/SKY_HIGH_JOKE_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTGRP:SKY HIGH
 http://185.234.59.200:8080/SKY_HIGH_JUNIOR_FHD/video.m3u8?token=5uGLTS1oibSIu0
 
-#EXTINF:-1,Kino Walk
-http://kinowalk.hopto.org/kinowalk_live
-#EXTINF:-1,Kinojam
-http://kinowalk.hopto.org/kinojam_live
-
-#EXTINF:-1,Kinoliving
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/16018/index.m3u8
-#EXTINF:-1,Kinoword
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31447/index.m3u8
 
 #EXTINF:-1,L Disney
 #EXTGRP:LIBERTY
@@ -780,8 +752,6 @@ http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/19304/index.m3u8
 #EXTINF:-1,Live Planet
 #EXTGRP:MM
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13095/index.m3u8
-#EXTINF:-1,LIVE TV
-http://tv.mobyservice.ru/livetv/index.m3u8
 
 #EXTINF:-1,Lo-fi
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31545/index.m3u8
@@ -841,27 +811,7 @@ http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/20159/index.m3u8
 #EXTINF:-1,Medy
 #EXTGRP:SKY HIGH
 http://185.234.59.200:8080/SKY_HIGH_MEDY_VHS_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Megogo Sport
-#EXTGRP:MEGOGO
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31612/index.m3u8
 
-#EXTINF:-1,Megogo футбол
-#EXTGRP:MEGOGO
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31483/index.m3u8
-#EXTINF:-1,Megogo футбол 2
-#EXTGRP:MEGOGO
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31505/index.m3u8
-
-#EXTINF:-1,Megogo футбол 3
-#EXTGRP:MEGOGO
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31504/index.m3u8
-#EXTINF:-1,Megogo футбол 4
-#EXTGRP:MEGOGO
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31613/index.m3u8
-
-#EXTINF:-1,Megogo футбол 5
-#EXTGRP:MEGOGO
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31614/index.m3u8
 #EXTINF:-1,Melodrama
 #EXTGRP:VF
 http://185.234.59.200:9090/channel/n2090b378/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
@@ -869,8 +819,6 @@ http://185.234.59.200:9090/channel/n2090b378/index.m3u8?q=406925e0657258d990e0f9
 #EXTINF:-1,MM THRILLER
 #EXTGRP:MM
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13058/index.m3u8
-#EXTINF:-1,Moviee Toper
-http://kinowalk.hopto.org/movietoper_live
 
 #EXTINF:-1,MS ANIMATED
 #EXTGRP:MS
@@ -1046,15 +994,10 @@ http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11097/index.m3u8
 #EXTINF:-1,PG РУКИНО
 #EXTGRP:PG
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11096/index.m3u8
-#EXTINF:-1,Plan B
-http://188.225.31.197/bpk-tv/000007625/tve/index.m3u8
 
 #EXTINF:-1,Premiere
 #EXTGRP:VF
 http://185.234.59.200:9090/channel/n25c46863/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-
-#EXTINF:-1,PRO100 TV
-http://sirius.greenhosting.ru/Pro100tvRu/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,quants
 #EXTGRP:SKY HIGH
@@ -1063,22 +1006,15 @@ http://185.234.59.200:8080/SKY_HIGH_QUANT_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTGRP:SKY HIGH
 http://185.234.59.200:8080/SKY_HIGH_RED_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
 
-#EXTINF:-1,S Horror
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31708/index.m3u8
-#EXTINF:-1,Saga TV
-http://46.175.123.164:4022/udp/239.195.65.56:1234
-
 #EXTINF:-1,Scream
 #EXTGRP:SKY HIGH
 http://185.234.59.200:8080/SKY_HIGH_SCREAM_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Sky200
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11054/index.m3u8
+
 #EXTINF:-1,Space
 #EXTGRP:SKY HIGH
 http://185.234.59.200:8080/SKY_HIGH_SPACE_4K_HDR/video.m3u8?token=5uGLTS1oibSIu0
 
-#EXTINF:-1,Start World
-http://188.225.31.197/bpk-tv/000007818/tve/index.m3u8
+
 #EXTINF:-1,Strike
 #EXTGRP:SKY HIGH
 http://185.234.59.200:8080/SKY_HIGH_STRIKE_VHS_FHD/video.m3u8?token=5uGLTS1oibSIu0
@@ -1088,11 +1024,6 @@ https://fffffff110156200.tvustream.com:8298/ryfy.m3u8
 #EXTINF:-1,Teen
 #EXTGRP:SKY HIGH
 http://185.234.59.200:8080/SKY_HIGH_TEEN_FHD/video.m3u8?token=5uGLTS1oibSIu0
-
-#EXTINF:-1,TimeMovie
-http://kinowalk.hopto.org/timetomovie_live
-#EXTINF:-1,TimeToHorror FHD
-http://kinowalk.hopto.org/timetohorror_live
 
 #EXTINF:-1,Toon
 #EXTGRP:SKY HIGH
@@ -1211,19 +1142,10 @@ http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18043/index.m3u8
 #EXTGRP:VB
 http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/14155/index.m3u8
 
-#EXTINF:-1,VELES KIDS
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/31646/index.m3u8
-#EXTINF:-1,VHS CLASSIC
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/19429/index.m3u8
-
-#EXTINF:-1,VHS KA
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/5006/index.m3u8
 #EXTINF:-1,vhs mix
 #EXTGRP:VF
 http://185.234.59.200:9090/channel/357166f9/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
 
-#EXTINF:-1,VHS STRAH
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11059/index.m3u8
 #EXTINF:-1,Viasat Sinema
 #EXTGRP:VIASAT
 http://ukr2.ukrainske.tv/493/video.m3u8
@@ -1432,11 +1354,6 @@ http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30194/index.m3u8
 #EXTGRP:BOX
 http://185.234.59.200:8080/BOX_Apocalypse_HD/video.m3u8?token=5uGLTS1oibSIu0
 
-#EXTINF:-1,Арсенал
-http://kinowalk.hopto.org/videoarsenal_live
-#EXTINF:-1,Байки из склепа
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31711/index.m3u8
-
 #EXTINF:-1,Балабол
 #EXTGRP:НТВ
 https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
@@ -1447,11 +1364,7 @@ http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30195/index.m3u8
 #EXTINF:-1,Без цензуры
 #EXTGRP:VF
 http://185.234.59.200:9090/channel/207a9134/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Бивис и Батт
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30193/index.m3u8
 
-#EXTINF:-1,Блокбастер
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/9087/index.m3u8
 #EXTINF:-1,Боевик
 #EXTGRP:VF
 http://185.234.59.200:9090/channel/4eaf9130/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
@@ -1470,22 +1383,15 @@ http://185.234.59.200:9090/channel/58c7ef7/index.m3u8?q=406925e0657258d990e0f994
 http://t8nlftib.russtv.net/iptv/QYUYWWB6GEC9F9Z5TSDEWH95/15108/index.m3u8
 
 #EXTINF:-1,ВЕДЬМАК
-#EXTGRP:IPTVPLAY
+#EXTGRP:IPTV-PLAY
 http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1,ВЕСТЕРН
 #EXTGRP:MM
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13029/index.m3u8
 
 #EXTINF:-1,Великая Отечественная
-#EXTGRP:IPTVPLAY
+#EXTGRP:IPTV-PLAY
 http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1,Великолепный век
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13001/index.m3u8
-
-#EXTINF:-1,Веселая карусель
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11057/index.m3u8
-#EXTINF:-1,ВидеоМастер
-http://kinowalk.hopto.org/video_prokat_live
 
 #EXTINF:-1,Военные
 #EXTGRP:VF
@@ -1532,14 +1438,12 @@ http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13025/index.m3u8
 #EXTINF:-1,Гриффины
 #EXTGRP:VENERA.TV
 http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30187/index.m3u8
-#EXTINF:-1,Громовы
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31712/index.m3u8
 
 #EXTINF:-1,Губка Боб
 #EXTGRP:VENERA.TV
 http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30186/index.m3u8
 #EXTINF:-1,ДЕСЯТОЕ КОРОЛЕВСТВО
-#EXTGRP:IPTVPLAY
+#EXTGRP:IPTV-PLAY
 http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
 
 #EXTINF:-1,Даша Путешественница
@@ -1573,11 +1477,7 @@ http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/16086/index.m3u8
 #EXTINF:-1,Друзья
 #EXTGRP:VF
 http://185.234.59.200:9090/channel/53f0bc87/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Душевное
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/914/index.m3u8
 
-#EXTINF:-1,Еврокино
-http://193.25.8.59:8000/eurokino
 #EXTINF:-1,Енотки.Первые Слова
 #EXTGRP:VENERA.TV
 http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30189/index.m3u8
@@ -1597,7 +1497,7 @@ http://t8nlftib.russtv.net/iptv/QYUYWWB6GEC9F9Z5TSDEWH95/17028/index.m3u8
 http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/13032/index.m3u8
 
 #EXTINF:-1,ИНТЕРНЫ
-#EXTGRP:IPTVPLAY
+#EXTGRP:IPTV-PLAY
 http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1,Игра престолов
 #EXTGRP:VF
@@ -1628,678 +1528,15 @@ http://185.234.59.200:9090/channel/n39976b52/index.m3u8?q=406925e0657258d990e0f9
 #EXTGRP:MM
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13034/index.m3u8
 #EXTINF:-1,Катастрофы 3
-#EXTGRP:CineMan
+#EXTGRP:CINEMAN
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/15106/index.m3u8
-
-#EXTINF:-1,Квартирник
-#EXTGRP:MM
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13035/index.m3u8
-#EXTINF:-1,Киберпанк
-#EXTGRP:MM
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13036/index.m3u8
-
-#EXTINF:-1,Классическая комедия
-#EXTGRP:MM
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13037/index.m3u8
-#EXTINF:-1,Кинеко
-http://193.25.8.59:8000/fox
-
-#EXTINF:-1,Кино 1 International
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18071/index.m3u8
-#EXTINF:-1,Кино 24
-http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
-
-#EXTINF:-1,Кино без границ
-http://185.57.68.33:8091/237/playlist.m3u8
-#EXTINF:-1,Кинобоевик
-http://188.225.31.197/bpk-tv/000008490/tve/index.m3u8
-#EXTINF:-1,Кинобоевик
-
-#EXTINF:-1,Кинодром
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31714/index.m3u8
-#EXTINF:-1,Киножелезо
-http://188.208.197.173/kinojelezo/video.m3u8?token=tvon
-
-#EXTINF:-1,Кинозалик
-https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210_output_0.m3u8?session=bomhMGCHEtND9D3hX7kb4M
-#EXTINF:-1,Кинокомедия
-http://5.188.159.128:8070/kinosvidanie/index.m3u8
-
-#EXTINF:-1,Кинолампа
-http://kinowalk.hopto.org/kinolampa_live
-#EXTINF:-1,Кинолаффка
-http://188.208.197.173/kinolafka/video.m3u8?token=tvon
-
-#EXTINF:-1,Киноман
-http://188.225.31.197/bpk-tv/000003871/tve/index.m3u8
-#EXTINF:-1,Киномикс
-http://158.101.222.193:88/georgia_play.php?id=kinomiks
-
-#EXTINF:-1,Кинопремьера
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/9020/index.m3u8
-#EXTINF:-1,Киносвидание
-http://5.188.159.128:8070/kinosvidanie/index.m3u8
-
-#EXTINF:-1,Киносемья
-http://158.101.222.193:88/georgia_play.php?id=kinosemya
-
-#EXTINF:-1,Киносерия
-http://158.101.222.193:88/georgia_play.php?id=kinoseria
-#EXTINF:-1,Киноужас
-http://158.101.222.193:88/georgia_play.php?id=kinoujas
 #EXTINF:-1,Кинофистиваль
 #EXTGRP:MM
 http://0f7612d9.edmonst.net/iptv/UCVET5HKPH8EZF/31621/index.m3u8
-
-#EXTINF:-1,Кинохит
-http://158.101.222.193:88/georgia_play.php?id=kinohit
-
-#EXTINF:-1,Кион хит
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/20211/index.m3u8
 #EXTINF:-1,Классика
 #EXTGRP:VF
 http://185.234.59.200:9090/channel/6197a3c3/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
 
-#EXTINF:-1,Клиника
-http://185.234.59.200:9090/channel/5e6b6b04/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Ключайка
-https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=QltsCpJv4zS2J2PXJe5VOg&e=2070450958&scheme=https
-
-#EXTINF:-1,Коломбо
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31713/index.m3u8
-#EXTINF:-1,Комедии
-http://185.234.59.200:9090/channel/63bea0ca/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-
-#EXTINF:-1,Комедийное
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/912/index.m3u8
-#EXTINF:-1,Комедийные сериалы
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31628/index.m3u8
-
-#EXTINF:-1,Комедия СССР
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13019/index.m3u8
-#EXTINF:-1,Комиксы
-http://185.234.59.200:9090/channel/n66d2d764/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-
-#EXTINF:-1,Контент моего детства
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/20001/index.m3u8
-#EXTINF:-1,Концерты
-http://185.234.59.200:9090/channel/16ba75c5/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-
-#EXTINF:-1,Корги по имени Мокко
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30184/index.m3u8
-#EXTINF:-1,Король и шут
-http://185.234.59.200:9090/channel/n4439966a/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-
-#EXTINF:-1,Космо
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11065/index.m3u8
-#EXTINF:-1,Космос
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/30197/index.m3u8
-
-#EXTINF:-1,Крепыш и его команда
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30183/index.m3u8
-#EXTINF:-1,Криминал
-http://185.234.59.200:9090/channel/777315be/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-
-#EXTINF:-1,Криминал 2
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13039/index.m3u8
-#EXTINF:-1,Криминальные сериалы
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31626/index.m3u8
-
-#EXTINF:-1,Крутые 90е
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13040/index.m3u8
-#EXTINF:-1,Кунг-фу
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13041/index.m3u8
-
-#EXTINF:-1,Легенды ретро
-http://185.234.59.200:9090/channel/n64eef067/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Леди Баг
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30182/index.m3u8
-
-#EXTINF:-1,Ленфильм
-http://185.234.59.200:9090/channel/n5d975628/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Лесник
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/16065/index.m3u8
-
-#EXTINF:-1,Луи де Фюнес
-http://185.234.59.200:9090/channel/d84cd4/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Любимое
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/2106/index.m3u8
-
-#EXTINF:-1,Майкл Джексон
-http://185.234.59.200:9090/channel/n68a02a6a/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Малыш
-http://185.234.59.200:9090/channel/1be4bb40/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-
-#EXTINF:-1,Маски шоу
-http://185.234.59.200:9090/channel/n7caae0c/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Маша и Медведь 2
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30180/index.m3u8
-
-#EXTINF:-1,Машина времени кинозал
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31929/index.m3u8
-#EXTINF:-1,Ментовские войны
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/16063/index.m3u8
-
-#EXTINF:-1,Микки Маус
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30179/index.m3u8
-#EXTINF:-1,Мини
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30178/index.m3u8
-
-#EXTINF:-1,Мировое кино
-http://188.225.31.197/bpk-tv/000008488/tve/index.m3u8
-#EXTINF:-1,Мифология
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13044/index.m3u8
-
-#EXTINF:-1,Мишки Гамми
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30177/index.m3u8
-#EXTINF:-1,Мосфильм
-http://185.234.59.200:9090/channel/n12cab184/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-
-#EXTINF:-1,Мотодрайв
-http://stitch.teletarget.ru/vintera/motodrive/index.m3u8
-#EXTINF:-1,Мужское тв
-http://158.101.222.193:88/georgia_play.php?id=interesnoetv
-
-#EXTINF:-1,Муз нг
-http://185.234.59.200:9090/channel/4f5a2cf4/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Музыка
-http://185.234.59.200:9090/channel/61bc9c55/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-
-#EXTINF:-1,МультСказки
-http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1,Мультсоюз
-http://185.234.59.200:9090/channel/n2a2d868e/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-
-#EXTINF:-1,Мультуб
-http://185.234.59.200:9090/channel/n29f01acc/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Мультфильм СССР
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13020/index.m3u8
-
-#EXTINF:-1,Мультфильмы СССР
-http://185.234.59.200:9090/channel/dd63185/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Мыльные оперы
-http://185.234.59.200:9090/channel/5fcebda2/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-
-#EXTINF:-1,Мюзикл
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31662/index.m3u8
-#EXTINF:-1,НУАР
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13045/index.m3u8
-
-#EXTINF:-1,Назад в СССР
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/20175/index.m3u8
-#EXTINF:-1,Научпоп
-http://t8nlftib.russtv.net/iptv/QYUYWWB6GEC9F9Z5TSDEWH95/31924/index.m3u8
-
-#EXTINF:-1,Наш Кинопоказ
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/9086/index.m3u8
-#EXTINF:-1,Наша Раша
-http://185.234.59.200:9090/channel/n4a29b367/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-
-#EXTINF:-1,Наша победа
-http://185.234.59.200:9090/channel/n30e8cca0/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Невский
-https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1,Новогодние мульты
-http://185.234.59.200:9090/channel/292969e0/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Новогодний
-http://185.234.59.200:9090/channel/d65b946/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-
-#EXTINF:-1,Новый Русский
-https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1_output_0.m3u8?session=U3YFrmmaaXDngd96fHTti7
-#EXTINF:-1,Ну
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30161/index.m3u8
-
-#EXTINF:-1,О! Кино
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/20023/index.m3u8
-#EXTINF:-1,ОСП СТУДИЯ
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/16004/index.m3u8
-
-#EXTINF:-1,Одесская киностудия
-http://185.234.59.200:9090/channel/17ce964a/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Однажды в Милиции
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31715/index.m3u8
-
-#EXTINF:-1,Однажды в России
-http://185.234.59.200:9090/channel/n1e05434/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Окко прайм
-http://185.234.59.200:8080/okko_praym_sport_hd/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Ольга
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31718/index.m3u8
-#EXTINF:-1,Орёл и решка
-http://185.234.59.200:9090/channel/2f3d9d6d/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-
-#EXTINF:-1,Оскар
-http://185.234.59.200:9090/channel/1c089d83/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Осторожно модерн
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/16005/index.m3u8
-
-#EXTINF:-1,Охота
-http://185.234.59.200:9090/channel/1c0a8021/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Охотники за привидениями
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30175/index.m3u8
-
-#EXTINF:-1,Очень страшные делишки
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30176/index.m3u8
-#EXTINF:-1,ПАМЯТЬ
-http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
-
-#EXTINF:-1,Панда и Антилопа
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30174/index.m3u8
-#EXTINF:-1,Первый Отдел
-https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1,Погружение
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13047/index.m3u8
-#EXTINF:-1,Подводная Одиссея
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30196/index.m3u8
-#EXTINF:-1,Полицейский с рублевки
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13049/index.m3u8
-#EXTINF:-1,Премиум кино
-http://188.225.31.197/bpk-tv/000008491/tve/index.m3u8
-
-#EXTINF:-1,Приключения 2
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13048/index.m3u8
-#EXTINF:-1,Приключения СССР
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13060/index.m3u8
-
-#EXTINF:-1,Про Любовь
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/9089/index.m3u8
-#EXTINF:-1,Просто Классика
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/16085/index.m3u8
-
-#EXTINF:-1,Просто Комедмя
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13038/index.m3u8
-#EXTINF:-1,Просто наука
-http://t8nlftib.russtv.net/iptv/QYUYWWB6GEC9F9Z5TSDEWH95/19305/index.m3u8
-
-#EXTINF:-1,Простоквашино
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30160/index.m3u8
-#EXTINF:-1,Путешествия
-http://185.234.59.200:9090/channel/74270aa0/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Пчелка Майя
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30173/index.m3u8
-#EXTINF:-1,Пять минут тишины
-https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
-
-#EXTINF:-1,Пёс
-https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1,Пёс и лихач
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/16064/index.m3u8
-
-#EXTINF:-1,Рапунцель
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30172/index.m3u8
-#EXTINF:-1,Реальные пацаны
-http://185.234.59.200:9090/channel/3c4b5f0a/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-
-#EXTINF:-1,Репка
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31719/index.m3u8
-#EXTINF:-1,Рижская киностудия
-http://185.234.59.200:9090/channel/n2782a1ca/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-
-#EXTINF:-1,Рик и Морти
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30171/index.m3u8
-#EXTINF:-1,Родное кино
-http://176.118.197.101/RodnoeKino/index.m3u8
-
-#EXTINF:-1,Родной канал
-https://n1.slavmir.tv/live/slavmir/chunklist.m3u8
-#EXTINF:-1,Розовая пантера
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30170/index.m3u8
-
-#EXTINF:-1,Росскино
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13050/index.m3u8
-#EXTINF:-1,Русский бестселлер
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/905/index.m3u8
-
-#EXTINF:-1,Русский детектив
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/907/index.m3u8
-#EXTINF:-1,Русский рок
-http://185.234.59.200:9090/channel/718b3db0/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-
-#EXTINF:-1,Русское
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31925/index.m3u8
-#EXTINF:-1,Русское 90е
-http://185.234.59.200:9090/channel/n30e1bc93/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-
-#EXTINF:-1,Рыбалка
-http://185.234.59.200:9090/channel/n494a299d/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Рязанов
-http://185.234.59.200:9090/channel/2392d973/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-
-#EXTINF:-1,С новым годом
-http://185.234.59.200:9090/channel/174fc91b/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,СССР
-http://0f7612d9.edmonst.net/iptv/UCVET5HKPH8EZF/31643/index.m3u8
-
-#EXTINF:-1,СТРК
-http://sochinskayatrk.ru/hdtv/hls/CTPK_400/playlist.m3u8
-#EXTINF:-1,Сан франц
-http://204.199.3.2/.m3u8
-
-#EXTINF:-1,СашаТаня
-http://185.234.59.200:9090/channel/1ad1dc5b/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Сваты
-http://185.234.59.200:9090/channel/1c2bef24/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-
-#EXTINF:-1,Сваты 3
-http://0f7612d9.edmonst.net/iptv/UCVET5HKPH8EZF/31624/index.m3u8
-#EXTINF:-1,Сваты 4
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11014/index.m3u8
-#EXTINF:-1,Сваты 5
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13051/index.m3u8
-#EXTINF:-1,Свердловская киностудия
-http://185.234.59.200:9090/channel/2ca97b95/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-
-#EXTINF:-1,Сверъественное
-http://185.234.59.200:9090/channel/n59fe43e1/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-
-#EXTINF:-1,Свинка Пеппа
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30158/index.m3u8
-
-#EXTINF:-1,Своя Игра
-https://cdn-dvr.ntv.ru/svoya_igra/tracks-v1a1/rewind-240.ts.m3u8
-
-#EXTINF:-1,Секретные материалы
-http://185.234.59.200:9090/channel/n5e77a0b1/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-
-#EXTINF:-1,Секретные материалы 2
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11055/index.m3u8
-
-#EXTINF:-1,Секс в большом городе
-http://185.234.59.200:9090/channel/3981b951/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-
-#EXTINF:-1,Семейное кино
-http://188.225.31.197/bpk-tv/000008489/tve/index.m3u8
-
-#EXTINF:-1,Семейный 2
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13098/index.m3u8
-
-#EXTINF:-1,Семейный 3
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13097/index.m3u8
-
-#EXTINF:-1,Сериал
-http://185.234.59.200:9090/channel/69835d3b/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-
-#EXTINF:-1,Сериал 4к
-http://185.234.59.200:9090/channel/n52012c64/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-
-#EXTINF:-1,Сериал кухня
-http://185.234.59.200:9090/channel/1bd1532a/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-
-#EXTINF:-1,Сериалы
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31665/index.m3u8
-
-#EXTINF:-1,Сериальчик
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31931/index.m3u8
-
-#EXTINF:-1,Сибирские дома
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18133/index.m3u8
-
-#EXTINF:-1,Симпсоны
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30169/index.m3u8
-
-#EXTINF:-1,Синематограф
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13061/index.m3u8
-
-#EXTINF:-1,Ситком
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13052/index.m3u8
-
-#EXTINF:-1,Ситком 2.0
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13046/index.m3u8
-
-#EXTINF:-1,Сказки СССР
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13021/index.m3u8
-
-#EXTINF:-1,Скорая
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/15100/index.m3u8
-
-#EXTINF:-1,Скорая помощь
-https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
-
-#EXTINF:-1,Скорость
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13053/index.m3u8
-
-#EXTINF:-1,Скуби-ду
-http://185.234.59.200:9090/channel/2350f52f/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-
-#EXTINF:-1,След
-http://185.234.59.200:9090/channel/19aef85d/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-
-#EXTINF:-1,Следствие вели...
-https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1,Смешарики
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30168/index.m3u8
-
-#EXTINF:-1,Смотрим Классика
-http://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338.m3u8
-
-#EXTINF:-1,Советская классика
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/30151/index.m3u8
-
-#EXTINF:-1,Советская классика
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/2146/index.m3u8
-
-#EXTINF:-1,Советское кино
-http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
-
-#EXTINF:-1,Солдаты
-http://185.234.59.200:9090/channel/n2a045a21/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-
-#EXTINF:-1,Союзмультфильм
-http://194.26.229.213/souzmultfilm/index.m3u8
-
-#EXTINF:-1,Союзмультфильм
-http://185.234.59.200:9090/channel/n2d6853a9/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-
-#EXTINF:-1,Спецназ диверсант
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/20176/index.m3u8
-
-#EXTINF:-1,Спортивка
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13054/index.m3u8
-
-#EXTINF:-1,Стивен Кинг
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13055/index.m3u8
-
-#EXTINF:-1,Страх
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11069/index.m3u8
-#EXTINF:-1,Страх 2.0
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31720/index.m3u8
-
-#EXTINF:-1,Страшное
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/7247/index.m3u8
-
-#EXTINF:-1,Стройка
-http://185.234.59.200:9090/channel/n22e5d5b4/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Супергерои 2
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13056/index.m3u8
-
-#EXTINF:-1,Суперкрошки
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30165/index.m3u8
-
-#EXTINF:-1,Счастливы вместе
-http://185.234.59.200:9090/channel/n7accaef4/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-
-#EXTINF:-1,Тайны следствия
-http://185.234.59.200:9090/channel/1443d724/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-
-#EXTINF:-1,Танос
-http://185.234.59.200:8080/SKY_HIGH_TANOS_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-
-#EXTINF:-1,Твоё ТВ
-http://tvoetv.space:8080/tvoetv/index.m3u8
-
-#EXTINF:-1,Твоё ТВ Юмор
-http://tvoetv.space:8080/tvoetv_humor/video.m3u8
-
-#EXTINF:-1,Телеклуб
-http://s7.merlive.am/Kinoman/index.m3u8
-
-#EXTINF:-1,Теория большого взрыва
-http://185.234.59.200:9090/channel/63fad5f/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-
-#EXTINF:-1,Тимон и пумба
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30164/index.m3u8
-
-#EXTINF:-1,Том и Джерри
-http://185.234.59.200:9090/channel/n332cfce7/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-
-#EXTINF:-1,Том и Джерри 2
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13016/index.m3u8
-
-#EXTINF:-1,Три кота
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30157/index.m3u8
-
-#EXTINF:-1,Триколор 3 богатыря
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18132/index.m3u8
-
-#EXTINF:-1,Триколор Знание
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18134/index.m3u8
-
-#EXTINF:-1,Триколор Мелодрамы
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18129/index.m3u8
-
-#EXTINF:-1,Триколор Ментовские войны
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18128/index.m3u8
-#EXTINF:-1,Триколор След
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18127/index.m3u8
-
-#EXTINF:-1,Триколор Смешарики
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18136/index.m3u8
-
-#EXTINF:-1,Триколор комедии
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18137/index.m3u8
-
-#EXTINF:-1,Триколор мир без границ
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18130/index.m3u8
-
-#EXTINF:-1,Триколор некрасивая подружка
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18131/index.m3u8
-
-#EXTINF:-1,Триколор советмульт
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18135/index.m3u8
-
-#EXTINF:-1,Триллер
-http://185.234.59.200:9090/channel/7eba127c/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-
-#EXTINF:-1,Турецкий сериал
-http://185.234.59.200:9090/channel/1a838d17/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-
-#EXTINF:-1,Ты супер !
-https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
-
-#EXTINF:-1,УЖАСТИК
-http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
-
-#EXTINF:-1,Ужас
-http://185.234.59.200:9090/channel/1c49ef83/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-
-#EXTINF:-1,Ужастик
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13059/index.m3u8
-#EXTINF:-1,Ужасы
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13099/index.m3u8
-
-#EXTINF:-1,Ужасы vhs
-http://185.234.59.200:9090/channel/nffb23c/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-
-#EXTINF:-1,Ужасы классические
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/14128/index.m3u8
-
-#EXTINF:-1,Универ
-http://185.234.59.200:9090/channel/6d5a11a3/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-
-#EXTINF:-1,Универ 2
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11063/index.m3u8
-
-#EXTINF:-1,Универ новая общага
-http://185.234.59.200:9090/channel/n6d1e893c/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-
-#EXTINF:-1,Уральские пельмени
-http://185.234.59.200:9090/channel/124864a5/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-
-#EXTINF:-1,Утиные истории
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30156/index.m3u8
-
-#EXTINF:-1,ФАНТАСТИКА
-http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
-
-#EXTINF:-1,Фантастика
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11070/index.m3u8
-
-#EXTINF:-1,Фантастика 2.0
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31722/index.m3u8
-#EXTINF:-1,Фантастическое
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13062/index.m3u8
-
-#EXTINF:-1,Фильмы СССР
-http://185.234.59.200:9090/channel/n6aabccf9/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-
-#EXTINF:-1,Фитнес
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31629/index.m3u8
-
-#EXTINF:-1,Фобия
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13063/index.m3u8
-
-#EXTINF:-1,Хит парад
-http://185.234.59.200:9090/channel/n44c8e20f/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-
-#EXTINF:-1,Хитяра тв
-http://185.57.68.33/237/mpegts
-
-#EXTINF:-1,Ходячие мертвецы
-http://185.234.59.200:9090/channel/n55c845c9/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-
-#EXTINF:-1,Чернобыль
-http://185.234.59.200:9090/channel/30f28c5a/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-
-#EXTINF:-1,Чип и Дейл
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30191/index.m3u8
-
-#EXTINF:-1,Чип и Дейл
-http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
-#EXTINF:-1,Чудеса на виражах
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30192/index.m3u8
-
-#EXTINF:-1,Шансончик
-http://185.234.59.200:9090/channel/752d9a6f/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-
-#EXTINF:-1,Шерлок Холмс
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18126/index.m3u8
-
-#EXTINF:-1,Шеф
-https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1,Шокирующее
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/6299/index.m3u8
-
-#EXTINF:-1,Шоу
-http://t8nlftib.russtv.net/iptv/QYUYWWB6GEC9F9Z5TSDEWH95/17030/index.m3u8
-
-#EXTINF:-1,Щенячий патруль
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30167/index.m3u8
-
-#EXTINF:-1,Эквадор ТВ
-https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8
-#EXTINF:-1,Экстрасенсы
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30190/index.m3u8
-#EXTINF:-1,Юмор 18+
-http://185.234.59.200:9090/channel/n3604f928/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Юнит
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11071/index.m3u8
-#EXTINF:-1,Кино 4к
-http://185.234.59.200:9090/channel/5983ec54/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,НВО
-http://185.234.59.200:9090/channel/n5a118def/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,окко спорт
-http://185.234.59.200:8080/okko_sport_hd/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,окко футбол
-http://185.234.59.200:8080/okko_futbol_hd/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,тоталmusic 80
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1,Flip
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13057/index.m3u8
-#EXTINF:-1,IPTVPLAY ВЕДЬМАК
-http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:0,Clarity4K Asia
 #EXTGRP:Clarity4K
 http://hls127.freeott.top:8080/Clarity4K_Asia/mono.m3u8
@@ -2327,3 +1564,836 @@ http://hls127.freeott.top:8080/Clarity4K_Edinoborstva/mono.m3u8
 #EXTINF:0,Clarity4K Космомир
 #EXTGRP:Clarity4K
 http://hls127.freeott.top:8080/Clarity4K_Kosmomir/mono.m3u8
+
+#EXTINF:-1,Blockbusters Time
+#EXTGRP:Разные
+http://kinowalk.hopto.org/blockbusterstime_live
+#EXTINF:-1,BUDO
+#EXTGRP:Разные
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13003/index.m3u8
+#EXTINF:-1,Bunny
+#EXTGRP:Разные
+http://185.234.59.200:8080/BUNNYHD/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1,Cinema
+#EXTGRP:Разные
+http://176.118.197.101/Cinema/index.m3u8
+#EXTINF:-1,Cinema Time
+#EXTGRP:Разные
+http://kinowalk.hopto.org/cinemaa_live
+#EXTINF:-1,Dimpon HD
+#EXTGRP:Разные
+http://kinowalk.hopto.org/dimpon_live
+#EXTINF:-1,DTR Zona 1
+#EXTGRP:Разные
+https://kino-stream.online/hls/DTRZONA1.m3u8
+#EXTINF:-1,Epic Drama
+#EXTGRP:Разные
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/1048/index.m3u8
+#EXTINF:-1,FlixShip
+#EXTGRP:Разные
+http://188.225.31.197/bpk-tv/000004466/tve/index.m3u8
+#EXTINF:-1,Hollywood TV
+#EXTGRP:Разные
+http://193.25.8.59:8000/interaz
+#EXTINF:-1,Horror
+#EXTGRP:SKI HIGH
+http://185.234.59.200:8080/SKY_HIGH_HORROR_4K_HDR/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1,Kinoliving
+#EXTGRP:Разные
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/16018/index.m3u8
+#EXTINF:-1,Kinoword
+#EXTGRP:Разные
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31447/index.m3u8
+#EXTINF:-1,Kinojam
+EXTGRP:Разные
+http://kinowalk.hopto.org/kinojam_live
+#EXTINF:-1,LIVE TV
+#EXTGRP:Разные
+http://tv.mobyservice.ru/livetv/index.m3u8
+#EXTINF:-1,Lo-fi
+#EXTGRP:BOX
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31545/index.m3u8
+#EXTINF:-1,Moviee Toper
+#EXTGRP:Разные
+http://kinowalk.hopto.org/movietoper_live
+#EXTINF:-1,Plan B
+#EXTGRP:Разные
+http://188.225.31.197/bpk-tv/000007625/tve/index.m3u8
+#EXTINF:-1,PRO100 TV
+#EXTGRP:Разные
+http://sirius.greenhosting.ru/Pro100tvRu/tracks-v1a1/mono.m3u8
+#EXTINF:-1,S Horror
+#EXTGRP:Разные
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31708/index.m3u8
+#EXTINF:-1,Saga TV
+#EXTGRP:Разные
+http://46.175.123.164:4022/udp/239.195.65.56:1234
+#EXTINF:-1,Sky200
+#EXTGRP:Разные
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11054/index.m3u8
+#EXTINF:-1,Start World
+#EXTGRP:Разные
+http://188.225.31.197/bpk-tv/000007818/tve/index.m3u8
+#EXTINF:-1,Stryk tv
+#EXTGRP:Разные
+https://fffffff110156200.tvustream.com:8298/ryfy.m3u8
+#EXTINF:-1,TimeMovie
+#EXTGRP:Разные
+http://kinowalk.hopto.org/timetomovie_live
+#EXTINF:-1,TimeToHorror FHD
+#EXTGRP:Разные
+http://kinowalk.hopto.org/timetohorror_live
+#EXTINF:-1,TV 21
+#EXTGRP:Разные
+http://188.225.31.197/bpk-tv/000000006/tve/index.m3u8
+#EXTINF:-1,VELES KIDS
+#EXTGRP:Разные
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/31646/index.m3u8
+#EXTINF:-1,VHS CLASSIC
+#EXTGRP:Разные
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/19429/index.m3u8
+#EXTINF:-1,VHS KA
+#EXTGRP:Разные
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/5006/index.m3u8
+#EXTINF:-1,VHS STRAH
+#EXTGRP:Разные
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11059/index.m3u8
+#EXTINF:-1,Арсенал
+#EXTGRP:Разные
+http://kinowalk.hopto.org/videoarsenal_live
+#EXTINF:-1,Байки из склепа
+#EXTGRP:Разные
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31711/index.m3u8
+#EXTINF:-1,Бивис и Батт
+#EXTGRP:VENERA.TV
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30193/index.m3u8
+#EXTINF:-1,Блокбастер
+#EXTGRP:Разные
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/9087/index.m3u8
+#EXTINF:-1,Великолепный век
+#EXTGRP:Разные
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13001/index.m3u8
+#EXTINF:-1,Веселая карусель
+#EXTGRP:Разные
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11057/index.m3u8
+#EXTINF:-1,ВидеоМастер
+#EXTGRP:Разные
+http://kinowalk.hopto.org/video_prokat_live
+#EXTINF:-1,Громовы
+#EXTGRP:Разные
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31712/index.m3u8
+#EXTINF:-1,Душевное
+#EXTGRP:Разные
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/914/index.m3u8
+#EXTINF:-1,Еврокино
+#EXTGRP:Разные
+http://193.25.8.59:8000/eurokino
+#EXTINF:-1,Интерны 2
+#EXTGRP:Разные
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11060/index.m3u8
+#EXTINF:-1,Камеди
+#EXTGRP:Разные
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/9091/index.m3u8
+#EXTINF:-1,Кинеко
+#EXTGRP:Разные
+http://193.25.8.59:8000/fox
+#EXTINF:-1,Кино 24
+#EXTGRP:Разные
+http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+#EXTINF:-1,Кино без границ
+#EXTGRP:Разные
+http://185.57.68.33:8091/237/playlist.m3u8
+#EXTINF:-1,Кинобоевик
+#EXTGRP:Разные
+http://188.225.31.197/bpk-tv/000008490/tve/index.m3u8
+#EXTINF:-1,Кинодром
+#EXTGRP:Разные
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31714/index.m3u8
+#EXTINF:-1,Киножелезо
+#EXTGRP:Разные
+http://188.208.197.173/kinojelezo/video.m3u8?token=tvon
+#EXTINF:-1,Кинозалик
+#EXTGRP:Разные
+https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210_output_0.m3u8?session=bomhMGCHEtND9D3hX7kb4M
+#EXTINF:-1,Кинокомедия
+#EXTGRP:>>>
+http://5.188.159.128:8070/kinosvidanie/index.m3u8
+#EXTINF:-1,Кинолампа
+#EXTGRP:Разные
+http://kinowalk.hopto.org/kinolampa_live
+#EXTINF:-1,Кинолаффка
+#EXTGRP:Разные
+http://188.208.197.173/kinolafka/video.m3u8?token=tvon
+#EXTINF:-1,Киноман
+#EXTGRP:Разные
+http://188.225.31.197/bpk-tv/000003871/tve/index.m3u8
+#EXTINF:-1,Киномикс
+#EXTGRP:>>>
+http://158.101.222.193:88/georgia_play.php?id=kinomiks
+#EXTINF:-1,Кинопремьера
+#EXTGRP:>>>
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/9020/index.m3u8
+#EXTINF:-1,Киносвидание
+#EXTGRP:>>>
+http://5.188.159.128:8070/kinosvidanie/index.m3u8
+#EXTINF:-1,Киносемья
+#EXTGRP:>>>
+http://158.101.222.193:88/georgia_play.php?id=kinosemya
+#EXTINF:-1,Киносерия
+#EXTGRP:>>>
+http://158.101.222.193:88/georgia_play.php?id=kinoseria
+#EXTINF:-1,Киноужас
+#EXTGRP:>>>
+http://158.101.222.193:88/georgia_play.php?id=kinoujas
+#EXTINF:-1,Кинохит
+#EXTGRP:Разные
+http://158.101.222.193:88/georgia_play.php?id=kinohit
+#EXTINF:-1,Кион хит
+#EXTGRP:Разные
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/20211/index.m3u8
+#EXTINF:-1,Клиника
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/5e6b6b04/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Ключайка
+#EXTGRP:Разные
+https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=QltsCpJv4zS2J2PXJe5VOg&e=2070450958&scheme=https
+#EXTINF:-1,Коломбо
+#EXTGRP:Разные
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31713/index.m3u8
+#EXTINF:-1,Комедии
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/63bea0ca/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Комедийное
+#EXTGRP:Разные
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/912/index.m3u8
+#EXTINF:-1,Комедийные сериалы
+#EXTGRP:CINEMAN
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31628/index.m3u8
+#EXTINF:-1,Комедия СССР
+#EXTGRP:MM
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13019/index.m3u8
+#EXTINF:-1,Комиксы
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/n66d2d764/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Контент моего детства
+#EXTGRP:Разные
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/20001/index.m3u8
+#EXTINF:-1,Концерты
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/16ba75c5/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Корги по имени Мокко
+#EXTGRP:VENERA.TV
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30184/index.m3u8
+#EXTINF:-1,Король и шут
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/n4439966a/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Космо
+#EXTGRP:Разные
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11065/index.m3u8
+#EXTINF:-1,Космос
+#EXTGRP:VENERA.TV
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/30197/index.m3u8
+#EXTINF:-1,Крепыш и его команда
+#EXTGRP:VENERA.TV
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30183/index.m3u8
+#EXTINF:-1,Криминал
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/777315be/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Криминал 2
+#EXTGRP:MM
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13039/index.m3u8
+#EXTINF:-1,Криминальные сериалы
+#EXTGRP:CINEMAN
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31626/index.m3u8
+#EXTINF:-1,Крутые 90е
+#EXTGRP:MM
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13040/index.m3u8
+#EXTINF:-1,Кунг-фу
+#EXTGRP:MM
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13041/index.m3u8
+#EXTINF:-1,Легенды ретро
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/n64eef067/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Леди Баг
+#EXTGRP:VENERA.TV
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30182/index.m3u8
+#EXTINF:-1,Ленфильм
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/n5d975628/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Лесник
+#EXTGRP:CINEMAN
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/16065/index.m3u8
+#EXTINF:-1,Луи де Фюнес
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/d84cd4/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Любимое
+#EXTGRP:Разные
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/2106/index.m3u8
+#EXTINF:-1,Майкл Джексон
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/n68a02a6a/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Малыш
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/1be4bb40/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Маски шоу
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/n7caae0c/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Маша и Медведь 2
+#EXTGRP:VENERA.TV
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30180/index.m3u8
+#EXTINF:-1,Машина времени кинозал
+#EXTGRP:Разные
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31929/index.m3u8
+#EXTINF:-1,Ментовские войны
+#EXTGRP:CINEMAN
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/16063/index.m3u8
+#EXTINF:-1,Микки Маус
+#EXTGRP:VENERA.TV
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30179/index.m3u8
+#EXTINF:-1,Мини
+#EXTGRP:VENERA.TV
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30178/index.m3u8
+#EXTINF:-1,Мировое кино
+#EXTGRP:Разные
+http://188.225.31.197/bpk-tv/000008488/tve/index.m3u8
+#EXTINF:-1,Мифология
+#EXTGRP:MM
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13044/index.m3u8
+#EXTINF:-1,Мишки Гамми
+#EXTGRP:VENERA.TV
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30177/index.m3u8
+#EXTINF:-1,Мосфильм
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/n12cab184/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Мужское тв
+#EXTGRP:>>>
+http://158.101.222.193:88/georgia_play.php?id=interesnoetv
+#EXTINF:-1,Муз нг
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/4f5a2cf4/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Музыка
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/61bc9c55/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,МультСказки
+#EXTGRP:IPTV-PLAY
+http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1,Мультсоюз
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/n2a2d868e/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Мультуб
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/n29f01acc/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Мультфильм СССР
+#EXTGRP:MM
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13020/index.m3u8
+#EXTINF:-1,Мультфильмы СССР
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/dd63185/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Мыльные оперы
+#EXTGRP:Разные
+http://185.234.59.200:9090/channel/5fcebda2/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Мюзикл
+#EXTGRP:LIBERTY
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31662/index.m3u8
+#EXTINF:-1,НУАР
+#EXTGRP:MM
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13045/index.m3u8
+#EXTINF:-1,Назад в СССР
+#EXTGRP:Разные
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/20175/index.m3u8
+#EXTINF:-1,Научпоп
+#EXTGRP:Разные
+http://t8nlftib.russtv.net/iptv/QYUYWWB6GEC9F9Z5TSDEWH95/31924/index.m3u8
+#EXTINF:-1,Наш Кинопоказ
+#EXTGRP:Разные
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/9086/index.m3u8
+#EXTINF:-1,Наша Раша
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/n4a29b367/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Наша победа
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/n30e8cca0/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Невский
+#EXTGRP:НТВ
+https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,Новогодние мульты
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/292969e0/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Новогодний
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/d65b946/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Новый Русский
+#EXTGRP:Разные
+https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1_output_0.m3u8?session=U3YFrmmaaXDngd96fHTti7
+#EXTINF:-1,Ну
+#EXTGRP:VENERA.TV
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30161/index.m3u8
+#EXTINF:-1,О! Кино
+#EXTGRP:Разные
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/20023/index.m3u8
+#EXTINF:-1,ОСП СТУДИЯ
+#EXTGRP:Разные
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/16004/index.m3u8
+#EXTINF:-1,Одесская киностудия
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/17ce964a/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Однажды в Милиции
+#EXTGRP:Разные
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31715/index.m3u8
+#EXTINF:-1,Однажды в России
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/n1e05434/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Окко прайм
+#EXTGRP:OKKO
+http://185.234.59.200:8080/okko_praym_sport_hd/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1,Ольга
+#EXTGRP:Разные
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31718/index.m3u8
+#EXTINF:-1,Орёл и решка
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/2f3d9d6d/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Оскар
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/1c089d83/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Осторожно модерн
+#EXTGRP:Разные
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/16005/index.m3u8
+#EXTINF:-1,Охота
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/1c0a8021/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Охотники за привидениями
+#EXTGRP:VENERA.TV
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30175/index.m3u8
+#EXTINF:-1,Очень страшные делишки
+#EXTGRP:VENERA.TV
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30176/index.m3u8
+#EXTINF:-1,ПАМЯТЬ
+#EXTGRP:IPTV-PLAY
+http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1,Панда и Антилопа
+#EXTGRP:VENERA.TV
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30174/index.m3u8
+#EXTINF:-1,Первый Отдел
+#EXTGRP:НТВ
+https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,Погружение
+#EXTGRP:MM
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13047/index.m3u8
+#EXTINF:-1,Подводная Одиссея
+#EXTGRP:VENERA.TV
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30196/index.m3u8
+#EXTINF:-1,Полицейский с рублевки
+#EXTGRP:MM
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13049/index.m3u8
+#EXTINF:-1,Приключения 2
+#EXTGRP:MM
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13048/index.m3u8
+#EXTINF:-1,Приключения СССР
+#EXTGRP:MM
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13060/index.m3u8
+#EXTINF:-1,Про Любовь
+#EXTGRP:Разные
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/9089/index.m3u8
+#EXTINF:-1,Просто Классика
+#EXTGRP:MM
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/16085/index.m3u8
+#EXTINF:-1,Просто Комедмя
+#EXTGRP:MM
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13038/index.m3u8
+#EXTINF:-1,Просто наука
+#EXTGRP:LIBERTY
+http://t8nlftib.russtv.net/iptv/QYUYWWB6GEC9F9Z5TSDEWH95/19305/index.m3u8
+#EXTINF:-1,Простоквашино
+#EXTGRP:VENERA.TV
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30160/index.m3u8
+#EXTINF:-1,Путешествия
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/74270aa0/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Пчелка Майя
+#EXTGRP:VENERA.TV
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30173/index.m3u8
+#EXTINF:-1,Пять минут тишины
+#EXTGRP:Разные
+https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1,Пёс
+#EXTGRP:НТВ
+https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1,Пёс и лихач
+#EXTGRP:CINEMAN
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/16064/index.m3u8
+#EXTINF:-1,Рапунцель
+#EXTGRP:VENERA.TV
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30172/index.m3u8
+#EXTINF:-1,Реальные пацаны
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/3c4b5f0a/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Репка
+#EXTGRP:Разные
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31719/index.m3u8
+#EXTINF:-1,Рижская киностудия
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/n2782a1ca/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Рик и Морти
+#EXTGRP:VENERA.TV
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30171/index.m3u8
+#EXTINF:-1,Родное кино
+#EXTGRP:>>>
+http://176.118.197.101/RodnoeKino/index.m3u8
+#EXTINF:-1,Розовая пантера
+#EXTGRP:VENERA.TV
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30170/index.m3u8
+#EXTINF:-1,Росскино
+#EXTGRP:MM
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13050/index.m3u8
+#EXTINF:-1,Русский бестселлер
+#EXTGRP:Разные
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/905/index.m3u8
+#EXTINF:-1,Русский детектив
+#EXTGRP:Разные
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/907/index.m3u8
+#EXTINF:-1,Русский рок
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/718b3db0/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Русское
+#EXTGRP:Разные
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31925/index.m3u8
+#EXTINF:-1,Русское 90е
+#EXTGRP:Познавательные
+http://185.234.59.200:9090/channel/n30e1bc93/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Рыбалка
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/n494a299d/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Рязанов
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/2392d973/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,С новым годом
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/174fc91b/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,СССР
+#EXTGRP:Разные
+http://0f7612d9.edmonst.net/iptv/UCVET5HKPH8EZF/31643/index.m3u8
+#EXTINF:-1,Сан франц
+#EXTGRP:Музыкальные
+http://204.199.3.2/.m3u8
+#EXTINF:-1,СашаТаня
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/1ad1dc5b/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Сваты
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/1c2bef24/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Сваты
+#EXTGRP:Разные
+http://0f7612d9.edmonst.net/iptv/UCVET5HKPH8EZF/31624/index.m3u8
+#EXTINF:-1,Сваты 4
+#EXTGRP:CINEMAN
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11014/index.m3u8
+#EXTINF:-1,Сваты 5
+#EXTGRP:MM
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13051/index.m3u8
+#EXTINF:-1,Свердловская киностудия
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/2ca97b95/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Сверъественное
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/n59fe43e1/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Свинка Пеппа
+#EXTGRP:VENERA.TV
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30158/index.m3u8
+#EXTINF:-1,Своя Игра
+#EXTGRP:НТВ
+https://cdn-dvr.ntv.ru/svoya_igra/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1,Секретные материалы
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/n5e77a0b1/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Секретные материалы 2
+#EXTGRP:Разные
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11055/index.m3u8
+#EXTINF:-1,Секс в большом городе
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/3981b951/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Семейное кино
+#EXTGRP:Разные
+http://188.225.31.197/bpk-tv/000008489/tve/index.m3u8
+#EXTINF:-1,Семейный 2
+#EXTGRP:MM
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13098/index.m3u8
+#EXTINF:-1,Семейный 1
+#EXTGRP:MM
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13097/index.m3u8
+#EXTINF:-1,Сериал
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/69835d3b/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Сериал 4к
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/n52012c64/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Сериал кухня
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/1bd1532a/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Сериалы
+#EXTGRP:LIBERTY
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31665/index.m3u8
+#EXTINF:-1,Сериальчик
+#EXTGRP:Разные
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31931/index.m3u8
+#EXTINF:-1,Симпсоны
+#EXTGRP:VENERA.TV
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30169/index.m3u8
+#EXTINF:-1,Синематограф
+#EXTGRP:MM
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13061/index.m3u8
+#EXTINF:-1,Ситком
+#EXTGRP:MM
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13052/index.m3u8
+#EXTINF:-1,Ситком 2.0
+#EXTGRP:MM
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13046/index.m3u8
+#EXTINF:-1,Сказки СССР
+#EXTGRP:MM
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13021/index.m3u8
+#EXTINF:-1,Скорая
+#EXTGRP:CINEMAN
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/15100/index.m3u8
+#EXTINF:-1,Скорая помощь
+#EXTGRP:Разные
+https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1,Скорость
+#EXTGRP:MM
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13053/index.m3u8
+#EXTINF:-1,Скуби-ду
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/2350f52f/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,След
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/19aef85d/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Следствие вели...
+#EXTGRP:НТВ
+https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1,Смешарики
+#EXTGRP:VENERA.TV
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30168/index.m3u8
+#EXTINF:-1,Советская классика
+#EXTGRP:VENERA.TV
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/30151/index.m3u8
+#EXTINF:-1,Советская классика
+#EXTGRP:Разные
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/2146/index.m3u8
+#EXTINF:-1,Солдаты
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/n2a045a21/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Союзмультфильм
+#EXTGRP:Разные
+http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:-1,Союзмультфильм
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/n2d6853a9/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Спецназ диверсант
+#EXTGRP:Разные
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/20176/index.m3u8
+#EXTINF:-1,Спортивка
+#EXTGRP:MM
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13054/index.m3u8
+#EXTINF:-1,Стивен Кинг
+#EXTGRP:MM
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13055/index.m3u8
+#EXTINF:-1,Страх
+#EXTGRP:Разные
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11069/index.m3u8
+#EXTINF:-1,Страх 2.0
+#EXTGRP:Разные
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31720/index.m3u8
+#EXTINF:-1,Страшное
+#EXTGRP:Разные
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/7247/index.m3u8
+#EXTINF:-1,Стройка
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/n22e5d5b4/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Супергерои 2
+#EXTGRP:MM
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13056/index.m3u8
+#EXTINF:-1,Суперкрошки
+#EXTGRP:VENERA.TV
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30165/index.m3u8
+#EXTINF:-1,Счастливы вместе
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/n7accaef4/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Тайны следствия
+#EXTGRP:Разные
+http://185.234.59.200:9090/channel/1443d724/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Танос
+#EXTGRP:SKI HIGH
+http://185.234.59.200:8080/SKY_HIGH_TANOS_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1,Теория большого взрыва
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/63fad5f/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Тимон и пумба
+#EXTGRP:VENERA.TV
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30164/index.m3u8
+#EXTINF:-1,Том и Джерри
+#EXTGRP:Разные
+http://185.234.59.200:9090/channel/n332cfce7/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Том и Джерри 2
+#EXTGRP:MM
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13016/index.m3u8
+#EXTINF:-1,Три кота
+#EXTGRP:VENERA.TV
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30157/index.m3u8
+#EXTINF:-1,Триколор 3 богатыря
+#EXTGRP:Tricolor
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18132/index.m3u8
+#EXTINF:-1,Триколор Знание
+#EXTGRP:Tricolor
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18134/index.m3u8
+#EXTINF:-1,Триколор Мелодрамы
+#EXTGRP:Tricolor
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18129/index.m3u8
+#EXTINF:-1,Триколор Ментовские войны
+#EXTGRP:Tricolor
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18128/index.m3u8
+#EXTINF:-1,Триколор След
+#EXTGRP:Tricolor
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18127/index.m3u8
+#EXTINF:-1,Триколор Смешарики
+#EXTGRP:Tricolor
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18136/index.m3u8
+#EXTINF:-1,Триколор комедии
+#EXTGRP:Tricolor
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18137/index.m3u8
+#EXTINF:-1,Триколор мир без границ
+#EXTGRP:Tricolor
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18130/index.m3u8
+#EXTINF:-1,Триколор некрасивая подружка
+#EXTGRP:Tricolor
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18131/index.m3u8
+#EXTINF:-1,Триколор советмульт
+#EXTGRP:Tricolor
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18135/index.m3u8
+#EXTINF:-1,Триллер
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/7eba127c/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Турецкий сериал
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/1a838d17/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Ты супер !
+#EXTGRP:НТВ
+https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1,УЖАСТИК
+#EXTGRP:IPTV-PLAY
+http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1,Ужас
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/1c49ef83/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Ужастик
+#EXTGRP:MM
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13059/index.m3u8
+#EXTINF:-1,Ужасы
+#EXTGRP:MM
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13099/index.m3u8
+#EXTINF:-1,Ужасы vhs
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/nffb23c/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Ужасы классические
+#EXTGRP:MM
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/14128/index.m3u8
+#EXTINF:-1,Универ
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/6d5a11a3/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Универ 2
+#EXTGRP:Разные
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11063/index.m3u8
+#EXTINF:-1,Универ новая общага
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/n6d1e893c/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Уральские пельмени
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/124864a5/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Утиные истории
+#EXTGRP:VENERA.TV
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30156/index.m3u8
+#EXTINF:-1,ФАНТАСТИКА
+#EXTGRP:IPTV-PLAY
+http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1,Фантастика
+#EXTGRP:Разные
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11070/index.m3u8
+#EXTINF:-1,Фантастика 2.0
+#EXTGRP:Разные
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31722/index.m3u8
+#EXTINF:-1,Фантастическое
+#EXTGRP:MM
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13062/index.m3u8
+#EXTINF:-1,Фильмы СССР
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/n6aabccf9/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Фитнес
+#EXTGRP:Познавательные
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31629/index.m3u8
+#EXTINF:-1,Фобия
+#EXTGRP:MM
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13063/index.m3u8
+#EXTINF:-1,Хит парад
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/n44c8e20f/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Хитяра тв
+#EXTGRP:Разные
+http://185.57.68.33/237/mpegts
+#EXTINF:-1,Ходячие мертвецы
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/n55c845c9/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Чернобыль
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/30f28c5a/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Чип и Дейл
+#EXTGRP:VENERA.TV
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30191/index.m3u8
+#EXTINF:-1,Чип и Дейл
+#EXTGRP:Разные
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:-1,Чудеса на виражах
+#EXTGRP:VENERA.TV
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30192/index.m3u8
+#EXTINF:-1,Шансончик
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/752d9a6f/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Шерлок Холмс
+#EXTGRP:Разные
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18126/index.m3u8
+#EXTINF:-1,Шеф
+#EXTGRP:НТВ
+https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,Шокирующее
+#EXTGRP:Разные
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/6299/index.m3u8
+#EXTINF:-1,Шоу
+#EXTGRP:LIBERTY
+http://t8nlftib.russtv.net/iptv/QYUYWWB6GEC9F9Z5TSDEWH95/17030/index.m3u8
+#EXTINF:-1,Щенячий патруль
+#EXTGRP:VENERA.TV
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30167/index.m3u8
+#EXTINF:-1,Экстрасенсы
+#EXTGRP:VENERA.TV
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30190/index.m3u8
+#EXTINF:-1,Юмор 18+
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/n3604f928/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,Юнит
+#EXTGRP:Разные
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11071/index.m3u8
+#EXTINF:-1,Кино 4к
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/5983ec54/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,НВО
+#EXTGRP:VF
+http://185.234.59.200:9090/channel/n5a118def/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1,окко спорт
+#EXTGRP:OKKO
+http://185.234.59.200:8080/okko_sport_hd/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1,окко футбол
+#EXTGRP:OKKO
+http://185.234.59.200:8080/okko_futbol_hd/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1,тоталmusic 80
+#EXTGRP:Музыкальные
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1,Flip
+#EXTGRP:Разные
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13057/index.m3u8
+
