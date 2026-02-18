@@ -998,7 +998,9 @@ https://fffffff110156200.tvustream.com:8298/ryfy.m3u8
 #EXTINF:-1,Teen
 #EXTGRP:SKY HIGH
 http://185.234.59.200:8080/SKY_HIGH_TEEN_FHD/video.m3u8?token=5uGLTS1oibSIu0
-
+#EXTINF:-1,Tanos
+#EXTGRP:SKI HIGH
+http://185.234.59.200:8080/SKY_HIGH_TANOS_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,Toon
 #EXTGRP:SKY HIGH
 http://185.234.59.200:8080/SKY_HIGH_TOON_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
@@ -2120,9 +2122,6 @@ http://185.234.59.200:9090/channel/n7accaef4/index.m3u8?q=406925e0657258d990e0f9
 #EXTINF:-1,Тайны следствия
 #EXTGRP:Разные
 http://185.234.59.200:9090/channel/1443d724/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Танос
-#EXTGRP:SKY HIGH
-http://185.234.59.200:8080/SKY_HIGH_TANOS_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,Теория большого взрыва
 #EXTGRP:VF
 http://185.234.59.200:9090/channel/63fad5f/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
