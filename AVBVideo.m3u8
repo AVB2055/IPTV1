@@ -388,56 +388,48 @@ http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/20219/index.m3u8
 #EXTINF:-1,EYE FAMILY
 #EXTGRP:EYE
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/20216/index.m3u8
-
 #EXTINF:-1,Eye frozen
 #EXTGRP:EYE
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/17066/index.m3u8
 #EXTINF:-1,eye history
 #EXTGRP:EYE
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/20217/index.m3u8
-
 #EXTINF:-1,Eye media
 #EXTGRP:EYE
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/17064/index.m3u8
 #EXTINF:-1,Eye Modern
 #EXTGRP:EYE
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/17068/index.m3u8
-
 #EXTINF:-1,Eye oscar
 #EXTGRP:EYE
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/17065/index.m3u8
 #EXTINF:-1,Eye western
 #EXTGRP:EYE
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/20218/index.m3u8
-
 #EXTINF:-1,F Cinema
 #EXTGRP:FRESH
 http://cdn.iptvcinema.ru/fresh_cinema/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0
 #EXTINF:-1,F Comedy
 #EXTGRP:FRESH
 http://cdn.iptvcinema.ru/fresh_comedy/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0
-
 #EXTINF:-1,F Family
 #EXTGRP:FRESH
 http://cdn.iptvcinema.ru/fresh_family/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0
 #EXTINF:-1,F Fantasy
 #EXTGRP:FRESH
 http://cdn.iptvcinema.ru/fresh_fantastic/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0
-
 #EXTINF:-1,F KIDS
 #EXTGRP:FRESH
 http://cdn.iptvcinema.ru/fresh_kids/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0
 #EXTINF:-1,F Premiere
 #EXTGRP:FRESH
 http://cdn.iptvcinema.ru/fresh_premiere/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0
-
 #EXTINF:-1,F Rating
 #EXTGRP:FRESH
 http://cdn.iptvcinema.ru/fresh_rating/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0
 #EXTINF:-1,F Romantic
 #EXTGRP:FRESH
 http://cdn.iptvcinema.ru/fresh_romantic/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0
-
 #EXTINF:-1,F Russian
 #EXTGRP:FRESH
 http://cdn.iptvcinema.ru/fresh_russian/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0
@@ -462,124 +454,105 @@ http://185.234.59.200:8080/SKY_HIGH_FIREZONE_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,Fresh adv
 #EXTGRP:FRESH
 http://cdn.iptvcinema.ru/fresh_adventure/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0
-
 #EXTINF:-1,Fresh Hits
 #EXTGRP:FRESH
 http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/18084/index.m3u8
 #EXTINF:-1,Fresh Horror
 #EXTGRP:FRESH
 http://cdn.iptvcinema.ru/fresh_horror/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0
-
 #EXTINF:-1,Fresh Russian Hits
 #EXTGRP:FRESH
 http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/18085/index.m3u8
 #EXTINF:-1,Fresh Series
 #EXTGRP:FRESH
 http://cdn.iptvcinema.ru/fresh_series/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0
-
 #EXTINF:-1,Fresh Soviet
 #EXTGRP:FRESH
 http://cdn.iptvcinema.ru/fresh_soviet/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0
 #EXTINF:-1,Fresh Thriller
 #EXTGRP:FRESH
 http://cdn.iptvcinema.ru/fresh_thriller/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0
-
 #EXTINF:-1,Future
 #EXTGRP:SKY HIGH
 http://185.234.59.200:8080/SKY_HIGH_FUTURE_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,GunRush
 #EXTGRP:SKY HIGH
 http://185.234.59.200:8080/SKY_HIGH_GUNRUSH_FHD/video.m3u8?token=5uGLTS1oibSIu0
-
 #EXTINF:-1,Heart
 #EXTGRP:SKY HIGH
 http://185.234.59.200:8080/SKY_HIGH_HEART_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-
 #EXTINF:-1,Honey
 #EXTGRP:MM
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13026/index.m3u8
-
 #EXTINF:-1,Jetix
 #EXTGRP:SKY HIGH
 http://185.234.59.200:8080/SKY_HIGH_JETIX_HD/video.m3u8?token=5uGLTS1oibSIu0
-
 #EXTINF:-1,Joke
 #EXTGRP:SKY HIGH
 http://185.234.59.200:8080/SKY_HIGH_JOKE_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,Junior
 #EXTGRP:SKY HIGH
 http://185.234.59.200:8080/SKY_HIGH_JUNIOR_FHD/video.m3u8?token=5uGLTS1oibSIu0
-
 #EXTINF:-1,L Disney
 #EXTGRP:LIBERTY
 http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/15093/index.m3u8
 #EXTINF:-1,Lesson
 #EXTGRP:MM
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13042/index.m3u8
-
 #EXTINF:-1,Liberty DC
 #EXTGRP:LIBERTY
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/15087/index.m3u8
 #EXTINF:-1,Liberty Marvel
 #EXTGRP:LIBERTY
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/15090/index.m3u8
-
 #EXTINF:-1,Liberty Аниме
 #EXTGRP:LIBERTY
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/17029/index.m3u8
 #EXTINF:-1,Liberty Боевики
 #EXTGRP:LIBERTY
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/15096/index.m3u8
-
 #EXTINF:-1,Liberty Индия
 #EXTGRP:LIBERTY
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18160/index.m3u8
 #EXTINF:-1,Liberty Киномикс
 #EXTGRP:LIBERTY
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/15110/index.m3u8
-
 #EXTINF:-1,Liberty Комедии
 #EXTGRP:LIBERTY
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/16054/index.m3u8
 #EXTINF:-1,Liberty Короткометражки
 #EXTGRP:LIBERTY
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/15091/index.m3u8
-
 #EXTINF:-1,Liberty Куб
 #EXTGRP:LIBERTY
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18161/index.m3u8
 #EXTINF:-1,Liberty Легенда
 #EXTGRP:LIBERTY
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/19308/index.m3u8
-
 #EXTINF:-1,Liberty Маша
 #EXTGRP:LIBERTY
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/19306/index.m3u8
 #EXTINF:-1,Liberty Мелодрамы
 #EXTGRP:LIBERTY
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/15095/index.m3u8
-
 #EXTINF:-1,Liberty Планктон
 #EXTGRP:LIBERTY
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/20140/index.m3u8
 #EXTINF:-1,Liberty Русфильм
 #EXTGRP:LIBERTY
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18046/index.m3u8
-
 #EXTINF:-1,Liberty Семейный
 #EXTGRP:LIBERTY
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18178/index.m3u8
 #EXTINF:-1,Liberty Сериалы
 #EXTGRP:LIBERTY
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/16055/index.m3u8
-
 #EXTINF:-1,Liberty Симпсоны
 #EXTGRP:LIBERTY
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/15111/index.m3u8
 #EXTINF:-1,Liberty Союз
 #EXTGRP:LIBERTY
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/19307/index.m3u8
-
 #EXTINF:-1,Liberty Триллеры
 #EXTGRP:LIBERTY
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/15089/index.m3u8
