@@ -366,7 +366,12 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:0,Страна FM
 #EXTGRP:Музыкальные
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-
+#EXTINF:-1,Сан Франциско
+#EXTGRP:Музыкальные
+http://204.199.3.2/.m3u8
+#EXTINF:-1,Тоталmusic 80
+#EXTGRP:Музыкальные
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
 
 #EXTINF:30,A21 Network HD
 #EXTGRP:Спортивные
@@ -897,3 +902,4 @@ http://hls127.freeott.top:8080/Clarity4K_Edinoborstva/mono.m3u8
 #EXTINF:0,Clarity4K Anime
 #EXTGRP:Clarity4K
 http://hls127.freeott.top:8080/Clarity4K_Anime/mono.m3u8
+
