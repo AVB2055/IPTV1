@@ -476,8 +476,6 @@ http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31661/index.m3u8
 #EXTINF:-1,Dusts
 #EXTGRP:SKY HIGH
 http://185.234.59.200:8080/SKY_HIGH_DUST_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Epic Drama
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/1048/index.m3u8
 
 #EXTINF:-1,Eye criminal
 #EXTGRP:EYE
@@ -605,14 +603,11 @@ http://185.234.59.200:8080/SKY_HIGH_GUNRUSH_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,Heart
 #EXTGRP:SKY HIGH
 http://185.234.59.200:8080/SKY_HIGH_HEART_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Hollywood TV
-http://193.25.8.59:8000/interaz
+
 #EXTINF:-1,Honey
 #EXTGRP:MM
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13026/index.m3u8
 
-#EXTINF:-1,Horror
-http://185.234.59.200:8080/SKY_HIGH_HORROR_4K_HDR/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,Jetix
 #EXTGRP:SKY HIGH
 http://185.234.59.200:8080/SKY_HIGH_JETIX_HD/video.m3u8?token=5uGLTS1oibSIu0
@@ -727,8 +722,6 @@ http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/19304/index.m3u8
 #EXTGRP:MM
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13095/index.m3u8
 
-#EXTINF:-1,Lo-fi
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31545/index.m3u8
 #EXTINF:-1,Lofi
 #EXTGRP:SKY HIGH
 http://185.234.59.200:8080/SKY_HIGH_LO_FIHD/video.m3u8?token=5uGLTS1oibSIu0
@@ -993,13 +986,11 @@ http://185.234.59.200:8080/SKY_HIGH_SPACE_4K_HDR/video.m3u8?token=5uGLTS1oibSIu0
 #EXTGRP:SKY HIGH
 http://185.234.59.200:8080/SKY_HIGH_STRIKE_VHS_FHD/video.m3u8?token=5uGLTS1oibSIu0
 
-#EXTINF:-1,Stryk tv
-https://fffffff110156200.tvustream.com:8298/ryfy.m3u8
 #EXTINF:-1,Teen
 #EXTGRP:SKY HIGH
 http://185.234.59.200:8080/SKY_HIGH_TEEN_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,Tanos
-#EXTGRP:SKI HIGH
+#EXTGRP:SKY HIGH
 http://185.234.59.200:8080/SKY_HIGH_TANOS_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,Toon
 #EXTGRP:SKY HIGH
@@ -1036,8 +1027,6 @@ http://185.234.59.200:8080/SKY_HIGH_TRACE_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTGRP:BOX
 http://185.234.59.200:8080/BOX_Travel_Premiere_HD/video.m3u8?token=5uGLTS1oibSIu0
 
-#EXTINF:-1,TV 21
-http://188.225.31.197/bpk-tv/000000006/tve/index.m3u8
 #EXTINF:-1,Tviksel Военное кино
 #EXTGRP:TVIKSEL
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/18072/index.m3u8
@@ -1469,8 +1458,6 @@ http://185.234.59.200:9090/channel/3a3c06b5/index.m3u8?q=406925e0657258d990e0f99
 #EXTINF:-1,Индийское
 #EXTGRP:VF
 http://185.234.59.200:9090/channel/1bb22982/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Интерны 2
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11060/index.m3u8
 
 #EXTINF:-1,Историческое
 #EXTGRP:VF
@@ -1479,8 +1466,6 @@ http://185.234.59.200:9090/channel/n967a72/index.m3u8?q=406925e0657258d990e0f994
 #EXTGRP:MM
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13033/index.m3u8
 
-#EXTINF:-1,Камеди
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/9091/index.m3u8
 #EXTINF:-1,Катастрофы
 #EXTGRP:MM
 http://185.234.59.200:8080/BCU_Catastrophe_HD/video.m3u8?token=5uGLTS1oibSIu0
@@ -1556,7 +1541,7 @@ http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/16018/index.m3u8
 #EXTGRP:Разные
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31447/index.m3u8
 #EXTINF:-1,Kinojam
-EXTGRP:Разные
+#EXTGRP:Разные
 http://kinowalk.hopto.org/kinojam_live
 #EXTINF:-1,LIVE TV
 #EXTGRP:Разные
