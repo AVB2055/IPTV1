@@ -83,7 +83,6 @@ http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13002/index.m3u8
 #EXTINF:-1,90е
 #EXTGRP:VF
 http://185.234.59.200:9090/channel/9b95461/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,90е
 
 #EXTINF:-1,Alpha Cinema
 #EXTGRP:Alpha
@@ -126,7 +125,6 @@ http://185.234.59.200:8080/BCU_Comedy_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,Bcu Cosmo
 #EXTGRP:BCU
 http://185.234.59.200:9090/channel/n1bd83275/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Bcu Cosmo
 
 #EXTINF:-1,Bcu criminal
 #EXTGRP:BCU
@@ -2328,4 +2326,3 @@ http://hls127.freeott.top:8080/Clarity4K_Edinoborstva/mono.m3u8
 #EXTINF:0,Clarity4K Космомир
 #EXTGRP:Познавательные
 http://hls127.freeott.top:8080/Clarity4K_Kosmomir/mono.m3u8
-
