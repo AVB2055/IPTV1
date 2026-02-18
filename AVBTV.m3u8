@@ -257,7 +257,7 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_TEOTV/variant.m3u8
 https://stream.teotv.ru/live/site360/playlist.m3u8
 
 #EXTINF:-1,Alpha Funny
-#EXTGRP:Alpha
+#EXTGRP:Развлекательные
 http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
 #EXTINF:0,DTR ZONA 1 HD
 #EXTGRP:Развлекательные
@@ -905,5 +905,6 @@ http://hls127.freeott.top:8080/Clarity4K_Edinoborstva/mono.m3u8
 #EXTINF:0,Clarity4K Anime
 #EXTGRP:Clarity4K
 http://hls127.freeott.top:8080/Clarity4K_Anime/mono.m3u8
+
 
 
