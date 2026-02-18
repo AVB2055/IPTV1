@@ -449,15 +449,9 @@ http://188.225.31.197/bpk-tv/000007802/tve/index.m3u8
 #EXTGRP:Спортивные
 https://a787201481-s80718.cdn.ngenix.net/hls/CH_UDARHD/video_1920x1080_avc1/playlist.m3u8
 
-#EXTINF:0,Cartoon Network
-#EXTGRP:Детские
-http://176.118.197.101/Cartoon_Network/index.m3u8
 #EXTINF:0,Jetix Online
 #EXTGRP:Детские
 https://live.jtx-online.ru/memfs/e30ea533-4abf-4a88-91bc-73744ecfd06f.m3u8
-#EXTINF:0,Kids TV.....
-#EXTGRP:Детские
-http://185.234.59.200:9090/channel/4d6d7af3/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
 #EXTINF:0,Nickelodeon HD
 #EXTGRP:Детские
 http://188.225.31.197/bpk-tv/000000499/tve/index.m3u8
@@ -617,9 +611,6 @@ http://kinowalk.hopto.org/video_prokat_live
 #EXTINF:0,viju+ Megahit HD
 #EXTGRP:Кинофильмы
 http://hls127.freeott.top:8080/ViP_Megahit/video.m3u8
-#EXTINF:0,VIP Comedy
-#EXTGRP:Кинофильмы
-http://89.232.68.194:8080/ComedyHD/tracks-v1a1/index.m3u8
 #EXTINF:0,Vip Comedy HD
 #EXTGRP:Кинофильмы
 http://188.225.31.197/bpk-tv/000000870/tve/index.m3u8
@@ -632,9 +623,6 @@ http://188.225.31.197/bpk-tv/000000868/tve/index.m3u8
 #EXTINF:0,Блокбастер HD
 #EXTGRP:Кинофильмы
 http://tv.lamro.workers.dev/?ID=4963
-#EXTINF:0,Вестерн.....
-#EXTGRP:Кинофильмы
-http://185.234.59.200:9090/channel/n528273d6/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
 #EXTINF:0,Дом кино Premium HD
 #EXTGRP:Кинофильмы
 http://188.225.31.197/bpk-tv/000002943/tve/index.m3u8
@@ -1014,12 +1002,6 @@ http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1,Страшное.....
 #EXTGRP:TEST 1
 http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/7247/index.m3u8
-#EXTINF:-1,Тайны следствия.....
-#EXTGRP:TEST 1
-http://185.234.59.200:9090/channel/1443d724/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Том и Джерри.....
-#EXTGRP:TEST 1
-http://185.234.59.200:9090/channel/n332cfce7/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
 #EXTINF:-1,Чип и Дейл
 #EXTGRP:TEST 1
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
