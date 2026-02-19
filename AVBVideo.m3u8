@@ -670,7 +670,9 @@ http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/16147/index.m3u8
 #EXTINF:-1,Mydoc
 #EXTGRP:SKY HIGH
 http://185.234.59.200:8080/SKY_HIGH_DOC_FHD/video.m3u8?token=5uGLTS1oibSIu0
-
+#EXTINF:-1,MYTV KIDS.....
+#EXTGRP:VENERA.TV
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/19409/index.m3u8
 
 #EXTINF:-1,Nature
 #EXTGRP:SKY HIGH
@@ -1242,6 +1244,9 @@ http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30187/index.m3u8
 #EXTINF:-1,Губка Боб
 #EXTGRP:VENERA.TV
 http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30186/index.m3u8
+#EXTINF:-1,VENERA.TV
+#EXTGRP:TEST 1
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/31646/index.m3u8
 #EXTINF:-1,ДЕСЯТОЕ КОРОЛЕВСТВО
 #EXTGRP:IPTV-PLAY
 http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
@@ -1353,7 +1358,6 @@ http://185.234.59.200:8080/SKY_HIGH_HORROR_4K_HDR/video.m3u8?token=5uGLTS1oibSIu
 #EXTINF:-1,Бивис и Батт
 #EXTGRP:VENERA.TV
 http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30193/index.m3u8
-
 #EXTGRP:VF
 http://185.234.59.200:9090/channel/5e6b6b04/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
 #EXTINF:-1,Комедии
