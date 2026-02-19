@@ -256,6 +256,9 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_TEOTV/variant.m3u8
 #EXTGRP:Познавательные
 https://stream.teotv.ru/live/site360/playlist.m3u8
 
+#EXTINF:-1,2x2
+#EXTGRP:Развлекательные
+http://iptv46.mcx-ix.ru:8077/2x2/index.m3u8
 #EXTINF:-1,Alpha Funny
 #EXTGRP:Развлекательные
 http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
@@ -1227,6 +1230,7 @@ http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31929/index.m3u8
 #EXTINF:-1,Назад в СССР
 #EXTGRP:EDEMIST Познавательные
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/20175/index.m3u8
+
 
 
 
