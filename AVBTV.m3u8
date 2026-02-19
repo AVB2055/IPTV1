@@ -486,7 +486,6 @@ https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=fG
 #EXTGRP:Детские
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 
-
 #EXTINF:-1,Alpha Cinema
 #EXTGRP:Кинофильмы
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
@@ -496,48 +495,6 @@ http://185.57.68.33/237/mpegts
 #EXTINF:0,ATV CineMan HD
 #EXTGRP:Кинофильмы
 http://185.57.68.33:80/255/index.m3u8
-#EXTINF:0,BCU Catastrophe HD
-#EXTGRP:Кинофильмы
-http://tv.lamro.workers.dev/?ID=5169
-#EXTINF:0,BCU CCCP HD
-#EXTGRP:Кинофильмы
-http://tv.lamro.workers.dev/?ID=5167
-#EXTINF:0,BCU Cinema HD
-#EXTGRP:Кинофильмы
-http://tv.lamro.workers.dev/?ID=5183
-#EXTINF:0,BCU Cosmo HD
-#EXTGRP:Кинофильмы
-http://tv.lamro.workers.dev/?ID=5237
-#EXTINF:0,BCU Criminal HD
-#EXTGRP:Кинофильмы
-http://tv.lamro.workers.dev/?ID=5182
-#EXTINF:0,BCU Fantastic HD
-#EXTGRP:Кинофильмы
-http://tv.lamro.workers.dev/?ID=5171
-#EXTINF:0,BCU FilMystic HD
-#EXTGRP:Кинофильмы
-http://tv.lamro.workers.dev/?ID=5172
-#EXTINF:0,BCU History HD
-#EXTGRP:Кинофильмы
-http://tv.lamro.workers.dev/?ID=5173
-#EXTINF:0,BCU Kinorating HD
-#EXTGRP:Кинофильмы
-http://tv.lamro.workers.dev/?ID=5184
-#EXTINF:0,BCU Premiere 1 HD
-#EXTGRP:Кинофильмы
-http://tv.lamro.workers.dev/?ID=5162
-#EXTINF:0,BCU Premiere 2 HD
-#EXTGRP:Кинофильмы
-http://tv.lamro.workers.dev/?ID=5163
-#EXTINF:0,BCU Premiere 3 HD
-#EXTGRP:Кинофильмы
-http://tv.lamro.workers.dev/?ID=5165
-#EXTINF:0,BCU Premiere HD
-#EXTGRP:Кинофильмы
-http://tv.lamro.workers.dev/?ID=5175
-#EXTINF:0,BCU Stars HD
-#EXTGRP:Кинофильмы
-http://tv.lamro.workers.dev/?ID=5177
 #EXTINF:0,Blockbusters Time FHD
 #EXTGRP:Кинофильмы
 http://kinowalk.hopto.org/blockbusterstime_live
@@ -714,12 +671,6 @@ http://timeshift.arpinet.am/255/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,ATV Bazmoc
 #EXTGRP:Кинофильмы | Сериалы
 http://109.68.122.117:8899/bazmoc
-#EXTINF:0,BCU RUSERIAL HD
-#EXTGRP:Кинофильмы | Сериалы
-http://tv.lamro.workers.dev/?ID=5180
-#EXTINF:0,BCU Сваты HD
-#EXTGRP:Кинофильмы | Сериалы
-http://tv.lamro.workers.dev/?ID=5181
 #EXTINF:0,FAN
 #EXTGRP:Кинофильмы | Сериалы
 http://tv.lamro.workers.dev/?ID=5064
@@ -920,6 +871,57 @@ http://hls127.freeott.top:8080/Clarity4K_Edinoborstva/mono.m3u8
 #EXTGRP:Clarity4K
 http://hls127.freeott.top:8080/Clarity4K_Anime/mono.m3u8
 
+
+#EXTINF:0,BCU Catastrophe HD
+#EXTGRP:BCU
+http://tv.lamro.workers.dev/?ID=5169
+#EXTINF:0,BCU CCCP HD
+#EXTGRP:BCU
+http://tv.lamro.workers.dev/?ID=5167
+#EXTINF:0,BCU Cinema HD
+#EXTGRP:BCU
+http://tv.lamro.workers.dev/?ID=5183
+#EXTINF:0,BCU Cosmo HD
+#EXTGRP:BCU
+http://tv.lamro.workers.dev/?ID=5237
+#EXTINF:0,BCU Criminal HD
+#EXTGRP:BCU
+http://tv.lamro.workers.dev/?ID=5182
+#EXTINF:0,BCU Fantastic HD
+#EXTGRP:BCU
+http://tv.lamro.workers.dev/?ID=5171
+#EXTINF:0,BCU FilMystic HD
+#EXTGRP:BCU
+http://tv.lamro.workers.dev/?ID=5172
+#EXTINF:0,BCU History HD
+#EXTGRP:BCU
+http://tv.lamro.workers.dev/?ID=5173
+#EXTINF:0,BCU Kinorating HD
+#EXTGRP:BCU
+http://tv.lamro.workers.dev/?ID=5184
+#EXTINF:0,BCU Premiere 1 HD
+#EXTGRP:BCU
+http://tv.lamro.workers.dev/?ID=5162
+#EXTINF:0,BCU Premiere 2 HD
+#EXTGRP:BCU
+http://tv.lamro.workers.dev/?ID=5163
+#EXTINF:0,BCU Premiere 3 HD
+#EXTGRP:BCU
+http://tv.lamro.workers.dev/?ID=5165
+#EXTINF:0,BCU Premiere HD
+#EXTGRP:BCU
+http://tv.lamro.workers.dev/?ID=5175
+#EXTINF:0,BCU Stars HD
+#EXTGRP:BCU
+http://tv.lamro.workers.dev/?ID=5177
+#EXTINF:0,BCU RUSERIAL HD
+#EXTGRP:BCU
+http://tv.lamro.workers.dev/?ID=5180
+#EXTINF:0,BCU Сваты HD
+#EXTGRP:BCU
+http://tv.lamro.workers.dev/?ID=5181
+
+
 #EXTINF:-1,BEST
 #EXTGRP:EDEMIST
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/20165/index.m3u8
@@ -938,6 +940,12 @@ http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/16018/index.m3u8
 #EXTINF:-1,Kinoword
 #EXTGRP:EDEMIST
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31447/index.m3u8
+#EXTINF:-1,VHS CLASSIC
+#EXTGRP:EDEMIST
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/19429/index.m3u8
+#EXTINF:-1,VHS KA
+#EXTGRP:EDEMIST
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/5006/index.m3u8
 #EXTINF:-1,Блокбастер
 #EXTGRP:EDEMIST
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/9087/index.m3u8
@@ -1013,24 +1021,9 @@ http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/6299/index.m3u8
 
 
 
-#EXTINF:-1,Bunny.....
-#EXTGRP:TEST 1
-http://185.234.59.200:8080/BUNNYHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,MYTV KIDS.....
-#EXTGRP:TEST 1
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/19409/index.m3u8
-#EXTINF:-1,VELES KIDS.....
-#EXTGRP:TEST 1
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/31646/index.m3u8
-#EXTINF:-1,VHS CLASSIC.....
-#EXTGRP:TEST 1
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/19429/index.m3u8
-#EXTINF:-1,VHS KA.....
-#EXTGRP:TEST 1
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/5006/index.m3u8
-#EXTINF:-1,Страшное.....
-#EXTGRP:TEST 1
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/7247/index.m3u8
+
+
+
 
 
 
