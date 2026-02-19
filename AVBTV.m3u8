@@ -931,9 +931,6 @@ http://tv.lamro.workers.dev/?ID=5181
 #EXTINF:-1,Сити Эдем Meditation Music [Not 24/7]
 #EXTGRP:Сити Эдем
 https://cityeden.catcast.tv/content/47410/index.m3u8
-#EXTINF:-1,Сити Эдем Play Христианский Музыкальный [Not 24/7]
-#EXTGRP:Сити Эдем
-https://cityeden.catcast.tv/content/34100/index.m3u8
 #EXTINF:-1,Сити Эдем АвтоГид [Not 24/7]
 #EXTGRP:Сити Эдем
 https://cityeden.catcast.tv/content/47515/index.m3u8
@@ -992,25 +989,21 @@ https://cityeden.catcast.tv/content/34246/index.m3u8
 #EXTGRP:Сити Эдем
 https://cityeden.catcast.tv/content/46209/index.m3u8
 
-
-#EXTINF:-1,BEST
-#EXTGRP:EDEMIST Кинофильмы
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/20165/index.m3u8
-#EXTINF:-1,Kinoword
-#EXTGRP:EDEMIST Кинофильмы
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31447/index.m3u8
 #EXTINF:-1,VHS CLASSIC
 #EXTGRP:EDEMIST Кинофильмы
 http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/19429/index.m3u8
 #EXTINF:-1,VHS KA
 #EXTGRP:EDEMIST Кинофильмы
 http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/5006/index.m3u8
+#EXTINF:-1,VHS-ка Русское кино
+#EXTGRP:EDEMIST Кинофильмы
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31925/index.m3u8
+#EXTINF:-1,BEST
+#EXTGRP:EDEMIST Кинофильмы
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/20165/index.m3u8
 #EXTINF:-1,Блокбастер
 #EXTGRP:EDEMIST Кинофильмы
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/9087/index.m3u8
-#EXTINF:-1,Душевное
-#EXTGRP:EDEMIST Кинофильмы
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/914/index.m3u8
 #EXTINF:-1,Камеди
 #EXTGRP:EDEMIST Кинофильмы
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/9091/index.m3u8
@@ -1023,12 +1016,6 @@ http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/9020/index.m3u8
 #EXTINF:-1,Комедийное
 #EXTGRP:EDEMIST Кинофильмы
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/912/index.m3u8
-#EXTINF:-1,Любимое
-#EXTGRP:EDEMIST Кинофильмы
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/2106/index.m3u8
-#EXTINF:-1,VHS-ка Русское кино
-#EXTGRP:EDEMIST Кинофильмы
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31925/index.m3u8
 #EXTINF:-1,Фантастика
 #EXTGRP:EDEMIST Кинофильмы
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11070/index.m3u8
@@ -1038,47 +1025,3 @@ http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31722/index.m3u8
 #EXTINF:-1,Шокирующее
 #EXTGRP:EDEMIST Кинофильмы
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/6299/index.m3u8
-
-
-#EXTINF:-1,DetectiveJam
-#EXTGRP:EDEMIST Кинофильмы | Сериалы
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/20209/index.m3u8
-#EXTINF:-1,Epic Drama
-#EXTGRP:EDEMIST Кинофильмы | Сериалы
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/1048/index.m3u8
-#EXTINF:-1,Kinoliving
-#EXTGRP:EDEMIST Кинофильмы | Сериалы
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/16018/index.m3u8
-#EXTINF:-1,VHS-ка сериал
-#EXTGRP:EDEMIST Кинофильмы | Сериалы
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31931/index.m3u8
-#EXTINF:-1,Кион хит
-#EXTGRP:EDEMIST Кинофильмы | Сериалы
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/20211/index.m3u8
-#EXTINF:-1,Наш Кинопоказ
-#EXTGRP:EDEMIST Кинофильмы | Сериалы
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/9086/index.m3u8
-#EXTINF:-1,Про Любовь
-#EXTGRP:EDEMIST Кинофильмы | Сериалы
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/9089/index.m3u8
-#EXTINF:-1,Русский бестселлер
-#EXTGRP:EDEMIST Кинофильмы | Сериалы
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/905/index.m3u8
-#EXTINF:-1,Русский детектив
-#EXTGRP:EDEMIST Кинофильмы | Сериалы
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/907/index.m3u8
-
-#EXTINF:-1,FamilyJam
-#EXTGRP:EDEMIST Детские
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/20210/index.m3u8
-#EXTINF:-1,Контент моего детства
-#EXTGRP:EDEMIST Детские
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/20001/index.m3u8
-
-#EXTINF:-1,Машина времени кинозал
-#EXTGRP:EDEMIST Познавательные
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31929/index.m3u8
-#EXTINF:-1,Назад в СССР
-#EXTGRP:EDEMIST Познавательные
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/20175/index.m3u8
-
