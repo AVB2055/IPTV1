@@ -936,6 +936,9 @@ http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/5006/index.m3u8
 #EXTINF:-1,Блокбастер
 #EXTGRP:EDEMIST Кинофильмы
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/9087/index.m3u8
+#EXTINF:-1,Душевное
+#EXTGRP:EDEMIST Кинофильмы
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/914/index.m3u8
 #EXTINF:-1,Камеди
 #EXTGRP:EDEMIST Кинофильмы
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/9091/index.m3u8
@@ -960,6 +963,9 @@ http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11070/index.m3u8
 #EXTINF:-1,Фантастика 2.0
 #EXTGRP:EDEMIST Кинофильмы
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31722/index.m3u8
+#EXTINF:-1,Шокирующее
+#EXTGRP:EDEMIST Кинофильмы
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/6299/index.m3u8
 
 
 #EXTINF:-1,DetectiveJam
@@ -974,27 +980,12 @@ http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/16018/index.m3u8
 #EXTINF:-1,VHS-ка сериал
 #EXTGRP:EDEMIST Кинофильмы | Сериалы
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31931/index.m3u8
-#EXTINF:-1,Великолепный век
-#EXTGRP:EDEMIST Кинофильмы | Сериалы
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13001/index.m3u8
-#EXTINF:-1,Диверсант
-#EXTGRP:EDEMIST Кинофильмы | Сериалы
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/20176/index.m3u8
-#EXTINF:-1,Душевное
-#EXTGRP:EDEMIST Кинофильмы | Сериалы
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/914/index.m3u8
 #EXTINF:-1,Кион хит
 #EXTGRP:EDEMIST Кинофильмы | Сериалы
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/20211/index.m3u8
 #EXTINF:-1,Наш Кинопоказ
 #EXTGRP:EDEMIST Кинофильмы | Сериалы
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/9086/index.m3u8
-#EXTINF:-1,Однажды в Милиции
-#EXTGRP:EDEMIST Кинофильмы | Сериалы
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31715/index.m3u8
-#EXTINF:-1,Ольга
-#EXTGRP:EDEMIST Кинофильмы | Сериалы
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31718/index.m3u8
 #EXTINF:-1,Про Любовь
 #EXTGRP:EDEMIST Кинофильмы | Сериалы
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/9089/index.m3u8
@@ -1004,9 +995,6 @@ http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/905/index.m3u8
 #EXTINF:-1,Русский детектив
 #EXTGRP:EDEMIST Кинофильмы | Сериалы
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/907/index.m3u8
-#EXTINF:-1,Шокирующее
-#EXTGRP:EDEMIST Кинофильмы | Сериалы
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/6299/index.m3u8
 
 #EXTINF:-1,FamilyJam
 #EXTGRP:EDEMIST Детские
@@ -1021,6 +1009,7 @@ http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31929/index.m3u8
 #EXTINF:-1,Назад в СССР
 #EXTGRP:EDEMIST Познавательные
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/20175/index.m3u8
+
 
 
 
