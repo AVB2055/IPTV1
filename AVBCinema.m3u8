@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,Информатор (2025)
-#EXTGRP:RutubeRutube
+#EXTGRP:Rutube
 https://c3-video.cmtv.ru/hm/bABgsmyJxu0/eyJpZCI6IlVnR0FQVTFqSEFNIiwiY29kZWMiOiJoMjY0IiwidXNlclF1YWxpdHkiOltdLCJzZWNyZXQiOjE3NzE1MDM2NDR9/index-f4-v1-a1.m3u8
 #EXTINF:0,Шпионка Гарриет (1996)
 #EXTGRP:Rutube
@@ -3114,3 +3114,4 @@ http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vod
 #EXTINF:0,Люди Икс:Тёмный Феникс (2019)
 #EXTGRP:unsorted
 https://kinoleha.net/load/lyudi-iks-tyomnyj-feniks?original
+
