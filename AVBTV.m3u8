@@ -1081,3 +1081,35 @@ http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31929/index.m3u8
 #EXTINF:-1,Назад в СССР
 #EXTGRP:EDEMIST Познавательные
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/20175/index.m3u8
+
+
+#EXTINF:0,VHS Forever
+#EXTGRP: Creative
+https://vsd264.okcdn.ru/cmaf/11214734363186/sig/y3-2TAbAJSI/expires/1771587427860/srcIp/5.228.112.124/urls/185.226.55.81/clientType/36/srcAg/CHROME/mid/14384627992370/get/dash_14384627992370.S2O7ezcCQkw.mpd?mncpkpjgigpklafbenkddfcgalikldde_playlist_index=4
+#EXTINF:0,Игрун 1997
+#EXTGRP:Creative
+https://vd576.okcdn.ru/?expires=1771587688578&srcIp=5.228.112.124&pr=71&srcAg=CHROME&ms=185.226.55.98&type=5&sig=DWcM49oIm1k&ct=11&urls=185.180.203.33&clientType=36&id=7978213444138&bytes=0-4221
+#EXTINF:0,Wfliq
+#EXTGRP:Creative
+https://vsd68.okcdn.ru/cmaf/11347928877685/sig/r3SFJ38e3Qg/expires/1771587845919/srcIp/5.228.112.124/urls/185.226.55.88/clientType/36/srcAg/CHROME/mid/11854235256693/get/dash_11854235256693.WFKRrUDJmY4.mpd?mncpkpjgigpklafbenkddfcgalikldde_playlist_index=3
+#EXTINF:0,hurumburumum
+#EXTGRP:Creative
+https://vsd258.okcdn.ru/cmaf/11209292450482/sig/JVAQKaiMutw/expires/1771587994977/srcIp/5.228.112.124/urls/185.226.52.98/clientType/36/srcAg/CHROME/mid/12048358983602/get/dash_12048358983602.-I04_rUmB_c.mpd?mncpkpjgigpklafbenkddfcgalikldde_playlist_index=5
+#EXTINF:0,MrsDOOmKa
+#EXTGRP:Creative
+https://vd707.okcdn.ru/expires/1771588082266/clientType/36/srcIp/5.228.112.124/type/2/mid/11488484149227/id/10946068810475/ms/176.112.172.23/srcAg/CHROME/urls/45.136.22.52/oq/0/pr/71/ct/29/sig/GSKccpgt-kQ/ondemand/dash4_10946068810475.COuPkfitzgJA6_GCuJMRSJrkkpD______wFQR1gkE_wtdbnkR30.mpd?mncpkpjgigpklafbenkddfcgalikldde_playlist_index=5
+#EXTINF:0,Тоха Киноман
+#EXTGRP:Creative
+https://vsd94.okcdn.ru/cmaf/11552495897315/sig/qKcOE4Ikd80/expires/1771588187988/srcIp/5.228.112.124/urls/185.226.52.87/clientType/36/srcAg/CHROME/mid/11853248874467/get/COOPweX82AIQgH0YBqgBAfABzofti8czwAIByAIBnz4nSRsGmKM/i0.v.m4s
+#EXTINF:0,Alex.Films
+#EXTGRP:Creative
+https://vsd241.okcdn.ru/cmaf/11264004917974/sig/laWBHaYSQWc/expires/1771588328410/srcIp/5.228.112.124/urls/45.136.21.46/clientType/36/srcAg/CHROME/mid/12033453410262/get/dash_12033453410262.edk4IRAuPZc.mpd?mncpkpjgigpklafbenkddfcgalikldde_playlist_index=4
+#EXTINF:0,ZubrilomFilm
+#EXTGRP:Creative
+https://vsd114.okcdn.ru/cmaf/11286594456184/sig/zstycG5TuIg/expires/1771588538712/srcIp/5.228.112.124/urls/45.136.21.66/clientType/36/srcAg/CHROME/mid/12436370966392/get/dash_12436370966392.NgUOIZVzhJQ.mpd?mncpkpjgigpklafbenkddfcgalikldde_playlist_index=3
+#EXTINF:0,EvGAMEN_Показ фильмов
+#EXTGRP:Creative
+https://vsd140.okcdn.ru/cmaf/11286403025527/sig/zkkum3mwvxQ/expires/1771588729619/srcIp/5.228.112.124/urls/45.136.22.40/clientType/36/srcAg/CHROME/mid/11996604876663/get/dash_11996604876663.Yg5g3B-oD7Y.mpd?mncpkpjgigpklafbenkddfcgalikldde_playlist_index=5
+#EXTINF:0,КИНО05
+#EXTGRP:Creative
+https://vd339.okcdn.ru/expires/1771589064744/clientType/36/srcIp/5.228.112.124/type/2/mid/11770277087209/id/10872925653737/ms/185.226.52.60/srcAg/CHROME/urls/185.226.55.37/oq/0/pr/71/ct/29/sig/i0Xyhz0PRiY/ondemand/dash4_10872925653737.COmPvdnH1gJA6bXhy78aUEdYJCpoF1K_xNzt.mpd?mncpkpjgigpklafbenkddfcgalikldde_playlist_index=5
