@@ -461,6 +461,9 @@ http://188.225.31.197/bpk-tv/000000049/tve/index.m3u8
 #EXTINF:0,Капитан фантастика
 #EXTGRP:Детские
 http://185.234.59.200:8080/kapitan_fantastika_hd/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1,Ключайка
+#EXTGRP:Детские
+https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=QltsCpJv4zS2J2PXJe5VOg&e=2070450958&scheme=https
 #EXTINF:0,Лёва HD
 #EXTGRP:Детские
 http://188.225.31.197/bpk-tv/000008003/tve/index.m3u8
@@ -917,38 +920,6 @@ http://hls127.freeott.top:8080/Clarity4K_Edinoborstva/mono.m3u8
 #EXTGRP:Clarity4K
 http://hls127.freeott.top:8080/Clarity4K_Anime/mono.m3u8
 
-
-
-
-#EXTINF:-1,Bunny.....
-#EXTGRP:TEST 1
-http://185.234.59.200:8080/BUNNYHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,LIVE TV
-#EXTGRP:TEST 1
-http://tv.mobyservice.ru/livetv/index.m3u8
-#EXTINF:-1,MYTV KIDS.....
-#EXTGRP:TEST 1
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/19409/index.m3u8
-#EXTINF:-1,VELES KIDS.....
-#EXTGRP:TEST 1
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/31646/index.m3u8
-#EXTINF:-1,VHS CLASSIC.....
-#EXTGRP:TEST 1
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/19429/index.m3u8
-#EXTINF:-1,VHS KA.....
-#EXTGRP:TEST 1
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/5006/index.m3u8
-#EXTINF:-1,Кино 24
-#EXTGRP:TEST 1
-http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
-#EXTINF:-1,Ключайка
-#EXTGRP:TEST 1
-https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=QltsCpJv4zS2J2PXJe5VOg&e=2070450958&scheme=https
-#EXTINF:-1,Страшное.....
-#EXTGRP:TEST 1
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/7247/index.m3u8
-
-
 #EXTINF:-1,BEST
 #EXTGRP:EDEMIST
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/20165/index.m3u8
@@ -1039,6 +1010,29 @@ http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31722/index.m3u8
 #EXTINF:-1,Шокирующее
 #EXTGRP:EDEMIST
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/6299/index.m3u8
+
+
+
+#EXTINF:-1,Bunny.....
+#EXTGRP:TEST 1
+http://185.234.59.200:8080/BUNNYHD/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1,MYTV KIDS.....
+#EXTGRP:TEST 1
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/19409/index.m3u8
+#EXTINF:-1,VELES KIDS.....
+#EXTGRP:TEST 1
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/31646/index.m3u8
+#EXTINF:-1,VHS CLASSIC.....
+#EXTGRP:TEST 1
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/19429/index.m3u8
+#EXTINF:-1,VHS KA.....
+#EXTGRP:TEST 1
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/5006/index.m3u8
+#EXTINF:-1,Страшное.....
+#EXTGRP:TEST 1
+http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/7247/index.m3u8
+
+
 
 
 
