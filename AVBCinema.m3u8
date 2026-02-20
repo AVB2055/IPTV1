@@ -1410,9 +1410,21 @@ http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vod
 #EXTINF:0,Люди Икс:Дни минувшего будущего (2014)
 #EXTGRP:Кинофильмы
 https://kinoleha.net/load/lyudi-iks-dni-minuvshego-buduwego?original
+#EXTINF:0,Люди Икс:Последняя битва (2006)
+#EXTGRP:Кинофильмы
+http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/X-Men_The_Last_Stand_2006/stream.m3u8
+#EXTINF:0,Люди Икс:Начало. Росомаха (2009)
+#EXTGRP:Кинофильмы
+http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/X-Men_Origins_Wolverine_2009/stream.m3u8
+#EXTINF:0,Люди Икс:Первый класс (2011)
+#EXTGRP:Кинофильмы
+http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/X-Men_First_Class_2011/stream.m3u8
 #EXTINF:0,Люди Икс:Дни минувшего будущего (2014)
 #EXTGRP:Кинофильмы
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/X-Men_Days_of_Future_Past_2014/stream.m3u8
+#EXTINF:0,Люди Икс:Тёмный Феникс (2019)
+#EXTGRP:Кинофильмы
+https://kinoleha.net/load/lyudi-iks-tyomnyj-feniks?original
 #EXTINF:0,Люди в чёрном (1997)
 #EXTGRP:Кинофильмы
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/Men_in_Black_1997/stream.m3u8
@@ -3102,16 +3114,6 @@ http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vod
 #EXTINF:0,Я хочу вернуть тебя (2022)
 #EXTGRP:Кинофильмы
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/I_Want_You_Back_2022/stream.m3u8
-#EXTINF:0,Люди Икс:Начало. Росомаха (2009)
-#EXTGRP:unsorted
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/X-Men_Origins_Wolverine_2009/stream.m3u8
-#EXTINF:0,Люди Икс:Первый класс (2011)
-#EXTGRP:unsorted
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/X-Men_First_Class_2011/stream.m3u8
-#EXTINF:0,Люди Икс:Последняя битва (2006)
-#EXTGRP:unsorted
-http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/X-Men_The_Last_Stand_2006/stream.m3u8
-#EXTINF:0,Люди Икс:Тёмный Феникс (2019)
-#EXTGRP:unsorted
-https://kinoleha.net/load/lyudi-iks-tyomnyj-feniks?original
+
+
 
