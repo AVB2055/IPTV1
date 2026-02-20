@@ -904,7 +904,7 @@ http://kinowalk.hopto.org/bossfilm_live
 http://kinowalk.hopto.org/mmaxim0vich_live
 #EXTINF:-1 group-title="Кинозалы (VPN)",VHS Forever
 http://kinowalk.hopto.org/vhs-forever_live
-#EXTINF:-1 group-title="Кинозалы (VPN)",ROMEO Video (нет в сети)
+#EXTINF:-1 group-title="Кинозалы (VPN)",ROMEO Video
 http://kinowalk.hopto.org/romantic_live
 #EXTINF:-1 group-title="Кинозалы (VPN)",Эквилибриум
 http://kinowalk.hopto.org/equilibrium_live
@@ -916,7 +916,8 @@ http://kinowalk.hopto.org/reanimator_vhs_live
 http://kinowalk.hopto.org/swat2k_live
 #EXTINF:-1 group-title="Кинозалы (VPN)",Video Channel
 http://kinowalk.hopto.org/video_channel_live
-#EXTINF:-1 group-title="Кинозалы (VPN)",Aisman (нет в сети)
+#EXTINF:-1 group-title="Кинозалы (VPN)",Aisman
 http://kinowalk.hopto.org/aisman_live
+
 
 
