@@ -852,7 +852,7 @@ http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/9020/index.m3u8
 
 #EXTINF:-1 group-title="Кинозалы (VPN)",Kinowalk_tv
 http://kinowalk.hopto.org/kinowalk_live
-#EXTINF:-1 group-title="Кинозалы (VPN)",KinoJam (нет в сети)
+#EXTINF:-1 group-title="Кинозалы (VPN)",KinoJam 
 http://kinowalk.hopto.org/kinojam_live
 #EXTINF:-1 group-title="Кинозалы (VPN)",Малдер Всё ТВ
 http://kinowalk.hopto.org/vsetv_live
@@ -874,7 +874,7 @@ http://kinowalk.hopto.org/kinopro_live
 http://kinowalk.hopto.org/akudjitv_live
 #EXTINF:-1 group-title="Кинозалы (VPN)",4K — Кино и сериалы
 http://kinowalk.hopto.org/4khits_live
-#EXTINF:-1 group-title="Кинозалы (VPN)",Мы из 90-х (нет в сети)
+#EXTINF:-1 group-title="Кинозалы (VPN)",Мы из 90-х
 http://kinowalk.hopto.org/miiz90x_live
 #EXTINF:-1 group-title="Кинозалы (VPN)",ScripachTV
 http://kinowalk.hopto.org/scripachtv_live
@@ -888,7 +888,7 @@ http://kinowalk.hopto.org/videoarsenal_live
 http://kinowalk.hopto.org/yurich_kinomix_live
 #EXTINF:-1 group-title="Кинозалы (VPN)",Kinofon
 http://kinowalk.hopto.org/kinofon_live
-#EXTINF:-1 group-title="Кинозалы (VPN)",Alex.Films (нет в сети)
+#EXTINF:-1 group-title="Кинозалы (VPN)",Alex.Films
 http://kinowalk.hopto.org/alex.films_live
 #EXTINF:-1 group-title="Кинозалы (VPN)",EvGAMEN
 http://kinowalk.hopto.org/evgamen_movies_live
@@ -920,3 +920,4 @@ http://kinowalk.hopto.org/swat2k_live
 http://kinowalk.hopto.org/video_channel_live
 #EXTINF:-1 group-title="Кинозалы (VPN)",Aisman (нет в сети)
 http://kinowalk.hopto.org/aisman_live
+
