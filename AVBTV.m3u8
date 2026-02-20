@@ -850,64 +850,6 @@ http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31714/index.m3u8
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/9020/index.m3u8
 
 
-#EXTINF:-1 group-title="Catcast TV Not 24/7" , Phoenix TV
-https://karapuztv.catcast.tv/content/33418/index.m3u8
-#EXTINF:-1 group-title="Catcast TV Not 24/7",TvBoom-ViP
-https://kb.catcast.tv/content/49702/index.m3u8
-#EXTINF:-1 group-title="Catcast TV Not 24/7",Сити Эдем - КиноДрама
-https://v2.catcast.tv/content/45269/index.m3u8
-#EXTINF:-1 group-title="Catcast TV Not 24/7",Сити Эдем - КиноКлассика
-https://v2.catcast.tv/content/34185/index.m3u8
-#EXTINF:-1 group-title="Catcast TV Not 24/7",Сити Эдем - КиноЭкшен
-https://v2.catcast.tv/content/41333/index.m3u8
-#EXTINF:-1 group-title="Catcast TV Not 24/7",Сити Эдем - КиноМистика
-https://v2.catcast.tv/content/40783/index.m3u8
-#EXTINF:-1 group-title="Catcast TV Not 24/7",Сити Эдем - КиноКомедия
-https://v2.catcast.tv/content/41331/index.m3u8
-#EXTINF:-1 group-title="Catcast TV Not 24/7",Сити Эдем - КиноДетектив
-https://v2.catcast.tv/content/41327/index.m3u8
-#EXTINF:-1 group-title="Catcast TV Not 24/7",Сити Эдем - КиноНовелла
-https://autopilot.catcast.tv/content/46209/index.m3u8
-#EXTINF:-1 group-title="Catcast TV Not 24/7",Malder Мегахит
-https://autopilot.catcast.tv/content/47689/index.m3u8?password=vReMA2025.2
-#EXTINF:-1 group-title="Catcast TV Not 24/7",Malder Ужас
-https://autopilot.catcast.tv/content/49099/index.m3u8
-#EXTINF:-1 group-title="Catcast TV Not 24/7",Armenius TV
-https://autopilot.catcast.tv/content/40504/index.m3u8
-#EXTINF:-1 group-title="Catcast TV Not 24/7",A21 Network
-https://autopilot.catcast.tv/content/37909/index.m3u8
-#EXTINF:-1 group-title="Catcast TV Not 24/7",Детское кино International
-https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1 group-title="Catcast TV Not 24/7",Видеокасета VHS
-https://v2.catcast.tv/content/37925/index.m3u8
-#EXTINF:-1 group-title="Catcast TV Not 24/7",Кино 1 International
-https://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 group-title="Catcast TV Not 24/7",Музыка 1 International
-https://kino-1.catcast.tv/content/37745/index.m3u8
-#EXTINF:-1 group-title="Catcast TV Not 24/7",Музыка 2 International
-https://kino-1.catcast.tv/content/37742/index.m3u8
-#EXTINF:-1 group-title="Catcast TV Not 24/7",Музыка Кино International
-https://kino-1.catcast.tv/content/37739/index.m3u8
-#EXTINF:-1 group-title="Catcast TV Not 24/7",RETRO 80 HD
-https://autopilot.catcast.tv/content/38204/index.m3u8
-#EXTINF:-1 group-title="Catcast TV Not 24/7",VIVA Russia
-http://autopilot.catcast.tv/content/39575/index.m3u8
-#EXTINF:-1 group-title="Catcast TV Not 24/7",musicarmsupertv
-https://v2.catcast.tv/content/43959/index.m3u8
-#EXTINF:-1 group-title="Catcast TV Not 24/7",HGTN
-https://v2.catcast.tv/content/34251/index.m3u8
-#EXTINF:-1 group-title="Catcast TV Not 24/7",Телеканал Андийцы
-https://v2.catcast.tv/content/34114/index.m3u8
-#EXTINF:-1 group-title="Catcast TV Not 24/7",NM Television
-https://tv.a21network.ru/content/40650/index.m3u8
-#EXTINF:-1 group-title="Catcast TV Not 24/7",ТНОМЕР
-https://v2.catcast.tv/content/39971/index.m3u8
-#EXTINF:-1 group-title="Catcast TV Not 24/7",6 канал
-https://v2.catcast.tv/content/42311/index.m3u8
-#EXTINF:-1 group-title="Catcast TV Not 24/7",ԼԱՅՄ GOLD TV
-https://v2.catcast.tv/content/40546/index.m3u8
-
-
 #EXTINF:-1 group-title="Кинозалы (VPN)",Kinowalk_tv
 http://kinowalk.hopto.org/kinowalk_live
 #EXTINF:-1 group-title="Кинозалы (VPN)",KinoJam
