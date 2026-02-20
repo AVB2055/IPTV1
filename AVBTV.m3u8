@@ -1013,3 +1013,134 @@ http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31714/index.m3u8
 #EXTINF:-1,Кинопремьера
 #EXTGRP:EDEMIST Кинофильмы
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/9020/index.m3u8
+
+
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" , Phoenix TV
+https://karapuztv.catcast.tv/content/33418/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7",TvBoom-ViP
+https://kb.catcast.tv/content/49702/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7",Сити Эдем - КиноДрама
+https://v2.catcast.tv/content/45269/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7",Сити Эдем - КиноКлассика
+https://v2.catcast.tv/content/34185/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7",Сити Эдем - КиноЭкшен
+https://v2.catcast.tv/content/41333/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7",Сити Эдем - КиноМистика
+https://v2.catcast.tv/content/40783/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7",Сити Эдем - КиноКомедия
+https://v2.catcast.tv/content/41331/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7",Сити Эдем - КиноДетектив
+https://v2.catcast.tv/content/41327/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7",Сити Эдем - КиноНовелла
+https://autopilot.catcast.tv/content/46209/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7",Malder Мегахит
+https://autopilot.catcast.tv/content/47689/index.m3u8?password=vReMA2025.2
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7",Malder Ужас
+https://autopilot.catcast.tv/content/49099/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7",Armenius TV
+https://autopilot.catcast.tv/content/40504/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7",A21 Network
+https://autopilot.catcast.tv/content/37909/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7",Детское кино International
+https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7",Видеокасета VHS
+https://v2.catcast.tv/content/37925/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7",Кино 1 International
+https://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7",Музыка 1 International
+https://kino-1.catcast.tv/content/37745/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7",Музыка 2 International
+https://kino-1.catcast.tv/content/37742/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7",Музыка Кино International
+https://kino-1.catcast.tv/content/37739/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7",RETRO 80 HD
+https://autopilot.catcast.tv/content/38204/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7",VIVA Russia
+http://autopilot.catcast.tv/content/39575/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7",musicarmsupertv
+https://v2.catcast.tv/content/43959/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7",HGTN
+https://v2.catcast.tv/content/34251/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7",Телеканал Андийцы
+https://v2.catcast.tv/content/34114/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7",NM Television
+https://tv.a21network.ru/content/40650/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7",ТНОМЕР
+https://v2.catcast.tv/content/39971/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7",6 канал
+https://v2.catcast.tv/content/42311/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7",ԼԱՅՄ GOLD TV
+https://v2.catcast.tv/content/40546/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Кинозалы (VPN)",Kinowalk_tv
+http://kinowalk.hopto.org/kinowalk_live
+#EXTINF:-1 group-title="Кинозалы (VPN)",KinoJam
+http://kinowalk.hopto.org/kinojam_live
+#EXTINF:-1 group-title="Кинозалы (VPN)",Малдер Всё ТВ
+http://kinowalk.hopto.org/vsetv_live
+#EXTINF:-1 group-title="Кинозалы (VPN)",Dimpon TV
+http://kinowalk.hopto.org/dimpon_live
+#EXTINF:-1 group-title="Кинозалы (VPN)",MovieToper
+http://kinowalk.hopto.org/movietoper_live
+#EXTINF:-1 group-title="Кинозалы (VPN)",ZubrilomFilm
+http://kinowalk.hopto.org/zubrilomfilm_live
+#EXTINF:-1 group-title="Кинозалы (VPN)",ZubrilomFranchise
+http://kinowalk.hopto.org/zubrilommusic.ru_live
+#EXTINF:-1 group-title="Кинозалы (VPN)",wihail
+http://kinowalk.hopto.org/wihail_live
+#EXTINF:-1 group-title="Кинозалы (VPN)",Scarface
+http://kinowalk.hopto.org/filmomania_live
+#EXTINF:-1 group-title="Кинозалы (VPN)",KINOPRO
+http://kinowalk.hopto.org/kinopro_live
+#EXTINF:-1 group-title="Кинозалы (VPN)",Akudji
+http://kinowalk.hopto.org/akudjitv_live
+#EXTINF:-1 group-title="Кинозалы (VPN)",4K — Кино и сериалы
+http://kinowalk.hopto.org/4khits_live
+#EXTINF:-1 group-title="Кинозалы (VPN)",Мы из 90-х
+http://kinowalk.hopto.org/miiz90x_live
+#EXTINF:-1 group-title="Кинозалы (VPN)",ScripachTV
+http://kinowalk.hopto.org/scripachtv_live
+#EXTINF:-1 group-title="Кинозалы (VPN)",SeleCaoTV
+http://kinowalk.hopto.org/selecaotv_live
+#EXTINF:-1 group-title="Кинозалы (VPN)",Legion tv
+https://kinowalk.hopto.org/legion-tv_live
+#EXTINF:-1 group-title="Кинозалы (VPN)",VideoArsenal
+http://kinowalk.hopto.org/videoarsenal_live
+#EXTINF:-1 group-title="Кинозалы (VPN)",KinoMix Юрич
+http://kinowalk.hopto.org/yurich_kinomix_live
+#EXTINF:-1 group-title="Кинозалы (VPN)",Kinofon
+http://kinowalk.hopto.org/kinofon_live
+#EXTINF:-1 group-title="Кинозалы (VPN)",Alex.Films
+http://kinowalk.hopto.org/alex.films_live
+#EXTINF:-1 group-title="Кинозалы (VPN)",EvGAMEN
+http://kinowalk.hopto.org/evgamen_movies_live
+#EXTINF:-1 group-title="Кинозалы (VPN)",Фильмы сериалы
+http://kinowalk.hopto.org/dfsfsdg_live
+#EXTINF:-1 group-title="Кинозалы (VPN)",Rus serials
+http://kinowalk.hopto.org/zzz881_live
+#EXTINF:-1 group-title="Кинозалы (VPN)",SerialTV
+http://kinowalk.hopto.org/serialtv_live
+#EXTINF:-1 group-title="Кинозалы (VPN)",serial4u
+http://kinowalk.hopto.org/serial4u_live
+#EXTINF:-1 group-title="Кинозалы (VPN)",BOSSFILM
+http://kinowalk.hopto.org/bossfilm_live
+#EXTINF:-1 group-title="Кинозалы (VPN)",Maksim Films
+http://kinowalk.hopto.org/mmaxim0vich_live
+#EXTINF:-1 group-title="Кинозалы (VPN)",VHS Forever
+http://kinowalk.hopto.org/vhs-forever_live
+#EXTINF:-1 group-title="Кинозалы (VPN)",ROMEO Video
+http://kinowalk.hopto.org/romantic_live
+#EXTINF:-1 group-title="Кинозалы (VPN)",Эквилибриум
+http://kinowalk.hopto.org/equilibrium_live
+#EXTINF:-1 group-title="Кинозалы (VPN)",КОМЕДИИ 24/7
+http://kinowalk.hopto.org/cmexye4ku_live
+#EXTINF:-1 group-title="Кинозалы (VPN)",ReanimatoR_VHS
+http://kinowalk.hopto.org/reanimator_vhs_live
+#EXTINF:-1 group-title="Кинозалы (VPN)",Serial Productions
+http://kinowalk.hopto.org/swat2k_live
+#EXTINF:-1 group-title="Кинозалы (VPN)",Video Channel
+http://kinowalk.hopto.org/video_channel_live
+#EXTINF:-1 group-title="Кинозалы (VPN)",Aisman
+http://kinowalk.hopto.org/aisman_live
