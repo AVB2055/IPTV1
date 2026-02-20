@@ -391,6 +391,18 @@ http://176.96.241.40/Eurosport1/index.m3u8
 #EXTINF:0,Eurosport 2 HD
 #EXTGRP:Спортивные
 http://188.225.31.197/bpk-tv/000002479/tve/index.m3u8
+#EXTINF:-1,Eurosport 1
+#EXTGRP:Спортивные
+http://ip1.orgip.net/200/video.m3u8?token=Ab2b7066c8
+#EXTINF:-1,Eurosport 1 HD
+#EXTGRP:Спортивные
+http://ip1.orgip.net/0200/video.m3u8?token=Ab2b7066c8
+#EXTINF:-1,Eurosport 2
+#EXTGRP:Спортивные
+http://ip1.orgip.net/201/video.m3u8?token=Ab2b7066c8
+#EXTINF:-1,Eurosport 2 HD
+#EXTGRP:Спортивные
+http://ip1.orgip.net/0201/video.m3u8?token=Ab2b7066c8
 #EXTINF:0,Red Bull HD
 #EXTGRP:Спортивные
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
@@ -906,4 +918,5 @@ http://kinowalk.hopto.org/swat2k_live
 http://kinowalk.hopto.org/video_channel_live
 #EXTINF:-1 group-title="Кинозалы (VPN)",Aisman (нет в сети)
 http://kinowalk.hopto.org/aisman_live
+
 
