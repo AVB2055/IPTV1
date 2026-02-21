@@ -113,6 +113,9 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/cbc.m3u8
 #EXTINF:0,Соловьев.Live HD
 #EXTGRP:Новостные
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
+#EXTINF:0,Царьград
+#EXTGRP:Новостные
+https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=UQvVhXcvnPn0tDMqg2zDYg&e=2068506958&scheme=https
 #EXTINF:0,Соловьев Live
 #EXTGRP:Новостные
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
@@ -945,6 +948,7 @@ http://kinowalk.hopto.org/swat2k_live
 http://kinowalk.hopto.org/filmomania_live
 #EXTINF:-1 group-title="Кинозалы | Сериалы (VPN)",Фильмы сериалы
 http://kinowalk.hopto.org/dfsfsdg_live
+
 
 
 
