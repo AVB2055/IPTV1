@@ -77,6 +77,9 @@ http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,Крик-ТВ HD
 #EXTGRP:Новостные
 http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8
+#EXTINF:-1,Крик-ТВ
+#EXTGRP:Новостные
+http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 #EXTINF:0,360 Новости HD
 #EXTGRP:Новостные
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v5a1/mono.m3u8
@@ -171,6 +174,9 @@ http://176.118.197.125/TLC-HD/index.m3u8
 #EXTINF:0,Travel+Adventure HD
 #EXTGRP:Познавательные
 http://77.232.131.211/TravelAdventureHD/index.m3u8
+#EXTINF:-1,Univer TV HD
+#EXTGRP:Познавательные
+https://cdn.universmotri.ru/live/smil:univer.smil/chunklist_w911267907_b3628000_slru.m3u8
 #EXTINF:0,Viasat Explore HD
 #EXTGRP:Познавательные
 http://188.225.31.197/bpk-tv/000004157/tve/index.m3u8
@@ -201,9 +207,6 @@ http://188.225.31.197/bpk-tv/000000588/tve/index.m3u8
 #EXTINF:0,Живая природа HD
 #EXTGRP:Познавательные
 http://188.225.31.197/bpk-tv/000001187/tve/index.m3u8
-#EXTINF:0,НТВ Следствие вели... HD
-#EXTGRP:Познавательные
-https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:0,Загородная жизнь HD
 #EXTGRP:Познавательные
 http://188.225.31.197/bpk-tv/000000289/tve/index.m3u8
@@ -231,6 +234,9 @@ http://188.225.31.197/bpk-tv/000000439/tve/index.m3u8
 #EXTINF:0,Мужской HD
 #EXTGRP:Познавательные
 http://188.225.31.197/bpk-tv/000000286/tve/index.m3u8
+#EXTINF:0,НТВ Следствие вели... HD
+#EXTGRP:Познавательные
+https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:0,НТВ Стиль HD
 #EXTGRP:Познавательные
 https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
@@ -249,6 +255,9 @@ http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,Продвижение HD
 #EXTGRP:Познавательные
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
+#EXTINF:-1,РЖД HD
+#EXTGRP:Познавательные
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 #EXTINF:0,Тайна HD
 #EXTGRP:Познавательные
 https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=GmFSizHee8DpOJI6J0bwMA&e=2067815807&scheme=https
@@ -261,6 +270,9 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_TEOTV/variant.m3u8
 #EXTINF:0,Тео-ТВ
 #EXTGRP:Познавательные
 https://stream.teotv.ru/live/site360/playlist.m3u8
+#EXTINF:-1,Теледом HD
+#EXTGRP:Познавательные
+http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:0,Толк ТВ
 #EXTGRP:Познавательные
 https://live-tolknews.cdnvideo.ru/tolknews/stream/tracks-v1a1/mono.m3u8
@@ -351,6 +363,9 @@ https://live20.bozztv.com/giatvplayout7/ushba-t2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,Kronehit HD
 #EXTGRP:Музыкальные
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+#EXTINF:-1,Kronehit TV
+#EXTGRP:Музыкальные
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:0,Kiss FM
 #EXTGRP:Музыкальные
 https://kisstv.siliconweb.com/kissfm/kisstv/chunks.m3u8
@@ -378,9 +393,9 @@ http://185.221.213.254:8080/Ritsa/index.m3u8
 #EXTINF:0,Страна FM HD
 #EXTGRP:Музыкальные
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:0,Страна FM
+#EXTINF:-1,Страна FM
 #EXTGRP:Музыкальные
-http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+http://live.stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
 #EXTINF:-1,Сан Франциско
 #EXTGRP:Музыкальные
 http://204.199.3.2/.m3u8
@@ -409,6 +424,9 @@ http://ip1.orgip.net/201/video.m3u8?token=Ab2b7066c8
 #EXTINF:-1,Eurosport 2 HD
 #EXTGRP:Спортивные
 http://ip1.orgip.net/0201/video.m3u8?token=Ab2b7066c8
+#EXTINF:-1,NHL (Интересные моменты)
+#EXTGRP:Спортивные
+https://nhl-firetv.amagi.tv/playlist.m3u8
 #EXTINF:0,Red Bull HD
 #EXTGRP:Спортивные
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
@@ -469,6 +487,7 @@ http://188.225.31.197/bpk-tv/000007802/tve/index.m3u8
 #EXTINF:0,Удар ТВ
 #EXTGRP:Спортивные
 https://a787201481-s80718.cdn.ngenix.net/hls/CH_UDARHD/video_1920x1080_avc1/playlist.m3u8
+
 
 #EXTINF:0,Jetix Online
 #EXTGRP:Детские
@@ -736,6 +755,9 @@ https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3
 #EXTINF:0,Мужское Кино HD
 #EXTGRP:Кинофильмы | Сериалы
 http://tv.lamro.workers.dev/?ID=3374
+#EXTINF:-1,Наш Дом
+#EXTGRP:Кинофильмы | Сериалы
+http://85.234.33.63/stream/c11.m3u8
 #EXTINF:0,Наш Кинопоказ HD
 #EXTGRP:Кинофильмы | Сериалы
 http://tv.lamro.workers.dev/?ID=4967
