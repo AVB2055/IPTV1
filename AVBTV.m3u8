@@ -793,7 +793,7 @@ https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/mono.ts.m3u8
 #EXTGRP:Сериалы
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:0,НТВ Сериалы Пёс HD
-#EXTGRP:Кинофильмы | Сериалы
+#EXTGRP:Сериалы
 https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:0,НТВ Сериалы Скорая помощь HD
 #EXTGRP:Сериалы
@@ -916,3 +916,4 @@ http://kinowalk.hopto.org/swat2k_live
 http://kinowalk.hopto.org/filmomania_live
 #EXTINF:-1 group-title="Кинозалы | Сериалы (VPN)",Фильмы сериалы
 http://kinowalk.hopto.org/dfsfsdg_live
+
