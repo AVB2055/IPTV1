@@ -183,6 +183,9 @@ http://188.225.31.197/bpk-tv/000005528/tve/index.m3u8
 #EXTINF:0,World Fashion
 #EXTGRP:Познавательные
 http://cdn.wfc.tv/cdn/stream-rus-720p.m3u8
+#EXTINF:-1,Арсенал
+#EXTGRP:Познавательные
+http://kinowalk.hopto.org/videoarsenal_live
 #EXTINF:0,Большая Азия HD
 #EXTGRP:Познавательные
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
@@ -198,6 +201,9 @@ http://188.225.31.197/bpk-tv/000000588/tve/index.m3u8
 #EXTINF:0,Живая природа HD
 #EXTGRP:Познавательные
 http://188.225.31.197/bpk-tv/000001187/tve/index.m3u8
+#EXTINF:0,НТВ Следствие вели... HD
+#EXTGRP:Познавательные
+https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:0,Загородная жизнь HD
 #EXTGRP:Познавательные
 http://188.225.31.197/bpk-tv/000000289/tve/index.m3u8
@@ -621,6 +627,9 @@ http://188.225.31.197/bpk-tv/000008490/tve/index.m3u8
 #EXTINF:0,Кинокомедия HD
 #EXTGRP:Кинофильмы
 http://tv.lamro.workers.dev/?ID=5090
+#EXTINF:-1,Кинопремьера
+#EXTGRP:Кинофильмы
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/9020/index.m3u8
 #EXTINF:0,Кинопоказ HD
 #EXTGRP:Кинофильмы
 http://hls127.freeott.top:8080/Kinopokaz_HD/mono.m3u8
@@ -636,26 +645,40 @@ http://5.188.159.128:8070/kinosvidanie/index.m3u8
 #EXTINF:0,Мировое Кино
 #EXTGRP:Кинофильмы
 http://188.225.31.197/bpk-tv/000008488/tve/index.m3u8
+#EXTINF:0,MM Скорость
+#EXTGRP:Кинофильмы
+http://hls127.freeott.top:8080/minimax-skorost-m4f/video.m3u8
+#EXTINF:0,Наш Кинороман HD
+#EXTGRP:Кинофильмы
+http://tv.lamro.workers.dev/?ID=4729
+#EXTINF:0,Наше HD
+#EXTGRP:Кинофильмы
+http://tv.lamro.workers.dev/?ID=4970
 #EXTINF:0,Победа
 #EXTGRP:Кинофильмы
 https://streaming.televizor-24-tochka.ru/live/43.m3u8
+#EXTINF:0,Премиальное HD
+#EXTGRP:Кинофильмы
+http://tv.lamro.workers.dev/?ID=4988
 #EXTINF:0,Премиум Кино
 #EXTGRP:Кинофильмы
 http://188.225.31.197/bpk-tv/000008491/tve/index.m3u8
+#EXTINF:0,Романтичное HD
+#EXTGRP:Кинофильмы
+http://tv.lamro.workers.dev/?ID=5233
 #EXTINF:0,Семейное кино HD
 #EXTGRP:Кинофильмы
 http://188.225.31.197/bpk-tv/000008489/tve/index.m3u8
 #EXTINF:0,Шокирующее HD
 #EXTGRP:Кинофильмы
 http://tv.lamro.workers.dev/?ID=4961
-
+#EXTINF:0,Хит HD
+#EXTGRP:Кинофильмы
+http://tv.lamro.workers.dev/?ID=4972
 
 #EXTINF:0,.sci-fi HD
 #EXTGRP:Кинофильмы | Сериалы
 http://tv.lamro.workers.dev/?ID=5073
-#EXTINF:0,Amedia 1 HD
-#EXTGRP:Кинофильмы | Сериалы
-http://188.225.31.197/bpk-tv/000000710/tve/index.m3u8
 #EXTINF:0,Amedia 2 HD
 #EXTGRP:Кинофильмы | Сериалы
 http://188.225.31.197/bpk-tv/000000351/tve/index.m3u8
@@ -671,24 +694,6 @@ http://188.225.31.197/bpk-tv/000000709/tve/index.m3u8
 #EXTINF:0,ATV Armenia Premium 6
 #EXTGRP:Кинофильмы | Сериалы
 http://timeshift.arpinet.am/255/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0,ATV Bazmoc
-#EXTGRP:Кинофильмы | Сериалы
-http://109.68.122.117:8899/bazmoc
-#EXTINF:0,FAN
-#EXTGRP:Кинофильмы | Сериалы
-http://tv.lamro.workers.dev/?ID=5064
-#EXTINF:0,FOX HD
-#EXTGRP:Кинофильмы | Сериалы
-http://188.225.31.197/bpk-tv/000004472/tve/index.m3u8
-#EXTINF:0,FOX Life HD
-#EXTGRP:Кинофильмы | Сериалы
-http://188.225.31.197/bpk-tv/000004471/tve/index.m3u8
-#EXTINF:0,Fox Life HD
-#EXTGRP:Кинофильмы | Сериалы
-http://tv.lamro.workers.dev/?ID=4941
-#EXTINF:0,MM Скорость
-#EXTGRP:Кинофильмы | Сериалы
-http://hls127.freeott.top:8080/minimax-skorost-m4f/video.m3u8
 #EXTINF:0,Premium HD
 #EXTGRP:Кинофильмы | Сериалы
 http://tv.lamro.workers.dev/?ID=3718
@@ -701,42 +706,21 @@ http://188.225.31.197/bpk-tv/000007815/tve/index.m3u8
 #EXTINF:0,Start World HD
 #EXTGRP:Кинофильмы | Сериалы
 http://188.225.31.197/bpk-tv/000007818/tve/index.m3u8
-#EXTINF:0,viju+ Serial HD
-#EXTGRP:Кинофильмы | Сериалы
-http://tv.lamro.workers.dev/?ID=4962
-#EXTINF:0,Vip Serial HD
-#EXTGRP:Кинофильмы | Сериалы
-http://188.225.31.197/bpk-tv/000004375/tve/index.m3u8
-#EXTINF:-1,Арсенал
-#EXTGRP:Кинофильмы | Сериалы
-http://kinowalk.hopto.org/videoarsenal_live
-#EXTINF:0,Дорама
-#EXTGRP:Кинофильмы | Сериалы
-http://188.225.31.197/bpk-tv/000003392/tve/index.m3u8
 #EXTINF:-1,Камеди
 #EXTGRP:Кинофильмы | Сериалы
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/9091/index.m3u8
-#EXTINF:-1,Кинодром
-#EXTGRP:Кинофильмы
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31714/index.m3u8
-#EXTINF:-1,Кинопремьера
-#EXTGRP:Кинофильмы
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/9020/index.m3u8
 #EXTINF:0,Кинеко HD
 #EXTGRP:Кинофильмы | Сериалы
 http://tv.lamro.workers.dev/?ID=5085
 #EXTINF:0,Кинеко HD
 #EXTGRP:Кинофильмы | Сериалы
 http://188.225.31.197/bpk-tv/000008136/tve/index.m3u8
-#EXTINF:0,Киножелезо
+#EXTINF:-1,Кинодром
 #EXTGRP:Кинофильмы | Сериалы
-http://188.208.197.173/kinojelezo/video.m3u8?token=tvon
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31714/index.m3u8
 #EXTINF:0,Киножелезо HD
 #EXTGRP:Кинофильмы | Сериалы
 https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=ef6_lx1jeE7fA4D_mGr-tQ&e=2067815807&scheme=https
-#EXTINF:0,Кинолаффка
-#EXTGRP:Кинофильмы | Сериалы
-http://188.208.197.173/kinolafka/video.m3u8?token=tvon
 #EXTINF:0,Кинолаффка HD
 #EXTGRP:Кинофильмы | Сериалы
 https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=19TY0JRfXJzPhrZLaUHGGg&e=2067815807&scheme=https
@@ -749,75 +733,88 @@ http://tv.lamro.workers.dev/?ID=4883
 #EXTINF:0,Китай ТВ HD
 #EXTGRP:Кинофильмы | Сериалы
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
-#EXTINF:0,Мир сериала HD
-#EXTGRP:Кинофильмы | Сериалы
-http://tv.lamro.workers.dev/?ID=5092
 #EXTINF:0,Мужское Кино HD
 #EXTGRP:Кинофильмы | Сериалы
 http://tv.lamro.workers.dev/?ID=3374
-#EXTINF:0,НТВ Сериал HD
+#EXTINF:0,Наш Кинопоказ HD
 #EXTGRP:Кинофильмы | Сериалы
+http://tv.lamro.workers.dev/?ID=4967
+#EXTINF:0,Смотрим Кино и сериалы
+#EXTGRP:Кинофильмы | Сериалы
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+
+
+#EXTINF:0,Amedia 1 HD
+#EXTGRP:Сериалы
+http://188.225.31.197/bpk-tv/000000710/tve/index.m3u8
+#EXTINF:0,ATV Bazmoc
+#EXTGRP:Сериалы
+http://109.68.122.117:8899/bazmoc
+#EXTINF:0,FAN
+#EXTGRP:Сериалы
+http://tv.lamro.workers.dev/?ID=5064
+#EXTINF:0,FOX HD
+#EXTGRP:Сериалы
+http://188.225.31.197/bpk-tv/000004472/tve/index.m3u8
+#EXTINF:0,FOX Life HD
+#EXTGRP:Сериалы
+http://188.225.31.197/bpk-tv/000004471/tve/index.m3u8
+#EXTINF:0,Fox Life HD
+#EXTGRP:Сериалы
+http://tv.lamro.workers.dev/?ID=4941
+#EXTINF:0,viju+ Serial HD
+#EXTGRP:Сериалы
+http://tv.lamro.workers.dev/?ID=4962
+#EXTINF:0,Vip Serial HD
+#EXTGRP:Сериалы
+http://188.225.31.197/bpk-tv/000004375/tve/index.m3u8
+#EXTINF:0,Дорама
+#EXTGRP:Сериалы
+http://188.225.31.197/bpk-tv/000003392/tve/index.m3u8
+#EXTINF:0,Мир сериала HD
+#EXTGRP:Сериалы
+http://tv.lamro.workers.dev/?ID=5092
+#EXTINF:0,НТВ Сериал HD
+#EXTGRP:Сериалы
 https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 #EXTINF:0,НТВ Сериалы Балабол HD
-#EXTGRP:Кинофильмы | Сериалы
+#EXTGRP:Сериалы
 https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:0,НТВ Сериалы Невский HD
-#EXTGRP:Кинофильмы | Сериалы
+#EXTGRP:Сериалы
 https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,НТВ Сериалы Первый отдел HD
-#EXTGRP:Кинофильмы | Сериалы
+#EXTGRP:Сериалы
 https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:0,НТВ Сериалы Первый отдел HD
-#EXTGRP:Кинофильмы | Сериалы
+#EXTGRP:Сериалы
 https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,НТВ Сериалы Пять минут тишины HD
-#EXTGRP:Кинофильмы | Сериалы
+#EXTGRP:Сериалы
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:0,НТВ Сериалы Пёс HD
 #EXTGRP:Кинофильмы | Сериалы
 https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:0,НТВ Сериалы Скорая помощь HD
-#EXTGRP:Кинофильмы | Сериалы
+#EXTGRP:Сериалы
 https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:0,НТВ Сериалы Шеф HD
-#EXTGRP:Кинофильмы | Сериалы
+#EXTGRP:Сериалы
 https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:0,НТВ Сериалы Шеф HD
-#EXTGRP:Кинофильмы | Сериалы
+#EXTGRP:Сериалы
 https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0,НТВ Следствие вели... HD
-#EXTGRP:Кинофильмы | Сериалы
-https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:0,НТВ Хит
-#EXTGRP:Кинофильмы | Сериалы
+#EXTGRP:Сериалы
 https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
-#EXTINF:0,Наш Кинопоказ HD
-#EXTGRP:Кинофильмы | Сериалы
-http://tv.lamro.workers.dev/?ID=4967
-#EXTINF:0,Наш Кинороман HD
-#EXTGRP:Кинофильмы | Сериалы
-http://tv.lamro.workers.dev/?ID=4729
-#EXTINF:0,Наше HD
-#EXTGRP:Кинофильмы | Сериалы
-http://tv.lamro.workers.dev/?ID=4970
-#EXTINF:0,Премиальное HD
-#EXTGRP:Кинофильмы | Сериалы
-http://tv.lamro.workers.dev/?ID=4988
-#EXTINF:0,Романтичное HD
-#EXTGRP:Кинофильмы | Сериалы
-http://tv.lamro.workers.dev/?ID=5233
 #EXTINF:0,Сапфир HD
-#EXTGRP:Кинофильмы | Сериалы
+#EXTGRP:Сериалы
 http://tv.lamro.workers.dev/?ID=5232
 #EXTINF:0,Сапфир HD
-#EXTGRP:Кинофильмы | Сериалы
+#EXTGRP:Сериалы
 http://188.225.31.197/bpk-tv/000008135/tve/index.m3u8
-#EXTINF:0,Смотрим Кино и сериалы
-#EXTGRP:Кинофильмы | Сериалы
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
-#EXTINF:0,Хит HD
-#EXTGRP:Кинофильмы | Сериалы
-http://tv.lamro.workers.dev/?ID=4972
+
+
 
 #EXTINF:0,Clarity4K Asia
 #EXTGRP:Clarity4K
@@ -919,10 +916,3 @@ http://kinowalk.hopto.org/swat2k_live
 http://kinowalk.hopto.org/filmomania_live
 #EXTINF:-1 group-title="Кинозалы | Сериалы (VPN)",Фильмы сериалы
 http://kinowalk.hopto.org/dfsfsdg_live
-
-
-
-
-
-
-
