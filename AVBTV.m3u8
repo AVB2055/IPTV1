@@ -280,6 +280,10 @@ http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTGRP:Познавательные
 https://live-tolknews.cdnvideo.ru/tolknews/stream/tracks-v1a1/mono.m3u8
 
+
+#EXTINF:-1,2x2
+#EXTGRP:Развлекательные
+https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=hwyoufQp4n4DEevoTh79AQ&e=2068506934&scheme=https
 #EXTINF:-1,2x2
 #EXTGRP:Развлекательные
 http://iptv46.mcx-ix.ru:8077/2x2/index.m3u8
@@ -941,5 +945,6 @@ http://kinowalk.hopto.org/swat2k_live
 http://kinowalk.hopto.org/filmomania_live
 #EXTINF:-1 group-title="Кинозалы | Сериалы (VPN)",Фильмы сериалы
 http://kinowalk.hopto.org/dfsfsdg_live
+
 
 
