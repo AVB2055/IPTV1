@@ -437,6 +437,9 @@ http://ip1.orgip.net/0201/video.m3u8?token=Ab2b7066c8
 #EXTINF:-1,NHL (Интересные моменты)
 #EXTGRP:Спортивные
 https://nhl-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1,Okko Спорт. Прайм HD
+#EXTGRP:Спортивные
+http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
 #EXTINF:0,Red Bull HD
 #EXTGRP:Спортивные
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
@@ -948,6 +951,7 @@ http://kinowalk.hopto.org/swat2k_live
 http://kinowalk.hopto.org/filmomania_live
 #EXTINF:-1 group-title="Кинозалы | Сериалы (VPN)",Фильмы сериалы
 http://kinowalk.hopto.org/dfsfsdg_live
+
 
 
 
