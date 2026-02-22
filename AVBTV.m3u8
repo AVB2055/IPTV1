@@ -823,19 +823,19 @@ http://hls127.freeott.top:8080/Clarity4K_Edinoborstva/mono.m3u8
 #EXTGRP:Clarity4K
 http://hls127.freeott.top:8080/Clarity4K_Anime/mono.m3u8
 
-#EXTINF:-1 group-title="КиноСтримыы",Alpha Moretime
+#EXTINF:-1 group-title="КиноСтримы",Alpha Moretime
 https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
-#EXTINF:-1 group-title="КиноСтримыы",Alpha Cinema
+#EXTINF:-1 group-title="КиноСтримы",Alpha Cinema
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
-#EXTINF:-1 group-title="КиноСтримыы",Blockbusters Time
+#EXTINF:-1 group-title="КиноСтримы",Blockbusters Time
 http://kinowalk.hopto.org/blockbusterstime_live
-#EXTINF:-1 group-title="КиноСтримыы",Cinema Time HD
+#EXTINF:-1 group-title="КиноСтримы",Cinema Time HD
 http://kinowalk.hopto.org/cinemaa_live
-#EXTINF:-1 group-title="КиноСтримыы",Видеопрокат
+#EXTINF:-1 group-title="КиноСтримы",Видеопрокат
 http://kinowalk.hopto.org/video_prokat_live
-#EXTINF:-1 group-title="КиноСтримыы",TimeToHorror HD
+#EXTINF:-1 group-title="КиноСтримы",TimeToHorror HD
 http://kinowalk.hopto.org/timetohorror_live
-#EXTINF:-1 group-title="КиноСтримыы",TimeToMovie HD
+#EXTINF:-1 group-title="КиноСтримы",TimeToMovie HD
 http://kinowalk.hopto.org/timetomovie_live
 #EXTINF:-1 group-title="КиноСтримы",Akudji (нет в сети)
 http://kinowalk.hopto.org/akudjitv_live
@@ -907,4 +907,5 @@ http://kinowalk.hopto.org/swat2k_live
 http://kinowalk.hopto.org/filmomania_live
 #EXTINF:-1 group-title="КиноСтримы",Фильмы сериалы
 http://kinowalk.hopto.org/dfsfsdg_live
+
 
