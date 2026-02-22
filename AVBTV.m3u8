@@ -1027,9 +1027,6 @@ http://ip1.orgip.net/609/video.m3u8?token=Ab2b7066c8
 #EXTINF:-1,КИНОСЕМЬЯ
 #EXTGRP:Тестирование
 http://ip1.orgip.net/610/video.m3u8?token=Ab2b7066c8
-#EXTINF:-1,КиноПремиум HD
-#EXTGRP:Тестирование
-http://ip1.orgip.net/612/video.m3u8?token=Ab2b7066c8
 #EXTINF:-1,Viju+ Premiere HD
 #EXTGRP:Тестирование
 http://ip1.orgip.net/605/video.m3u8?token=Ab2b7066c8
@@ -1096,5 +1093,6 @@ http://ip1.orgip.net/673/video.m3u8?token=Ab2b7066c8
 #EXTINF:-1,A2
 #EXTGRP:Тестирование
 http://ip1.orgip.net/641/video.m3u8?token=Ab2b7066c8
+
 
 
