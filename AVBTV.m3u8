@@ -52,7 +52,7 @@ http://stream-tv.ew21.ru/016/video.m3u8?hash=TN66TE4YB
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:0,Мир
 #EXTGRP:Федеральные
-http://95.47.156.60:8000/play/18/index.m3u8
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:0,ТНТ
 #EXTGRP:Федеральные
 http://stream-tv.ew21.ru/019/video.m3u8?hash=TN66TE4YB
@@ -113,12 +113,12 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/cbc.m3u8
 #EXTINF:0,Соловьев.Live HD
 #EXTGRP:Новостные
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
-#EXTINF:0,Царьград
-#EXTGRP:Новостные
-https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=UQvVhXcvnPn0tDMqg2zDYg&e=2068506958&scheme=https
 #EXTINF:0,Соловьев Live
 #EXTGRP:Новостные
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
+#EXTINF:0,Царьград
+#EXTGRP:Новостные
+https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=UQvVhXcvnPn0tDMqg2zDYg&e=2068506958&scheme=https
 #EXTINF:0,Первый информационный
 #EXTGRP:Новостные
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w868240704_b5160000_sleng.m3u8
@@ -195,9 +195,6 @@ http://188.225.31.197/bpk-tv/000005528/tve/index.m3u8
 #EXTINF:0,World Fashion
 #EXTGRP:Познавательные
 http://cdn.wfc.tv/cdn/stream-rus-720p.m3u8
-#EXTINF:-1,Арсенал
-#EXTGRP:Познавательные
-http://kinowalk.hopto.org/videoarsenal_live
 #EXTINF:0,Большая Азия HD
 #EXTGRP:Познавательные
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
@@ -308,9 +305,6 @@ http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 #EXTINF:0,Анекдот ТВ
 #EXTGRP:Развлекательные
 http://188.225.31.197/bpk-tv/000001921/tve/index.m3u8
-#EXTINF:0,КВН
-#EXTGRP:Развлекательные
-http://158.101.222.193:88/georgia_play.php?id=kvntv
 #EXTINF:0,Новое Телевидение
 #EXTGRP:Развлекательные
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
@@ -351,10 +345,6 @@ https://d3s7x6kmqcnb6b.cloudfront.net/hls/3MXYR7I/2A8CFE9544F0/m.m3u8
 #EXTINF:0,67
 #EXTGRP:Музыкальные
 https://fl1004.bozztv.com/ushba67/tracks-v1a1/mono.m3u8
-#EXTINF:0,Assim E Portugal
-#EXTGRP:Музыкальные
-https://video04.logicahost.com.br/assimeportugal/assimeportugal/.m3u8
-
 #EXTINF:0,Deluxe Dance HD
 #EXTGRP:Музыкальные
 https://d2hnivx8upksrk.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1q019khonuqjh/01efc271-2cc2-49ed-adfc-a8c5117f7d26/3.m3u8
@@ -385,9 +375,6 @@ http://89.179.247.144/hls/mixm.m3u8
 #EXTINF:0,radio m2o HD
 #EXTGRP:Музыкальные
 http://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1728000.m3u8
-#EXTINF:0,STZ Telebista HD
-#EXTGRP:Музыкальные
-https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
 #EXTINF:0,О!2
 #EXTGRP:Музыкальные
 http://77.232.131.211/O2TV/index.m3u8
@@ -397,9 +384,6 @@ https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=DM
 #EXTINF:0,Мафия Музыка
 #EXTGRP:Музыкальные
 https://live20.bozztv.com/giatvplayout7/ushba-mafia/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0,Рица ТВ
-#EXTGRP:Музыкальные
-http://185.221.213.254:8080/Ritsa/index.m3u8
 #EXTINF:0,Страна FM HD
 #EXTGRP:Музыкальные
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
@@ -409,9 +393,6 @@ http://live.stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
 #EXTINF:-1,Сан Франциско
 #EXTGRP:Музыкальные
 http://204.199.3.2/.m3u8
-#EXTINF:-1,Тоталmusic 80
-#EXTGRP:Музыкальные
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
 
 #EXTINF:30,A21 Network HD
 #EXTGRP:Спортивные
@@ -542,12 +523,7 @@ https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=fG
 #EXTGRP:Детские
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 
-#EXTINF:0,Alpha Moretime (1080p)
-#EXTGRP:Кинофильмы
-https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
-#EXTINF:-1,Alpha Cinema
-#EXTGRP:Кинофильмы
-http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
+
 #EXTINF:0,Arpinet SD
 #EXTGRP:Кинофильмы
 http://185.57.68.33/237/mpegts
@@ -557,30 +533,18 @@ http://185.57.68.33:80/255/index.m3u8
 #EXTINF:-1,BEST
 #EXTGRP:Кинофильмы
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/20165/index.m3u8
-#EXTINF:0,Blockbusters Time FHD
-#EXTGRP:Кинофильмы
-http://kinowalk.hopto.org/blockbusterstime_live
 #EXTINF:0,Bollywood HD
 #EXTGRP:Кинофильмы
 http://188.225.31.197/bpk-tv/000001419/tve/index.m3u8
-#EXTINF:0,Bollywood HD
-#EXTGRP:Кинофильмы
-http://176.118.197.101/Bollywood_HD/index.m3u8
 #EXTINF:0,Cinema HD
 #EXTGRP:Кинофильмы
 http://tv.lamro.workers.dev/?ID=5057
-#EXTINF:0,Cinema Time HD
-#EXTGRP:Кинофильмы
-http://kinowalk.hopto.org/cinemaa_live
 #EXTINF:0,Cineman HD AM
 #EXTGRP:Кинофильмы
 http://185.57.68.33:80/255/playlist.m3u8
 #EXTINF:0,FlixSnip HD
 #EXTGRP:Кинофильмы
 http://188.225.31.197/bpk-tv/000004466/tve/index.m3u8
-#EXTINF:0,Hollywood HD
-#EXTGRP:Кинофильмы
-http://tv.lamro.workers.dev/?ID=4589
 #EXTINF:0,MyTV
 #EXTGRP:Кинофильмы
 http://hls127.freeott.top:8080/MyTV/mono.m3u8
@@ -596,12 +560,7 @@ https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210_output_0.m3u
 #EXTINF:0,Plan B HD
 #EXTGRP:Кинофильмы
 http://tv.lamro.workers.dev/?ID=5017
-#EXTINF:0,TimeToHorror HD
-#EXTGRP:Кинофильмы
-http://kinowalk.hopto.org/timetohorror_live
-#EXTINF:0,TimeToMovie FHD
-#EXTGRP:Кинофильмы
-http://kinowalk.hopto.org/timetomovie_live
+
 #EXTINF:0,TV1000 action HD
 #EXTGRP:Кинофильмы
 http://188.225.31.197/bpk-tv/000003910/tve/index.m3u8
@@ -617,9 +576,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
 #EXTINF:0,VIASAT Kino Comedy HD
 #EXTGRP:Кинофильмы
 http://ukr2.ukrainske.tv/493/video.m3u8
-#EXTINF:0,Video_Prokat HD
-#EXTGRP:Кинофильмы
-http://kinowalk.hopto.org/video_prokat_live
 #EXTINF:0,viju+ Megahit HD
 #EXTGRP:Кинофильмы
 http://hls127.freeott.top:8080/ViP_Megahit/video.m3u8
@@ -668,9 +624,6 @@ http://hls127.freeott.top:8080/Kinopokaz_HD/mono.m3u8
 #EXTINF:0,Кинопоказ HD
 #EXTGRP:Кинофильмы
 http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
-#EXTINF:0,Киносемья HD
-#EXTGRP:Кинофильмы
-http://tv.lamro.workers.dev/?ID=5088
 #EXTINF:-1,Киносвидание
 #EXTGRP:Кинофильмы
 http://5.188.159.128:8070/kinosvidanie/index.m3u8
@@ -683,9 +636,6 @@ http://hls127.freeott.top:8080/minimax-skorost-m4f/video.m3u8
 #EXTINF:0,Наш Кинороман HD
 #EXTGRP:Кинофильмы
 http://tv.lamro.workers.dev/?ID=4729
-#EXTINF:0,Наше HD
-#EXTGRP:Кинофильмы
-http://tv.lamro.workers.dev/?ID=4970
 #EXTINF:0,Победа
 #EXTGRP:Кинофильмы
 https://streaming.televizor-24-tochka.ru/live/43.m3u8
@@ -714,9 +664,6 @@ http://tv.lamro.workers.dev/?ID=5073
 #EXTINF:0,Amedia 2 HD
 #EXTGRP:Кинофильмы | Сериалы
 http://188.225.31.197/bpk-tv/000000351/tve/index.m3u8
-#EXTINF:0,Amedia HiT HD
-#EXTGRP:Кинофильмы | Сериалы
-http://188.225.31.197/bpk-tv/000001662/tve/index.m3u8
 #EXTINF:0,Amedia Hit HD
 #EXTGRP:Кинофильмы | Сериалы
 http://tv.lamro.workers.dev/?ID=4921
@@ -732,9 +679,6 @@ http://tv.lamro.workers.dev/?ID=3718
 #EXTINF:0,Start Air
 #EXTGRP:Кинофильмы | Сериалы
 http://tv.lamro.workers.dev/?ID=5081
-#EXTINF:0,Start Air HD
-#EXTGRP:Кинофильмы | Сериалы
-http://188.225.31.197/bpk-tv/000007815/tve/index.m3u8
 #EXTINF:0,Start World HD
 #EXTGRP:Кинофильмы | Сериалы
 http://188.225.31.197/bpk-tv/000007818/tve/index.m3u8
@@ -879,80 +823,87 @@ http://hls127.freeott.top:8080/Clarity4K_Edinoborstva/mono.m3u8
 #EXTGRP:Clarity4K
 http://hls127.freeott.top:8080/Clarity4K_Anime/mono.m3u8
 
-#EXTINF:-1 group-title="Кинозалы (VPN)",Akudji (нет в сети)
+#EXTINF:-1 group-title="КиноСтримыы",Alpha Moretime
+https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
+#EXTINF:-1 group-title="КиноСтримыы",Alpha Cinema
+http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
+#EXTINF:-1 group-title="КиноСтримыы",Blockbusters Time
+http://kinowalk.hopto.org/blockbusterstime_live
+#EXTINF:-1 group-title="КиноСтримыы",Cinema Time HD
+http://kinowalk.hopto.org/cinemaa_live
+#EXTINF:-1 group-title="КиноСтримыы",Видеопрокат
+http://kinowalk.hopto.org/video_prokat_live
+#EXTINF:-1 group-title="КиноСтримыы",TimeToHorror HD
+http://kinowalk.hopto.org/timetohorror_live
+#EXTINF:-1 group-title="КиноСтримыы",TimeToMovie HD
+http://kinowalk.hopto.org/timetomovie_live
+#EXTINF:-1 group-title="КиноСтримы",Akudji (нет в сети)
 http://kinowalk.hopto.org/akudjitv_live
-#EXTINF:-1 group-title="Кинозалы (VPN)",BOSSFILM
+#EXTINF:-1 group-title="КиноСтримы",BossFilm
 http://kinowalk.hopto.org/bossfilm_live
-#EXTINF:-1 group-title="Кинозалы (VPN)",Dimpon TV
+#EXTINF:-1 group-title="КиноСтримы",Dimpon TV
 http://kinowalk.hopto.org/dimpon_live
-#EXTINF:-1 group-title="Кинозалы (VPN)",Kinofon
+#EXTINF:-1 group-title="КиноСтримы",Kinofon
 http://kinowalk.hopto.org/kinofon_live
-#EXTINF:-1 group-title="Кинозалы (VPN)",KINOPRO
+#EXTINF:-1 group-title="КиноСтримы",Kinopro
 http://kinowalk.hopto.org/kinopro_live
-#EXTINF:-1 group-title="Кинозалы (VPN)",KinoMix Юрич
+#EXTINF:-1 group-title="КиноСтримы",KinoMix Юрич
 http://kinowalk.hopto.org/yurich_kinomix_live
-#EXTINF:-1 group-title="Кинозалы (VPN)",Kinowalk_tv
+#EXTINF:-1 group-title="КиноСтримы",Kinowalk_tv
 http://kinowalk.hopto.org/kinowalk_live
-#EXTINF:-1 group-title="Кинозалы (VPN)",MovieToper
+#EXTINF:-1 group-title="КиноСтримы",MovieToper
 http://kinowalk.hopto.org/movietoper_live
-#EXTINF:-1 group-title="Кинозалы (VPN)",ReanimatoR_VHS
+#EXTINF:-1 group-title="КиноСтримы",ReanimatoR_VHS
 http://kinowalk.hopto.org/reanimator_vhs_live
-#EXTINF:-1 group-title="Кинозалы (VPN)",ROMEO Video
+#EXTINF:-1 group-title="КиноСтримы",Romeo Video
 http://kinowalk.hopto.org/romantic_live
-#EXTINF:-1 group-title="Кинозалы (VPN)",SeleCaoTV
+#EXTINF:-1 group-title="КиноСтримы",SeleCaoTV
 http://kinowalk.hopto.org/selecaotv_live
-#EXTINF:-1 group-title="Кинозалы (VPN)",ScripachTV
+#EXTINF:-1 group-title="КиноСтримы",ScripachTV
 http://kinowalk.hopto.org/scripachtv_live
-#EXTINF:-1 group-title="Кинозалы (VPN)",VideoArsenal
+#EXTINF:-1 group-title="КиноСтримы",VideoArsenal
 http://kinowalk.hopto.org/videoarsenal_live
-#EXTINF:-1 group-title="Кинозалы (VPN)",VHS Forever
+#EXTINF:-1 group-title="КиноСтримы",VHS Forever
 http://kinowalk.hopto.org/vhs-forever_live
-#EXTINF:-1 group-title="Кинозалы (VPN)",ZubrilomFilm
+#EXTINF:-1 group-title="КиноСтримы",ZubrilomFilm
 http://kinowalk.hopto.org/zubrilomfilm_live
-#EXTINF:-1 group-title="Кинозалы (VPN)",ZubrilomFranchise
+#EXTINF:-1 group-title="КиноСтримы",ZubrilomFranchise
 http://kinowalk.hopto.org/zubrilommusic.ru_live
-#EXTINF:-1 group-title="Кинозалы (VPN)",Video Channel
+#EXTINF:-1 group-title="КиноСтримы",Video Channel
 http://kinowalk.hopto.org/video_channel_live
-#EXTINF:-1 group-title="Кинозалы (VPN)",КОМЕДИИ 24/7
+#EXTINF:-1 group-title="КиноСтримы",Комедии 24/7
 http://kinowalk.hopto.org/cmexye4ku_live
-#EXTINF:-1 group-title="Кинозалы (VPN)",Малдер Всё ТВ
+#EXTINF:-1 group-title="КиноСтримы",Малдер Всё ТВ
 http://kinowalk.hopto.org/vsetv_live
-#EXTINF:-1 group-title="Кинозалы (VPN)",Мы из 90-х
+#EXTINF:-1 group-title="КиноСтримы",Мы из 90-х
 http://kinowalk.hopto.org/miiz90x_live
-#EXTINF:-1 group-title="Кинозалы (VPN)",Эквилибриум
+#EXTINF:-1 group-title="КиноСтримы",Эквилибриум
 http://kinowalk.hopto.org/equilibrium_live
-#EXTINF:-1 group-title="Кинозалы (VPN)",wihail (нет в сети)
+#EXTINF:-1 group-title="КиноСтримы",Wihail
 http://kinowalk.hopto.org/wihail_live
-
-#EXTINF:-1 group-title="Кинозалы (VPN)",Aisman (стрим)
+#EXTINF:-1 group-title="КиноСтримы",Aisman 
 http://kinowalk.hopto.org/aisman_live
-#EXTINF:-1 group-title="Кинозалы (VPN)",Legion tv (стрим) (нет в сети)
+#EXTINF:-1 group-title="КиноСтримы",Legion tv (нет в сети)
 https://kinowalk.hopto.org/legion-tv_live
-
-#EXTINF:-1 group-title="Кинозалы | Сериалы (VPN)",4K — Кино и сериалы
+#EXTINF:-1 group-title="КиноСтримы",4K — Кино и сериалы
 http://kinowalk.hopto.org/4khits_live
-#EXTINF:-1 group-title="Кинозалы | Сериалы (VPN)",Alex.Films 
+#EXTINF:-1 group-title="КиноСтримы",Alex.Films 
 http://kinowalk.hopto.org/alex.films_live
-#EXTINF:-1 group-title="Кинозалы | Сериалы (VPN)",EvGAMEN
+#EXTINF:-1 group-title="КиноСтримы",EvGAMEN
 http://kinowalk.hopto.org/evgamen_movies_live
-#EXTINF:-1 group-title="Кинозалы | Сериалы (VPN)",KinoJam 
+#EXTINF:-1 group-title="КиноСтримы",KinoJam 
 http://kinowalk.hopto.org/kinojam_live
-#EXTINF:-1 group-title="Кинозалы | Сериалы (VPN)",Maksim Films
+#EXTINF:-1 group-title="КиноСтримы",Maksim Films
 http://kinowalk.hopto.org/mmaxim0vich_live
-#EXTINF:-1 group-title="Кинозалы | Сериалы (VPN)",Rus serials
+#EXTINF:-1 group-title="КиноСтримы",Rus serials
 http://kinowalk.hopto.org/zzz881_live
-#EXTINF:-1 group-title="Кинозалы | Сериалы (VPN)",SerialTV
+#EXTINF:-1 group-title="КиноСтримы",SerialTV
 http://kinowalk.hopto.org/serialtv_live
-#EXTINF:-1 group-title="Кинозалы | Сериалы (VPN)",serial4u
+#EXTINF:-1 group-title="КиноСтримы",Serial4u
 http://kinowalk.hopto.org/serial4u_live
-#EXTINF:-1 group-title="Кинозалы | Сериалы (VPN)",Serial Productions
+#EXTINF:-1 group-title="КиноСтримы",Serial Productions
 http://kinowalk.hopto.org/swat2k_live
-#EXTINF:-1 group-title="Кинозалы | Сериалы (VPN)",Scarface
+#EXTINF:-1 group-title="КиноСтримы",Scarface
 http://kinowalk.hopto.org/filmomania_live
-#EXTINF:-1 group-title="Кинозалы | Сериалы (VPN)",Фильмы сериалы
+#EXTINF:-1 group-title="КиноСтримы",Фильмы сериалы
 http://kinowalk.hopto.org/dfsfsdg_live
-
-
-
-
-
