@@ -906,4 +906,114 @@ http://hls127.freeott.top:8080/Clarity4K_Kosmomir/mono.m3u8
 #EXTGRP:Clarity4K
 http://hls127.freeott.top:8080/Clarity4K_Edinoborstva/mono.m3u8
 
+#EXTINF:-1,CineMan Premium
+#EXTGRP:CineMan
+http://ip1.orgip.net/1664/video.m3u8?token=Ab2b7066c8
+#EXTINF:-1,CineMan
+#EXTGRP:CineMan
+http://ip1.orgip.net/682/video.m3u8?token=Ab2b7066c8
+#EXTINF:-1,CineMan Top
+#EXTGRP:CineMan
+http://ip1.orgip.net/683/video.m3u8?token=Ab2b7066c8
+#EXTINF:-1,CineMan VHS
+#EXTGRP:CineMan
+http://ip1.orgip.net/685/video.m3u8?token=Ab2b7066c8
+#EXTINF:-1,CineMan Thriller
+#EXTGRP:CineMan
+http://ip1.orgip.net/686/video.m3u8?token=Ab2b7066c8
+#EXTINF:-1,CineMan РуКино
+#EXTGRP:CineMan
+http://ip1.orgip.net/687/video.m3u8?token=Ab2b7066c8
+#EXTINF:-1,CineMan CCCP FHD
+#EXTGRP:CineMan
+http://ip1.orgip.net/655/video.m3u8?token=Ab2b7066c8
+#EXTINF:-1,CineMan Marvel
+#EXTGRP:CineMan
+http://ip1.orgip.net/688/video.m3u8?token=Ab2b7066c8
+#EXTINF:-1,CineMan Action
+#EXTGRP:CineMan
+http://ip1.orgip.net/689/video.m3u8?token=Ab2b7066c8
+#EXTINF:-1,CineMan Melodrama
+#EXTGRP:CineMan
+http://ip1.orgip.net/690/video.m3u8?token=Ab2b7066c8
+#EXTINF:-1,CineMan Комедия
+#EXTGRP:CineMan
+http://ip1.orgip.net/691/video.m3u8?token=Ab2b7066c8
+#EXTINF:-1,CineMan Ужасы
+#EXTGRP:CineMan
+http://ip1.orgip.net/692/video.m3u8?token=Ab2b7066c8
+#EXTINF:-1,CineMan Катастрофы
+#EXTGRP:CineMan
+http://ip1.orgip.net/693/video.m3u8?token=Ab2b7066c8
+#EXTINF:-1,CineMan Сваты
+#EXTGRP:CineMan
+http://ip1.orgip.net/684/video.m3u8?token=Ab2b7066c8
+#EXTINF:-1,CineMan ПёС + ЛИХАЧ
+#EXTGRP:CineMan
+http://ip1.orgip.net/1658/video.m3u8?token=Ab2b7066c8
+#EXTINF:-1,CineMan Лесник
+#EXTGRP:CineMan
+http://ip1.orgip.net/1659/video.m3u8?token=Ab2b7066c8
+#EXTINF:-1,CineMan Скорая помощь (ER)
+#EXTGRP:CineMan
+http://ip1.orgip.net/694/video.m3u8?token=Ab2b7066c8
+#EXTINF:-1,CineMan Ментовские войны
+#EXTGRP:CineMan
+http://ip1.orgip.net/1657/video.m3u8?token=Ab2b7066c8
+#EXTINF:-1,CineMan Криминальные Сериалы
+#EXTGRP:CineMan
+http://ip1.orgip.net/1672/video.m3u8?token=Ab2b7066c8
+#EXTINF:-1,CineMan Комедийные Сериалы
+#EXTGRP:CineMan
+http://ip1.orgip.net/1604/video.m3u8?token=Ab2b7066c8
+#EXTINF:-1,CineMan Военные Сериалы
+#EXTGRP:CineMan
+http://ip1.orgip.net/1609/video.m3u8?token=Ab2b7066c8
+#EXTINF:-1,CineMan MiniSeries
+#EXTGRP:CineMan
+http://ip1.orgip.net/1662/video.m3u8?token=Ab2b7066c8
+#EXTINF:-1,CineMan OLD 4K
+#EXTGRP:CineMan
+http://ip1.orgip.net/1603/video.m3u8?token=Ab2b7066c8
+#EXTINF:-1,CineMan CCCP 4K
+#EXTGRP:CineMan
+http://ip1.orgip.net/1602/video.m3u8?token=Ab2b7066c8
+
+#EXTINF:-1,BCU Сваты HD
+#EXTGRP:BCU
+http://ip1.orgip.net/1624/video.m3u8?token=Ab2b7066c8
+#EXTINF:-1,BCU Fantastic HD
+#EXTGRP:BCU
+http://ip1.orgip.net/1606/video.m3u8?token=Ab2b7066c8
+#EXTINF:-1,BCU Marvel HD
+#EXTGRP:BCU
+http://ip1.orgip.net/1612/video.m3u8?token=Ab2b7066c8
+#EXTINF:-1,BCU Russian HD
+#EXTGRP:BCU
+http://ip1.orgip.net/1617/video.m3u8?token=Ab2b7066c8
+#EXTINF:-1,BCU Romantic HD
+#EXTGRP:BCU
+http://ip1.orgip.net/1616/video.m3u8?token=Ab2b7066c8
+#EXTINF:-1,BCU Stars HD
+#EXTGRP:BCU
+http://ip1.orgip.net/1618/video.m3u8?token=Ab2b7066c8
+#EXTINF:-1,BCU VHS HD
+#EXTGRP:BCU
+http://ip1.orgip.net/1620/video.m3u8?token=Ab2b7066c8
+#EXTINF:-1,BCU Kinorating HD
+#EXTGRP:BCU
+http://ip1.orgip.net/1613/video.m3u8?token=Ab2b7066c8
+#EXTINF:-1,BCU Premiere HD
+#EXTGRP:BCU
+http://ip1.orgip.net/1614/video.m3u8?token=Ab2b7066c8
+#EXTINF:-1,BCU Premiere 1 HD
+#EXTGRP:BCU
+http://ip1.orgip.net/1619/video.m3u8?token=Ab2b7066c8
+#EXTINF:-1,BCU Premiere 2 HD
+#EXTGRP:BCU
+http://ip1.orgip.net/1622/video.m3u8?token=Ab2b7066c8
+#EXTINF:-1,BCU Premiere 3 HD
+#EXTGRP:BCU
+http://ip1.orgip.net/1623/video.m3u8?token=Ab2b7066c8
+
 
