@@ -1033,15 +1033,6 @@ http://ip1.orgip.net/605/video.m3u8?token=Ab2b7066c8
 #EXTINF:-1,Viju+ Megahit HD
 #EXTGRP:Тестирование
 http://ip1.orgip.net/606/video.m3u8?token=Ab2b7066c8
-#EXTINF:-1,Viju+ Comedy HD
-#EXTGRP:Тестирование
-http://ip1.orgip.net/607/video.m3u8?token=Ab2b7066c8
-#EXTINF:-1,Viju+ Serial
-#EXTGRP:Тестирование
-http://ip1.orgip.net/636/video.m3u8?token=Ab2b7066c8
-#EXTINF:-1,Viju TV1000
-#EXTGRP:Тестирование
-http://ip1.orgip.net/622/video.m3u8?token=Ab2b7066c8
 #EXTINF:-1,Viasat Kino World
 #EXTGRP:Тестирование
 http://ip1.orgip.net/1608/video.m3u8?token=Ab2b7066c8
@@ -1063,6 +1054,7 @@ http://ip1.orgip.net/645/video.m3u8?token=Ab2b7066c8
 #EXTINF:-1,Star Family
 #EXTGRP:Тестирование
 http://ip1.orgip.net/673/video.m3u8?token=Ab2b7066c8
+
 
 
 
