@@ -762,25 +762,25 @@ https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:0,НТВ Невский HD
 #EXTGRP:Сериалы
 https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0,Первый отдел HD
+#EXTINF:0,НТВ Первый отдел HD
 #EXTGRP:Сериалы
 https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:0,Первый отдел HD
+#EXTINF:0,НТВ Первый отдел HD
 #EXTGRP:Сериалы
 https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0,НТВ Сериалы Пять минут тишины HD
+#EXTINF:0,НТВ Пять минут тишины HD
 #EXTGRP:Сериалы
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:0,Пёс HD
+#EXTINF:0,НТВ Пёс HD
 #EXTGRP:Сериалы
 https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:0,Скорая помощь HD
+#EXTINF:0,НТВ Скорая помощь HD
 #EXTGRP:Сериалы
 https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:0,НТВ Сериалы Шеф HD
+#EXTINF:0,НТВ Шеф HD
 #EXTGRP:Сериалы
 https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:0,НТВ Сериалы Шеф HD
+#EXTINF:0,НТВ Шеф HD
 #EXTGRP:Сериалы
 https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,НТВ Хит
@@ -913,5 +913,6 @@ http://ip1.orgip.net/1622/video.m3u8?token=Ab2b7066c8
 #EXTINF:-1,BCU Premiere 3 HD
 #EXTGRP:BCU
 http://ip1.orgip.net/1623/video.m3u8?token=Ab2b7066c8
+
 
 
