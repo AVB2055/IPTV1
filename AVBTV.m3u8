@@ -547,6 +547,9 @@ http://185.57.68.33:80/255/playlist.m3u8
 #EXTINF:0,FlixSnip HD
 #EXTGRP:Кинофильмы
 http://188.225.31.197/bpk-tv/000004466/tve/index.m3u8
+#EXTINF:-1,Hollywood HD
+#EXTGRP:Кинофильмы
+http://ip1.orgip.net/669/video.m3u8?token=Ab2b7066c8
 #EXTINF:0,MyTV
 #EXTGRP:Кинофильмы
 http://hls127.freeott.top:8080/MyTV/mono.m3u8
@@ -589,6 +592,9 @@ http://188.225.31.197/bpk-tv/000000869/tve/index.m3u8
 #EXTINF:0,Vip Premiere HD
 #EXTGRP:Кинофильмы
 http://188.225.31.197/bpk-tv/000000868/tve/index.m3u8
+#EXTINF:-1,Viasat Kino World
+#EXTGRP:Кинофильмы
+http://ip1.orgip.net/1608/video.m3u8?token=Ab2b7066c8
 #EXTINF:-1,VHS KA
 #EXTGRP:Кинофильмы
 http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/5006/index.m3u8
@@ -598,6 +604,9 @@ http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31925/index.m3u8
 #EXTINF:-1,Блокбастер
 #EXTGRP:Кинофильмы
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/9087/index.m3u8
+#EXTINF:-1,Душевное кино HD
+#EXTGRP:Кинофильмы
+http://ip1.orgip.net/697/video.m3u8?token=Ab2b7066c8
 #EXTINF:0,Дом кино Premium HD
 #EXTGRP:Кинофильмы
 http://188.225.31.197/bpk-tv/000002943/tve/index.m3u8
@@ -625,6 +634,9 @@ http://hls127.freeott.top:8080/Kinopokaz_HD/mono.m3u8
 #EXTINF:0,Кинопоказ HD
 #EXTGRP:Кинофильмы
 http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
+#EXTINF:-1,КИНОХИТ
+#EXTGRP:Кинофильмы
+http://ip1.orgip.net/608/video.m3u8?token=Ab2b7066c8
 #EXTINF:0,Мировое Кино
 #EXTGRP:Кинофильмы
 http://188.225.31.197/bpk-tv/000008488/tve/index.m3u8
@@ -634,6 +646,9 @@ http://hls127.freeott.top:8080/minimax-skorost-m4f/video.m3u8
 #EXTINF:0,Наш Кинороман HD
 #EXTGRP:Кинофильмы
 http://tv.lamro.workers.dev/?ID=4729
+#EXTINF:-1,Остросюжетное HD
+#EXTGRP:Кинофильмы
+http://ip1.orgip.net/604/video.m3u8?token=Ab2b7066c8
 #EXTINF:0,Победа
 #EXTGRP:Кинофильмы
 https://streaming.televizor-24-tochka.ru/live/43.m3u8
@@ -683,6 +698,9 @@ http://tv.lamro.workers.dev/?ID=5081
 #EXTINF:0,Start World HD
 #EXTGRP:Кинофильмы | Сериалы
 http://188.225.31.197/bpk-tv/000007818/tve/index.m3u8
+#EXTINF:-1,Star Family
+#EXTGRP:Кинофильмы | Сериалы
+http://ip1.orgip.net/673/video.m3u8?token=Ab2b7066c8
 #EXTINF:-1,Камеди
 #EXTGRP:Кинофильмы | Сериалы
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/9091/index.m3u8
@@ -852,16 +870,6 @@ http://kinowalk.hopto.org/evgamen_movies_live
 http://kinowalk.hopto.org/kinojam_live
 #EXTINF:-1 group-title="КиноСтримы",Maksim Films
 http://kinowalk.hopto.org/mmaxim0vich_live
-#EXTINF:-1 group-title="КиноСтримы",Rus serials
-http://kinowalk.hopto.org/zzz881_live
-#EXTINF:-1 group-title="КиноСтримы",SerialTV
-http://kinowalk.hopto.org/serialtv_live
-#EXTINF:-1 group-title="КиноСтримы",Serial4u
-http://kinowalk.hopto.org/serial4u_live
-#EXTINF:-1 group-title="КиноСтримы",Serial Productions
-http://kinowalk.hopto.org/swat2k_live
-#EXTINF:-1 group-title="КиноСтримы",Scarface
-http://kinowalk.hopto.org/filmomania_live
 #EXTINF:-1 group-title="КиноСтримы",Фильмы сериалы
 http://kinowalk.hopto.org/dfsfsdg_live
 
@@ -999,32 +1007,3 @@ http://ip1.orgip.net/1622/video.m3u8?token=Ab2b7066c8
 #EXTINF:-1,BCU Premiere 3 HD
 #EXTGRP:BCU
 http://ip1.orgip.net/1623/video.m3u8?token=Ab2b7066c8
-
-#EXTINF:-1,КИНОХИТ
-#EXTGRP:Тестирование
-http://ip1.orgip.net/608/video.m3u8?token=Ab2b7066c8
-#EXTINF:-1,Viasat Kino World
-#EXTGRP:Тестирование
-http://ip1.orgip.net/1608/video.m3u8?token=Ab2b7066c8
-#EXTINF:-1,Остросюжетное HD
-#EXTGRP:Тестирование
-http://ip1.orgip.net/604/video.m3u8?token=Ab2b7066c8
-#EXTINF:-1,Наше крутое
-#EXTGRP:Тестирование
-http://ip1.orgip.net/616/video.m3u8?token=Ab2b7066c8
-#EXTINF:-1,Душевное кино HD
-#EXTGRP:Тестирование
-http://ip1.orgip.net/697/video.m3u8?token=Ab2b7066c8
-#EXTINF:-1,Hollywood HD
-#EXTGRP:Тестирование
-http://ip1.orgip.net/669/video.m3u8?token=Ab2b7066c8
-#EXTINF:-1,Star Family
-#EXTGRP:Тестирование
-http://ip1.orgip.net/673/video.m3u8?token=Ab2b7066c8
-
-
-
-
-
-
-
