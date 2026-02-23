@@ -625,9 +625,6 @@ http://hls127.freeott.top:8080/Kinopokaz_HD/mono.m3u8
 #EXTINF:0,Кинопоказ HD
 #EXTGRP:Кинофильмы
 http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
-#EXTINF:-1,Киносвидание
-#EXTGRP:Кинофильмы
-http://5.188.159.128:8070/kinosvidanie/index.m3u8
 #EXTINF:0,Мировое Кино
 #EXTGRP:Кинофильмы
 http://188.225.31.197/bpk-tv/000008488/tve/index.m3u8
@@ -674,6 +671,9 @@ http://188.225.31.197/bpk-tv/000000709/tve/index.m3u8
 #EXTINF:0,ATV Armenia Premium 6
 #EXTGRP:Кинофильмы | Сериалы
 http://timeshift.arpinet.am/255/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0,FAN
+#EXTGRP:Кинофильмы | Сериалы
+http://tv.lamro.workers.dev/?ID=5064
 #EXTINF:0,Premium HD
 #EXTGRP:Кинофильмы | Сериалы
 http://tv.lamro.workers.dev/?ID=3718
@@ -729,9 +729,6 @@ http://188.225.31.197/bpk-tv/000000710/tve/index.m3u8
 #EXTINF:0,ATV Bazmoc
 #EXTGRP:Сериалы
 http://109.68.122.117:8899/bazmoc
-#EXTINF:0,FAN
-#EXTGRP:Сериалы
-http://tv.lamro.workers.dev/?ID=5064
 #EXTINF:0,FOX HD
 #EXTGRP:Сериалы
 http://188.225.31.197/bpk-tv/000004472/tve/index.m3u8
@@ -807,10 +804,6 @@ http://kinowalk.hopto.org/video_prokat_live
 http://kinowalk.hopto.org/timetohorror_live
 #EXTINF:-1 group-title="КиноСтримы",TimeToMovie HD
 http://kinowalk.hopto.org/timetomovie_live
-#EXTINF:-1 group-title="КиноСтримы",Akudji (нет в сети)
-http://kinowalk.hopto.org/akudjitv_live
-#EXTINF:-1 group-title="КиноСтримы",BossFilm
-http://kinowalk.hopto.org/bossfilm_live
 #EXTINF:-1 group-title="КиноСтримы",Dimpon TV
 http://kinowalk.hopto.org/dimpon_live
 #EXTINF:-1 group-title="КиноСтримы",Kinofon
@@ -823,18 +816,12 @@ http://kinowalk.hopto.org/yurich_kinomix_live
 http://kinowalk.hopto.org/kinowalk_live
 #EXTINF:-1 group-title="КиноСтримы",MovieToper
 http://kinowalk.hopto.org/movietoper_live
-#EXTINF:-1 group-title="КиноСтримы",ReanimatoR_VHS
-http://kinowalk.hopto.org/reanimator_vhs_live
-#EXTINF:-1 group-title="КиноСтримы",Romeo Video
-http://kinowalk.hopto.org/romantic_live
 #EXTINF:-1 group-title="КиноСтримы",SeleCaoTV
 http://kinowalk.hopto.org/selecaotv_live
 #EXTINF:-1 group-title="КиноСтримы",ScripachTV
 http://kinowalk.hopto.org/scripachtv_live
 #EXTINF:-1 group-title="КиноСтримы",VideoArsenal
 http://kinowalk.hopto.org/videoarsenal_live
-#EXTINF:-1 group-title="КиноСтримы",VHS Forever
-http://kinowalk.hopto.org/vhs-forever_live
 #EXTINF:-1 group-title="КиноСтримы",ZubrilomFilm
 http://kinowalk.hopto.org/zubrilomfilm_live
 #EXTINF:-1 group-title="КиноСтримы",ZubrilomFranchise
@@ -979,9 +966,6 @@ http://ip1.orgip.net/1603/video.m3u8?token=Ab2b7066c8
 #EXTGRP:CineMan
 http://ip1.orgip.net/1602/video.m3u8?token=Ab2b7066c8
 
-#EXTINF:-1,BCU Сваты HD
-#EXTGRP:BCU
-http://ip1.orgip.net/1624/video.m3u8?token=Ab2b7066c8
 #EXTINF:-1,BCU Fantastic HD
 #EXTGRP:BCU
 http://ip1.orgip.net/1606/video.m3u8?token=Ab2b7066c8
@@ -1015,24 +999,10 @@ http://ip1.orgip.net/1622/video.m3u8?token=Ab2b7066c8
 #EXTINF:-1,BCU Premiere 3 HD
 #EXTGRP:BCU
 http://ip1.orgip.net/1623/video.m3u8?token=Ab2b7066c8
-#EXTINF:-1,КИНО ТВ
-#EXTGRP:Тестирование
-http://ip1.orgip.net/600/video.m3u8?token=Ab2b7066c8
+
 #EXTINF:-1,КИНОХИТ
 #EXTGRP:Тестирование
 http://ip1.orgip.net/608/video.m3u8?token=Ab2b7066c8
-#EXTINF:-1,КИНОМИКС
-#EXTGRP:Тестирование
-http://ip1.orgip.net/609/video.m3u8?token=Ab2b7066c8
-#EXTINF:-1,КИНОСЕМЬЯ
-#EXTGRP:Тестирование
-http://ip1.orgip.net/610/video.m3u8?token=Ab2b7066c8
-#EXTINF:-1,Viju+ Premiere HD
-#EXTGRP:Тестирование
-http://ip1.orgip.net/605/video.m3u8?token=Ab2b7066c8
-#EXTINF:-1,Viju+ Megahit HD
-#EXTGRP:Тестирование
-http://ip1.orgip.net/606/video.m3u8?token=Ab2b7066c8
 #EXTINF:-1,Viasat Kino World
 #EXTGRP:Тестирование
 http://ip1.orgip.net/1608/video.m3u8?token=Ab2b7066c8
@@ -1048,9 +1018,6 @@ http://ip1.orgip.net/697/video.m3u8?token=Ab2b7066c8
 #EXTINF:-1,Hollywood HD
 #EXTGRP:Тестирование
 http://ip1.orgip.net/669/video.m3u8?token=Ab2b7066c8
-#EXTINF:-1,Comedy Central
-#EXTGRP:Тестирование
-http://ip1.orgip.net/645/video.m3u8?token=Ab2b7066c8
 #EXTINF:-1,Star Family
 #EXTGRP:Тестирование
 http://ip1.orgip.net/673/video.m3u8?token=Ab2b7066c8
