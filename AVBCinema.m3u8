@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/25VcB58T/auto-x2-1.jpg" group-title="Новинки кино (VPN)",🔺 INFO 🔺Посмотри!!!
-https://github.com/Dimonovich/TV/releases/download/v1.0.0/1.mp4
 #EXTINF:-1 tvg-logo="https://pic.rtbcdn.ru/video/2026-02-16/fd/4e/fd4e7e840082ff1868a537381cb7752e.jpg" group-title="Новинки кино (VPN)",Кристи (2025)
 https://river-1.rutube.ru/hls-vod/cuOUPHDS_ywy1Xu8QlM4MA/1772301876/2594/0x5000039ce83a5055/60476158eaee4b179696cca8c77f647e.mp4.m3u8?i=1920x800_1802
 #EXTINF:-1 tvg-logo="https://pic.rtbcdn.ru/video/2026-02-16/92/5e/925e2d3ab478cc078e892700e3103158.jpg" group-title="Новинки кино (VPN)",Это тоже пройдёт (2025)
@@ -576,27 +574,6 @@ https://river-1.rutube.ru/hls-vod/6Tj1Y5bmTU1K8wYNm8--6Q/1772110663/2718/0x50000
 #EXTINF:0,Это тоже пройдёт (И это забудется) (2025)
 #EXTGRP:Rutube
 https://river-1.rutube.ru/hls-vod/IVLl6N3BehfXQkKTXks46g/1772110755/3268/0x5000c500c7b8b724/fbeb0536eb284d57b1c72365ee0885f8.mp4.m3u8?i=1920x960_2688
-#EXTINF:0,Кристи
-#EXTGRP:Rutube
-https://river-ost-rtk-519.rtbcdn.ru/hls-vod/0bdQqx__HqqtXFRdGzcylQ/1771656733/3324/0x5000c500e9ec26e1/b466146e87c24118a0b1c8f431b65db6.mp4.m3u8?i=1920x1080_1515
-#EXTINF:0,Путешественники 2K
-#EXTGRP:Rutube
-https://river-1.rutube.ru/hls-vod/ggEBIeRNSdPAVFo5lyRAHQ/1771656789/2718/0x5000039ce8382979/901d08c06ce443509b7b8dea6d25809a.mp4.m3u8?i=2560x1440_2409
-#EXTINF:0,Первобытная война 2K
-#EXTGRP:Rutube
-https://river-ntv-rtk-d406.rtbcdn.ru/hls-vod/2Xd259t7ZrbsD2KyS7GuUw/1771656879/3336/0x5000c500e9ebe92a/7d0f0bd5687c44a4aaa7fa14881888f1.mp4.m3u8?i=3840x1936_6460
-#EXTINF:0,Чума 2K
-#EXTGRP:Rutube
-https://river-ntv-rtk-d431.rtbcdn.ru/hls-vod/QFujMbE4mOsklGoiKmptOA/1771657019/2205/0x5000c500e74f8d5b/d493170b89fc4c9b99af04432afe259f.mp4.m3u8?i=3840x1600_15321
-#EXTINF:0,Бессмертный: Кровавая дорога домой 4K
-#EXTGRP:Rutube
-https://river-ost-rtk-542.rtbcdn.ru/hls-vod/HOUqPdQA_bEylKwTYRE8qA/1771657080/1802/0x5000c500c8b7fd7e/72e0b1917c474874ae133d2a394cd863.mp4.m3u8?i=3840x2160_10271
-#EXTINF:0,Возвращение в офис
-#EXTGRP:Rutube
-https://river-1.rutube.ru/hls-vod/DulO21PTHXptB4unH95NnQ/1771657245/2720/0x5000039ce869e3f5/06d562504f4447c4be0ee74ebd1be678.mp4.m3u8?i=1920x1080_2107
-#EXTINF:0,Она не мать
-#EXTGRP:Rutube
-https://river-ost-rtk-519.rtbcdn.ru/hls-vod/gBgsfSRnfvFiTbr_-9jWsw/1771657287/2708/0x5000039ce838057d/d551c248018548ce9a0be4e2d5371828.mp4.m3u8?i=1920x1080_2438
 #EXTINF:0,(НЕ)идеальный мужчина (2020)
 #EXTGRP:Кинофильмы
 https://kinoleha.net/load/-ne-idealqnyj-muzhchina?original
@@ -3634,12 +3611,3 @@ http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vod
 #EXTINF:0,Я хочу вернуть тебя (2022)
 #EXTGRP:Кинофильмы
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/I_Want_You_Back_2022/stream.m3u8
-
-
-
-
-
-
-
-
-
