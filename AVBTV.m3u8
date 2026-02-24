@@ -563,9 +563,6 @@ https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210_output_0.m3u
 #EXTINF:0,Plan B HD
 #EXTGRP:Кинофильмы
 http://tv.lamro.workers.dev/?ID=5017
-#EXTINF:0,Premium HD
-#EXTGRP:Кинофильмы
-http://tv.lamro.workers.dev/?ID=3718
 #EXTINF:0,TV1000 action HD
 #EXTGRP:Кинофильмы
 http://188.225.31.197/bpk-tv/000003910/tve/index.m3u8
@@ -812,11 +809,9 @@ http://kinowalk.hopto.org/timetohorror_live
 http://kinowalk.hopto.org/timetomovie_live
 #EXTINF:-1 group-title="КиноСтримы",Dimpon TV
 http://kinowalk.hopto.org/dimpon_live
-#EXTINF:-1 group-title="КиноСтримы",Kinofon
-http://kinowalk.hopto.org/kinofon_live
 #EXTINF:-1 group-title="КиноСтримы",Kinopro
 http://kinowalk.hopto.org/kinopro_live
-#EXTINF:-1 group-title="КиноСтримы",KinoMix Юрич (Стражи галактики)
+#EXTINF:-1 group-title="КиноСтримы",KinoMix Юрич
 http://kinowalk.hopto.org/yurich_kinomix_live
 #EXTINF:-1 group-title="КиноСтримы",Kinowalk_tv
 http://kinowalk.hopto.org/kinowalk_live
@@ -840,8 +835,6 @@ http://kinowalk.hopto.org/cmexye4ku_live
 http://kinowalk.hopto.org/vsetv_live
 #EXTINF:-1 group-title="КиноСтримы",Мы из 90-х
 http://kinowalk.hopto.org/miiz90x_live
-#EXTINF:-1 group-title="КиноСтримы",Эквилибриум
-http://kinowalk.hopto.org/equilibrium_live
 #EXTINF:-1 group-title="КиноСтримы",Wihail
 http://kinowalk.hopto.org/wihail_live
 #EXTINF:-1 group-title="КиноСтримы",4K — Кино и сериалы
@@ -913,6 +906,7 @@ http://ip1.orgip.net/1622/video.m3u8?token=Ab2b7066c8
 #EXTINF:-1,BCU Premiere 3 HD
 #EXTGRP:BCU
 http://ip1.orgip.net/1623/video.m3u8?token=Ab2b7066c8
+
 
 
 
