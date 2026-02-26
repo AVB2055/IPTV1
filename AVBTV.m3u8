@@ -468,8 +468,6 @@ http://live-3.otcnet.ru/sportivny/index.m3u8
 #EXTGRP:Спортивные
 https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?
 #EXTGRP:Спортивные
-#EXTINF:0,Старт Баскетбол
-https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?live=15&ref=https://tvstart.ru/channels/start-basket-test/
 #EXTINF:0,Старт Триумф HD
 #EXTGRP:Спортивные
 https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd/33_85479982/1080p/4eaec8986e2012fb936478856fbf3b4b/4818731006.m3u8?live=15&ref=https://tvstart.ru/ru/pages/start-triumph
@@ -1659,6 +1657,7 @@ https://telluri.ru/video/tr-and/285.m3u8
 https://telluri.ru/video/tr-and/335.m3u8
 #EXTINF:0 group-title="Кинозалы от TELLURI" tvg-id="1754" tvg-logo="http://epg.one/img2/1754.png",НТВ Сериал
 https://telluri.ru/video/cog-dl/2065.m3u8
+
 
 
 
