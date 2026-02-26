@@ -468,12 +468,10 @@ http://188.225.31.197/bpk-tv/000007802/tve/index.m3u8
 #EXTINF:-1,Удар ТВ
 #EXTGRP:🎞️Спортивные
 https://a787201481-s80718.cdn.ngenix.net/hls/CH_UDARHD/video_1920x1080_avc1/playlist.m3u8
+
 #EXTINF:-1,Alpha Moretime
 #EXTGRP:🎞️Детские
 https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
-#EXTINF:-1,Jetix Online
-#EXTGRP:🎞️Детские
-https://live.jtx-online.ru/memfs/e30ea533-4abf-4a88-91bc-73744ecfd06f.m3u8
 #EXTINF:-1,Nickelodeon HD
 #EXTGRP:🎞️Детские
 http://188.225.31.197/bpk-tv/000000499/tve/index.m3u8
@@ -510,6 +508,32 @@ https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=fG
 #EXTINF:-1,Чип и Дейл
 #EXTGRP:🎞️Детские
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:-1,Jetix Online (МультStream)
+#EXTGRP:🎞️Детские
+https://live.jtx-online.ru/memfs/e30ea533-4abf-4a88-91bc-73744ecfd06f.m3u8
+#EXTINF:-1,Ключайка (МультStream)
+#EXTGRP:🎞️ Детские
+https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=8hKIWF5Ng40B0-kW7qvWBA&e=2070122249&scheme=https
+#EXTINF:-1,IPTVPLAY МультСказки HD (МультStream)
+#EXTGRP:🎞️ Детские
+http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1,Мультимания (МультStream)
+#EXTGRP:🎞️ Детские
+http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Пингвин Лоло (МультStream)
+#EXTGRP:🎞️ Детские
+http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Мамонтёнок ТВ (МультStream)
+#EXTGRP:🎞️ Детские
+http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Мультфильмы нашего детства (МультStream)
+#EXTGRP:🎞️ Детские
+http://kinowalk.hopto.org/childhood_cartoons_live
+#EXTINF:-1,FoxKids-Remastered (МультStream)
+#EXTGRP:🎞️ Детские
+http://kinowalk.hopto.org/foxkids_remastered_live
+
+
 #EXTINF:-1,80s
 #EXTGRP:🎞️Фильмы&Сериалы
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13002/index.m3u8
@@ -726,7 +750,7 @@ https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1,Жизнь Глазова
 #EXTGRP:🎞️ TV&Films
 https://yellow.garant.tv/glazov24/stream.m3u8
-#EXTINF:-1,Konul TV (00)
+#EXTINF:-1,Konul TV (A)(check)
 #EXTGRP:🎞️ TV&Films
 http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u
 #EXTINF:-1,LIVETVAZ
@@ -738,10 +762,10 @@ http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1,312 Сериал
 #EXTGRP:🎞️ TV&Films
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
-#EXTINF:-1,TV1 KG HD (00)
+#EXTINF:-1,TV1 KG HD (A)
 #EXTGRP:🎞️ TV&Films
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
-#EXTINF:-1,КТК (00)
+#EXTINF:-1,КТК (A)
 #EXTGRP:🎞️ TV&Films
 https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/chunklist_w657273664_b6128000_slrus.m3u8
 #EXTINF:-1,TV PRO
@@ -753,19 +777,19 @@ https://streams.adapto.kz/hls/live/31kz/main_stream.m3u8
 #EXTINF:-1,АИСТ ТВ
 #EXTGRP:🎞️ TV&Films
 https://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
-#EXTINF:-1,Среда (00)
+#EXTINF:-1,Среда (A)(check)
 #EXTGRP:🎞️ TV&Films
 rtmp://vkvsd54.okcdn.ru/playback/7334915353564?stkn=xjEbdnErgCJf8IsliRWaYbSGn3nBxcnAmEKoz4bMR9vrzA5wkhiA_w31RD4nMSAk5sZsfNNxuPE&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1,Телеканал ЛТВ (00)
+#EXTINF:-1,Телеканал ЛТВ (A)(check)
 #EXTGRP:🎞️ TV&Films
 rtmp://vkvsd70.okcdn.ru/playback/6374540258174?stkn=xq3Mb7tqvmgs58xveKmbdKCzSSEC_rQ3uMikuKbmMkmMnk3xsTTKPz8RETCmOZnBCis_rqufnCM&uid=0&sp=uid,sp&sig=vlibqm4nyu
-#EXTINF:-1,КиноСезон (00)
+#EXTINF:-1,КиноСезон (A)(check)
 #EXTGRP:🎞️ TV&Films
 https://stitch.teletarget.ru/vintera/movieseason/1764950731551101ef187a38512cd3d3db48c1eca37527e836ab81636ac589b9/lvl1.m3u8
-#EXTINF:-1,Movie Classic (00)
+#EXTINF:-1,Movie Classic (A)(check)
 #EXTGRP:🎞️ TV&Films
 https://stitch.teletarget.ru/vintera/movieclassic/1769345728421a8ea6e51c8383dc93762a02d599036121e311be997503169eb5/lvl1.m3u8
-#EXTINF:-1,Советское кино (00)
+#EXTINF:-1,Советское кино (A)(check)
 #EXTGRP:🎞️ TV&Films
 https://stitch.teletarget.ru/vintera/sovietmovie/17696847156167dd9935fac28723490766c9879588bc1d723892ef11c0282861/lvl1.m3u8
 #EXTINF:-1,Star Media
@@ -789,23 +813,23 @@ https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 #EXTINF:-1,ВосьМой
 #EXTGRP:🎞️ TV&Films
 https://minsk-cache07t.voka.tv/live/962.m3u8?
-#EXTINF:-1,ЭФИР (00)
+#EXTINF:-1,ЭФИР (A)(check)
 #EXTGRP:🎞️ TV&Films
 rtmp://vkvsd286.okcdn.ru/playback/2605901818827?stkn=yr6jRJSaPyHbr__nOFGduk03-VG0OGEJ0R2aanAhKVmbpDr1t_qQFnlF8rXUpVsgOM4n0pq7tck&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1,Восточный экспресс (00)
+#EXTINF:-1,Восточный экспресс (A)(check)
 #EXTGRP:🎞️ TV&Films
 rtmp://vkvsd258.okcdn.ru/playback/8170016353210?stkn=n-x7v--1sfV8vmqXUKfnwfALcOtu1foBYfsJj7sJB0kl9mkwLabGEpbH4yWdg-8eAKaFTp8ORDE&uid=0&sp=uid,sp&sig=vlibqm4nyu
-#EXTINF:-1,ТВ Поиск (00)
+#EXTINF:-1,ТВ Поиск (A)(check)
 #EXTGRP:🎞️ TV&Films
 rtmp://vkvsd10.okcdn.ru/playback/10443647429442?stkn=Ae6z705NBSu6hvGUiNC7n5EQcVW4ThenshE7HIu6E9klNyo_wMmkEkCJUjIpZ3WZLHGRr54k7N8&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1,Город (00)
+#EXTINF:-1,Город (A)(check)
 #EXTGRP:🎞️ TV&Films
 #EXTVLCOPT:http-user-agent=https://oauth.vk.com/ token?scope
 rtmp://vkvsd200.okcdn.ru/playback/3161073265464?stkn=waSBZKjRq01T9Cet4vQE4gNI-iEdgYfSL3tF57pZT4y0v_ZkjhDQqd_Nh2H6E8GEwJyelRehHjQ&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1,Тайна ТВ
 #EXTGRP:🎞️ TV&Films
 https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=k9bDH53DPY73h1vlbcNhzQ&e=2071743709&scheme=https
-#EXTINF:-1,Однажды в России (00)
+#EXTINF:-1,Однажды в России (A)(check)
 #EXTGRP:🎞️ TV&Films
 rtmp://vkvsd8.okcdn.ru/playback/11366093630227?stkn=MgAPA64MXpukhks5bQPU5WKvRRjGYRiRj7OhSlsLAOHcmEwHQ8EkbeiMB0H-kdP_oYpI69_iSfmO&uid=0&sp=uid,sp&sig=vlibqm4nyu
 
@@ -894,7 +918,7 @@ https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=Ug
 #EXTINF:-1,НТВ
 #EXTGRP:🎞️Эфир RU
 https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1,Пятый канал (00)
+#EXTINF:-1,Пятый канал (A)(check)
 #EXTGRP:🎞️Эфир RU
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/tv/5-kanal.html
 https://streaming.televizor-24-tochka.ru/live/8-req_offset_28000000-req_window_0-1k_v5.m3u8
@@ -911,19 +935,19 @@ https://streaming.skynetconnect.co.za/live/232-req_offset_28000000-req_window_0-
 #EXTINF:-1,ОТР
 #EXTGRP:🎞️Эфир RU
 https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=hKAlgTZHZ0PQ6YxjvAzyTQ&e=2071401285&scheme=https
-#EXTINF:-1,ТВЦ (00)
+#EXTINF:-1,ТВЦ (A)(check)
 #EXTGRP:🎞️Эфир RU
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/tv/tv-tsentr.html
 https://streaming.televizor-24-tochka.ru/live/13-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1,РЕН ТВ (00)
+#EXTINF:-1,РЕН ТВ (A)(check)
 #EXTGRP:🎞️Эфир RU
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/tv/ren-tv.html
 https://streaming.televizor-24-tochka.ru/live/14-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1,СТС
+#EXTINF:-1,СТС (check)(red)
 #EXTGRP:🎞️Эфир RU
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/tv/sts.html
 https://streaming.skynetconnect.co.za/live/296-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1,Домашний (00)
+#EXTINF:-1,Домашний (A)(check)
 #EXTGRP:🎞️Эфир RU
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/tv/domashnii.html
 https://streaming.televizor-24-tochka.ru/live/17-req_offset_28000000-req_window_0-1k_v5.m3u8
@@ -1057,7 +1081,6 @@ http://kinowalk.hopto.org/akudjitv_live
 #EXTINF:-1,Мы из 90-х
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/miiz90x_live
-
 #EXTINF:-1,4K — Кино и сериалы
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/4khits_live
@@ -1089,93 +1112,6 @@ http://kinowalk.hopto.org/era_vhs_live
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/kinoteka_full_hd_top_live
 
-#EXTINF:-1,Мульт БУМ!
-#EXTGRP:🎞️ МультStream
-#EXTVLCOPT:http-user-agent=https://oauth.vk.com/ token?scope
-https://vsd166.okcdn.ru/hls/4087812852332.m3u8/sig/0erWHtJ9B7I/expires/1772082969652/srcIp/46.138.161.80/urls/185.226.55.88/clientType/0/srcAg/CHROME_YA/mid/5385622068844/video.m3u8?p
-#EXTINF:-1,Советские мультфильмы
-#EXTGRP:🎞️ МультStream
-#EXTVLCOPT:http-user-agent=https://oauth.vk.com/ token?scope
-https://vsd217.okcdn.ru/hls/4087089138284.m3u8/sig/W4R691_32RA/expires/1772083028919/srcIp/46.138.161.80/urls/45.136.21.98/clientType/0/srcAg/CHROME_YA/mid/5385000066668/video.m3u8?p
-#EXTINF:-1,Ключайка
-#EXTGRP:🎞️ МультStream
-https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=8hKIWF5Ng40B0-kW7qvWBA&e=2070122249&scheme=https
-#EXTINF:-1,Futurama
-#EXTGRP:🎞️ МультStream
-rtmp://vkvsd80.okcdn.ru/playback/9231228939170?stkn=uFv9-KNKZdHPR_25KX-aJxQWzQScl0lMDt7lIp3XdMBfKiZ_ef4ux87TNStrYusKJOqLIMnt3_w&uid=0&sp=uid,sp&sig=vlibqm4nyu
-#EXTINF:-1,АМЕРИКАНСКИЙ ПАПАША
-#EXTGRP:🎞️ МультStream
-rtmp://vkvsd231.okcdn.ru/playback/11465359305707?stkn=PIUE3dny2C4QQdgvRp723G_f32wBapMamWluh88g4eznQpqC_odKQvtAaQfbyQGzH5ahLjWN68yQ&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1,ЮЖНЫЙ ПАРК
-#EXTGRP:🎞️ МультStream
-rtmp://vkvsd8.okcdn.ru/playback/8993430186980?stkn=GGhSqZR-fwCnth4Qgp6V-8FWRYYkNgobKIyP4bDf_-mgfVTkXTdS41qOtuNnVfkvBf_6a3g29ec&uid=0&sp=uid,sp&sig=vlibqm4nyu
-#EXTINF:-1,ГРИФФИНЫ
-#EXTGRP:🎞️ МультStream
-rtmp://vkvsd230.okcdn.ru/playback/8134416411520?stkn=2NGXWooIibYkQMyZvKLVJizfC-RjA4Q9-KGsN4Dzkm8wTkCZ5Z3J329VaVSBrsTpqctjj27WPNU&uid=0&sp=uid,sp&sig=vlibqm4nyu
-#EXTINF:-1,РИК И МОРТИ
-#EXTGRP:🎞️ МультStream
-rtmp://vkvsd228.okcdn.ru/playback/10137229994917?stkn=uF-qcmEstFzJRTk2k_pZQ1gq2MmP1WidLMkrmdavGcLp34x9bzBxhFHTQgs1Xg12RcMkQlS8LY4&uid=0&sp=uid,sp&sig=vlibqm4nyu
-#EXTINF:-1,РОЖДЕСТВЕНСКИЕ СИМПСОНЫ
-#EXTGRP:🎞️ МультStream
-rtmp://vkvsd272.okcdn.ru/playback/10991322803032?stkn=MpeesOFpyCYvXeAyRln0s-gliMU_CCDefCrl0idSApxiLwDobMdyvuPmseSYEgWYLTj7BBxT9-A&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1,ГУБКА БОБ
-#EXTGRP:🎞️ МультStream
-rtmp://vkvsd45.okcdn.ru/playback/12110904437604?stkn=iq_1pa-sFBs2nuwy1I4DVY1Qt0wCgtleSlq2Gz8-IWZBfZ8Myq_xKU2FvshKwhg34dgQWwPMlBMs&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1,ЦАРЬ ГОРЫ
-#EXTGRP:🎞️ МультStream
-rtmp://vkvsd69.okcdn.ru/playback/11828892871504?stkn=QaxFtWVGIo88g9cyFMIow9iC5J32EiGkXnk_6rKiPnrJEB93tLRBCL31cVjawyYr_Er3tetwVeKz&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1,IPTVPLAY МультСказки HD
-#EXTGRP:🎞️ МультStream
-http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1,Mr.Bean Cartoon
-#EXTGRP:🎞️ МультStream
-https://bl.rutube.ru/livestream/0e9e44725d5d5ab7ee92c10b40215419/index.m3u8?s=dwMWI9TXbyv3GPsGlPCGiw&e=2071743859&scheme=https
-#EXTINF:-1,Мультимания
-#EXTGRP:🎞️ МультStream
-http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Пингвин Лоло
-#EXTGRP:🎞️ МультStream
-http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Мультики и Сказки HD
-#EXTGRP:🎞️ МультStream
-rtmp://vkvsd181.okcdn.ru/playback/4105799740408?stkn=NjFStGS4WV6BkVv7awAQ0tzj1KU3ogV4kGyB9tlShxJqymgbcn0noE0Y2b4HyjqVg4M_Rc-tbS4&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1,retromult
-#EXTGRP:🎞️ МультStream
-rtmp://vkvsd181.okcdn.ru/playback/9095387753249?stkn=9QYompqh6WaegO7paI2Zrflo1MY_FAyEjQj2v7QLE-g6Lp4LLhAeSzzrZYpmMqBrRymI7yXcKBE&uid=0&sp=uid,sp&sig=vlibqm4nyu
-#EXTINF:-1,NikNik-TV
-#EXTGRP:🎞️ МультStream
-rtmp://vkvsd51.okcdn.ru/playback/9747990391627?stkn=F8e6nFzL9oOzipSsxvG4GPfqzYEqKSUg8JFhCLunA6R6JbHG9P92oZiAZkgVnVmWQm_xueQU9pk&uid=0&sp=uid,sp&sig=vlibqm4nyu
-#EXTINF:-1,Мамонтёнок ТВ
-#EXTGRP:🎞️ МультStream
-http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Мульт Развивайка
-#EXTGRP:🎞️ МультStream
-#EXTVLCOPT:http-user-agent=https://oauth.vk.com/ token?scope
-rtmp://vkvsd163.okcdn.ru/playback/9617415285537?stkn=7rG8jAJ_-nsgBzwhMK0YMXnxU1lCKkv9ovPNX2TNniYZq7NsMZGTGN8xMQH1FHtYphA4-vhgtOs&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1,Детский 0+
-#EXTGRP:🎞️ МультStream
-#EXTVLCOPT:http-user-agent=https://oauth.vk.com/ token?scope
-rtmp://vkvsd182.okcdn.ru/playback/9942884887405?stkn=9VVfByDOizlWlr_rfoRi8TpelV04alIYQ_0Jk3cI_HojytXGIOqVjegIFH3lVi14ozMs9MWxBP0&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1,Детский 6+
-#EXTGRP:🎞️ МультStream
-#EXTVLCOPT:http-user-agent=https://oauth.vk.com/ token?scope
-rtmp://vkvsd21.okcdn.ru/playback/9707377929063?stkn=DFG1rqI3FgXeZ_htnEwsbN6VQTD1f94i2q76f9zRxAS8Cfi2DmoeIt6qPK7S1qCXEQaRA_Cy79E&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1,Disney Онлайн
-#EXTGRP:🎞️ МультStream
-rtmp://vkvsd162.okcdn.ru/playback/10379532053422?stkn=W1ab90cV2dhEdmVK-IgaaEfk-nZG1eYdaZv5lLd9kS7baWXq5somrsMKai84PhVZW4Z4JdRr_zQ&uid=0&sp=uid,sp&sig=vlibqm4nyu
-#EXTINF:-1,DeraGlobusJetix
-#EXTGRP:🎞️ МультStream
-rtmp://vkvsd194.okcdn.ru/playback/10414118284142?stkn=0A0HTJUE_DPOb1pOHYef41tWpF1Flwn44AP8dlb5dXz1srxg7SGNStbwMvnZbhdO0TOpvvHX-ME&uid=0&sp=uid,sp&sig=vlibqm4nyu
-#EXTINF:-1,JTX Online
-#EXTGRP:🎞️ МультStream
-https://live.jtx-online.ru/memfs/e30ea533-4abf-4a88-91bc-73744ecfd06f.m3u8
-#EXTINF:-1,Мультфильмы нашего детства
-#EXTGRP:🎞️ МультStream
-http://kinowalk.hopto.org/childhood_cartoons_live
-#EXTINF:-1,FoxKids-Remastered
-#EXTGRP:🎞️ МультStream
-http://kinowalk.hopto.org/foxkids_remastered_live
-
 
 #EXTINF:-1,Сити Эдем - КиноЭкшен
 #EXTGRP:🎞️ КиноStream HD
@@ -1201,10 +1137,10 @@ https://cityeden.catcast.tv/content/34246/index.m3u8?token=303bceb019d7b28644dd0
 #EXTINF:-1,Сити Эдем - Рождественский
 #EXTGRP:🎞️ КиноStream HD
 https://cityeden.catcast.tv/content/46503/index.m3u8?token=
-#EXTINF:-1,Фантастика HD
+#EXTINF:-1,Фантастика HD (A)(check)
 #EXTGRP:🎞️ КиноStream HD
 https://s.catcast.tv/content/39533/index.m3u8?token=28f2cf30c34e9c6fcc7f6c00d392ca90
-#EXTINF:-1,Страх HD
+#EXTINF:-1,Страх HD (A)(check)
 #EXTGRP:🎞️ КиноStream HD
 https://s.catcast.tv/content/34816/index.m3u8?token=8bfcd362acb5b8cb3af72072bb5bf5d5
 #EXTINF:-1,TvBoom.ViP
@@ -1243,7 +1179,7 @@ https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd_output_0.m3u
 #EXTINF:-1,NSC
 #EXTGRP:🎞️ КиноStream HD
 https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210_output_0.m3u8?session=bomhMGCHEtND9D3hX7kb4M
-#EXTINF:-1,FantasticMistyc
+#EXTINF:-1,FantasticMistyc(check)
 #EXTGRP:🎞️ КиноStream HD
 rtmp://vkvsd69.okcdn.ru/playback/3780958366657?stkn=QkbWCnARWe2BdgDd2ZlIsACtDwpqkYXvX5avvzYaOvFMLx0UvcPKLeTbLVWs99SwkzSDsjYLt-I&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1,Новый Русский
@@ -1261,13 +1197,13 @@ https://live20.bozztv.com/giatv/giatv-tvzovBlackstream/tvzovBlackstream/chunks.m
 #EXTINF:-1,ЗОВ ТВ RED
 #EXTGRP:🎞️ КиноStream HD
 https://live20.bozztv.com/giatv/giatv-tvzov%20RED/tvzov%20RED/chunks.m3u8
-#EXTINF:-1,TV Series
+#EXTINF:-1,TV Series (A)(check)
 #EXTGRP:🎞️ КиноStream HD
 rtmp://vkvsd258.okcdn.ru/playback/4212830514154?stkn=3-5AxYkRTClGxxwNYsB-PosDfNMu_Z8wVCxKPRiA5P1eG-dXv3IyUKjRPAmaGd92HY3VjEPNPE4&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1,Кинозал
 #EXTGRP:🎞️ КиноStream HD
 http://185.57.68.33:8091/237/playlist.m3u8
-#EXTINF:-1,KinoBar
+#EXTINF:-1,KinoBar (A)(check)
 #EXTGRP:🎞️ КиноStream HD
 rtmp://vkvsd267.okcdn.ru/playback/11865043512184?stkn=p0OaO5TQj0hmPh-enAH6jwik4eAW-hSWqeUavrF42cOWe1NwiqXtzfBm7xzkYNBMGpm9hvJiH37E&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1,Кинолаффка
@@ -1279,42 +1215,43 @@ https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=nV
 #EXTINF:-1,Детективы КД
 #EXTGRP:🎞️ КиноStream HD
 https://bl.rutube.ru/livestream/e05401be60a9cc719fa7075b6e77b86d/index.m3u8?s=wbVW8VM26OpdW5kxFYEmSQ&e=2069694293&scheme=https
-#EXTINF:-1,Кино ВК
+#EXTINF:-1,Кино ВК (A)(check)
 #EXTGRP:🎞️ КиноStream HD
 rtmp://vkvsd9.okcdn.ru/playback/11476322626375?stkn=MWURFX9GxWweqchHYWcYzhzufUF0fxJw12ejfhOPexR9h9Leff8anz9KAxHjfF4R9h4C5PfiYy8&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1,Кино ВК 2
+#EXTINF:-1,Кино ВК 2 (A)(check)
 #EXTGRP:🎞️ КиноStream HD
 rtmp://vkvsd202.okcdn.ru/playback/10472252320626?stkn=55ZiY3uqOcLbjh8YLZ654EGxTQCPkjoczCP4KcuqIiVY4Xvydx7GLhpzKW3_9I0RZtVa3gKqHM4&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1,VK Кино и сериалы
+#EXTINF:-1,VK Кино и сериалы (A)(check)
 #EXTGRP:🎞️ КиноStream HD
 rtmp://vkvsd163.okcdn.ru/playback/12955145284352?stkn=6ch0LLXwWD0t6QW_q7NmQy3fxPoTdQt7CB_dXr_LEFueWUH8_kDzjDtZ9KMbMuhVr1UElvIN76k&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1,ZSMEDIA
+#EXTINF:-1,ZSMEDIA (A)(check)
 #EXTGRP:🎞️ КиноStream HD
 rtmp://vkvsd251.okcdn.ru/playback/3193011317595?stkn=W9XLVL6g8_mjPFdboe8diHBt2f8QhTG-ACCM0hfYdhbiAMlXT-4FSgUAo6r7xkePFP-OEOkxPqY&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1,RsTV
+#EXTINF:-1,RsTV (A)(check)
 #EXTGRP:🎞️ КиноStream HD
 rtmp://vkvsd177.okcdn.ru/playback/9784991296445?stkn=Bu11jviKqv8XV4jmbgsGRyXtfTi46qNmVpzNczQTttL_wt7OBO_B47D8PLo_bnF7hndvjB5NAuI&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1,ИТВ РК-ТВ
+#EXTINF:-1,ИТВ РК-ТВ (A)(check)
 #EXTGRP:🎞️ КиноStream HD
 rtmp://vkvsd200.okcdn.ru/playback/9977142717416?stkn=DqeIp6c8c-J9J03Udx605MARw2DcPyQpTHkQ35mK69z3ZSnO65PU9KlUtPsbp8FMVkpfnUkGMvE&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1,Kino.Online
+#EXTINF:-1,Kino.Online (A)(check)
 #EXTGRP:🎞️ КиноStream HD
 rtmp://vkvsd80.okcdn.ru/playback/11445095639945?stkn=isz4WXJ0c-P9MNBOKakZS1dQYkSmIEQX81ccorrT3ZqaCJiGkrCrrBEClpFFXVYJSlMjslcRhb0A&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1,САМ СЕБЕ РЕЖИССЁР
+#EXTINF:-1,САМ СЕБЕ РЕЖИССЁР (A)(check)
 #EXTGRP:🎞️ КиноStream HD
 rtmp://vkvsd33.okcdn.ru/playback/11074022091636?stkn=y0J1cBqm48zbr_72vP9Wq3E2iZJw064SZ7JdIned1TGL9X7fVDWGi5fftZ-RUuNYzeX1HLiznCQQ&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1,K1n0man1a
+#EXTINF:-1,K1n0man1a (A)(check)
 #EXTGRP:🎞️ КиноStream HD
 rtmp://vkvsd176.okcdn.ru/playback/9060843400063?stkn=KV0WGPPXIBbOVVy6l6W5YU70Wrv6I9tZOa9CyCjyDUwntlSO4dtIt72cgu0M-sTWTi7PFHAQj8s&uid=0&sp=uid,sp&sig=vlibqm4nyu
-#EXTINF:-1,TV12 MAFI2A
+#EXTINF:-1,TV12 MAFI2A (A)(check)
 #EXTGRP:🎞️ КиноStream HD
 rtmp://vkvsd9.okcdn.ru/playback/6258783562721?stkn=N3xfa3AL0s7vzNZiMgySPj-J8BmVghZEWO4c-mE2EBtYXjsEjNKovwO0KsBt3USZXsGsS0-SXUo&uid=0&sp=uid,sp&sig=vlibqm4nyu
-#EXTINF:-1,Фильмы и Сериалы
+#EXTINF:-1,Фильмы и Сериалы (A)(check)
 #EXTGRP:🎞️ КиноStream HD
 rtmp://vkvsd171.okcdn.ru/playback/11782676949969?stkn=tdttjWMTsSN64s_v7vN4H2hnLoNqeUjmRvlzhqty-Tau9nm0G8p55sOQW7SDlnk6p9KpR81JzEkD&uid=0&sp=uid,sp&sig=vlibqm4nyu
-#EXTINF:-1,СФО (Стрим Фильмы Онлайн)
+#EXTINF:-1,СФО (Стрим Фильмы Онлайн) (A)(check)
 #EXTGRP:🎞️ КиноStream HD
 rtmp://vkvsd231.okcdn.ru/playback/11366163884923?stkn=FrNqhsD2sdVGCssyNiEHAipeGf8KUKJzCvbBuMrj-ijH_EEreJ_RxGxx1pLHM5sZajXkfxCW67Bv&uid=0&sp=uid,sp&sig=vlibqm4nyu
+
 #EXTINF:-1,Сити Эдем - КиноМистика
 #EXTGRP:🎞️ КиноStream SD
 https://cityeden.catcast.tv/content/40783/index.m3u8?token=4553db048605eecf46c822b88833ce1d
@@ -1333,10 +1270,10 @@ https://cityeden.catcast.tv/content/46209/index.m3u8?token=085e0f93cd0d35977e08d
 #EXTINF:-1,MGM HD
 #EXTGRP:🎞️ КиноStream SD
 https://v2.catcast.tv/content/50354/index.m3u8
-#EXTINF:-1,MGM
+#EXTINF:-1,MGM (A)(check)(red)
 #EXTGRP:🎞️ КиноStream SD
 https://v2.catcast.tv/content/50142/index.m3u8?token=a668841da4011fc030f7ba4260431688
-#EXTINF:-1,MGM int
+#EXTINF:-1,MGM int (A)(check)(red)
 #EXTGRP:🎞️ КиноStream SD
 https://v2.catcast.tv/content/48063/index.m3u8?token=c891742699f7e8ae6246c180a63e5e1d
 #EXTINF:-1,Кино 1 International
@@ -1345,22 +1282,22 @@ https://kino-1.catcast.tv/content/38617/index.m3u8?token=0ee1b810cb70fabf816a92c
 #EXTINF:-1,LAYM GOLD TV
 #EXTGRP:🎞️ КиноStream SD
 https://v2.catcast.tv/content/40546/index.m3u8?token=eba599f2781487a851f7bc302bf05f0c
-#EXTINF:-1,Малдер Мегахит
+#EXTINF:-1,Малдер Мегахит (A)(check)(red)
 #EXTGRP:🎞️ КиноStream SD
 https://v2.catcast.tv/content/47689/index.m3u8?token=ca266efaae7b9c5b48de27cebb6d56b9
-#EXTINF:-1,Малдер Кошмар
+#EXTINF:-1,Малдер Кошмар (A)(check)(red)
 #EXTGRP:🎞️ КиноStream SD
 https://v2.catcast.tv/content/49916/index.m3u8?token=43c94e9b511ad5d39e94402616f26ddb
-#EXTINF:-1,KinoMobile
+#EXTINF:-1,KinoMobile (A)(check)(red)
 #EXTGRP:🎞️ КиноStream SD
 https://v2.catcast.tv/content/50014/index.m3u8?token=c482619d172f526df90d74159c144089
-#EXTINF:-1,KinoMobile Classic Comedy
+#EXTINF:-1,KinoMobile Classic Comedy (A)(check)(red)
 #EXTGRP:🎞️ КиноStream SD
 https://v2.catcast.tv/content/50027/index.m3u8?token=75a3848eb63b179ee11a4e9c573f1c93
-#EXTINF:-1,Агентство НЛС
+#EXTINF:-1,Агентство НЛС (A)(check)(red)
 #EXTGRP:🎞️ КиноStream SD
 https://v2.catcast.tv/content/50056/index.m3u8?token=96d89f29170620c4ce3fb65807aeae42
-#EXTINF:-1,Агентство НЛС 2
+#EXTINF:-1,Агентство НЛС 2 (A)(check)(red)
 #EXTGRP:🎞️ КиноStream SD
 https://v2.catcast.tv/content/50057/index.m3u8?token=bc37cf2a63c3449e899f4633127db8b2
 #EXTINF:-1,Mr. Bean
@@ -1423,7 +1360,7 @@ https://stream.ushba.tv/akamaiushba/ushba-films-uv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,LAV-KINO
 #EXTGRP:🎞️ КиноStream SD
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
-#EXTINF:-1,KINO FILE
+#EXTINF:-1,KINO FILE (A)(check)(red)
 #EXTGRP:🎞️ КиноStream SD
 https://live21.bozztv.com/giatvplayout7/ushba99/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,K1HO
@@ -1442,37 +1379,37 @@ https://fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
 #EXTGRP:🎞️ КиноStream SD
 https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-z/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1,BolzakMartyn
+#EXTINF:-1,BolzakMartyn (A)(check)
 #EXTGRP:🎞️ Вечерний КиноStream
 https://liveplay.trovo.live/live/73846_110952125_110952125.flv?bizid=73846&txSecret=3fa21825830a61a5468fc21084f6032a&txTime=697e3a5b&_bmlj_t=ChxqMFRTLzJmUHRNWk5LY29hZmYrOGcyL1JmcW89EiRiZjA4MjVhMC05YjViLTQ0OWQtOTdmOS1hYTg3YjA4MTEwMzUaHjExMDk1MjEyNV8xMTA5NTIxMjVfMTc2OTI3NTMzNyCqjNTLBiiP%2BMQ3Mhk3Mzg0Nl8xMTA5NTIxMjVfMTEwOTUyMTI1Qg40Ni4xMzguMTU5LjIxMUobbGl2ZS1yZWFkZXItc3ZyX0dldExpdmVJbmZvUARgAnoSODg1MDEyNjg0ODI1MTIyMzE5kAEE&playScene=innerSite&pvid=885012684825122319&_f_=1769276975878
-#EXTINF:-1,Katastroff
+#EXTINF:-1,Katastroff (A)(check)
 #EXTGRP:🎞️ Вечерний КиноStream
 https://liveplay.trovo.live/live/73846_109125828_109125828.flv?bizid=73846&txSecret=672cc42172b1a4b86288b36ec3d28069&txTime=6975c5ec&_bmlj_t=ChxLTWpDSXdlK2c2MkhNNnhlMllCUXAzZ1AyZXM9EiRjNmU0MmI3My0zNTRjLTRjNjAtYmI3ZS05OWQ4Yjc2YmE5MDYaHjEwOTEyNTgyOF8xMDkxMjU4MjhfMTc2ODcyMTI2MCCuhbPLBiiP%2BMQ3Mhk3Mzg0Nl8xMDkxMjU4MjhfMTA5MTI1ODI4Qg40Ni4xMzguMTU5LjIxMUobbGl2ZS1yZWFkZXItc3ZyX0dldExpdmVJbmZvUARgAnoSODg1MDEyNjg0ODI1MTIyMzE5kAEE&playScene=innerSite&pvid=885012684825122319&_f_=1768735411528
-#EXTINF:-1,Orb3
+#EXTINF:-1,Orb3 (A)(check)
 #EXTGRP:🎞️ Вечерний КиноStream
 https://liveplay.trovo.live/live/73846_108056258_108056258.m3u8?bizid=73846&txSecret=ae1af9264b9f8da624d9da3694fc4249&txTime=6729f87a&_bmlj_t=ChxYeW5LbEZ2TW93UlJSMU1PYVh0QklsM3JBYkk9EiRhZjljNGRiOC1iZjQ5LTQxOTEtYjcwMC1iODk0ZDBkZWQxOGEaHjEwODA1NjI1OF8xMDgwNTYyNThfMTczMDE5OTAzNCDxpIS5BjIZNzM4NDZfMTA4MDU2MjU4XzEwODA1NjI1OEINODkuMTYzLjIzMS42NkobbGl2ZS1yZWFkZXItc3ZyX0dldExpdmVJbmZvUAQ%3D
-#EXTINF:-1,Ben_Dementev
+#EXTINF:-1,Ben_Dementev (A)(check)
 #EXTGRP:🎞️ Вечерний КиноStream
 https://liveplay.trovo.live/live/73846_109066920_109066920.flv?bizid=73846&txSecret=065c5648cc425386052c7c5d22e0f35c&txTime=67e940c6&_bmlj_t=ChwvYWxqcmVteUlQSFptU3h2eEF1di9oakhxZE09EiQ0OWNlYjZiYS1mMzUyLTRkNWMtYjhiNi1jMDYxNGY3OTkyM2QaHjEwOTA2NjkyMF8xMDkwNjY5MjBfMTc0MjczNDkxOCCM3oC%2FBiiP%2BMQ3Mhk3Mzg0Nl8xMDkwNjY5MjBfMTA5MDY2OTIwQg40Ni4xMzguMTUxLjIzMUobbGl2ZS1yZWFkZXItc3ZyX0dldExpdmVJbmZvUARgAnoSNTIzODA4ODcwNDI1MDMxOTA4kAEE&playScene=innerSite&pvid=523808870425031908&_f_=1742745361055
-#EXTINF:-1,uze_Ne_devo4ka
+#EXTINF:-1,uze_Ne_devo4ka (A)(check)
 #EXTGRP:🎞️ Вечерний КиноStream
 https://liveplay.trovo.live/live/73846_115587151_115587151.flv?bizid=73846&txSecret=305f1b3d1852b166b090184c596d35b8&txTime=692477ac&_bmlj_t=ChxTb3puNmJSRjJUQXZ1bU9LMmtldTVCMFdiOUE9EiQ1YWMzNDJhOS00MGY5LTQ0ODYtYThlNy0wNzgxMzJhNmE4MGMaHjExNTU4NzE1MV8xMTU1ODcxNTFfMTc2MzM5MjgxMiClv%2B3IBiiP%2BMQ3Mhk3Mzg0Nl8xMTU1ODcxNTFfMTE1NTg3MTUxQg40Ni4xMzguMTQ2LjIyM0obbGl2ZS1yZWFkZXItc3ZyX0dldExpdmVJbmZvUARgAnoSOTgyMTk0MDczNjI1MDkxMDIwkAEE&playScene=innerSite&pvid=982194073625091020&_f_=1763401638917
-#EXTINF:-1,Doza_LLIokolada
+#EXTINF:-1,Doza_LLIokolada (A)(check)
 #EXTGRP:🎞️ Вечерний КиноStream
 https://liveplay.trovo.live/live/73846_104881978_104881978.m3u8?bizid=73846&txSecret=f09cc0c2cf62f4d7f12e742441252900&txTime=6729fe25&_bmlj_t=Chx3K3JtdlZ2M0MvVDY3enlGNTBVTlpMb0dFczA9EiQ1ODEzOTYxZC1hNTZmLTQzOTEtYTA4ZC0wZGE1N2FhYWVlY2UaHjEwNDg4MTk3OF8xMDQ4ODE5NzhfMTczMDIwMDQ4NSCo94O5BjIZNzM4NDZfMTA0ODgxOTc4XzEwNDg4MTk3OEINODkuMTYzLjIzMS42NkobbGl2ZS1yZWFkZXItc3ZyX0dldExpdmVJbmZvUAQ%3D
-#EXTINF:-1,Toxic_Devil
+#EXTINF:-1,Toxic_Devil (A)(check)
 #EXTGRP:🎞️ Вечерний КиноStream
 https://liveplay2.trovocdn.net/mist/flv/video+57cexa2us08my6eu.flv?bizid=73846&txSecret=828c2a3c6f0de11675404cea80828f54&txTime=69946c5e&waittrackcount=7&maxwaittrackms=30000&buffer=10&startunix=-10&trovoFlv=1&video=5000kbps&_bmlj_t=ChxudkpPS3FRMHRCeDBvLzRadlhjODF5bzFTSE09EiRiMWU5YjNjZC1hZDVjLTQxZjEtYjI5MC04OWVjYzEyNmU3M2IaHjEwODE4NDIwOF8xMDgxODQyMDhfMTc3MDcyOTk0NyDd1K3MBiiP%2BMQ3MhZ2aWRlbys1N2NleGEydXMwOG15NmV1ONg2Qg00Ni4xMzguMTQ3LjI4ShtsaXZlLXJlYWRlci1zdnJfR2V0TGl2ZUluZm9QBGACehI4ODUwMTI2ODQ4MjUxMjIzMTmQAQQ%3D&playScene=innerSite&pvid=885012684825122319&_f_=1770744418461
-#EXTINF:-1,AutisticCulture
+#EXTINF:-1,AutisticCulture (A)(check)
 #EXTGRP:🎞️ Вечерний КиноStream
 https://liveplay.trovo.live/live/73846_104287548_104287548.flv?bizid=73846&txSecret=297a61c13cf7ae66999d7dbd8f67e270&txTime=68b1ab09&_bmlj_t=ChxMbTYwbU5LWHVsc2t1bzNwN0d5M1YzR0lVME09EiRkZDFmYTBjMC1kMjE4LTQyZmMtODg4My0xY2U4Y2JkODFmMjkaHjEwNDI4NzU0OF8xMDQyODc1NDhfMTc1NTg2OTMyMSCNvqLFBiiP%2BMQ3Mhk3Mzg0Nl8xMDQyODc1NDhfMTA0Mjg3NTQ4Qg40Ni4xMzguMTQ2LjIyM0obbGl2ZS1yZWFkZXItc3ZyX0dldExpdmVJbmZvUARgAnoQNDgwMzE3NDQyNTA0MTkwOJABBA%3D%3D&playScene=innerSite&pvid=4803174425041908&_f_=1755881233708
-#EXTINF:-1,Yaasya_
+#EXTINF:-1,Yaasya_ (A)(check)
 #EXTGRP:🎞️ Вечерний КиноStream
 https://liveplay.trovo.live/live/73846_107141214_107141214.flv?bizid=73846&txSecret=bfb891d85da7d19891f997f09078b6ef&txTime=68b31502&_bmlj_t=Chw5Zyt6cmNsQjd2UllVNEdlZ0VFbysvV28xOUE9EiQ5YzFhMjUwNi0wZjgwLTQ5YzUtODFlOC1jNDAyOTE2NzNlY2YaHjEwNzE0MTIxNF8xMDcxNDEyMTRfMTc1NTk2MTk4NiCq1afFBiiP%2BMQ3Mhk3Mzg0Nl8xMDcxNDEyMTRfMTA3MTQxMjE0Qg40Ni4xMzguMTQ2LjIyM0obbGl2ZS1yZWFkZXItc3ZyX0dldExpdmVJbmZvUARgAnoQNDgwMzE3NDQyNTA0MTkwOJABBA%3D%3D&playScene=innerSite&pvid=4803174425041908&_f_=1755966126417
-#EXTINF:-1,Mayhem
+#EXTINF:-1,Mayhem (A)(check)
 #EXTGRP:🎞️ Вечерний КиноStream
 https://liveplay.trovo.live/live/73846_108456939_108456939.flv?bizid=73846&txSecret=1a1c8b4e6d1bf7e6641f524c3470e5a1&txTime=6953e280&_bmlj_t=ChxTNk9ObUNKbTcvOTkycjAwc0V1S2lqTloxMVE9EiRiMDQ1NGJjMC03Njc0LTQ5ZTYtYTc5Mi1lNTgyZjg1ZDNmMjcaHjEwODQ1NjkzOV8xMDg0NTY5MzlfMTc2NjUwMDM1MiCflKvKBiiP%2BMQ3Mhk3Mzg0Nl8xMDg0NTY5MzlfMTA4NDU2OTM5Qg00Ni4xMzguMTQ4LjgyShtsaXZlLXJlYWRlci1zdnJfR2V0TGl2ZUluZm9QBGACehI4ODUwMTI2ODQ4MjUxMjIzMTmQAQQ%3D&playScene=innerSite&pvid=885012684825122319&_f_=1766509091971
-#EXTINF:-1,Аль
+#EXTINF:-1,Аль (A)(check)
 #EXTGRP:🎞️ Вечерний КиноStream
 https://liveplay.trovo.live/live/73846_115161512_115161512.flv?bizid=73846&txSecret=d475a9748a21ddf03e13d8a7a9e8c63b&txTime=68ffa434&_bmlj_t=ChxKTkRPbW4wbEVRNDE1MHM2VktrTnVJNnlqd2s9EiQ4N2YzMDBlOC04ZjMwLTQ2ZWItYjdhOS01NGRmNzhhYTQ3MTIaHjExNTE2MTUxMl8xMTUxNjE1MTJfMTc2MDk3OTM4MCD67dnHBiiP%2BMQ3Mhk3Mzg0Nl8xMTUxNjE1MTJfMTE1MTYxNTEyQg40Ni4xMzguMTQ2LjIyM0obbGl2ZS1yZWFkZXItc3ZyX0dldExpdmVJbmZvUARgAnoSOTgyMTk0MDczNjI1MDkxMDIwkAEE&playScene=innerSite&pvid=982194073625091020&_f_=1760982782882
 
@@ -1495,7 +1432,7 @@ http://kinowalk.hopto.org/timetohorror_live
 #EXTINF:-1,Blockbusters Time
 #EXTGRP:🎞️ StreamFree No 24/7
 http://kinowalk.hopto.org/blockbusterstime_live
-#EXTINF:-1,Cinema Time
+#EXTINF:-1,Cinema Time (A)(check)
 #EXTGRP:🎞️ StreamFree No 24/7
 http://kinowalk.hopto.org/cinemaa_live
 #EXTINF:-1,kinolampa
@@ -1513,48 +1450,48 @@ http://kinowalk.hopto.org/perviryad_live
 #EXTINF:-1,Тоха Стрим
 #EXTGRP:🎞️ StreamFree No 24/7
 http://kinowalk.hopto.org/toxa_stream_live
-#EXTINF:-1,VHS кино
+#EXTINF:-1,VHS кино (A)(check)
 #EXTGRP:🎞️ StreamFree No 24/7
 https://vsd249.okcdn.ru/hls/11433988131530.m3u8/sig/V6sUUijXpOQ/expires/1772082331165/srcIp/46.138.161.80/urls/185.226.53.52/clientType/36/srcAg/CHROME_YA/mid/12079534065610/11433988131530_fullhd/index.m3u8
-#EXTINF:-1,Devil TV
+#EXTINF:-1,Devil TV (A)(check)
 #EXTGRP:🎞️ StreamFree No 24/7
 https://vsd129.okcdn.ru/hls/4129979632256.m3u8/sig/GZdu4dHI5XY/expires/1772082777701/srcIp/46.138.161.80/urls/45.136.21.44/clientType/0/srcAg/CHROME_YA/mid/4929588829824/video.m3u8?p
-#EXTINF:-1,МОЖи
+#EXTINF:-1,МОЖи (A)(check)
 #EXTGRP:🎞️ StreamFree No 24/7
 https://vsd173.okcdn.ru/hls/5565406644844.m3u8/sig/HDcKB2PKoWc/expires/1772082838242/srcIp/46.138.161.80/urls/45.136.22.57/clientType/0/srcAg/CHROME_YA/mid/7133972668012/video.m3u8?p
-#EXTINF:-1,Экран СССР ТВ
+#EXTINF:-1,Экран СССР ТВ (A)(check)
 #EXTGRP:🎞️ StreamFree No 24/7
 https://vsd183.okcdn.ru/hls/7904690309811_offset_p.m3u8/sig/4ukDxbyjuas/expires/1772082894925/srcIp/46.138.161.80/urls/185.226.52.64/clientType/0/srcAg/CHROME_YA/mid/9273686236851/video.m3u8?p
-#EXTINF:-1,Kino tv
+#EXTINF:-1,Kino tv (A)(check)
 #EXTGRP:🎞️ StreamFree No 24/7
 https://vsd268.okcdn.ru/hls/11693508135494.m3u8/sig/sMQNjx9XIZY/expires/1772082391745/srcIp/46.138.161.80/urls/185.226.55.120/clientType/36/srcAg/CHROME_YA/mid/12113582573382/11693508135494_fullhd/index.m3u8
-#EXTINF:-1,ЕСТЬ-СТРИМ
+#EXTINF:-1,ЕСТЬ-СТРИМ (A)(check)
 #EXTGRP:🎞️ StreamFree No 24/7
 https://vsd245.okcdn.ru/hls/11559038421577.m3u8/sig/edAW0kidp_8/expires/1772082433517/srcIp/46.138.161.80/urls/185.226.53.96/clientType/36/srcAg/CHROME_YA/mid/12011112056649/11559038421577_fullhd/index.m3u8
-#EXTINF:-1,Kin0ZALL
+#EXTINF:-1,Kin0ZALL (01)
 #EXTGRP:🎞️ StreamFree No 24/7
 https://liveplay.trovo.live/live/73846_116058117_116058117.flv?bizid=73846&txSecret=5018db03ac0508edf13f9aa18bb6d2eb&txTime=695e209d&_bmlj_t=ChxMeU5LQWdrTzBqNGdCZExCdjR2elNUcGIwTDg9EiRlYTNkYTA4MC0wOTJlLTQzMjUtOTU1My1jM2QyMTkwZmUxNGUaHjExNjA1ODExN18xMTYwNTgxMTdfMTc2NzE3MTYxMyCT19TKBiiP%2BMQ3Mhk3Mzg0Nl8xMTYwNTgxMTdfMTE2MDU4MTE3Qg00Ni4xMzguMTQ4LjgyShtsaXZlLXJlYWRlci1zdnJfR2V0TGl2ZUluZm9QBGACehI4ODUwMTI2ODQ4MjUxMjIzMTmQAQQ%3D&playScene=innerSite&pvid=885012684825122319&_f_=1767189399211
-#EXTINF:-1,MTV Cinematic
+#EXTINF:-1,MTV Cinematic (A)(check)
 #EXTGRP:🎞️ StreamFree No 24/7
 https://vsd241.okcdn.ru/hls/11474980375158.m3u8/sig/YtnqI4tn4sU/expires/1772082490585/srcIp/46.138.161.80/urls/185.226.52.66/clientType/36/srcAg/CHROME_YA/mid/11982919190390/11474980375158_fullhd/index.m3u8
-#EXTINF:-1,GUWi_TV
+#EXTINF:-1,GUWi_TV (A)(check)
 #EXTGRP:🎞️ StreamFree No 24/7
 https://vsd204.okcdn.ru/hls/11416111483438.m3u8/sig/9qtU-_K1O7g/expires/1772082530230/srcIp/46.138.161.80/urls/185.226.53.95/clientType/36/srcAg/CHROME_YA/mid/12317271279406/11416111483438_fullhd/index.m3u8
-#EXTINF:-1,ALEX GHOST_TV
+#EXTINF:-1,ALEX GHOST_TV (A)(check)
 #EXTGRP:🎞️ StreamFree No 24/7
 https://vsd78.okcdn.ru/hls/11619002944234.m3u8/sig/Coi0pv82J_A/expires/1772082654237/srcIp/46.138.161.80/urls/185.226.55.78/clientType/36/srcAg/CHROME_YA/mid/12642734721002/11619002944234_high/index.m3u8
-#EXTINF:-1,Fks_Films
+#EXTINF:-1,Fks_Films (A)(check)
 #EXTGRP:🎞️ StreamFree No 24/7
 https://vsd158.okcdn.ru/hls/11561533442795.m3u8/sig/jMwnJ9HPKTU/expires/1772082596129/srcIp/46.138.161.80/urls/185.226.55.118/clientType/36/srcAg/CHROME_YA/mid/11987471386603/11561533442795_high/index.m3u8
-#EXTINF:-1,Произвольный стрим
+#EXTINF:-1,Произвольный стрим (check)
 #EXTGRP:🎞️ StreamFree No 24/7
 https://vsd130.okcdn.ru/hls/11520803211829.m3u8/sig/EMg-UTkxz34/expires/1772082733082/srcIp/46.138.161.80/urls/185.226.52.66/clientType/36/srcAg/CHROME_YA/mid/12274170152757/11520803211829_high/index.m3u8
-#EXTINF:-1,Паранормальный архив
+#EXTINF:-1,Паранормальный архив (A)(check)
 #EXTGRP:🎞️ StreamFree No 24/7
 https://vkvsd18.okcdn.ru/hls/11731879398051.m3u8/sig/EWq9cJ6g7r0/expires/1772034090160/srcIp/128.70.140.198/urls/185.226.55.73/clientType/13/srcAg/CHROME_YA/mid/12658228013987/11731879398051_fullhd/index.m3u8
-#EXTINF:-1,Rambojanski
+#EXTINF:-1,Rambojanski (A)(check)
 #EXTGRP:🎞️ StreamFree No 24/7
 https://eun11.playlist.ttvnw.net/v1/playlist/Co8G7t00ivTwYxFSqIvpS1xdgZmTzRM38MUs9M4M8hnNOyV8qYhlIUkxcm__quk4n83RIF14EjbiaLH6rKZJSpQ-CpWQPPFBbp5dPapiVGe-REf-UAkcmIF1UbnCodAFcd07IPWYjAg0GszK8d65-mBxZH2JRU-iYFF7wLZZlOuT4z8NEcMeMNWg2PDPLrqZWq5T2E7NTVmiiQBBvETEACymiVqnOsVBIrwOMfhDQ4l9SEPkc0NsDM1SI5a93u7W-srHWZcxniwWg-B1aVEgJ9ZRHkTOshQG5sMC2IIX1v0kHzK_QR8wuNpfGXYDOyrAqNCUX6G0mZYOa0FwSTNfMrf8t8v0DS0kXhRNjXbOeHfMzRF96R0ZO361UJvLTHEo3kj56bv0JEOvlIUIZPoZCk3OiwpTlAFIB9TXsy4Q1LCGL5XERXc6TiBE_TY808yC6EUVW8o7lsZTPOACt4_pyXR2W_kcl-7_hymcyCe7Pkoy3kqwqO8qzli4yZODgF9LyFVGMJKE-YJbxVyoTs7XyVlOg1M3pBWcyT91r-2nzfa6GeROXtaIFS-HzdLbaSFu-Lruy5ao2qeGL7Z3kziJGB47IqtMIZGxHxt12cg-cWrj_3aDRy6mGu1t-7z_BqS8yGnu3ojcPlT51hRP_QJcib4KGl3pbO7vgJ1bZ7wZVR-uvcNlafc-UZzbPA0P1edcS1XtUrlfDR1RPdfKgT-XH0ap57meJg2HeLgK6WwSEWgFZGS4tkdiDuQS6bwkK8p-NRcwOjwXcnpTc-of9isLAHG6-hBY90sNyHXkx5K8ScJ63PgOwhTbdE0Y_fS8eJP06x-ifTsys95EmCQmoujIoCxcIWmFni7cnvnEfjlHOcBbAIDHHqyuMIvYiWrAVEgl3_lLgfzZaSY3B-PTwhxHNkJvmA6lcfkCwPF4ePoKxVd3H7Umm5ZXNS7OKqtnhgTkdeJNL7PHeReyMcaXMUuIRsHOX_MdytcygyK-2JceqzWisepL06f2I6Eg1mY2R731R6Mg8hzng4Jgd9HJgwnEVKBNGgwUSd5cT3JsL025xO4gASoJZXUtd2VzdC0yMMIO.m3u8
-#EXTINF:-1,24lordfilm
+#EXTINF:-1,24lordfilm (A)(check)
 #EXTGRP:🎞️ StreamFree No 24/7
 https://eun11.playlist.ttvnw.net/v1/playlist/Co4GQ7iDxUcCPvr4pomCMU0x0cfnBRt-kNMOwIZtkrl2TieNoUnRCi3ABE_kfCTLWEfl7AY8xyBxxwEi5LW_fEtR5wMCtvgj1aP18iFBbkyGstcKSy0kTaFbqYr0fIeLLfzvFvEAyx_P9TyRLS3G3P27Bpy6m2sXVPleBd6TrDMGDyxvqyKG_hYSrzPyvdIki-cmk-KoEonw-JO7bJ_UOKMOxxFON7R1DD6hZ8t8eU3Unu3mlQAyAks1fBacsGFHxPU1vL5W_hnSdsWygTm6hE3S8tYQwGivmexn2TT3OT0Yc6cdcFTngSAj07rvalx6pYmJUpJgd7-5PyC0ZFPh51xDUh1OQ6-hPfQomZ_9bIiSXXeBYUnvDwUnIrWTvAkBQlh21kNz_hA_ZfB_utVfXB7ufTAqanku0FbBiTbAjV793IfkG-x33RqV0zwd5KPUVlwIa5zQ4mWT1Qys__Ru-Cvgpthhlqop7QCyZVhCFnCqT0QcpNp5H78Oc5tGRRQYx9v6oaKSWVW35brcKwTyeOAurRPRoD1Ktm3fQbDmOLd9ieOMXhiQkh80ZHcpQpC3E91KttDEdOKy759GbWwbJWeMonoiz3KoHolBhs1WHYUN9ZxLBRQNB3Z3avczM389htFT4rJpL7Pi5x9BZYK7420sYLD7J5KgkUfVTO7vPVBfqnDXwpmHqKWThq_UIZaIKasIk_tZfmr6yUZPIxKKTALhckRrQ9aJu0b28J_wg0M0PY6PZ9n25JZs61DFkyU_PyfCXbpeAIGk4wUhk6lr9YLIORdJRnki_sjbx-ONyMxnV4Vy1kuQsd87C47pfHU30O6WUcgMPeVw8MKA86_PXzR-jPFBuCyUtwSPGNKCb7JrnsphFh9rRK5DT__t9YkV6Qku33kZc_z1Sk4hoHH4NClv_GmEpznL-AzN3atonR_0xoU0Va5izNUdiQBiWBb_i23zkHiXy7scep-v1vkLjocUgi5WRo3Yggtp7GbfCVCHArdixEK2RpAHul86L-XEF1rdXsAP13B0tdR6Dq1EIC8aDAd3wGyztVB9glZwSyABKglldS13ZXN0LTIwwg4.m3u8
