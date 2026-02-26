@@ -726,7 +726,7 @@ https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1,Жизнь Глазова
 #EXTGRP:🎞️ TV&Films
 https://yellow.garant.tv/glazov24/stream.m3u8
-#EXTINF:-1,Konul TV
+#EXTINF:-1,Konul TV (00)
 #EXTGRP:🎞️ TV&Films
 http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u
 #EXTINF:-1,LIVETVAZ
@@ -738,10 +738,10 @@ http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1,312 Сериал
 #EXTGRP:🎞️ TV&Films
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
-#EXTINF:-1,TV1 KG HD
+#EXTINF:-1,TV1 KG HD (00)
 #EXTGRP:🎞️ TV&Films
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
-#EXTINF:-1,КТК
+#EXTINF:-1,КТК (00)
 #EXTGRP:🎞️ TV&Films
 https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/chunklist_w657273664_b6128000_slrus.m3u8
 #EXTINF:-1,TV PRO
@@ -753,19 +753,19 @@ https://streams.adapto.kz/hls/live/31kz/main_stream.m3u8
 #EXTINF:-1,АИСТ ТВ
 #EXTGRP:🎞️ TV&Films
 https://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
-#EXTINF:-1,Среда
+#EXTINF:-1,Среда (00)
 #EXTGRP:🎞️ TV&Films
 rtmp://vkvsd54.okcdn.ru/playback/7334915353564?stkn=xjEbdnErgCJf8IsliRWaYbSGn3nBxcnAmEKoz4bMR9vrzA5wkhiA_w31RD4nMSAk5sZsfNNxuPE&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1,Телеканал ЛТВ
+#EXTINF:-1,Телеканал ЛТВ (00)
 #EXTGRP:🎞️ TV&Films
 rtmp://vkvsd70.okcdn.ru/playback/6374540258174?stkn=xq3Mb7tqvmgs58xveKmbdKCzSSEC_rQ3uMikuKbmMkmMnk3xsTTKPz8RETCmOZnBCis_rqufnCM&uid=0&sp=uid,sp&sig=vlibqm4nyu
-#EXTINF:-1,КиноСезон
+#EXTINF:-1,КиноСезон (00)
 #EXTGRP:🎞️ TV&Films
 https://stitch.teletarget.ru/vintera/movieseason/1764950731551101ef187a38512cd3d3db48c1eca37527e836ab81636ac589b9/lvl1.m3u8
-#EXTINF:-1,Movie Classic
+#EXTINF:-1,Movie Classic (00)
 #EXTGRP:🎞️ TV&Films
 https://stitch.teletarget.ru/vintera/movieclassic/1769345728421a8ea6e51c8383dc93762a02d599036121e311be997503169eb5/lvl1.m3u8
-#EXTINF:-1,Советское кино
+#EXTINF:-1,Советское кино (00)
 #EXTGRP:🎞️ TV&Films
 https://stitch.teletarget.ru/vintera/sovietmovie/17696847156167dd9935fac28723490766c9879588bc1d723892ef11c0282861/lvl1.m3u8
 #EXTINF:-1,Star Media
@@ -789,23 +789,23 @@ https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 #EXTINF:-1,ВосьМой
 #EXTGRP:🎞️ TV&Films
 https://minsk-cache07t.voka.tv/live/962.m3u8?
-#EXTINF:-1,ЭФИР
+#EXTINF:-1,ЭФИР (00)
 #EXTGRP:🎞️ TV&Films
 rtmp://vkvsd286.okcdn.ru/playback/2605901818827?stkn=yr6jRJSaPyHbr__nOFGduk03-VG0OGEJ0R2aanAhKVmbpDr1t_qQFnlF8rXUpVsgOM4n0pq7tck&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1,Восточный экспресс
+#EXTINF:-1,Восточный экспресс (00)
 #EXTGRP:🎞️ TV&Films
 rtmp://vkvsd258.okcdn.ru/playback/8170016353210?stkn=n-x7v--1sfV8vmqXUKfnwfALcOtu1foBYfsJj7sJB0kl9mkwLabGEpbH4yWdg-8eAKaFTp8ORDE&uid=0&sp=uid,sp&sig=vlibqm4nyu
-#EXTINF:-1,ТВ Поиск
+#EXTINF:-1,ТВ Поиск (00)
 #EXTGRP:🎞️ TV&Films
 rtmp://vkvsd10.okcdn.ru/playback/10443647429442?stkn=Ae6z705NBSu6hvGUiNC7n5EQcVW4ThenshE7HIu6E9klNyo_wMmkEkCJUjIpZ3WZLHGRr54k7N8&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1,Город
+#EXTINF:-1,Город (00)
 #EXTGRP:🎞️ TV&Films
 #EXTVLCOPT:http-user-agent=https://oauth.vk.com/ token?scope
 rtmp://vkvsd200.okcdn.ru/playback/3161073265464?stkn=waSBZKjRq01T9Cet4vQE4gNI-iEdgYfSL3tF57pZT4y0v_ZkjhDQqd_Nh2H6E8GEwJyelRehHjQ&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1,Тайна ТВ
 #EXTGRP:🎞️ TV&Films
 https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=k9bDH53DPY73h1vlbcNhzQ&e=2071743709&scheme=https
-#EXTINF:-1,Однажды в России
+#EXTINF:-1,Однажды в России (00)
 #EXTGRP:🎞️ TV&Films
 rtmp://vkvsd8.okcdn.ru/playback/11366093630227?stkn=MgAPA64MXpukhks5bQPU5WKvRRjGYRiRj7OhSlsLAOHcmEwHQ8EkbeiMB0H-kdP_oYpI69_iSfmO&uid=0&sp=uid,sp&sig=vlibqm4nyu
 
@@ -894,7 +894,7 @@ https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=Ug
 #EXTINF:-1,НТВ
 #EXTGRP:🎞️Эфир RU
 https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1,Пятый канал
+#EXTINF:-1,Пятый канал (00)
 #EXTGRP:🎞️Эфир RU
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/tv/5-kanal.html
 https://streaming.televizor-24-tochka.ru/live/8-req_offset_28000000-req_window_0-1k_v5.m3u8
@@ -911,11 +911,11 @@ https://streaming.skynetconnect.co.za/live/232-req_offset_28000000-req_window_0-
 #EXTINF:-1,ОТР
 #EXTGRP:🎞️Эфир RU
 https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=hKAlgTZHZ0PQ6YxjvAzyTQ&e=2071401285&scheme=https
-#EXTINF:-1,ТВЦ
+#EXTINF:-1,ТВЦ (00)
 #EXTGRP:🎞️Эфир RU
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/tv/tv-tsentr.html
 https://streaming.televizor-24-tochka.ru/live/13-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1,РЕН ТВ
+#EXTINF:-1,РЕН ТВ (00)
 #EXTGRP:🎞️Эфир RU
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/tv/ren-tv.html
 https://streaming.televizor-24-tochka.ru/live/14-req_offset_28000000-req_window_0-1k_v5.m3u8
@@ -923,7 +923,7 @@ https://streaming.televizor-24-tochka.ru/live/14-req_offset_28000000-req_window_
 #EXTGRP:🎞️Эфир RU
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/tv/sts.html
 https://streaming.skynetconnect.co.za/live/296-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1,Домашний
+#EXTINF:-1,Домашний (00)
 #EXTGRP:🎞️Эфир RU
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/tv/domashnii.html
 https://streaming.televizor-24-tochka.ru/live/17-req_offset_28000000-req_window_0-1k_v5.m3u8
