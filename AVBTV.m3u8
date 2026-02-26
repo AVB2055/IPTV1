@@ -422,9 +422,6 @@ http://ip1.orgip.net/0201/video.m3u8?token=Ab2b7066c8
 #EXTINF:-1,NHL (Интересные моменты)
 #EXTGRP:Спортивные
 https://nhl-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1,Okko Спорт. Прайм HD
-#EXTGRP:Спортивные
-http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
 #EXTINF:0,Red Bull HD
 #EXTGRP:Спортивные
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
@@ -539,37 +536,19 @@ http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/20165/index.m3u8
 #EXTINF:0,Bollywood HD
 #EXTGRP:Кинофильмы
 http://188.225.31.197/bpk-tv/000001419/tve/index.m3u8
-#EXTINF:0,Cinema HD
-#EXTGRP:Кинофильмы
-http://tv.lamro.workers.dev/?ID=5057
 #EXTINF:0,FlixSnip HD
 #EXTGRP:Кинофильмы
 http://188.225.31.197/bpk-tv/000004466/tve/index.m3u8
-#EXTINF:-1,Hollywood HD
-#EXTGRP:Кинофильмы
-http://ip1.orgip.net/669/video.m3u8?token=Ab2b7066c8
-#EXTINF:0,MyTV
-#EXTGRP:Кинофильмы
-http://hls127.freeott.top:8080/MyTV/mono.m3u8
-#EXTINF:0,MyTV 2
-#EXTGRP:Кинофильмы
-http://hls127.freeott.top:8080/MyTV2/mono.m3u8
-#EXTINF:0,MyTV 3
-#EXTGRP:Кинофильмы
-http://hls127.freeott.top:8080/MyTV3/mono.m3u8
 #EXTINF:0,NSC
 #EXTGRP:Кинофильмы
 https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210_output_0.m3u8?session=bomhMGCHEtND9D3hX7kb4M
-#EXTINF:0,Plan B HD
-#EXTGRP:Кинофильмы
-http://tv.lamro.workers.dev/?ID=5017
 #EXTINF:0,TV1000 action HD
 #EXTGRP:Кинофильмы
 http://188.225.31.197/bpk-tv/000003910/tve/index.m3u8
 #EXTINF:0,TV1000 HD
 #EXTGRP:Кинофильмы
 http://188.225.31.197/bpk-tv/000003747/tve/index.m3u8
-#EXTINF:0,TV1000 русское HD
+#EXTINF:0,viju+ TV1000 русское HD
 #EXTGRP:Кинофильмы
 http://188.225.31.197/bpk-tv/000003748/tve/index.m3u8
 #EXTINF:0,VIASAT Kino Comedy HD
@@ -587,9 +566,6 @@ http://188.225.31.197/bpk-tv/000000870/tve/index.m3u8
 #EXTINF:0,viju+ Premiere HD
 #EXTGRP:Кинофильмы
 http://188.225.31.197/bpk-tv/000000868/tve/index.m3u8
-#EXTINF:-1,Viasat Kino World
-#EXTGRP:Кинофильмы
-http://ip1.orgip.net/1608/video.m3u8?token=Ab2b7066c8
 #EXTINF:-1,VHS KA
 #EXTGRP:Кинофильмы
 http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/5006/index.m3u8
@@ -602,12 +578,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
 #EXTINF:-1,Блокбастер
 #EXTGRP:Кинофильмы
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/9087/index.m3u8
-#EXTINF:-1,Душевное кино HD
-#EXTGRP:Кинофильмы
-http://ip1.orgip.net/697/video.m3u8?token=Ab2b7066c8
-#EXTINF:0,Душевное кино HD
-#EXTGRP:Кинофильмы
-http://tv.lamro.workers.dev/?ID=5231
 #EXTINF:0,Дом кино Premium HD
 #EXTGRP:Кинофильмы
 http://188.225.31.197/bpk-tv/000002943/tve/index.m3u8
@@ -623,69 +593,34 @@ http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/9091/index.m3u8
 #EXTINF:0,Кинобоевик HD
 #EXTGRP:Кинофильмы
 http://188.225.31.197/bpk-tv/000008490/tve/index.m3u8
-#EXTINF:0,Кинокомедия HD
-#EXTGRP:Кинофильмы
-http://tv.lamro.workers.dev/?ID=5090
 #EXTINF:-1,Кинопремьера
 #EXTGRP:Кинофильмы
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/9020/index.m3u8
-#EXTINF:0,Кинопоказ HD
-#EXTGRP:Кинофильмы
-http://hls127.freeott.top:8080/Kinopokaz_HD/mono.m3u8
-#EXTINF:0,Кинопоказ HD
-#EXTGRP:Кинофильмы
-http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
 #EXTINF:-1,КИНОХИТ
 #EXTGRP:Кинофильмы
 http://ip1.orgip.net/608/video.m3u8?token=Ab2b7066c8
 #EXTINF:0,Мировое Кино
 #EXTGRP:Кинофильмы
 http://188.225.31.197/bpk-tv/000008488/tve/index.m3u8
-#EXTINF:0,MM Скорость
-#EXTGRP:Кинофильмы
-http://hls127.freeott.top:8080/minimax-skorost-m4f/video.m3u8
-#EXTINF:0,Наш Кинороман HD
-#EXTGRP:Кинофильмы
-http://tv.lamro.workers.dev/?ID=4729
-#EXTINF:-1,Остросюжетное HD
-#EXTGRP:Кинофильмы
-http://ip1.orgip.net/604/video.m3u8?token=Ab2b7066c8
 #EXTINF:0,Победа
 #EXTGRP:Кинофильмы
 https://streaming.televizor-24-tochka.ru/live/43.m3u8
-#EXTINF:0,Премиальное HD
-#EXTGRP:Кинофильмы
-http://tv.lamro.workers.dev/?ID=4988
 #EXTINF:0,Премиум Кино
 #EXTGRP:Кинофильмы
 http://188.225.31.197/bpk-tv/000008491/tve/index.m3u8
 #EXTINF:0,Семейное кино HD
 #EXTGRP:Кинофильмы
 http://188.225.31.197/bpk-tv/000008489/tve/index.m3u8
-#EXTINF:0,Шокирующее HD
-#EXTGRP:Кинофильмы
-http://tv.lamro.workers.dev/?ID=4961
-#EXTINF:0,.sci-fi HD
-#EXTGRP:Кинофильмы | Сериалы
-http://tv.lamro.workers.dev/?ID=5073
+
 #EXTINF:0,Amedia 2 HD
 #EXTGRP:Кинофильмы | Сериалы
 http://188.225.31.197/bpk-tv/000000351/tve/index.m3u8
-#EXTINF:0,Amedia Hit HD
-#EXTGRP:Кинофильмы | Сериалы
-http://tv.lamro.workers.dev/?ID=4921
 #EXTINF:0,Amedia Premium HD
 #EXTGRP:Кинофильмы | Сериалы
 http://188.225.31.197/bpk-tv/000000709/tve/index.m3u8
 #EXTINF:0,ATV Armenia Premium 6
 #EXTGRP:Кинофильмы | Сериалы
 http://timeshift.arpinet.am/255/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0,FAN
-#EXTGRP:Кинофильмы | Сериалы
-http://tv.lamro.workers.dev/?ID=5064
-#EXTINF:0,Start Air
-#EXTGRP:Кинофильмы | Сериалы
-http://tv.lamro.workers.dev/?ID=5081
 #EXTINF:-1,Кинодром
 #EXTGRP:Кинофильмы | Сериалы
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31714/index.m3u8
@@ -695,12 +630,6 @@ https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=ef
 #EXTINF:0,Кинолаффка HD
 #EXTGRP:Кинофильмы | Сериалы
 https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=19TY0JRfXJzPhrZLaUHGGg&e=2067815807&scheme=https
-#EXTINF:0,Мужское Кино HD
-#EXTGRP:Кинофильмы | Сериалы
-http://tv.lamro.workers.dev/?ID=3374
-#EXTINF:0,Наш Кинопоказ HD
-#EXTGRP:Кинофильмы | Сериалы
-http://tv.lamro.workers.dev/?ID=4967
 #EXTINF:0,Смотрим Кино и сериалы
 #EXTGRP:Кинофильмы | Сериалы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
@@ -717,18 +646,9 @@ http://188.225.31.197/bpk-tv/000004472/tve/index.m3u8
 #EXTINF:0,FOX Life HD
 #EXTGRP:Сериалы
 http://188.225.31.197/bpk-tv/000004471/tve/index.m3u8
-#EXTINF:0,Fox Life HD
-#EXTGRP:Сериалы
-http://tv.lamro.workers.dev/?ID=4941
 #EXTINF:0,Start World HD
 #EXTGRP:Сериалы
 http://188.225.31.197/bpk-tv/000007818/tve/index.m3u8
-#EXTINF:-1,Star Family
-#EXTGRP:Сериалы
-http://ip1.orgip.net/673/video.m3u8?token=Ab2b7066c8
-#EXTINF:0,viju+ Serial HD
-#EXTGRP:Сериалы
-http://tv.lamro.workers.dev/?ID=4962
 #EXTINF:0,viju+ Serial HD
 #EXTGRP:Сериалы
 http://188.225.31.197/bpk-tv/000004375/tve/index.m3u8
@@ -737,19 +657,7 @@ http://188.225.31.197/bpk-tv/000004375/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000003392/tve/index.m3u8
 #EXTINF:0,Кинеко HD
 #EXTGRP:Сериалы
-http://tv.lamro.workers.dev/?ID=5085
-#EXTINF:0,Кинеко HD
-#EXTGRP:Сериалы
 http://188.225.31.197/bpk-tv/000008136/tve/index.m3u8
-#EXTINF:0,Киносерия HD
-#EXTGRP:Сериалы
-http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
-#EXTINF:0,Киносерия HD
-#EXTGRP:Сериалы
-http://tv.lamro.workers.dev/?ID=4883
-#EXTINF:0,Мир сериала HD
-#EXTGRP:Сериалы
-http://tv.lamro.workers.dev/?ID=5092
 #EXTINF:0,НТВ Сериал HD
 #EXTGRP:Сериалы
 https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
@@ -783,12 +691,6 @@ https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,НТВ Хит
 #EXTGRP:Сериалы
 https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
-#EXTINF:0,Романтичное HD
-#EXTGRP:Сериалы
-http://tv.lamro.workers.dev/?ID=5233
-#EXTINF:0,Сапфир HD
-#EXTGRP:Сериалы
-http://tv.lamro.workers.dev/?ID=5232
 #EXTINF:0,Сапфир HD
 #EXTGRP:Сериалы
 http://188.225.31.197/bpk-tv/000008135/tve/index.m3u8
@@ -799,8 +701,6 @@ https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 #EXTINF:-1 group-title="КиноСтримы",Blockbusters Time
 http://kinowalk.hopto.org/blockbusterstime_live
-#EXTINF:-1 group-title="КиноСтримы",Cinema Time HD
-http://kinowalk.hopto.org/cinemaa_live
 #EXTINF:-1 group-title="КиноСтримы",Видеопрокат
 http://kinowalk.hopto.org/video_prokat_live
 #EXTINF:-1 group-title="КиноСтримы",TimeToHorror HD
@@ -845,113 +745,50 @@ http://kinowalk.hopto.org/kinojam_live
 http://kinowalk.hopto.org/mmaxim0vich_live
 
 
-#EXTINF:0,Clarity4K Netflix
-#EXTGRP:Clarity4K
-http://hls127.freeott.top:8080/Clarity4K_Netflix/mono.m3u8
-#EXTINF:0,Clarity4K Ужасы
-#EXTGRP:Clarity4K
-http://hls127.freeott.top:8080/Clarity4K_Uzhasi/mono.m3u8
-#EXTINF:0,Clarity4K Фантастика
-#EXTGRP:Clarity4K
-http://hls127.freeott.top:8080/Clarity4K_Fantastic/mono.m3u8
-#EXTINF:0,Clarity4K Asia
-#EXTGRP:Clarity4K
-http://hls127.freeott.top:8080/Clarity4K_Asia/mono.m3u8
-#EXTINF:0,Clarity4k Концерт
-#EXTGRP:Clarity4K
-http://hls127.freeott.top:8080/Clarity4K_Concert/mono.m3u8
-#EXTINF:0,Clarity4K Gamefilm
-#EXTGRP:Clarity4K
-http://hls127.freeott.top:8080/Clarity4K_Gamefilm/mono.m3u8
-#EXTINF:0,Clarity4K Anime
-#EXTGRP:Clarity4K
-http://hls127.freeott.top:8080/Clarity4K_Anime/mono.m3u8
-#EXTINF:0,Clarity4K Космомир
-#EXTGRP:Clarity4K
-http://hls127.freeott.top:8080/Clarity4K_Kosmomir/mono.m3u8
-#EXTINF:0,Clarity4k Единоборства
-#EXTGRP:Clarity4K
-http://hls127.freeott.top:8080/Clarity4K_Edinoborstva/mono.m3u8
-
-#EXTINF:-1,BCU Fantastic HD
-#EXTGRP:BCU
-http://ip1.orgip.net/1606/video.m3u8?token=Ab2b7066c8
-#EXTINF:-1,BCU Marvel HD
-#EXTGRP:BCU
-http://ip1.orgip.net/1612/video.m3u8?token=Ab2b7066c8
-#EXTINF:-1,BCU Russian HD
-#EXTGRP:BCU
-http://ip1.orgip.net/1617/video.m3u8?token=Ab2b7066c8
-#EXTINF:-1,BCU Romantic HD
-#EXTGRP:BCU
-http://ip1.orgip.net/1616/video.m3u8?token=Ab2b7066c8
-#EXTINF:-1,BCU Stars HD
-#EXTGRP:BCU
-http://ip1.orgip.net/1618/video.m3u8?token=Ab2b7066c8
-#EXTINF:-1,BCU VHS HD
-#EXTGRP:BCU
-http://ip1.orgip.net/1620/video.m3u8?token=Ab2b7066c8
-#EXTINF:-1,BCU Kinorating HD
-#EXTGRP:BCU
-http://ip1.orgip.net/1613/video.m3u8?token=Ab2b7066c8
-#EXTINF:-1,BCU Premiere HD
-#EXTGRP:BCU
-http://ip1.orgip.net/1614/video.m3u8?token=Ab2b7066c8
-#EXTINF:-1,BCU Premiere 1 HD
-#EXTGRP:BCU
-http://ip1.orgip.net/1619/video.m3u8?token=Ab2b7066c8
-#EXTINF:-1,BCU Premiere 2 HD
-#EXTGRP:BCU
-http://ip1.orgip.net/1622/video.m3u8?token=Ab2b7066c8
-#EXTINF:-1,BCU Premiere 3 HD
-#EXTGRP:BCU
-http://ip1.orgip.net/1623/video.m3u8?token=Ab2b7066c8
-
-
 #EXTINF:-1 tvg-name="Мульт БУМ!" tvg-logo="https://smotret.tv/images/mult-bum.webp" group-title="🎞️ МультStream", Мульт БУМ!
 #EXTGRP:🎞️ МультStream
 #EXTVLCOPT:http-user-agent=https://oauth.vk.com/ token?scope
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+
 https://vsd166.okcdn.ru/hls/4087812852332.m3u8/sig/0erWHtJ9B7I/expires/1772082969652/srcIp/46.138.161.80/urls/185.226.55.88/clientType/0/srcAg/CHROME_YA/mid/5385622068844/video.m3u8?p
 #EXTINF:-1 tvg-name="Советские мультфильмы" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-sovetskie-multfilmy-tv_1.jpg?itok=lJISlSZK" group-title="🎞️ МультStream", Советские мультфильмы
 #EXTGRP:🎞️ МультStream
 #EXTVLCOPT:http-user-agent=https://oauth.vk.com/ token?scope
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+
 https://vsd217.okcdn.ru/hls/4087089138284.m3u8/sig/W4R691_32RA/expires/1772083028919/srcIp/46.138.161.80/urls/45.136.21.98/clientType/0/srcAg/CHROME_YA/mid/5385000066668/video.m3u8?p
 #EXTINF:-1 tvg-name="Ключайка" tvg-logo="https://pic.rutubelist.ru/video/2025-12-19/56/cf/56cf3398388a803e6595c3c5dceb4fd8.jpg?width=500" group-title="🎞️ МультStream", Ключайка
 #EXTGRP:🎞️ МультStream
 https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=8hKIWF5Ng40B0-kW7qvWBA&e=2070122249&scheme=https
 #EXTINF:-1 tvg-name="Futurama" tvg-logo="https://img.catcast.tv/uploads/02102025/logos/49655-68de26fa1df20.png" group-title="🎞️ МультStream", Futurama
 #EXTGRP:🎞️ МультStream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+
 rtmp://vkvsd80.okcdn.ru/playback/9231228939170?stkn=uFv9-KNKZdHPR_25KX-aJxQWzQScl0lMDt7lIp3XdMBfKiZ_ef4ux87TNStrYusKJOqLIMnt3_w&uid=0&sp=uid,sp&sig=vlibqm4nyu
 #EXTINF:-1 tvg-name="АМЕРИКАНСКИЙ ПАПАША" tvg-logo="https://i.pinimg.com/736x/5a/44/8f/5a448f18a0d67d14fa8059fe533db32c.jpg" group-title="🎞️ МультStream", АМЕРИКАНСКИЙ ПАПАША
 #EXTGRP:🎞️ МультStream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+
 rtmp://vkvsd231.okcdn.ru/playback/11465359305707?stkn=PIUE3dny2C4QQdgvRp723G_f32wBapMamWluh88g4eznQpqC_odKQvtAaQfbyQGzH5ahLjWN68yQ&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1 tvg-name="ЮЖНЫЙ ПАРК" tvg-logo="https://i.pinimg.com/originals/77/fc/a2/77fca25ae64347c7318ef4b6fc34037c.png" group-title="🎞️ МультStream", ЮЖНЫЙ ПАРК
 #EXTGRP:🎞️ МультStream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+
 rtmp://vkvsd8.okcdn.ru/playback/8993430186980?stkn=GGhSqZR-fwCnth4Qgp6V-8FWRYYkNgobKIyP4bDf_-mgfVTkXTdS41qOtuNnVfkvBf_6a3g29ec&uid=0&sp=uid,sp&sig=vlibqm4nyu
 #EXTINF:-1 tvg-name="ГРИФФИНЫ" tvg-logo="https://polinka.top/uploads/posts/2023-06/1686658317_polinka-top-p-griffini-kartinki-krasivo-10.jpg" group-title="🎞️ МультStream", ГРИФФИНЫ
 #EXTGRP:🎞️ МультStream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+
 rtmp://vkvsd230.okcdn.ru/playback/8134416411520?stkn=2NGXWooIibYkQMyZvKLVJizfC-RjA4Q9-KGsN4Dzkm8wTkCZ5Z3J329VaVSBrsTpqctjj27WPNU&uid=0&sp=uid,sp&sig=vlibqm4nyu
 #EXTINF:-1 tvg-name="РИК И МОРТИ" tvg-logo="https://avatars.mds.yandex.net/i?id=f381e43bcbc6d1c5b1f2cab6eee502c2_l-5889060-images-thumbs&n=13" group-title="🎞️ МультStream", РИК И МОРТИ
 #EXTGRP:🎞️ МультStream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+
 rtmp://vkvsd228.okcdn.ru/playback/10137229994917?stkn=uF-qcmEstFzJRTk2k_pZQ1gq2MmP1WidLMkrmdavGcLp34x9bzBxhFHTQgs1Xg12RcMkQlS8LY4&uid=0&sp=uid,sp&sig=vlibqm4nyu
 #EXTINF:-1 tvg-name="РОЖДЕСТВЕНСКИЕ СИМПСОНЫ" tvg-logo="https://i.pinimg.com/736x/d3/40/24/d340245fc3e3230a5b52c5ed50ed50f8.jpg" group-title="🎞️ МультStream", РОЖДЕСТВЕНСКИЕ СИМПСОНЫ
 #EXTGRP:🎞️ МультStream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+
 rtmp://vkvsd272.okcdn.ru/playback/10991322803032?stkn=MpeesOFpyCYvXeAyRln0s-gliMU_CCDefCrl0idSApxiLwDobMdyvuPmseSYEgWYLTj7BBxT9-A&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1 tvg-name="ГУБКА БОБ" tvg-logo="https://avatars.mds.yandex.net/get-mpic/15042144/2a000001973f0353c412896b64fc8d100719/orig" group-title="🎞️ МультStream", ГУБКА БОБ
 #EXTGRP:🎞️ МультStream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+
 rtmp://vkvsd45.okcdn.ru/playback/12110904437604?stkn=iq_1pa-sFBs2nuwy1I4DVY1Qt0wCgtleSlq2Gz8-IWZBfZ8Myq_xKU2FvshKwhg34dgQWwPMlBMs&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1 tvg-name="ЦАРЬ ГОРЫ" tvg-logo="https://i.pinimg.com/736x/b3/77/79/b377796772a5ccbdd7dedec679c2dce1.jpg" group-title="🎞️ МультStream", ЦАРЬ ГОРЫ
 #EXTGRP:🎞️ МультStream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+
 rtmp://vkvsd69.okcdn.ru/playback/11828892871504?stkn=QaxFtWVGIo88g9cyFMIow9iC5J32EiGkXnk_6rKiPnrJEB93tLRBCL31cVjawyYr_Er3tetwVeKz&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1 tvg-name="IPTVPLAY МультСказки HD" tvg-logo="https://i122.fastpic.org/big/2024/0112/65/b20ebb09af08ef55dbdffa919a047c65.png?md5=j6J6Ll7lDMFzkm2ymFC1LQ&expires=1735808400" group-title="🎞️ МультStream", IPTVPLAY МультСказки HD
 #EXTGRP:🎞️ МультStream
@@ -967,15 +804,15 @@ http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Мультики и Сказки HD" tvg-logo="https://goodgame.ru/files/logotypes/ch_198446_JH9R_logo.png" group-title="🎞️ МультStream", Мультики и Сказки HD
 #EXTGRP:🎞️ МультStream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+
 rtmp://vkvsd181.okcdn.ru/playback/4105799740408?stkn=NjFStGS4WV6BkVv7awAQ0tzj1KU3ogV4kGyB9tlShxJqymgbcn0noE0Y2b4HyjqVg4M_Rc-tbS4&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1 tvg-name="retromult" tvg-logo="https://goodgame.ru/files/avatars/av_1669916_vf8h.jpg" group-title="🎞️ МультStream", retromult
 #EXTGRP:🎞️ МультStream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+
 rtmp://vkvsd181.okcdn.ru/playback/9095387753249?stkn=9QYompqh6WaegO7paI2Zrflo1MY_FAyEjQj2v7QLE-g6Lp4LLhAeSzzrZYpmMqBrRymI7yXcKBE&uid=0&sp=uid,sp&sig=vlibqm4nyu
 #EXTINF:-1 tvg-name="NikNik-TV" tvg-logo="https://sun1-26.userapi.com/s/v1/ig2/Em7jRUNbRaUtkdnkPF_pLi1v9HNOwpPzeHQrixUcBNGRMPe-GgFe_9GX4Xp4tKwfXn67XN7h5pjNXxRrppH5HZC4.jpg?quality=95&crop=84,60,263,263&as=32x32,48x48,72x72,108x108,160x160,240x240&ava=1&cs=240x240" group-title="🎞️ МультStream", NikNik-TV
 #EXTGRP:🎞️ МультStream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+
 rtmp://vkvsd51.okcdn.ru/playback/9747990391627?stkn=F8e6nFzL9oOzipSsxvG4GPfqzYEqKSUg8JFhCLunA6R6JbHG9P92oZiAZkgVnVmWQm_xueQU9pk&uid=0&sp=uid,sp&sig=vlibqm4nyu
 #EXTINF:-1 tvg-name="Мамонтёнок ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=0c6148fd35f61df9267454a3963c08d5_l-5244383-images-thumbs&n=13" group-title="🎞️ МультStream", Мамонтёнок ТВ
 #EXTGRP:🎞️ МультStream
@@ -983,25 +820,25 @@ http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Мульт Развивайка" tvg-logo="https://sun1-19.userapi.com/impg/t0bwliJ7nRQJP-j6bTQKm-KK1FT50dfhjDIS9A/5CDu9oDP4NI.jpg?size=320x180&quality=95&sign=57e4523e95e2cb84862f2f68e0ab6302&c_uniq_tag=hs6dVs-m1Om6oqEPgIKtIT552BtLOoKnbVqgLHaY7og&type=video_thumb" group-title="🎞️ МультStream", Мульт Развивайка
 #EXTGRP:🎞️ МультStream
 #EXTVLCOPT:http-user-agent=https://oauth.vk.com/ token?scope
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+
 rtmp://vkvsd163.okcdn.ru/playback/9617415285537?stkn=7rG8jAJ_-nsgBzwhMK0YMXnxU1lCKkv9ovPNX2TNniYZq7NsMZGTGN8xMQH1FHtYphA4-vhgtOs&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1 tvg-name="Детский 0+" tvg-logo="https://sun1-18.userapi.com/impg/3wTKbWOkV40EusaPbjXEDyi6UeHh1BkBbcobyA/LcdG8FnorVw.jpg?size=320x180&quality=95&sign=581d7a81262031a49b0af97e9659b062&c_uniq_tag=G27jnOh4kGwgfio3IEIblHNg8CUJKNC7KhJcbWxAfqA&type=video_thumb" group-title="🎞️ МультStream", Детский 0+
 #EXTGRP:🎞️ МультStream
 #EXTVLCOPT:http-user-agent=https://oauth.vk.com/ token?scope
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+
 rtmp://vkvsd182.okcdn.ru/playback/9942884887405?stkn=9VVfByDOizlWlr_rfoRi8TpelV04alIYQ_0Jk3cI_HojytXGIOqVjegIFH3lVi14ozMs9MWxBP0&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1 tvg-name="Детский 6+" tvg-logo="https://sun1-55.userapi.com/impg/KJT4FluspgwcXkWOnIBaDEzqTjniK8RxUoi3XQ/h0bSMWyPVUo.jpg?size=320x180&quality=95&sign=03dd9196a2dd8614691ab26ae9eb71a0&c_uniq_tag=oyxwBVop7HfYzGp7xvlkDSHV2QaSvafOzc-SKlc4hDE&type=video_thumb" group-title="🎞️ МультStream", Детский 6+
 #EXTGRP:🎞️ МультStream
 #EXTVLCOPT:http-user-agent=https://oauth.vk.com/ token?scope
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+
 rtmp://vkvsd21.okcdn.ru/playback/9707377929063?stkn=DFG1rqI3FgXeZ_htnEwsbN6VQTD1f94i2q76f9zRxAS8Cfi2DmoeIt6qPK7S1qCXEQaRA_Cy79E&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1 tvg-name="Disney Онлайн" tvg-logo="https://sun1-56.userapi.com/s/v1/ig1/Dz6m3V7XGicM4IG7bcjqQD0CnyXmx2EV3ADKEGxbxPsbvqyuKv4ctJnt7E_WvmLvnT6QBpG2.jpg?quality=96&crop=27,468,570,570&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540&ava=1&cs=540x540" group-title="🎞️ МультStream", Disney Онлайн
 #EXTGRP:🎞️ МультStream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+
 rtmp://vkvsd162.okcdn.ru/playback/10379532053422?stkn=W1ab90cV2dhEdmVK-IgaaEfk-nZG1eYdaZv5lLd9kS7baWXq5somrsMKai84PhVZW4Z4JdRr_zQ&uid=0&sp=uid,sp&sig=vlibqm4nyu
 #EXTINF:-1 tvg-name="DeraGlobusJetix" tvg-logo="https://sun1-25.userapi.com/s/v1/ig2/10PXNV5GYFvmIOG5O_zEltNl0DFnW8BGEh5-QGFnIZvhUxw2HOIe8uIXqroyoMGzWIc2tP8HZnKJWwanucuPOaLq.jpg?quality=95&crop=370,102,560,560&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540&ava=1&cs=540x540" group-title="🎞️ МультStream", DeraGlobusJetix
 #EXTGRP:🎞️ МультStream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+
 rtmp://vkvsd194.okcdn.ru/playback/10414118284142?stkn=0A0HTJUE_DPOb1pOHYef41tWpF1Flwn44AP8dlb5dXz1srxg7SGNStbwMvnZbhdO0TOpvvHX-ME&uid=0&sp=uid,sp&sig=vlibqm4nyu
 #EXTINF:-1 tvg-name="JTX Online" tvg-logo="https://sun1-30.userapi.com/s/v1/ig2/g-EBi5KkLU2SSlS6kxzWjBG5KlGpQEQYiXjKrvftyqoNlgXpNNaEtHweb3cDOhAlVBJIqqG9-G6pw2nWwz6dsjGC.jpg?quality=95&crop=0,0,500,500&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480&ava=1&cs=480x480" group-title="🎞️ МультStream", JTX Online
 #EXTGRP:🎞️ МультStream
@@ -1212,11 +1049,11 @@ https://streams.adapto.kz/hls/live/31kz/main_stream.m3u8
 https://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Среда" tvg-logo="https://cdn.media.24h.tv/img/ch/da/6e/da6e310dbd7e445ffc585a1cdc432506.png", Среда
 #EXTGRP:🎞️ TV&Films
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+
 rtmp://vkvsd54.okcdn.ru/playback/7334915353564?stkn=xjEbdnErgCJf8IsliRWaYbSGn3nBxcnAmEKoz4bMR9vrzA5wkhiA_w31RD4nMSAk5sZsfNNxuPE&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1 tvg-name="Телеканал ЛТВ" tvg-logo="https://cdn.media.24h.tv/img/ch/43/fa/43faca168c431e2b78a61b229d6e7359.png", Телеканал ЛТВ
 #EXTGRP:🎞️ TV&Films
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+
 rtmp://vkvsd70.okcdn.ru/playback/6374540258174?stkn=xq3Mb7tqvmgs58xveKmbdKCzSSEC_rQ3uMikuKbmMkmMnk3xsTTKPz8RETCmOZnBCis_rqufnCM&uid=0&sp=uid,sp&sig=vlibqm4nyu
 #EXTINF:-1 tvg-name="КиноСезон" tvg-logo="https://img.vintera.tv/img/ico/kinosezon.png", КиноСезон
 #EXTGRP:🎞️ TV&Films
@@ -1250,28 +1087,28 @@ https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 https://minsk-cache07t.voka.tv/live/962.m3u8?
 #EXTINF:-1 tvg-name="efir24-relax" tvg-logo="https://iptvx.one/picons/efir24-relax.png", ЭФИР
 #EXTGRP:🎞️ TV&Films
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+
 rtmp://vkvsd286.okcdn.ru/playback/2605901818827?stkn=yr6jRJSaPyHbr__nOFGduk03-VG0OGEJ0R2aanAhKVmbpDr1t_qQFnlF8rXUpVsgOM4n0pq7tck&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1 tvg-id="vostochnyj-ekspress" tvg-logo="https://epg.iptvx.one/picons/vostochnyj-ekspress.png", Восточный экспресс
 #EXTGRP:🎞️ TV&Films
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+
 rtmp://vkvsd258.okcdn.ru/playback/8170016353210?stkn=n-x7v--1sfV8vmqXUKfnwfALcOtu1foBYfsJj7sJB0kl9mkwLabGEpbH4yWdg-8eAKaFTp8ORDE&uid=0&sp=uid,sp&sig=vlibqm4nyu
 #EXTINF:-1 tvg-id="poisk-tv" tvg-logo="https://epg.iptvx.one/picons/poisk-tv.png", ТВ Поиск
 #EXTGRP:🎞️ TV&Films
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+
 rtmp://vkvsd10.okcdn.ru/playback/10443647429442?stkn=Ae6z705NBSu6hvGUiNC7n5EQcVW4ThenshE7HIu6E9klNyo_wMmkEkCJUjIpZ3WZLHGRr54k7N8&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1 tvg-name="Город" tvg-logo="https://sun1-96.userapi.com/s/v1/ig2/M238Bum2Y19zsKCHCzepxXN6PL60eQYUgllgmC3yxxAj3X1I2joszk460_mFM0A6TBUWiTVVBAm-1IRAhTdUezQc.jpg?quality=95&crop=81,80,1974,1974&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440&ava=1&cs=540x540", Город
 #EXTGRP:🎞️ TV&Films
 #EXTVLCOPT:http-user-agent=https://oauth.vk.com/ token?scope
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+
 rtmp://vkvsd200.okcdn.ru/playback/3161073265464?stkn=waSBZKjRq01T9Cet4vQE4gNI-iEdgYfSL3tF57pZT4y0v_ZkjhDQqd_Nh2H6E8GEwJyelRehHjQ&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1 tvg-id="tayna" tvg-logo="https://ramnet.ru/tv/logo/000003708.png", Тайна ТВ
 #EXTGRP:🎞️ TV&Films
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+
 https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=k9bDH53DPY73h1vlbcNhzQ&e=2071743709&scheme=https
 #EXTINF:-1 tvg-logo="https://cdn-irec.r-99.com/sites/default/files/imagecache/300o/product-images/1347957/lzWksgVz2WnsDJ4tF1Qngg.jpg", Однажды в России
 #EXTGRP:🎞️ TV&Films
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+
 rtmp://vkvsd8.okcdn.ru/playback/11366093630227?stkn=MgAPA64MXpukhks5bQPU5WKvRRjGYRiRj7OhSlsLAOHcmEwHQ8EkbeiMB0H-kdP_oYpI69_iSfmO&uid=0&sp=uid,sp&sig=vlibqm4nyu
 #EXTINF:-1 tvg-name="IPTVPLAY ВЕДЬМАК" tvg-id="IPTVPLAYVEDMAK.tv" tvg-logo="https://i123.fastpic.org/big/2024/0826/01/adbb4692281cf3cc6540f47f4460c701.png", IPTVPLAY ВЕДЬМАК
 #EXTGRP:🎞️ КиноStream HD
@@ -1308,7 +1145,7 @@ https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd_output_0.m3u
 https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210_output_0.m3u8?session=bomhMGCHEtND9D3hX7kb4M
 #EXTINF:-1 tvg-name="FantasticMistyc" tvg-logo="http://telik.live/images/fmc-tv.png", FantasticMistyc
 #EXTGRP:🎞️ КиноStream HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+
 rtmp://vkvsd69.okcdn.ru/playback/3780958366657?stkn=QkbWCnARWe2BdgDd2ZlIsACtDwpqkYXvX5avvzYaOvFMLx0UvcPKLeTbLVWs99SwkzSDsjYLt-I&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1 tvg-name="Новый Русский" tvg-logo="https://sun9-70.userapi.com/impg/-qQ0swpvv4ukHHV7FIihEucilRQRbI_yFaFVHg/DeLqQCSUANc.jpg?size=1440x1080&quality=95&sign=78c1c3713c42497c514e655209d99305&type=album", Новый Русский
 #EXTGRP:🎞️ КиноStream HD
@@ -1405,7 +1242,7 @@ https://fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
 https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-z/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="TV Series" tvg-logo="https://cdn.imgbin.com/8/6/24/imgbin-television-show-kodi-film-series-Q965sauX6xFnXRpmYEGEuEiG5.jpg", TV Series
 #EXTGRP:🎞️ КиноStream HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+
 rtmp://vkvsd258.okcdn.ru/playback/4212830514154?stkn=3-5AxYkRTClGxxwNYsB-PosDfNMu_Z8wVCxKPRiA5P1eG-dXv3IyUKjRPAmaGd92HY3VjEPNPE4&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1 tvg-name="Кинозал" tvg-logo="https://img.catcast.tv/uploads/01022025/logos/43750-679e05e11b30e.jpg", Кинозал
 #EXTGRP:🎞️ КиноStream HD
@@ -1529,7 +1366,7 @@ http://kinowalk.hopto.org/films_serials_24_7_live/_live
 http://kinowalk.hopto.org/video_prokat_live
 #EXTINF:-1 tvg-name="TimeToMovie" tvg-logo="https://images.live.vkplay.ru/user/18457965/avatar?change_time=1717150729&croped=1&mh=140&mw=140" group-title="🎞️ StreamFree No 24/7", TimeToMovie
 #EXTGRP:🎞️ Kinowalk Production
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+
 http://kinowalk.hopto.org/timetomovie_live
 #EXTINF:-1 tvg-name="TimeToHorror" tvg-logo="https://images.live.vkvideo.ru/user/18457974/avatar?change_time=1758279827&croped=1&mh=140&mw=140" group-title="🎞️ StreamFree No 24/7", TimeToHorror
 #EXTGRP:🎞️ Kinowalk Production
@@ -1587,7 +1424,7 @@ http://kinowalk.hopto.org/era_vhs_live
 http://kinowalk.hopto.org/kinoteka_full_hd_top_live
 #EXTINF:-1 tvg-name="KinoBar" tvg-logo="https://avatars.mds.yandex.net/i?id=92e18b465873421912a82a442a09fcd8_l-5522449-images-thumbs&n=13", KinoBar
 #EXTGRP:🎞️ КиноStream HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+
 rtmp://vkvsd267.okcdn.ru/playback/11865043512184?stkn=p0OaO5TQj0hmPh-enAH6jwik4eAW-hSWqeUavrF42cOWe1NwiqXtzfBm7xzkYNBMGpm9hvJiH37E&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/sp_vert_live8.jpg",НТВ Сериалы Скорая помощь
 #EXTGRP:🎞️ Смотрим НТВ
@@ -1621,75 +1458,75 @@ https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=nV
 https://bl.rutube.ru/livestream/e05401be60a9cc719fa7075b6e77b86d/index.m3u8?s=wbVW8VM26OpdW5kxFYEmSQ&e=2069694293&scheme=https
 #EXTINF:-1 tvg-name="Кино ВК" tvg-logo="https://smotret.tv/images/kino-vk.webp", Кино ВК
 #EXTGRP:🎞️ КиноStream HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+
 rtmp://vkvsd9.okcdn.ru/playback/11476322626375?stkn=MWURFX9GxWweqchHYWcYzhzufUF0fxJw12ejfhOPexR9h9Leff8anz9KAxHjfF4R9h4C5PfiYy8&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1 tvg-name="Кино ВК 2" tvg-logo="https://smotret.tv/images/kino-vk2.webp", Кино ВК 2
 #EXTGRP:🎞️ КиноStream HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+
 rtmp://vkvsd202.okcdn.ru/playback/10472252320626?stkn=55ZiY3uqOcLbjh8YLZ654EGxTQCPkjoczCP4KcuqIiVY4Xvydx7GLhpzKW3_9I0RZtVa3gKqHM4&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1 tvg-name="VK Кино и сериалы" tvg-logo="https://sun1-24.userapi.com/s/v1/ig2/2VJ4jMymoIzu-fda1TgQ3fCwUVKEnTHvc3WUWvdb26afxZP8XHvWp035AvuuBgv_ki7UnC0ATJUh3maPNklmLmEt.jpg?quality=95&crop=0,0,1280,1280&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280&ava=1&cs=480x480", VK Кино и сериалы
 #EXTGRP:🎞️ КиноStream HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+
 rtmp://vkvsd163.okcdn.ru/playback/12955145284352?stkn=6ch0LLXwWD0t6QW_q7NmQy3fxPoTdQt7CB_dXr_LEFueWUH8_kDzjDtZ9KMbMuhVr1UElvIN76k&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1 tvg-name="ZSMEDIA" tvg-logo="https://sun1-17.userapi.com/s/v1/ig2/lI9i11Ea1iGGrOrzoHgK0bkZyvUlZ_ovuVuJOkzOS0XbEg1GCpHd7PevbbGALYmvKNakI7vNhVm1RjbYV90k5JfZ.jpg?quality=95&crop=251,237,428,428&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&ava=1&cs=240x240", ZSMEDIA
 #EXTGRP:🎞️ КиноStream HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+
 rtmp://vkvsd251.okcdn.ru/playback/3193011317595?stkn=W9XLVL6g8_mjPFdboe8diHBt2f8QhTG-ACCM0hfYdhbiAMlXT-4FSgUAo6r7xkePFP-OEOkxPqY&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1 tvg-name="RsTV" tvg-logo="https://sun9-7.userapi.com/s/v1/ig2/n0dPWHjRtfF2gbNyCv0RMOjc6m7oIcN7HT-U1-qxDIEYgmJ5Db7xCjFVK1Y9rob1D4FVi5A62UAgYb_cX3lqN_2Y.jpg?quality=95&as=32x28,48x42,72x63,108x94,160x139,240x208,360x313,480x417,540x469,640x556,720x625,1018x884&from=bu&cs=1018x0", RsTV
 #EXTGRP:🎞️ КиноStream HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+
 rtmp://vkvsd177.okcdn.ru/playback/9784991296445?stkn=Bu11jviKqv8XV4jmbgsGRyXtfTi46qNmVpzNczQTttL_wt7OBO_B47D8PLo_bnF7hndvjB5NAuI&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1 tvg-name="ИТВ РК-ТВ" tvg-logo="https://sun1-47.userapi.com/s/v1/ig2/HzCcLowN_XT1ulsweI8HlHasCy8enxAMDmBUpCnlWz821riClzbbgorkYK29WIZOPIStBT1K8XenRCv1RBmTCde8.jpg?quality=95&crop=0,0,720,720&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&cs=540x540", ИТВ РК-ТВ
 #EXTGRP:🎞️ КиноStream HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+
 rtmp://vkvsd200.okcdn.ru/playback/9977142717416?stkn=DqeIp6c8c-J9J03Udx605MARw2DcPyQpTHkQ35mK69z3ZSnO65PU9KlUtPsbp8FMVkpfnUkGMvE&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1 tvg-name="Kino.Online" tvg-logo="https://sun1-85.userapi.com/s/v1/ig2/LTqGOjmooxX-zIsEGpr5HRHX12v21qmlpdUU5o1ObRgY4VV1GUUKn6ocmS6swtrYaq7aUNIuJ8Ots9SiyijGZ6C0.jpg?quality=95&crop=103,120,1000,1000&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&cs=540x540", Kino.Online
 #EXTGRP:🎞️ КиноStream HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+
 rtmp://vkvsd80.okcdn.ru/playback/11445095639945?stkn=isz4WXJ0c-P9MNBOKakZS1dQYkSmIEQX81ccorrT3ZqaCJiGkrCrrBEClpFFXVYJSlMjslcRhb0A&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1 tvg-name="САМ СЕБЕ РЕЖИССЁР" tvg-logo="https://i.mycdn.me/videoPreview?id=5431862102687&type=32&idx=1&tkn=BzCILmtKDvftxqxzq2vsv63OWrc&fn=external_8", САМ СЕБЕ РЕЖИССЁР
 #EXTGRP:🎞️ КиноStream HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+
 rtmp://vkvsd33.okcdn.ru/playback/11074022091636?stkn=y0J1cBqm48zbr_72vP9Wq3E2iZJw064SZ7JdIned1TGL9X7fVDWGi5fftZ-RUuNYzeX1HLiznCQQ&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1 tvg-name="K1n0man1a" tvg-logo="https://static.goodgame.ru/files/avatars/av_1639851_aMJG.jpg", K1n0man1a
 #EXTGRP:🎞️ КиноStream HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+
 rtmp://vkvsd176.okcdn.ru/playback/9060843400063?stkn=KV0WGPPXIBbOVVy6l6W5YU70Wrv6I9tZOa9CyCjyDUwntlSO4dtIt72cgu0M-sTWTi7PFHAQj8s&uid=0&sp=uid,sp&sig=vlibqm4nyu
 #EXTINF:-1 tvg-name="TV12 MAFI2A" tvg-logo="https://sun1-21.userapi.com/s/v1/ig2/_IxBD-pkhspVz0Q_hmPeTFMS1gGIjFloIUd-23emgWTa5zuxZPfGqsApZbKqJSEs2U3NSkppwIEnkTUrLFo5zB7V.jpg?quality=95&crop=0,0,400,400&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360&ava=1&cs=360x360", TV12 MAFI2A
 #EXTGRP:🎞️ КиноStream HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+
 rtmp://vkvsd9.okcdn.ru/playback/6258783562721?stkn=N3xfa3AL0s7vzNZiMgySPj-J8BmVghZEWO4c-mE2EBtYXjsEjNKovwO0KsBt3USZXsGsS0-SXUo&uid=0&sp=uid,sp&sig=vlibqm4nyu
 #EXTINF:-1 tvg-name="Фильмы и Сериалы" tvg-logo="https://logos.telegram-store.com/chats/kino-i-serials/telegram_logo.jpg", Фильмы и Сериалы
 #EXTGRP:🎞️ КиноStream HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+
 rtmp://vkvsd171.okcdn.ru/playback/11782676949969?stkn=tdttjWMTsSN64s_v7vN4H2hnLoNqeUjmRvlzhqty-Tau9nm0G8p55sOQW7SDlnk6p9KpR81JzEkD&uid=0&sp=uid,sp&sig=vlibqm4nyu
 #EXTINF:-1 tvg-name="Стрим Фильмы Онлайн" tvg-logo="https://sun1-98.userapi.com/s/v1/ig2/EySIcuzuDf0RoHIWBY3H7vgM98LjNA3g52aGuJTrOQTO-GU7pGvmiaQdXBuDPfxWfX2B1QcNlVItk-Wfkc_y5BuJ.jpg?quality=95&crop=656,0,1280,1280&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280&ava=1&cs=540x540", СФО (Стрим Фильмы Онлайн)
 #EXTGRP:🎞️ КиноStream HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+
 rtmp://vkvsd231.okcdn.ru/playback/11366163884923?stkn=FrNqhsD2sdVGCssyNiEHAipeGf8KUKJzCvbBuMrj-ijH_EEreJ_RxGxx1pLHM5sZajXkfxCW67Bv&uid=0&sp=uid,sp&sig=vlibqm4nyu
 #EXTINF:-1 tvg-name="VHS кино" tvg-logo="https://goodgame.ru/files/avatars/av_1643167_Q5gP.jpg", VHS кино
 #EXTGRP:🎞️ StreamFree No 24/7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+
 https://vsd249.okcdn.ru/hls/11433988131530.m3u8/sig/V6sUUijXpOQ/expires/1772082331165/srcIp/46.138.161.80/urls/185.226.53.52/clientType/36/srcAg/CHROME_YA/mid/12079534065610/11433988131530_fullhd/index.m3u8
 #EXTINF:-1 tvg-name="Devil TV" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-devil-tv.jpg?itok=V8J470B7" group-title="🎞️ StreamFree No 24/7", Devil TV
 #EXTGRP:🎞️ StreamFree No 24/7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+
 https://vsd129.okcdn.ru/hls/4129979632256.m3u8/sig/GZdu4dHI5XY/expires/1772082777701/srcIp/46.138.161.80/urls/45.136.21.44/clientType/0/srcAg/CHROME_YA/mid/4929588829824/video.m3u8?p
 #EXTINF:-1 tvg-name="МОЖи" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/a813613e-dd35-43ec-8a85-208a53d62546-profile_image-70x70.png", МОЖи
 #EXTGRP:🎞️ StreamFree No 24/7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+
 https://vsd173.okcdn.ru/hls/5565406644844.m3u8/sig/HDcKB2PKoWc/expires/1772082838242/srcIp/46.138.161.80/urls/45.136.22.57/clientType/0/srcAg/CHROME_YA/mid/7133972668012/video.m3u8?p
 #EXTINF:-1 tvg-name="Экран СССР ТВ" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-ekran-sssr-tv_0.jpg?itok=QQC7_Z3M" group-title="🎞️ StreamFree No 24/7", Экран СССР ТВ
 #EXTGRP:🎞️ StreamFree No 24/7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+
 https://vsd183.okcdn.ru/hls/7904690309811_offset_p.m3u8/sig/4ukDxbyjuas/expires/1772082894925/srcIp/46.138.161.80/urls/185.226.52.64/clientType/0/srcAg/CHROME_YA/mid/9273686236851/video.m3u8?p
 #EXTINF:-1 tvg-name="Kino tv" tvg-logo="https://avatars.mds.yandex.net/i?id=8a40401a1225700e6e3b1191c671ca63_l-12421615-images-thumbs&n=13" group-title="🎞️ StreamFree No 24/7", Kino tv
 #EXTGRP:🎞️ StreamFree No 24/7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+
 https://vsd268.okcdn.ru/hls/11693508135494.m3u8/sig/sMQNjx9XIZY/expires/1772082391745/srcIp/46.138.161.80/urls/185.226.55.120/clientType/36/srcAg/CHROME_YA/mid/12113582573382/11693508135494_fullhd/index.m3u8
 #EXTINF:-1 tvg-name="ЕСТЬ-СТРИМ" tvg-logo="https://images.live.vkvideo.ru/user/19192529/avatar?change_time=1760441532&croped=1&mh=140&mw=140" group-title="🎞️ StreamFree No 24/7", ЕСТЬ-СТРИМ
 #EXTGRP:🎞️ StreamFree No 24/7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+
 https://vsd245.okcdn.ru/hls/11559038421577.m3u8/sig/edAW0kidp_8/expires/1772082433517/srcIp/46.138.161.80/urls/185.226.53.96/clientType/36/srcAg/CHROME_YA/mid/12011112056649/11559038421577_fullhd/index.m3u8
 #EXTINF:-1 tvg-name="Kin0ZALL" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/0e6bc225-2783-4ba8-a24e-57cf5f40bc87-profile_image-70x70.png" group-title="🎞️ StreamFree No 24/7", Kin0ZALL
 #EXTGRP:🎞️ StreamFree No 24/7
@@ -1697,27 +1534,27 @@ https://vsd245.okcdn.ru/hls/11559038421577.m3u8/sig/edAW0kidp_8/expires/17720824
 https://liveplay.trovo.live/live/73846_116058117_116058117.flv?bizid=73846&txSecret=5018db03ac0508edf13f9aa18bb6d2eb&txTime=695e209d&_bmlj_t=ChxMeU5LQWdrTzBqNGdCZExCdjR2elNUcGIwTDg9EiRlYTNkYTA4MC0wOTJlLTQzMjUtOTU1My1jM2QyMTkwZmUxNGUaHjExNjA1ODExN18xMTYwNTgxMTdfMTc2NzE3MTYxMyCT19TKBiiP%2BMQ3Mhk3Mzg0Nl8xMTYwNTgxMTdfMTE2MDU4MTE3Qg00Ni4xMzguMTQ4LjgyShtsaXZlLXJlYWRlci1zdnJfR2V0TGl2ZUluZm9QBGACehI4ODUwMTI2ODQ4MjUxMjIzMTmQAQQ%3D&playScene=innerSite&pvid=885012684825122319&_f_=1767189399211
 #EXTINF:-1 tvg-name="MTV Cinematic" tvg-logo="https://avatars.mds.yandex.net/i?id=9b0d9cd32bd468a95663e5941b887569_sr-10473632-images-thumbs&n=13" group-title="🎞️ StreamFree No 24/7", MTV Cinematic
 #EXTGRP:🎞️ StreamFree No 24/7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+
 https://vsd241.okcdn.ru/hls/11474980375158.m3u8/sig/YtnqI4tn4sU/expires/1772082490585/srcIp/46.138.161.80/urls/185.226.52.66/clientType/36/srcAg/CHROME_YA/mid/11982919190390/11474980375158_fullhd/index.m3u8
 #EXTINF:-1 tvg-name="GUWi_TV" tvg-logo="https://images.live.vkvideo.ru/user/20603935/avatar?change_time=1743287172&croped=1&mh=140&mw=140" group-title="🎞️ StreamFree No 24/7", GUWi_TV
 #EXTGRP:🎞️ StreamFree No 24/7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+
 https://vsd204.okcdn.ru/hls/11416111483438.m3u8/sig/9qtU-_K1O7g/expires/1772082530230/srcIp/46.138.161.80/urls/185.226.53.95/clientType/36/srcAg/CHROME_YA/mid/12317271279406/11416111483438_fullhd/index.m3u8
 #EXTINF:-1 tvg-name="ALEX GHOST_TV" tvg-logo="https://headicon.trovo.live/user/k5gv6bqaaaaab24ju5v765wjcy.jpeg" group-title="🎞️ StreamFree No 24/7", ALEX GHOST_TV
 #EXTGRP:🎞️ StreamFree No 24/7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+
 https://vsd78.okcdn.ru/hls/11619002944234.m3u8/sig/Coi0pv82J_A/expires/1772082654237/srcIp/46.138.161.80/urls/185.226.55.78/clientType/36/srcAg/CHROME_YA/mid/12642734721002/11619002944234_high/index.m3u8
 #EXTINF:-1 tvg-name="Fks_Films" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/f1eb6551-6c05-4bd6-a052-52531dd3c66d-profile_image-70x70.png", Fks_Films
 #EXTGRP:🎞️ StreamFree No 24/7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+
 https://vsd158.okcdn.ru/hls/11561533442795.m3u8/sig/jMwnJ9HPKTU/expires/1772082596129/srcIp/46.138.161.80/urls/185.226.55.118/clientType/36/srcAg/CHROME_YA/mid/11987471386603/11561533442795_high/index.m3u8
 #EXTINF:-1 tvg-name="Произвольный стрим" tvg-logo="https://avatars.mds.yandex.net/i?id=1bd3279030bc6fd4184c99c1bda7ae63_l-5896712-images-thumbs&n=13", Произвольный стрим
 #EXTGRP:🎞️ StreamFree No 24/7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+
 https://vsd130.okcdn.ru/hls/11520803211829.m3u8/sig/EMg-UTkxz34/expires/1772082733082/srcIp/46.138.161.80/urls/185.226.52.66/clientType/36/srcAg/CHROME_YA/mid/12274170152757/11520803211829_high/index.m3u8
 #EXTINF:-1 tvg-name="Паранормальный архив" tvg-logo="https://i.postimg.cc/Gm4xYzXW/paranorm.png", Паранормальный архив
 #EXTGRP:🎞️ StreamFree No 24/7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
+
 https://vkvsd18.okcdn.ru/hls/11731879398051.m3u8/sig/EWq9cJ6g7r0/expires/1772034090160/srcIp/128.70.140.198/urls/185.226.55.73/clientType/13/srcAg/CHROME_YA/mid/12658228013987/11731879398051_fullhd/index.m3u8
 
 #EXTINF:-1 tvg-name="Rambojanski" tvg-logo="https://files.kick.com/images/user/89446546/profile_image/conversion/9b8f3eec-01a3-4f49-bb8b-6d66d3004cdc-fullsize.webp", Rambojanski
