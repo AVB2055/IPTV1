@@ -548,7 +548,6 @@ http://kinowalk.hopto.org/childhood_cartoons_live
 #EXTGRP:🎞️Детские
 http://kinowalk.hopto.org/foxkids_remastered_live
 
-
 #EXTINF:-1,80s
 #EXTGRP:🎞️Фильмы&Сериалы
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13002/index.m3u8
@@ -745,10 +744,6 @@ https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1,НТВ Сериалы Пять минут тишины
 #EXTGRP:🎞️ Смотрим&НТВ
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
-
-
-
-
 
 #EXTINF:-1,Viju+ Megahit
 #EXTGRP:🎞️Кинозалы от TELLURI
@@ -995,6 +990,43 @@ http://kinowalk.hopto.org/perviryad_live
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/toxa_stream_live
 
+#EXTINF:-1,alpha Cinema
+#EXTGRP:🎞️КиноStream
+https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb_output_0.m3u8?session=W2y6fJk87CThRKzDw8KxVh
+#EXTINF:-1,alpha MoreTime
+#EXTGRP:🎞️КиноStream
+https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd_output_0.m3u8?session=4AoZN7Rxw59jYpjVBmY4th
+#EXTINF:-1,NSC
+#EXTGRP:🎞️КиноStream
+https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210_output_0.m3u8?session=bomhMGCHEtND9D3hX7kb4M
+#EXTINF:-1,TvBoom.ViP
+#EXTGRP:🎞️КиноStream
+https://kb.catcast.tv/content/49702/index.m3u8
+#EXTINF:-1,Новый Русский
+#EXTGRP:🎞️КиноStream
+https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1_output_0.m3u8?session=U3YFrmmaaXDngd96fHTti7
+#EXTINF:-1,Видеокассета VHS
+#EXTGRP:🎞️КиноStream
+https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/playlist.m3u8
+#EXTINF:-1,ЗОВ ТВ
+#EXTGRP:🎞️КиноStream
+https://live20.bozztv.com/giatv/giatv-tvzovlivestream/tvzovlivestream/chunks.m3u8
+#EXTINF:-1,ЗОВ ТВ Black
+#EXTGRP:🎞️КиноStream
+https://live20.bozztv.com/giatv/giatv-tvzovBlackstream/tvzovBlackstream/chunks.m3u8
+#EXTINF:-1,ЗОВ ТВ RED
+#EXTGRP:🎞️КиноStream
+https://live20.bozztv.com/giatv/giatv-tvzov%20RED/tvzov%20RED/chunks.m3u8
+#EXTINF:-1,Кинозал
+#EXTGRP:🎞️КиноStream
+http://185.57.68.33:8091/237/playlist.m3u8
+#EXTINF:-1,Кинолаффка
+#EXTGRP:🎞️КиноStream
+https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=SHsCMnRorfwMcPrJz9yoGg&e=2070104027&scheme=https
+#EXTINF:-1,Киножелезо
+#EXTGRP:🎞️КиноStream
+https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=nVulkthwHvONsThcR6A38A&e=2070104121&scheme=https
+
 #EXTINF:-1,Сити Эдем - КиноМистика
 #EXTGRP:🎞️Сити Эдем
 https://cityeden.catcast.tv/content/40783/index.m3u8?token=4553db048605eecf46c822b88833ce1d
@@ -1034,43 +1066,6 @@ https://cityeden.catcast.tv/content/34246/index.m3u8?token=303bceb019d7b28644dd0
 #EXTINF:-1,Сити Эдем - Рождественский
 #EXTGRP:🎞️Сити Эдем
 https://cityeden.catcast.tv/content/46503/index.m3u8?token=
-
-#EXTINF:-1,alpha Cinema
-#EXTGRP:🎞️КиноStream
-https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb_output_0.m3u8?session=W2y6fJk87CThRKzDw8KxVh
-#EXTINF:-1,alpha MoreTime
-#EXTGRP:🎞️КиноStream
-https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd_output_0.m3u8?session=4AoZN7Rxw59jYpjVBmY4th
-#EXTINF:-1,NSC
-#EXTGRP:🎞️КиноStream
-https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210_output_0.m3u8?session=bomhMGCHEtND9D3hX7kb4M
-#EXTINF:-1,TvBoom.ViP
-#EXTGRP:🎞️КиноStream
-https://kb.catcast.tv/content/49702/index.m3u8
-#EXTINF:-1,Новый Русский
-#EXTGRP:🎞️КиноStream
-https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1_output_0.m3u8?session=U3YFrmmaaXDngd96fHTti7
-#EXTINF:-1,Видеокассета VHS
-#EXTGRP:🎞️КиноStream
-https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/playlist.m3u8
-#EXTINF:-1,ЗОВ ТВ
-#EXTGRP:🎞️КиноStream
-https://live20.bozztv.com/giatv/giatv-tvzovlivestream/tvzovlivestream/chunks.m3u8
-#EXTINF:-1,ЗОВ ТВ Black
-#EXTGRP:🎞️КиноStream
-https://live20.bozztv.com/giatv/giatv-tvzovBlackstream/tvzovBlackstream/chunks.m3u8
-#EXTINF:-1,ЗОВ ТВ RED
-#EXTGRP:🎞️КиноStream
-https://live20.bozztv.com/giatv/giatv-tvzov%20RED/tvzov%20RED/chunks.m3u8
-#EXTINF:-1,Кинозал
-#EXTGRP:🎞️КиноStream
-http://185.57.68.33:8091/237/playlist.m3u8
-#EXTINF:-1,Кинолаффка
-#EXTGRP:🎞️КиноStream
-https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=SHsCMnRorfwMcPrJz9yoGg&e=2070104027&scheme=https
-#EXTINF:-1,Киножелезо
-#EXTGRP:🎞️КиноStream
-https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=nVulkthwHvONsThcR6A38A&e=2070104121&scheme=https
 
 
 
