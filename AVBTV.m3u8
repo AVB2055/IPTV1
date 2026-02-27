@@ -984,86 +984,83 @@ https://cityeden.catcast.tv/content/41333/index.m3u8?token=474cd86e39467c9dfaa93
 🎞️КиноStream
 https://cityeden.catcast.tv/content/41327/index.m3u8?token=b4165148a2a733cb7ed075023297d583
 #EXTINF:-1,Сити Эдем - КиноКлассика
-🎞️КиноStream
+#EXTGRP:🎞️КиноStream
 https://cityeden.catcast.tv/content/34185/index.m3u8?token=eedcbaef9723990f462ed5ec343de5ca
 #EXTINF:-1,Сити Эдем - КиноАрт
-🎞️КиноStream
+#EXTGRP:🎞️КиноStream
 https://cityeden.catcast.tv/content/38398/index.m3u8?token=8bf1c1fd44f97f9b58fab4a266a4567e
 #EXTINF:-1,Сити Эдем - КиноФантастика
-🎞️КиноStream
+#EXTGRP:🎞️КиноStream
 https://cityeden.catcast.tv/content/45268/index.m3u8?token=83cbe0179bd863b7c1acb9894d7c7ba6
 #EXTINF:-1,Сити Эдем - КиноДрама
-🎞️КиноStream
+#EXTGRP:🎞️КиноStream
 https://cityeden.catcast.tv/content/45269/index.m3u8?token=28470f31cea5990d1be54eb04a48514a
 #EXTINF:-1,Сити Эдем ТВ
-🎞️КиноStream
+#EXTGRP:🎞️КиноStream
 https://cityeden.catcast.tv/content/34246/index.m3u8?token=303bceb019d7b28644dd0682a2f5ce8f
 #EXTINF:-1,Сити Эдем - Рождественский
-🎞️КиноStream
+#EXTGRP:🎞️КиноStream
 https://cityeden.catcast.tv/content/46503/index.m3u8?token=
 #EXTINF:-1,IPTVPLAY ВЕДЬМАК
-🎞️КиноStream
+#EXTGRP:🎞️КиноStream
 http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1,IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО
-🎞️КиноStream
+#EXTGRP:🎞️КиноStream
 http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1,IPTVPLAY ИНТЕРНЫ
-🎞️КиноStream
+#EXTGRP:🎞️КиноStream
 http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1,IPTVPLAY ФАНТАСТИКА
-🎞️КиноStream
+#EXTGRP:🎞️КиноStream
 http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1,IPTVPLAY ПАМЯТЬ
-🎞️КиноStream
+#EXTGRP:🎞️КиноStream
 http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1,IPTVPLAY УЖАСТИК
-🎞️КиноStream
+#EXTGRP:🎞️КиноStream
 http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1,IPTVPLAY Великая Отечественная HD
-🎞️КиноStream
+#EXTGRP:🎞️КиноStream
 http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1,IPTVPLAY TEST HD
-🎞️КиноStream
+#EXTGRP:🎞️КиноStream
 http://5.188.158.65:4040/IPTVPLAYTEST.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1,alpha Cinema
-🎞️КиноStream
+#EXTGRP:🎞️КиноStream
 https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb_output_0.m3u8?session=W2y6fJk87CThRKzDw8KxVh
 #EXTINF:-1,alpha MoreTime
-🎞️КиноStream
+#EXTGRP:🎞️КиноStream
 https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd_output_0.m3u8?session=4AoZN7Rxw59jYpjVBmY4th
 #EXTINF:-1,NSC
-🎞️КиноStream
+#EXTGRP:🎞️КиноStream
 https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210_output_0.m3u8?session=bomhMGCHEtND9D3hX7kb4M
 #EXTINF:-1,TvBoom.ViP
-🎞️КиноStream
+#EXTGRP:🎞️КиноStream
 https://kb.catcast.tv/content/49702/index.m3u8
 #EXTINF:-1,Новый Русский
-🎞️КиноStream
+#EXTGRP:🎞️КиноStream
 https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1_output_0.m3u8?session=U3YFrmmaaXDngd96fHTti7
 #EXTINF:-1,Видеокассета VHS
-🎞️КиноStream
+#EXTGRP:🎞️КиноStream
 https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/playlist.m3u8
 #EXTINF:-1,ЗОВ ТВ
-🎞️КиноStream
+#EXTGRP:🎞️КиноStream
 https://live20.bozztv.com/giatv/giatv-tvzovlivestream/tvzovlivestream/chunks.m3u8
 #EXTINF:-1,ЗОВ ТВ Black
-🎞️КиноStream
+#EXTGRP:🎞️КиноStream
 https://live20.bozztv.com/giatv/giatv-tvzovBlackstream/tvzovBlackstream/chunks.m3u8
 #EXTINF:-1,Кинозал
-🎞️КиноStream
+#EXTGRP:🎞️КиноStream
 http://185.57.68.33:8091/237/playlist.m3u8
 #EXTINF:-1,Кинолаффка
-🎞️КиноStream
+#EXTGRP:🎞️КиноStream
 https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=SHsCMnRorfwMcPrJz9yoGg&e=2070104027&scheme=https
 #EXTINF:-1,Киножелезо
-🎞️КиноStream
+#EXTGRP:🎞️КиноStream
 https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=nVulkthwHvONsThcR6A38A&e=2070104121&scheme=https
 #EXTINF:-1,LAV-KINO
-🎞️КиноStream
+#EXTGRP:🎞️КиноStream
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
-#EXTINF:-1,12345
-#EXTGRP:🎞️КиноStream HD
-rtmp://vkvsd177.okcdn.ru/playback/9784991296445?stkn=Bu11jviKqv8XV4jmbgsGRyXtfTi46qNmVpzNczQTttL_wt7OBO_B47D8PLo_bnF7hndvjB5NAuI&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 
 #EXTINF:-1,Baragozz_TV
 #EXTGRP:🎞️ StreamFree No 24/7
@@ -1098,6 +1095,7 @@ http://kinowalk.hopto.org/perviryad_live
 #EXTINF:-1,Тоха Стрим
 #EXTGRP:🎞️ StreamFree No 24/7
 http://kinowalk.hopto.org/toxa_stream_live
+
 
 
 
