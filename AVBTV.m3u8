@@ -1042,9 +1042,6 @@ https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd_output_0.m3u
 #EXTINF:-1,NSC
 #EXTGRP:🎞️ КиноStream HD
 https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210_output_0.m3u8?session=bomhMGCHEtND9D3hX7kb4M
-#EXTINF:-1,FantasticMistyc(check)
-#EXTGRP:🎞️ КиноStream HD
-rtmp://vkvsd69.okcdn.ru/playback/3780958366657?stkn=QkbWCnARWe2BdgDd2ZlIsACtDwpqkYXvX5avvzYaOvFMLx0UvcPKLeTbLVWs99SwkzSDsjYLt-I&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1,Новый Русский
 #EXTGRP:🎞️ КиноStream HD
 https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1_output_0.m3u8?session=U3YFrmmaaXDngd96fHTti7
@@ -1209,9 +1206,7 @@ http://kinowalk.hopto.org/perviryad_live
 #EXTINF:-1,Тоха Стрим
 #EXTGRP:🎞️ StreamFree No 24/7
 http://kinowalk.hopto.org/toxa_stream_live
-#EXTINF:-1,Произвольный стрим (check)
-#EXTGRP:🎞️ StreamFree No 24/7
-https://vsd130.okcdn.ru/hls/11520803211829.m3u8/sig/EMg-UTkxz34/expires/1772082733082/srcIp/46.138.161.80/urls/185.226.52.66/clientType/36/srcAg/CHROME_YA/mid/12274170152757/11520803211829_high/index.m3u8
+
 
 
 
