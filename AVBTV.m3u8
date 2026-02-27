@@ -527,25 +527,25 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTGRP:🎞️Детские
 https://live.jtx-online.ru/memfs/e30ea533-4abf-4a88-91bc-73744ecfd06f.m3u8
 #EXTINF:-1,Ключайка (МультStream)
-#EXTGRP:🎞️ Детские
+#EXTGRP:🎞️Детские
 https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=8hKIWF5Ng40B0-kW7qvWBA&e=2070122249&scheme=https
 #EXTINF:-1,IPTVPLAY МультСказки HD (МультStream)
-#EXTGRP:🎞️ Детские
+#EXTGRP:🎞️Детские
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1,Мультимания (МультStream)
-#EXTGRP:🎞️ Детские
+#EXTGRP:🎞️Детские
 http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Пингвин Лоло (МультStream)
-#EXTGRP:🎞️ Детские
+#EXTGRP:🎞️Детские
 http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Мамонтёнок ТВ (МультStream)
-#EXTGRP:🎞️ Детские
+#EXTGRP:🎞️Детские
 http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Мультфильмы нашего детства (МультStream)
-#EXTGRP:🎞️ Детские
+#EXTGRP:🎞️Детские
 http://kinowalk.hopto.org/childhood_cartoons_live
 #EXTINF:-1,FoxKids-Remastered (МультStream)
-#EXTGRP:🎞️ Детские
+#EXTGRP:🎞️Детские
 http://kinowalk.hopto.org/foxkids_remastered_live
 
 
@@ -823,6 +823,22 @@ https://telluri.ru/video/tr-and/335.m3u8
 #EXTGRP:🎞️Кинозалы от TELLURI
 https://telluri.ru/video/cog-dl/2065.m3u8
 
+#EXTINF:-1,Сити Эдем - КиноМистика
+#EXTGRP:🎞️Сити Эдем
+https://cityeden.catcast.tv/content/40783/index.m3u8?token=4553db048605eecf46c822b88833ce1d
+#EXTINF:-1,Сити Эдем - КиноКомедия
+#EXTGRP:🎞️Сити Эдем
+https://cityeden.catcast.tv/content/41331/index.m3u8?token=8f96495eee510a33fb3017982ce61eac
+#EXTINF:-1,Сити Эдем - КиноСемья
+#EXTGRP:🎞️Сити Эдем
+https://autopilot.catcast.tv/content/38128/index.m3u8?token=2c25bdb20383b2533f44f6073ddfa2b6
+#EXTINF:-1,Сити Эдем - КиноАзия
+#EXTGRP:🎞️Сити Эдем
+https://cityeden.catcast.tv/content/34393/index.m3u8?token=dbf2611bd4f1aab379cb289c3e79d512
+#EXTINF:-1,Сити Эдем - ТелеНовелла
+#EXTGRP:🎞️Сити Эдем
+https://cityeden.catcast.tv/content/46209/index.m3u8?token=085e0f93cd0d35977e08d1135585c6f5
+
 #EXTINF:-1,Kinowalk_tv
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/kinowalk_live
@@ -963,196 +979,67 @@ http://kinowalk.hopto.org/era_vhs_live
 http://kinowalk.hopto.org/kinoteka_full_hd_top_live
 
 
-#EXTINF:-1,Сити Эдем - КиноЭкшен
-#EXTGRP:🎞️ КиноStream HD
+#EXTINF:-1,Сити Эдем - КиноЭкшенКиноStream
 https://cityeden.catcast.tv/content/41333/index.m3u8?token=474cd86e39467c9dfaa93e4e49f4be69
-#EXTINF:-1,Сити Эдем - КиноДетектив
-#EXTGRP:🎞️ КиноStream HD
+#EXTINF:-1,Сити Эдем - КиноДетективКиноStream
 https://cityeden.catcast.tv/content/41327/index.m3u8?token=b4165148a2a733cb7ed075023297d583
-#EXTINF:-1,Сити Эдем - КиноКлассика
-#EXTGRP:🎞️ КиноStream HD
+#EXTINF:-1,Сити Эдем - КиноКлассикаКиноStream
 https://cityeden.catcast.tv/content/34185/index.m3u8?token=eedcbaef9723990f462ed5ec343de5ca
-#EXTINF:-1,Сити Эдем - КиноАрт
-#EXTGRP:🎞️ КиноStream HD
+#EXTINF:-1,Сити Эдем - КиноАртКиноStream
 https://cityeden.catcast.tv/content/38398/index.m3u8?token=8bf1c1fd44f97f9b58fab4a266a4567e
-#EXTINF:-1,Сити Эдем - КиноФантастика
-#EXTGRP:🎞️ КиноStream HD
+#EXTINF:-1,Сити Эдем - КиноФантастикаКиноStream
 https://cityeden.catcast.tv/content/45268/index.m3u8?token=83cbe0179bd863b7c1acb9894d7c7ba6
-#EXTINF:-1,Сити Эдем - КиноДрама
-#EXTGRP:🎞️ КиноStream HD
+#EXTINF:-1,Сити Эдем - КиноДрамаКиноStream
 https://cityeden.catcast.tv/content/45269/index.m3u8?token=28470f31cea5990d1be54eb04a48514a
-#EXTINF:-1,Сити Эдем ТВ
-#EXTGRP:🎞️ КиноStream HD
+#EXTINF:-1,Сити Эдем ТВКиноStream
 https://cityeden.catcast.tv/content/34246/index.m3u8?token=303bceb019d7b28644dd0682a2f5ce8f
-#EXTINF:-1,Сити Эдем - Рождественский
-#EXTGRP:🎞️ КиноStream HD
+#EXTINF:-1,Сити Эдем - РождественскийКиноStream
 https://cityeden.catcast.tv/content/46503/index.m3u8?token=
-#EXTINF:-1,TvBoom.ViP
-#EXTGRP:🎞️ КиноStream HD
+#EXTINF:-1,TvBoom.ViPКиноStream
 https://kb.catcast.tv/content/49702/index.m3u8
-#EXTINF:-1,IPTVPLAY ВЕДЬМАК
-#EXTGRP:🎞️ КиноStream HD
+#EXTINF:-1,IPTVPLAY ВЕДЬМАККиноStream
 http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1,IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО
-#EXTGRP:🎞️ КиноStream HD
+#EXTINF:-1,IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВОКиноStream
 http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1,IPTVPLAY ИНТЕРНЫ
-#EXTGRP:🎞️ КиноStream HD
+#EXTINF:-1,IPTVPLAY ИНТЕРНЫКиноStream
 http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1,IPTVPLAY ФАНТАСТИКА
-#EXTGRP:🎞️ КиноStream HD
+#EXTINF:-1,IPTVPLAY ФАНТАСТИКАКиноStream
 http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1,IPTVPLAY ПАМЯТЬ
-#EXTGRP:🎞️ КиноStream HD
+#EXTINF:-1,IPTVPLAY ПАМЯТЬКиноStream
 http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1,IPTVPLAY УЖАСТИК
-#EXTGRP:🎞️ КиноStream HD
+#EXTINF:-1,IPTVPLAY УЖАСТИККиноStream
 http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1,IPTVPLAY Великая Отечественная HD
-#EXTGRP:🎞️ КиноStream HD
+#EXTINF:-1,IPTVPLAY Великая Отечественная HDКиноStream
 http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1,IPTVPLAY TEST HD
-#EXTGRP:🎞️ КиноStream HD
+#EXTINF:-1,IPTVPLAY TEST HDКиноStream
 http://5.188.158.65:4040/IPTVPLAYTEST.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1,alpha Cinema
-#EXTGRP:🎞️ КиноStream HD
+#EXTINF:-1,alpha CinemaКиноStream
 https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb_output_0.m3u8?session=W2y6fJk87CThRKzDw8KxVh
-#EXTINF:-1,alpha MoreTime
-#EXTGRP:🎞️ КиноStream HD
+#EXTINF:-1,alpha MoreTimeКиноStream
 https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd_output_0.m3u8?session=4AoZN7Rxw59jYpjVBmY4th
-#EXTINF:-1,NSC
-#EXTGRP:🎞️ КиноStream HD
+#EXTINF:-1,NSCКиноStream
 https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210_output_0.m3u8?session=bomhMGCHEtND9D3hX7kb4M
-#EXTINF:-1,Новый Русский
-#EXTGRP:🎞️ КиноStream HD
+#EXTINF:-1,Новый РусскийКиноStream
 https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1_output_0.m3u8?session=U3YFrmmaaXDngd96fHTti7
-#EXTINF:-1,Видеокассета VHS
-#EXTGRP:🎞️ КиноStream HD
+#EXTINF:-1,Видеокассета VHSКиноStream
 https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/playlist.m3u8
-#EXTINF:-1,ЗОВ ТВ
-#EXTGRP:🎞️ КиноStream HD
+#EXTINF:-1,ЗОВ ТВКиноStream
 https://live20.bozztv.com/giatv/giatv-tvzovlivestream/tvzovlivestream/chunks.m3u8
-#EXTINF:-1,ЗОВ ТВ Black
-#EXTGRP:🎞️ КиноStream HD
+#EXTINF:-1,ЗОВ ТВ BlackКиноStream
 https://live20.bozztv.com/giatv/giatv-tvzovBlackstream/tvzovBlackstream/chunks.m3u8
-#EXTINF:-1,ЗОВ ТВ RED
-#EXTGRP:🎞️ КиноStream HD
+#EXTINF:-1,ЗОВ ТВ REDКиноStream
 https://live20.bozztv.com/giatv/giatv-tvzov%20RED/tvzov%20RED/chunks.m3u8
-#EXTINF:-1,Кинозал
-#EXTGRP:🎞️ КиноStream HD
+#EXTINF:-1,КинозалКиноStream
 http://185.57.68.33:8091/237/playlist.m3u8
-#EXTINF:-1,Кинолаффка
-#EXTGRP:🎞️ КиноStream HD
+#EXTINF:-1,КинолаффкаКиноStream
 https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=SHsCMnRorfwMcPrJz9yoGg&e=2070104027&scheme=https
-#EXTINF:-1,Киножелезо
-#EXTGRP:🎞️ КиноStream HD
+#EXTINF:-1,КиножелезоКиноStream
 https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=nVulkthwHvONsThcR6A38A&e=2070104121&scheme=https
 #EXTINF:-1,Детективы КД
-#EXTGRP:🎞️ КиноStream HD
-https://bl.rutube.ru/livestream/e05401be60a9cc719fa7075b6e77b86d/index.m3u8?s=wbVW8VM26OpdW5kxFYEmSQ&e=2069694293&scheme=https
-#EXTGRP:🎞️ КиноStream HD
+#EXTINF:-1,НазваниеКиноStream
 rtmp://vkvsd177.okcdn.ru/playback/9784991296445?stkn=Bu11jviKqv8XV4jmbgsGRyXtfTi46qNmVpzNczQTttL_wt7OBO_B47D8PLo_bnF7hndvjB5NAuI&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-
-#EXTINF:-1,Сити Эдем - КиноМистика
-#EXTGRP:🎞️ КиноStream SD
-https://cityeden.catcast.tv/content/40783/index.m3u8?token=4553db048605eecf46c822b88833ce1d
-#EXTINF:-1,Сити Эдем - КиноКомедия
-#EXTGRP:🎞️ КиноStream SD
-https://cityeden.catcast.tv/content/41331/index.m3u8?token=8f96495eee510a33fb3017982ce61eac
-#EXTINF:-1,Сити Эдем - КиноСемья
-#EXTGRP:🎞️ КиноStream SD
-https://autopilot.catcast.tv/content/38128/index.m3u8?token=2c25bdb20383b2533f44f6073ddfa2b6
-#EXTINF:-1,Сити Эдем - КиноАзия
-#EXTGRP:🎞️ КиноStream SD
-https://cityeden.catcast.tv/content/34393/index.m3u8?token=dbf2611bd4f1aab379cb289c3e79d512
-#EXTINF:-1,Сити Эдем - ТелеНовелла
-#EXTGRP:🎞️ КиноStream SD
-https://cityeden.catcast.tv/content/46209/index.m3u8?token=085e0f93cd0d35977e08d1135585c6f5
-#EXTINF:-1,MGM HD
-#EXTGRP:🎞️ КиноStream SD
-https://v2.catcast.tv/content/50354/index.m3u8
-#EXTINF:-1,Кино 1 International
-#EXTGRP:🎞️ КиноStream SD
-https://kino-1.catcast.tv/content/38617/index.m3u8?token=0ee1b810cb70fabf816a92c7fbac144a
-#EXTINF:-1,LAYM GOLD TV
-#EXTGRP:🎞️ КиноStream SD
-https://v2.catcast.tv/content/40546/index.m3u8?token=eba599f2781487a851f7bc302bf05f0c
-#EXTINF:-1,Mr. Bean
-#EXTGRP:🎞️ КиноStream SD
-https://fl1003.bozztv.com/ushba45/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Шоу Бенни Хилла
-#EXTGRP:🎞️ КиноStream SD
-https://fl1001.bozztv.com/ushba62/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Rvision Movies
-#EXTGRP:🎞️ КиноStream SD
-https://fl1003.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Rvision Кинопанорама
-#EXTGRP:🎞️ КиноStream SD
-https://fl1003.bozztv.com/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
-#EXTINF:-1,FilmON
-#EXTGRP:🎞️ КиноStream SD
-https://stream.ushba.tv/akamaiushba/ushba64/tracks-v1a1/mono.m3u8
-#EXTINF:-1,FilmOFF
-#EXTGRP:🎞️ КиноStream SD
-https://stream.ushba.tv/akamaiushba/ushba65/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Logovo Films
-#EXTGRP:🎞️ КиноStream SD
-https://stream.ushba.tv/akamaiushba/ushba-films-a/tracks-v1a1/mono.m3u8
-#EXTINF:-1,К-ПОКАЗ
-#EXTGRP:🎞️ КиноStream SD
-https://stream.ushba.tv/akamaiushba/ushba-films-qr/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кинорейс
-#EXTGRP:🎞️ КиноStream SD
-https://stream.ushba.tv/akamaiushba/ushba82/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Film Visit
-#EXTGRP:🎞️ КиноStream SD
-https://fl1003.bozztv.com/ushba-films-l/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Film Zone
-#EXTGRP:🎞️ КиноStream SD
-https://fl1001.bozztv.com/ushba-films-g/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Globus TV
-#EXTGRP:🎞️ КиноStream SD
-https://fl1001.bozztv.com/ushba-films-b/tracks-v1a1/mono.m3u8
-#EXTINF:-1,LentaKino
-#EXTGRP:🎞️ КиноStream SD
-https://fl1001.bozztv.com/ushba-films-w/tracks-v1a1/mono.m3u8
-#EXTINF:-1,KinoMag
-#EXTGRP:🎞️ КиноStream SD
-https://fl1001.bozztv.com/ushba-films-t/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Cinemator
-#EXTGRP:🎞️ КиноStream SD
-https://fl1003.bozztv.com/ushba-films-p/tracks-v1a1/mono.m3u8
-#EXTINF:-1,KinoFilm
-#EXTGRP:🎞️ КиноStream SD
-https://fl1001.bozztv.com/ushba-films-m/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sinema 360
-#EXTGRP:🎞️ КиноStream SD
-https://fl1001.bozztv.com/ushba-films-f/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SSAFilm
-#EXTGRP:🎞️ КиноStream SD
-https://fl1003.bozztv.com/ushba-films-c/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Popcorn Theatre
-#EXTGRP:🎞️ КиноStream SD
-https://stream.ushba.tv/akamaiushba/ushba-films-uv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,LAV-KINO
-#EXTGRP:🎞️ КиноStream SD
+#EXTINF:-1,LAV-KINOКиноStream
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
-#EXTINF:-1,K1HO
-#EXTGRP:🎞️ КиноStream SD
-https://live20.bozztv.com/giatvplayout7/ushba100/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,UniMed
-#EXTGRP:🎞️ КиноStream SD
-https://live20.bozztv.com/giatvplayout7/ushba101/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,KINOSTREAM
-#EXTGRP:🎞️ КиноStream SD
-https://live20.bozztv.com/giatvplayout7/ushba102/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Любимые фильмы
-#EXTGRP:🎞️ КиноStream SD
-https://fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Сов.Ком
-#EXTGRP:🎞️ КиноStream SD
-https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-z/tracks-v1a1/mono.ts.m3u8
-
 
 #EXTINF:-1,Baragozz_TV
 #EXTGRP:🎞️ StreamFree No 24/7
@@ -1187,6 +1074,7 @@ http://kinowalk.hopto.org/perviryad_live
 #EXTINF:-1,Тоха Стрим
 #EXTGRP:🎞️ StreamFree No 24/7
 http://kinowalk.hopto.org/toxa_stream_live
+
 
 
 
