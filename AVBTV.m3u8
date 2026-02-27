@@ -1049,6 +1049,9 @@ https://live20.bozztv.com/giatv/giatv-tvzovlivestream/tvzovlivestream/chunks.m3u
 #EXTINF:-1,ЗОВ ТВ Black
 #EXTGRP:🎞️КиноStream
 https://live20.bozztv.com/giatv/giatv-tvzovBlackstream/tvzovBlackstream/chunks.m3u8
+#EXTINF:-1,ЗОВ ТВ RED
+#EXTGRP:🎞️КиноStream
+https://live20.bozztv.com/giatv/giatv-tvzov%20RED/tvzov%20RED/chunks.m3u8
 #EXTINF:-1,Кинозал
 #EXTGRP:🎞️КиноStream
 http://185.57.68.33:8091/237/playlist.m3u8
@@ -1095,6 +1098,7 @@ http://kinowalk.hopto.org/perviryad_live
 #EXTINF:-1,Тоха Стрим
 #EXTGRP:🎞️ StreamFree No 24/7
 http://kinowalk.hopto.org/toxa_stream_live
+
 
 
 
