@@ -1001,9 +1001,6 @@ https://cityeden.catcast.tv/content/34246/index.m3u8?token=303bceb019d7b28644dd0
 #EXTINF:-1,Сити Эдем - Рождественский
 🎞️КиноStream
 https://cityeden.catcast.tv/content/46503/index.m3u8?token=
-#EXTINF:-1,TvBoom.ViPКиноStream
-🎞️КиноStream
-https://kb.catcast.tv/content/49702/index.m3u8
 #EXTINF:-1,IPTVPLAY ВЕДЬМАК
 🎞️КиноStream
 http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
@@ -1037,6 +1034,9 @@ https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd_output_0.m3u
 #EXTINF:-1,NSC
 🎞️КиноStream
 https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210_output_0.m3u8?session=bomhMGCHEtND9D3hX7kb4M
+#EXTINF:-1,TvBoom.ViP
+🎞️КиноStream
+https://kb.catcast.tv/content/49702/index.m3u8
 #EXTINF:-1,Новый Русский
 🎞️КиноStream
 https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1_output_0.m3u8?session=U3YFrmmaaXDngd96fHTti7
@@ -1049,10 +1049,6 @@ https://live20.bozztv.com/giatv/giatv-tvzovlivestream/tvzovlivestream/chunks.m3u
 #EXTINF:-1,ЗОВ ТВ Black
 🎞️КиноStream
 https://live20.bozztv.com/giatv/giatv-tvzovBlackstream/tvzovBlackstream/chunks.m3u8
-#EXTINF:-1,ЗОВ ТВ RED
-🎞️КиноStream
-https://live20.bozztv.com/giatv/giatv-tvzov%20RED/tvzov%20RED/chunks.m3u8
-🎞️КиноStream
 #EXTINF:-1,Кинозал
 🎞️КиноStream
 http://185.57.68.33:8091/237/playlist.m3u8
@@ -1066,7 +1062,7 @@ https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=nV
 🎞️КиноStream
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
 #EXTINF:-1,12345
-#EXTGRP:🎞️ КиноStream HD
+#EXTGRP:🎞️КиноStream HD
 rtmp://vkvsd177.okcdn.ru/playback/9784991296445?stkn=Bu11jviKqv8XV4jmbgsGRyXtfTi46qNmVpzNczQTttL_wt7OBO_B47D8PLo_bnF7hndvjB5NAuI&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 
 #EXTINF:-1,Baragozz_TV
@@ -1102,6 +1098,7 @@ http://kinowalk.hopto.org/perviryad_live
 #EXTINF:-1,Тоха Стрим
 #EXTGRP:🎞️ StreamFree No 24/7
 http://kinowalk.hopto.org/toxa_stream_live
+
 
 
 
