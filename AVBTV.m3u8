@@ -567,6 +567,12 @@ http://188.225.31.197/bpk-tv/000001419/tve/index.m3u8
 #EXTINF:-1,FlixSnip HD
 #EXTGRP:🎞️Фильмы&Сериалы
 http://188.225.31.197/bpk-tv/000004466/tve/index.m3u8
+#EXTINF:-1,Hollywood HD
+#EXTGRP:🎞️Фильмы&Сериалы
+https://tinyurl.com/45x3xrpm/chid421/mpegts
+#EXTINF:-1,MYTV HIT
+#EXTGRP:🎞️Фильмы&Сериалы
+http://tinyurl.com/TvZaTak37/MyTV_Hit/video.m3u8?token=freeportal&token=a1ecd668e05f5ce07c81130c9d7fb362
 #EXTINF:-1,viju+ TV1000 action HD
 #EXTGRP:🎞️Фильмы&Сериалы
 http://188.225.31.197/bpk-tv/000003910/tve/index.m3u8
