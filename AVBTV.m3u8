@@ -823,22 +823,6 @@ https://telluri.ru/video/tr-and/335.m3u8
 #EXTGRP:🎞️Кинозалы от TELLURI
 https://telluri.ru/video/cog-dl/2065.m3u8
 
-#EXTINF:-1,Сити Эдем - КиноМистика
-#EXTGRP:🎞️Сити Эдем
-https://cityeden.catcast.tv/content/40783/index.m3u8?token=4553db048605eecf46c822b88833ce1d
-#EXTINF:-1,Сити Эдем - КиноКомедия
-#EXTGRP:🎞️Сити Эдем
-https://cityeden.catcast.tv/content/41331/index.m3u8?token=8f96495eee510a33fb3017982ce61eac
-#EXTINF:-1,Сити Эдем - КиноСемья
-#EXTGRP:🎞️Сити Эдем
-https://autopilot.catcast.tv/content/38128/index.m3u8?token=2c25bdb20383b2533f44f6073ddfa2b6
-#EXTINF:-1,Сити Эдем - КиноАзия
-#EXTGRP:🎞️Сити Эдем
-https://cityeden.catcast.tv/content/34393/index.m3u8?token=dbf2611bd4f1aab379cb289c3e79d512
-#EXTINF:-1,Сити Эдем - ТелеНовелла
-#EXTGRP:🎞️Сити Эдем
-https://cityeden.catcast.tv/content/46209/index.m3u8?token=085e0f93cd0d35977e08d1135585c6f5
-
 #EXTINF:-1,Kinowalk_tv
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/kinowalk_live
@@ -978,7 +962,21 @@ http://kinowalk.hopto.org/era_vhs_live
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/kinoteka_full_hd_top_live
 
-
+#EXTINF:-1,Сити Эдем - КиноМистика
+#EXTGRP:🎞️КиноStream
+https://cityeden.catcast.tv/content/40783/index.m3u8?token=4553db048605eecf46c822b88833ce1d
+#EXTINF:-1,Сити Эдем - КиноКомедия
+#EXTGRP:🎞️КиноStream
+https://cityeden.catcast.tv/content/41331/index.m3u8?token=8f96495eee510a33fb3017982ce61eac
+#EXTINF:-1,Сити Эдем - КиноСемья
+#EXTGRP:🎞️КиноStream
+https://autopilot.catcast.tv/content/38128/index.m3u8?token=2c25bdb20383b2533f44f6073ddfa2b6
+#EXTINF:-1,Сити Эдем - КиноАзия
+#EXTGRP:🎞️КиноStream
+https://cityeden.catcast.tv/content/34393/index.m3u8?token=dbf2611bd4f1aab379cb289c3e79d512
+#EXTINF:-1,Сити Эдем - ТелеНовелла
+#EXTGRP:🎞️КиноStream
+https://cityeden.catcast.tv/content/46209/index.m3u8?token=085e0f93cd0d35977e08d1135585c6f5
 #EXTINF:-1,Сити Эдем - КиноЭкшен
 #EXTGRP:🎞️КиноStream
 https://cityeden.catcast.tv/content/41333/index.m3u8?token=474cd86e39467c9dfaa93e4e49f4be69
@@ -1067,6 +1065,9 @@ https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=nV
 #EXTINF:-1,LAV-KINO
 🎞️КиноStream
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
+#EXTINF:-1,12345
+#EXTGRP:🎞️ КиноStream HD
+rtmp://vkvsd177.okcdn.ru/playback/9784991296445?stkn=Bu11jviKqv8XV4jmbgsGRyXtfTi46qNmVpzNczQTttL_wt7OBO_B47D8PLo_bnF7hndvjB5NAuI&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 
 #EXTINF:-1,Baragozz_TV
 #EXTGRP:🎞️ StreamFree No 24/7
@@ -1101,6 +1102,7 @@ http://kinowalk.hopto.org/perviryad_live
 #EXTINF:-1,Тоха Стрим
 #EXTGRP:🎞️ StreamFree No 24/7
 http://kinowalk.hopto.org/toxa_stream_live
+
 
 
 
