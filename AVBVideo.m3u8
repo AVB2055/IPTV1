@@ -33,9 +33,6 @@ https://cityeden.catcast.tv/content/46209/index.m3u8
 #EXTINF:-1,Бирма Play
 #EXTGRP:CITYEDEM
 https://cityeden.catcast.tv/content/34100/index.m3u8
-#EXTINF:-1,Классическая Музыка
-#EXTGRP:CITYEDEM
-https://cityeden.catcast.tv/content/47400/index.m3u8
 #EXTINF:-1,Сиртаки ТВ
 #EXTGRP:CITYEDEM
 https://cityeden.catcast.tv/content/46421/index.m3u8
@@ -123,9 +120,6 @@ http://185.234.59.200:8080/BCU_Premiere_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,Bcu premiere 3
 #EXTGRP:BCU
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11017/index.m3u8
-#EXTINF:-1,Bcu Reality
-#EXTGRP:BCU
-http://185.234.59.200:9090/channel/n613379be/index.m3u8?q=406925e0657258d990e0f9948bac4f
 #EXTINF:-1,Bcu Romantic
 #EXTGRP:BCU
 http://185.234.59.200:8080/BCU_Romantic_HD/video.m3u8?token=5uGLTS1oibSIu0
@@ -207,9 +201,6 @@ http://185.234.59.200:8080/BOX_Ghost_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,Box Gurman
 #EXTGRP:BOX
 http://185.234.59.200:8080/BOX_Gurman_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Box HDR
-#EXTGRP:BOX
-http://185.234.59.200:8080/BOX_Franchise_HDR/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,Box history
 #EXTGRP:BOX
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31546/index.m3u8
@@ -1265,9 +1256,6 @@ http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13064/index.m3u8
 #EXTINF:-1,Доктор Хаус
 #EXTGRP:VF
 http://185.234.59.200:9090/channel/n4b454c4f/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Домашний повар
-#EXTGRP:VF
-http://185.234.59.200:9090/channel/n7af86f45/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
 #EXTINF:-1,Драма СССР
 #EXTGRP:MM
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13022/index.m3u8
@@ -1325,39 +1313,9 @@ http://0f7612d9.edmonst.net/iptv/UCVET5HKPH8EZF/31621/index.m3u8
 #EXTINF:-1,Классика
 #EXTGRP:VF
 http://185.234.59.200:9090/channel/6197a3c3/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:0,Clarity4K Asia
-#EXTGRP:Clarity4K
-http://hls127.freeott.top:8080/Clarity4K_Asia/mono.m3u8
-#EXTINF:0,Clarity4K Gamefilm
-#EXTGRP:Clarity4K
-http://hls127.freeott.top:8080/Clarity4K_Gamefilm/mono.m3u8
-#EXTINF:0,Clarity4K Netflix
-#EXTGRP:Clarity4K
-http://hls127.freeott.top:8080/Clarity4K_Netflix/mono.m3u8
-#EXTINF:0,Clarity4k Концерт
-#EXTGRP:Clarity4K
-http://hls127.freeott.top:8080/Clarity4K_Concert/mono.m3u8
-#EXTINF:0,Clarity4K Ужасы
-#EXTGRP:Clarity4K
-http://hls127.freeott.top:8080/Clarity4K_Uzhasi/mono.m3u8
-#EXTINF:0,Clarity4K Фантастика
-#EXTGRP:Clarity4K
-http://hls127.freeott.top:8080/Clarity4K_Fantastic/mono.m3u8
-#EXTINF:0,Clarity4K Anime
-#EXTGRP:Clarity4K
-http://hls127.freeott.top:8080/Clarity4K_Anime/mono.m3u8
-#EXTINF:0,Clarity4k Единоборства
-#EXTGRP:Clarity4K
-http://hls127.freeott.top:8080/Clarity4K_Edinoborstva/mono.m3u8
-#EXTINF:0,Clarity4K Космомир
-#EXTGRP:Clarity4K
-http://hls127.freeott.top:8080/Clarity4K_Kosmomir/mono.m3u8
 #EXTINF:-1,Horror
 #EXTGRP:SKY HIGH
 http://185.234.59.200:8080/SKY_HIGH_HORROR_4K_HDR/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Бивис и Батт
-#EXTGRP:VENERA.TV
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30193/index.m3u8
 #EXTGRP:VF
 http://185.234.59.200:9090/channel/5e6b6b04/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
 #EXTINF:-1,Комедии
@@ -1378,9 +1336,6 @@ http://185.234.59.200:9090/channel/16ba75c5/index.m3u8?q=406925e0657258d990e0f99
 #EXTINF:-1,Корги по имени Мокко
 #EXTGRP:VENERA.TV
 http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30184/index.m3u8
-#EXTINF:-1,Король и шут
-#EXTGRP:VF
-http://185.234.59.200:9090/channel/n4439966a/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
 #EXTINF:-1,Космос
 #EXTGRP:VENERA.TV
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/30197/index.m3u8
@@ -1448,30 +1403,12 @@ http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30177/index.m3u8
 #EXTGRP:VF
 http://185.234.59.200:9090/channel/n12cab184/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
 
-#EXTINF:-1,Муз нг
-#EXTGRP:VF
-http://185.234.59.200:9090/channel/4f5a2cf4/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Музыка
-#EXTGRP:VF
-http://185.234.59.200:9090/channel/61bc9c55/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
 #EXTINF:-1,МультСказки
 #EXTGRP:IPTV-PLAY
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1,Мультсоюз
-#EXTGRP:VF
-http://185.234.59.200:9090/channel/n2a2d868e/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Мультуб
-#EXTGRP:VF
-http://185.234.59.200:9090/channel/n29f01acc/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
 #EXTINF:-1,Мультфильм СССР
 #EXTGRP:MM
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13020/index.m3u8
-#EXTINF:-1,Мультфильмы СССР
-#EXTGRP:VF
-http://185.234.59.200:9090/channel/dd63185/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Мыльные оперы
-#EXTGRP:VF
-http://185.234.59.200:9090/channel/5fcebda2/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
 #EXTINF:-1,Мюзикл
 #EXTGRP:LIBERTY
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31662/index.m3u8
@@ -1487,9 +1424,6 @@ http://185.234.59.200:9090/channel/n30e8cca0/index.m3u8?q=406925e0657258d990e0f9
 #EXTINF:-1,Новогодние мульты
 #EXTGRP:VF
 http://185.234.59.200:9090/channel/292969e0/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Новогодний
-#EXTGRP:VF
-http://185.234.59.200:9090/channel/d65b946/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
 #EXTINF:-1,Ну
 #EXTGRP:VENERA.TV
 http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30161/index.m3u8
