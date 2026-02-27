@@ -156,6 +156,9 @@ http://77.232.131.211/TravelAdventureHD/index.m3u8
 #EXTINF:-1,TV BRICS HD
 #EXTGRP:🎞️Познавательные
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TV PRO
+#EXTGRP:🎞️Познавательные
+http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 #EXTINF:-1,Univer TV HD
 #EXTGRP:🎞️Познавательные
 https://cdn.universmotri.ru/live/smil:univer.smil/chunklist_w911267907_b3628000_slru.m3u8
@@ -180,6 +183,9 @@ https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Вместе РФ HD
 #EXTGRP:🎞️Познавательные
 http://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
+#EXTINF:-1,ВосьМой
+#EXTGRP:🎞️Познавательные
+https://minsk-cache07t.voka.tv/live/962.m3u8?
 #EXTINF:-1,Глазами Туриста HD
 #EXTGRP:🎞️Познавательные
 http://188.225.31.197/bpk-tv/000001414/tve/index.m3u8
@@ -210,6 +216,9 @@ http://188.225.31.197/bpk-tv/000000260/tve/index.m3u8
 #EXTINF:-1,Ключ HD
 #EXTGRP:🎞️Познавательные
 http://188.225.31.197/bpk-tv/000004585/tve/index.m3u8
+#EXTINF:-1,Китай ТВ
+#EXTGRP:🎞️Познавательные
+https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
 #EXTINF:-1,МОДА HD
 #EXTGRP:🎞️Познавательные
 http://188.225.31.197/bpk-tv/000000439/tve/index.m3u8
@@ -252,6 +261,9 @@ http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Продвижение HD
 #EXTGRP:🎞️Познавательные
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
+#EXTINF:-1,Продвижение
+#EXTGRP:🎞️Познавательные
+https://bl.rutube.ru/livestream/ff5c11c9a51750f5d33427762abc315c/index.m3u8?s=WHZZBfXapQyglWukVMsSvw&e=2071742700&scheme=https
 #EXTINF:-1,РЖД HD
 #EXTGRP:🎞️Познавательные
 http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
@@ -261,6 +273,9 @@ http://109.248.11.19:8081/web/c24/playlist.m3u8
 #EXTINF:-1,Тайна HD
 #EXTGRP:🎞️Познавательные
 https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=GmFSizHee8DpOJI6J0bwMA&e=2067815807&scheme=https
+#EXTINF:-1,Тайна ТВ
+#EXTGRP:🎞️Познавательные
+https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=k9bDH53DPY73h1vlbcNhzQ&e=2071743709&scheme=https
 #EXTINF:-1,Тайны галактики HD
 #EXTGRP:🎞️Познавательные
 http://188.225.31.197/bpk-tv/000000332/tve/index.m3u8
@@ -725,49 +740,9 @@ https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
 #EXTGRP:🎞️ Смотрим&НТВ
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
 
-#EXTINF:-1,DTR-ZONA1
-#EXTGRP:🎞️ TV&Films
-#EXTVLCOPT:epg-url="https://dtr.kino-stream.online/dtr.xml"
-https://kino-stream.online/hls/DTRZONA1.m3u8
-#EXTINF:-1,DTR-ZONA2
-#EXTGRP:🎞️ TV&Films
-https://kino-stream.online/hls/DTRZONA2.m3u8
-#EXTINF:-1,ТВОЁ ТВ HD
-#EXTGRP:🎞️ TV&Films
-http://tvoetv.space:8080/tvoetv/index.m3u8
-#EXTINF:-1,KINO24
-#EXTGRP:🎞️ TV&Films
-http://sirius.greenhosting.ru/Kino24Ru/tracks-v1a1/mono.m3u8
-#EXTINF:-1,PRO100
-#EXTGRP:🎞️ TV&Films
-https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
-#EXTINF:-1,312 Кино
-#EXTGRP:🎞️ TV&Films
-http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:-1,312 Сериал
-#EXTGRP:🎞️ TV&Films
-http://176.126.166.43:1935/live/312musik/playlist.m3u8
-#EXTINF:-1,TV PRO
-#EXTGRP:🎞️ TV&Films
-http://rtmp.tvpro-online.ru/hls/ch1.m3u8
-#EXTINF:-1,Star Media
-#EXTGRP:🎞️ TV&Films
-https://fl1001.bozztv.com/ushba4/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Китай ТВ
-#EXTGRP:🎞️ TV&Films
-https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
-#EXTINF:-1,ТЕО-ТВ
-#EXTGRP:🎞️ TV&Films
-https://stream.teotv.ru/live/site360/chunklist_w1906707908.m3u8
-#EXTINF:-1,Телеканал «Продвижение»
-#EXTGRP:🎞️ TV&Films
-https://bl.rutube.ru/livestream/ff5c11c9a51750f5d33427762abc315c/index.m3u8?s=WHZZBfXapQyglWukVMsSvw&e=2071742700&scheme=https
-#EXTINF:-1,ВосьМой
-#EXTGRP:🎞️ TV&Films
-https://minsk-cache07t.voka.tv/live/962.m3u8?
-#EXTINF:-1,Тайна ТВ
-#EXTGRP:🎞️ TV&Films
-https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=k9bDH53DPY73h1vlbcNhzQ&e=2071743709&scheme=https
+
+
+
 
 #EXTINF:-1,Viju+ Megahit
 #EXTGRP:🎞️Кинозалы от TELLURI
