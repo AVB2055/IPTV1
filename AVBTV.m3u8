@@ -429,6 +429,15 @@ http://ip1.orgip.net/0201/video.m3u8?token=Ab2b7066c8
 #EXTINF:-1,NHL (Интересные моменты)
 #EXTGRP:🎞️Спортивные
 https://nhl-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1,Окко прайм
+#EXTGRP:Спортивные
+http://185.234.59.200:8080/okko_praym_sport_hd/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1,окко спорт
+#EXTGRP:Спортивные
+http://185.234.59.200:8080/okko_sport_hd/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1,окко футбол
+#EXTGRP:Спортивные
+http://185.234.59.200:8080/okko_futbol_hd/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,Red Bull HD
 #EXTGRP:🎞️Спортивные
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
@@ -1054,6 +1063,7 @@ https://cityeden.catcast.tv/content/34246/index.m3u8?token=303bceb019d7b28644dd0
 #EXTINF:-1,Сити Эдем - Рождественский
 #EXTGRP:🎞️Сити Эдем
 https://cityeden.catcast.tv/content/46503/index.m3u8?token=
+
 
 
 
