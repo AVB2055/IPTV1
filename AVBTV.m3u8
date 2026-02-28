@@ -291,6 +291,9 @@ http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1,Толк ТВ
 #EXTGRP:🎞️Познавательные
 https://live-tolknews.cdnvideo.ru/tolknews/stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Эквилибриум (Kinowalk Production)
+#EXTGRP:🎞️Познавательные
+http://kinowalk.hopto.org/equilibrium_live
 #EXTINF:-1,2x2
 #EXTGRP:🎞️Развлекательные
 https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=hwyoufQp4n4DEevoTh79AQ&e=2068506934&scheme=https
@@ -544,9 +547,6 @@ http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Мультфильмы нашего детства (МультStream)
 #EXTGRP:🎞️Детские
 http://kinowalk.hopto.org/childhood_cartoons_live
-#EXTINF:-1,FoxKids-Remastered (МультStream)
-#EXTGRP:🎞️Детские
-http://kinowalk.hopto.org/foxkids_remastered_live
 
 #EXTINF:-1,80s
 #EXTGRP:🎞️Фильмы&Сериалы
@@ -769,9 +769,6 @@ https://telluri.ru/video/vj/545.m3u8
 #EXTINF:-1,Viju TV1000 Romantica
 #EXTGRP:🎞️Кинозалы от TELLURI
 https://telluri.ru/video/vj/3111.m3u8
-#EXTINF:-1,VHS-ка
-#EXTGRP:🎞️Кинозалы от TELLURI
-https://telluri.ru/video/vj/1123.m3u8
 #EXTINF:-1,НСТ
 #EXTGRP:🎞️Кинозалы от TELLURI
 https://telluri.ru/video/tr-and/6008.m3u8
@@ -860,9 +857,6 @@ http://kinowalk.hopto.org/serialtv_live
 #EXTINF:-1,serial4u
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/serial4u_live
-#EXTINF:-1,BOSSFILM
-#EXTGRP:🎞️ Kinowalk Production
-http://kinowalk.hopto.org/bossfilm_live
 #EXTINF:-1,Maksim Films
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/mmaxim0vich_live
@@ -872,9 +866,6 @@ http://kinowalk.hopto.org/vhs-forever_live
 #EXTINF:-1,ROMEO Video
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/romantic_live
-#EXTINF:-1,Эквилибриум
-#EXTGRP:🎞️ Kinowalk Production
-http://kinowalk.hopto.org/equilibrium_live
 #EXTINF:-1,КОМЕДИИ 24/7
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/cmexye4ku_live
@@ -953,9 +944,6 @@ http://kinowalk.hopto.org/filmvibes_live
 #EXTINF:-1,Эра VHS
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/era_vhs_live
-#EXTINF:-1,Кинотека
-#EXTGRP:🎞️ Kinowalk Production
-http://kinowalk.hopto.org/kinoteka_full_hd_top_live
 #EXTINF:-1,Baragozz_TV No 24/7
 #EXTGRP:🎞️ Kinowalk Production 
 http://kinowalk.hopto.org/baragozz_tv_live
@@ -1046,7 +1034,7 @@ https://cityeden.catcast.tv/content/46209/index.m3u8?token=085e0f93cd0d35977e08d
 #EXTGRP:🎞️Сити Эдем
 https://cityeden.catcast.tv/content/41333/index.m3u8?token=474cd86e39467c9dfaa93e4e49f4be69
 #EXTINF:-1,Сити Эдем - КиноДетектив
-🎞️Сити Эдем
+#EXTGRP:🎞️Сити Эдем
 https://cityeden.catcast.tv/content/41327/index.m3u8?token=b4165148a2a733cb7ed075023297d583
 #EXTINF:-1,Сити Эдем - КиноКлассика
 #EXTGRP:🎞️Сити Эдем
