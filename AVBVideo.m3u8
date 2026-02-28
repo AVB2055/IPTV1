@@ -12,9 +12,6 @@ http://185.234.59.200:9090/channel/n61eb0115/index.m3u8?q=406925e0657258d990e0f9
 #EXTINF:-1,20 век
 #EXTGRP:LIBERTY
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/20173/index.m3u8
-#EXTINF:-1,80s
-#EXTGRP:CITYEDEM
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13002/index.m3u8
 #EXTINF:-1,90е
 #EXTGRP:VF
 http://185.234.59.200:9090/channel/9b95461/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
@@ -353,35 +350,7 @@ http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/17068/index.m3u8
 #EXTGRP:EYE
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/17065/index.m3u8
 #EXTINF:-1,F Cinema
-#EXTGRP:FRESH
-http://cdn.iptvcinema.ru/fresh_cinema/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0
-#EXTINF:-1,F Comedy
-#EXTGRP:FRESH
-http://cdn.iptvcinema.ru/fresh_comedy/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0
-#EXTINF:-1,F Family
-#EXTGRP:FRESH
-http://cdn.iptvcinema.ru/fresh_family/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0
-#EXTINF:-1,F Fantasy
-#EXTGRP:FRESH
-http://cdn.iptvcinema.ru/fresh_fantastic/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0
-#EXTINF:-1,F KIDS
-#EXTGRP:FRESH
-http://cdn.iptvcinema.ru/fresh_kids/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0
-#EXTINF:-1,F Premiere
-#EXTGRP:FRESH
-http://cdn.iptvcinema.ru/fresh_premiere/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0
-#EXTINF:-1,F Rating
-#EXTGRP:FRESH
-http://cdn.iptvcinema.ru/fresh_rating/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0
-#EXTINF:-1,F Romantic
-#EXTGRP:FRESH
-http://cdn.iptvcinema.ru/fresh_romantic/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0
-#EXTINF:-1,F Russian
-#EXTGRP:FRESH
-http://cdn.iptvcinema.ru/fresh_russian/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0
-#EXTINF:-1,F VHL
-#EXTGRP:FRESH
-http://cdn.iptvcinema.ru/fresh_vhs/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0
+
 #EXTINF:-1,Family
 #EXTGRP:VF
 http://185.234.59.200:9090/channel/n62799578/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
@@ -398,26 +367,6 @@ http://185.234.59.200:8080/SKY_HIGH_FEAR_VHS_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTGRP:SKY HIGH
 http://185.234.59.200:8080/SKY_HIGH_FIREZONE_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,Fresh adv
-#EXTGRP:FRESH
-http://cdn.iptvcinema.ru/fresh_adventure/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0
-#EXTINF:-1,Fresh Hits
-#EXTGRP:FRESH
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/18084/index.m3u8
-#EXTINF:-1,Fresh Horror
-#EXTGRP:FRESH
-http://cdn.iptvcinema.ru/fresh_horror/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0
-#EXTINF:-1,Fresh Russian Hits
-#EXTGRP:FRESH
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/18085/index.m3u8
-#EXTINF:-1,Fresh Series
-#EXTGRP:FRESH
-http://cdn.iptvcinema.ru/fresh_series/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0
-#EXTINF:-1,Fresh Soviet
-#EXTGRP:FRESH
-http://cdn.iptvcinema.ru/fresh_soviet/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0
-#EXTINF:-1,Fresh Thriller
-#EXTGRP:FRESH
-http://cdn.iptvcinema.ru/fresh_thriller/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0
 #EXTINF:-1,Future
 #EXTGRP:SKY HIGH
 http://185.234.59.200:8080/SKY_HIGH_FUTURE_FHD/video.m3u8?token=5uGLTS1oibSIu0
@@ -649,37 +598,6 @@ http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13014/index.m3u8
 #EXTINF:-1,Nick
 #EXTGRP:SKY HIGH
 http://185.234.59.200:8080/SKY_HIGH_NICK_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-
-#EXTINF:-1,PG PARADISE
-#EXTGRP:PG
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11100/index.m3u8
-#EXTINF:-1,PG PARADOX
-#EXTGRP:PG
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11098/index.m3u8
-#EXTINF:-1,PG PREMİERE
-#EXTGRP:PG
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11094/index.m3u8
-#EXTINF:-1,PG PREMİUM
-#EXTGRP:PG
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11095/index.m3u8
-#EXTINF:-1,PG SERIAL
-#EXTGRP:PG
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11101/index.m3u8
-#EXTINF:-1,PG THRILLER
-#EXTGRP:PG
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11099/index.m3u8
-#EXTINF:-1,PG USSR
-#EXTGRP:PG
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11102/index.m3u8
-#EXTINF:-1,PG VHS
-#EXTGRP:PG
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/15000/index.m3u8
-#EXTINF:-1,PG VICTORY
-#EXTGRP:PG
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11097/index.m3u8
-#EXTINF:-1,PG РУКИНО
-#EXTGRP:PG
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11096/index.m3u8
 
 #EXTINF:-1,Premiere
 #EXTGRP:VF
@@ -1141,9 +1059,6 @@ http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13045/index.m3u8
 #EXTINF:-1,Ну
 #EXTGRP:VENERA.TV
 http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30161/index.m3u8
-#EXTINF:-1,Окко прайм
-#EXTGRP:OKKO
-http://185.234.59.200:8080/okko_praym_sport_hd/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,Охотники за привидениями
 #EXTGRP:VENERA.TV
 http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/30175/index.m3u8
@@ -1345,12 +1260,6 @@ http://185.234.59.200:9090/channel/5983ec54/index.m3u8?q=406925e0657258d990e0f99
 #EXTINF:-1,НВО
 #EXTGRP:VF
 http://185.234.59.200:9090/channel/n5a118def/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,окко спорт
-#EXTGRP:OKKO
-http://185.234.59.200:8080/okko_sport_hd/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,окко футбол
-#EXTGRP:OKKO
-http://185.234.59.200:8080/okko_futbol_hd/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,Flip
 #EXTGRP:MM
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13057/index.m3u8
