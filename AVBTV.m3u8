@@ -787,9 +787,6 @@ https://telluri.ru/video/tr-and/6008.m3u8
 #EXTINF:-1,Киноман
 #EXTGRP:🎞️Кинозалы от TELLURI
 https://telluri.ru/video/59.m3u8
-#EXTINF:-1,ТВ 21
-#EXTGRP:🎞️Кинозалы от TELLURI
-https://telluri.ru/video/cog-dl/2018.m3u8
 #EXTINF:-1,Муви ТВ
 #EXTGRP:🎞️Кинозалы от TELLURI
 https://telluri.ru/video/tr-and/5007.m3u8
@@ -799,12 +796,6 @@ https://telluri.ru/video/vod/9011.m3u8
 #EXTINF:-1,START Air
 #EXTGRP:🎞️Кинозалы от TELLURI
 https://telluri.ru/video/vod/1804.m3u8
-#EXTINF:-1,.red
-#EXTGRP:🎞️Кинозалы от TELLURI
-https://telluri.ru/video/tr-and/1400.m3u8
-#EXTINF:-1,.black
-#EXTGRP:🎞️Кинозалы от TELLURI
-https://telluri.ru/video/tr-and/3001.m3u8
 #EXTINF:-1,Еврокино
 #EXTGRP:🎞️Кинозалы от TELLURI
 https://telluri.ru/video/vod/903.m3u8
@@ -1057,12 +1048,7 @@ https://cityeden.catcast.tv/content/45268/index.m3u8?token=83cbe0179bd863b7c1acb
 #EXTINF:-1,Сити Эдем - КиноДрама
 #EXTGRP:🎞️Сити Эдем
 https://cityeden.catcast.tv/content/45269/index.m3u8?token=28470f31cea5990d1be54eb04a48514a
-#EXTINF:-1,Сити Эдем ТВ
-#EXTGRP:🎞️Сити Эдем
-https://cityeden.catcast.tv/content/34246/index.m3u8?token=303bceb019d7b28644dd0682a2f5ce8f
-#EXTINF:-1,Сити Эдем - Рождественский
-#EXTGRP:🎞️Сити Эдем
-https://cityeden.catcast.tv/content/46503/index.m3u8?token=
+
 #EXTINF:-1,Bcu action
 #EXTGRP:🎞️BCU
 http://185.234.59.200:8080/BCU_Action_HD/video.m3u8?token=5uGLTS1oibSIu0
@@ -1267,3 +1253,4 @@ http://185.234.59.200:8080/SKY_HIGH_WOONDER_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,ZIPPY
 #EXTGRP:🎞️SKY HIGH
 http://185.234.59.200:8080/SKY_HIGH_ZIPPY_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
+
