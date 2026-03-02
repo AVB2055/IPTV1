@@ -1067,100 +1067,100 @@ https://cityeden.catcast.tv/content/34246/index.m3u8?token=303bceb019d7b28644dd0
 #EXTGRP:🎞️Сити Эдем
 https://cityeden.catcast.tv/content/46503/index.m3u8?token=
 #EXTINF:-1,Bcu action
-#EXTINF:-1,🎞️BCU
+#EXTGRP:🎞️BCU
 http://185.234.59.200:8080/BCU_Action_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,🎞️BCU cinema
-#EXTINF:-1,🎞️BCU
+#EXTINF:-1,Bcu cinema
+#EXTGRP:🎞️BCU
 http://185.234.59.200:8080/BCU_Cinema_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,Bcu cinema+
-#EXTINF:-1,🎞️BCU
+#EXTGRP:🎞️BCU
 http://185.234.59.200:8080/BCU_Cinema_Plus_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,Bcu Comedy
-#EXTINF:-1,🎞️BCU
+#EXTGRP:🎞️BCU
 http://185.234.59.200:8080/BCU_Comedy_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,Bcu Cosmo
-#EXTINF:-1,🎞️BCU
+#EXTGRP:🎞️BCU
 http://185.234.59.200:9090/channel/n1bd83275/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
 #EXTINF:-1,Bcu criminal
-#EXTINF:-1,🎞️BCU
+#EXTGRP:🎞️BCU
 http://185.234.59.200:8080/BCU_Criminal_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,Bcu Fantastic
-#EXTINF:-1,🎞️BCU
+#EXTGRP:🎞️BCU
 http://185.234.59.200:8080/BCU_Fantastic_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,Bcu Film
-#EXTINF:-1,🎞️BCU
+#EXTGRP:🎞️BCU
 http://185.234.59.200:8080/BCU_FilMystic_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,Bcu History
-#EXTINF:-1,🎞️BCU
+#EXTGRP:🎞️BCU
 http://185.234.59.200:8080/BCU_History_HD/video.m3u8?token=5uGLTS1oibSIu
 #EXTINF:-1,Bcu kids
-#EXTINF:-1,🎞️BCU
+#EXTGRP:🎞️BCU
 http://185.234.59.200:8080/BCU_Kids_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,Bcu kids+
-#EXTINF:-1,🎞️BCU
+#EXTGRP:🎞️BCU
 http://185.234.59.200:8080/BCU_Kids_Plus_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,Bcu Kinorating
-#EXTINF:-1,🎞️BCU
+#EXTGRP:🎞️BCU
 http://185.234.59.200:8080/BCU_Kinorating_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,Bcu Marvel
-#EXTINF:-1,🎞️BCU
+#EXTGRP:🎞️BCU
 http://185.234.59.200:8080/BCU_Marvel_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,BCU PREMERE 2
-#EXTINF:-1,🎞️BCU
+#EXTGRP:🎞️BCU
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11016/index.m3u8
 #EXTINF:-1,Bcu Premiere
-#EXTINF:-1,🎞️BCU
+#EXTGRP:🎞️BCU
 http://185.234.59.200:8080/BCU_Premiere_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,Bcu premiere 3
-#EXTINF:-1,🎞️BCU
+#EXTGRP:🎞️BCU
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11017/index.m3u8
 #EXTINF:-1,Bcu Romantic
-#EXTINF:-1,🎞️BCU
+#EXTGRP:🎞️BCU
 http://185.234.59.200:8080/BCU_Romantic_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,Bcu Ruserial
-#EXTINF:-1,🎞️BCU
+#EXTGRP:🎞️BCU
 http://185.234.59.200:8080/BCU_RUSERIAL_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,Bcu Russian
-#EXTINF:-1,🎞️BCU
+#EXTGRP:🎞️BCU
 http://185.234.59.200:8080/BCU_Russian_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,Bcu Stars
-#EXTINF:-1,🎞️BCU
+#EXTGRP:🎞️BCU
 http://185.234.59.200:8080/BCU_Stars_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,Bcu Survial
-#EXTINF:-1,🎞️BCU
+#EXTGRP:🎞️BCU
 http://185.234.59.200:9090/channel/n794d8763/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
 #EXTINF:-1,Bcu trumotion
-#EXTINF:-1,🎞️BCU
+#EXTGRP:🎞️BCU
 http://185.234.59.200:9090/channel/3dada88d/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
 #EXTINF:-1,Bcu ultrA
-#EXTINF:-1,🎞️BCU
+#EXTGRP:🎞️BCU
 http://185.234.59.200:8080/BCU_Ultra_4K/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,Bcu VHS
-#EXTINF:-1,🎞️BCU
+#EXTGRP:🎞️BCU
 http://185.234.59.200:8080/BCU_VHS_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,Bcu Кинозал 3
-#EXTINF:-1,🎞️BCU
+#EXTGRP:🎞️BCU
 http://185.234.59.200:8080/BCU_Kinozal_Premiere_3_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,Bcu СССР
-#EXTINF:-1,🎞️BCU
+#EXTGRP:🎞️BCU
 http://185.234.59.200:8080/BCU_USSR_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,Bcu кинозал
-#EXTINF:-1,🎞️BCU
+#EXTGRP:🎞️BCU
 http://185.234.59.200:8080/BCU_Kinozal_Premiere_1_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,Bcu кинозал 2
-#EXTINF:-1,🎞️BCU
+#EXTGRP:🎞️BCU
 http://185.234.59.200:8080/BCU_Kinozal_Premiere_2_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,Bcu медиа
-#EXTINF:-1,🎞️BCU
+#EXTGRP:🎞️BCU
 http://185.234.59.200:8080/BCUMEDIA_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,Bcu мультсериал
-#EXTINF:-1,🎞️BCU
+#EXTGRP:🎞️BCU
 http://185.234.59.200:8080/BCU_Multserial_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,Bcu сваты
-#EXTINF:-1,🎞️BCU
+#EXTGRP:🎞️BCU
 http://185.234.59.200:8080/BCU_Svaty_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,Катастрофы
-#EXTINF:-1,🎞️BCU
+#EXTGRP:🎞️BCU
 http://185.234.59.200:8080/BCU_Catastrophe_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,Archive
 #EXTGRP:🎞️SKY HIGH
@@ -1195,7 +1195,6 @@ http://185.234.59.200:8080/SKY_HIGH_FEAR_VHS_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,Firezone
 #EXTGRP:🎞️SKY HIGH
 http://185.234.59.200:8080/SKY_HIGH_FIREZONE_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Fresh adv
 #EXTINF:-1,Future
 #EXTGRP:🎞️SKY HIGH
 http://185.234.59.200:8080/SKY_HIGH_FUTURE_FHD/video.m3u8?token=5uGLTS1oibSIu0
@@ -1271,17 +1270,3 @@ http://185.234.59.200:8080/SKY_HIGH_WOONDER_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,ZIPPY
 #EXTGRP:🎞️SKY HIGH
 http://185.234.59.200:8080/SKY_HIGH_ZIPPY_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-
-
-
-
-
-
-
-
-
-
-
-
-
-
