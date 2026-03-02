@@ -3,6 +3,9 @@
 #EXTINF:-1,Первый канал HD
 #EXTGRP:🎞️Федеральные
 http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1,Первый канал HD
+#EXTGRP:🎞️Федеральные
+http://178.163.0.119:4022/udp/234.0.0.172:2000
 #EXTINF:-1,Россия 1 HD
 #EXTGRP:🎞️Федеральные
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
@@ -430,13 +433,13 @@ http://ip1.orgip.net/0201/video.m3u8?token=Ab2b7066c8
 #EXTGRP:🎞️Спортивные
 https://nhl-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1,Окко прайм
-#EXTGRP:Спортивные
+#EXTGRP:🎞️Спортивные
 http://185.234.59.200:8080/okko_praym_sport_hd/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,окко спорт
-#EXTGRP:Спортивные
+#EXTGRP:🎞️Спортивные
 http://185.234.59.200:8080/okko_sport_hd/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,окко футбол
-#EXTGRP:Спортивные
+#EXTGRP:🎞️Спортивные
 http://185.234.59.200:8080/okko_futbol_hd/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,Red Bull HD
 #EXTGRP:🎞️Спортивные
@@ -1063,6 +1066,7 @@ https://cityeden.catcast.tv/content/34246/index.m3u8?token=303bceb019d7b28644dd0
 #EXTINF:-1,Сити Эдем - Рождественский
 #EXTGRP:🎞️Сити Эдем
 https://cityeden.catcast.tv/content/46503/index.m3u8?token=
+
 
 
 
