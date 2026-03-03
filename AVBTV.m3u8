@@ -1214,7 +1214,7 @@ http://185.234.59.200:8080/SKY_HIGH_NEON_VHS_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,Nick
 #EXTGRP:🎞️SKY HIGH
 http://185.234.59.200:8080/SKY_HIGH_NICK_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,tvg-id="sky-high-quants-fhd" tvg-name="QUANT S",QUANT S
+#EXTINF:-1 tvg-id="sky-high-quants-fhd" tvg-name="QUANT S",QUANT S
 #EXTGRP:🎞️SKY HIGH
 http://185.234.59.200:8080/SKY_HIGH_QUANT_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,Red s
@@ -1253,6 +1253,7 @@ http://185.234.59.200:8080/SKY_HIGH_WOONDER_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,ZIPPY
 #EXTGRP:🎞️SKY HIGH
 http://185.234.59.200:8080/SKY_HIGH_ZIPPY_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
+
 
 
 
