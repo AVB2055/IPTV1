@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://ссылка_на_epg.xml.gz"
+#EXTM3U
 
 #EXTINF:-1,Первый канал HD
 #EXTGRP:🎞️Федеральные
@@ -6,9 +6,6 @@ http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1,Первый канал HD
 #EXTGRP:🎞️Федеральные
 http://iptv46.mcx-ix.ru:8077/ort_hd/index.m3u8
-#EXTINF:-1,Первый канал HD
-#EXTGRP:🎞️Федеральные
-http://178.163.0.119:4022/udp/234.0.0.172:2000
 #EXTINF:-1,Россия 1 HD
 #EXTGRP:🎞️Федеральные
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
@@ -1256,6 +1253,7 @@ http://185.234.59.200:8080/SKY_HIGH_WOONDER_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,ZIPPY
 #EXTGRP:🎞️SKY HIGH
 http://185.234.59.200:8080/SKY_HIGH_ZIPPY_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
+
 
 
 
