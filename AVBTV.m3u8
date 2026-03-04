@@ -1088,7 +1088,7 @@ http://185.234.59.200:8080/BCU_Kinorating_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,Bcu Marvel
 #EXTGRP:🎞️BCU
 http://185.234.59.200:8080/BCU_Marvel_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,BCU PREMERE 2
+#EXTINF:-1,Bcu premiere 2
 #EXTGRP:🎞️BCU
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11016/index.m3u8
 #EXTINF:-1,Bcu Premiere
@@ -1253,6 +1253,7 @@ http://185.234.59.200:8080/SKY_HIGH_WOONDER_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,ZIPPY
 #EXTGRP:🎞️SKY HIGH
 http://185.234.59.200:8080/SKY_HIGH_ZIPPY_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
+
 
 
 
