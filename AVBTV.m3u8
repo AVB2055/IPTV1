@@ -468,9 +468,6 @@ https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=yL
 #EXTINF:-1,Волейбол HD
 #EXTGRP:🎞️Спортивные
 https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=RP3Gdy1OZbXnpfKul6ZHLw&e=2070450972&scheme=https
-#EXTINF:-1,Конный Мир HD
-#EXTGRP:🎞️Спортивные
-https://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Матч! HD
 #EXTGRP:🎞️Спортивные
 http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
@@ -499,9 +496,7 @@ http://188.225.31.197/bpk-tv/000007802/tve/index.m3u8
 #EXTGRP:🎞️Спортивные
 https://a787201481-s80718.cdn.ngenix.net/hls/CH_UDARHD/video_1920x1080_avc1/playlist.m3u8
 
-#EXTINF:-1,Alpha Moretime
-#EXTGRP:🎞️Детские
-https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
+
 #EXTINF:-1,Nickelodeon HD
 #EXTGRP:🎞️Детские
 http://188.225.31.197/bpk-tv/000000499/tve/index.m3u8
@@ -608,9 +603,6 @@ http://188.225.31.197/bpk-tv/000000870/tve/index.m3u8
 #EXTINF:-1,viju+ Premiere HD
 #EXTGRP:🎞️Фильмы&Сериалы
 http://188.225.31.197/bpk-tv/000000868/tve/index.m3u8
-#EXTINF:-1,VHS KA
-#EXTGRP:🎞️Фильмы&Сериалы
-http://zeyknt80.megogo.xyz/iptv/T5LFW8GYW54W8B/5006/index.m3u8
 #EXTINF:-1,VHS-ка Русское кино
 #EXTGRP:🎞️Фильмы&Сериалы
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31925/index.m3u8
@@ -1049,9 +1041,7 @@ https://cityeden.catcast.tv/content/45268/index.m3u8?token=83cbe0179bd863b7c1acb
 #EXTGRP:🎞️Сити Эдем
 https://cityeden.catcast.tv/content/45269/index.m3u8?token=28470f31cea5990d1be54eb04a48514a
 
-#EXTINF:-1,Bcu action
-#EXTGRP:🎞️BCU
-http://185.234.59.200:8080/BCU_Action_HD/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1,Bcu cinema
 #EXTGRP:🎞️BCU
 http://185.234.59.200:8080/BCU_Cinema_HD/video.m3u8?token=5uGLTS1oibSIu0
@@ -1061,9 +1051,6 @@ http://185.234.59.200:8080/BCU_Cinema_Plus_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,Bcu Comedy
 #EXTGRP:🎞️BCU
 http://185.234.59.200:8080/BCU_Comedy_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Bcu Cosmo
-#EXTGRP:🎞️BCU
-http://185.234.59.200:9090/channel/n1bd83275/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
 #EXTINF:-1,Bcu criminal
 #EXTGRP:🎞️BCU
 http://185.234.59.200:8080/BCU_Criminal_HD/video.m3u8?token=5uGLTS1oibSIu0
@@ -1253,13 +1240,5 @@ http://185.234.59.200:8080/SKY_HIGH_WOONDER_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,ZIPPY
 #EXTGRP:🎞️SKY HIGH
 http://185.234.59.200:8080/SKY_HIGH_ZIPPY_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-
-
-
-
-
-
-
-
 
 
