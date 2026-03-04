@@ -1018,10 +1018,10 @@ https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=SH
 #EXTGRP:🎞️КиноStream
 https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=nVulkthwHvONsThcR6A38A&e=2070104121&scheme=https
 
-#EXTINF:-1,КиноМистика
+#EXTINF:-1,Сити Эдем - КиноМистика
 #EXTGRP:🎞️Сити Эдем
 https://cityeden.catcast.tv/content/40783/index.m3u8?token=4553db048605eecf46c822b88833ce1d
-#EXTINF:-1,КиноКомедия
+#EXTINF:-1,Сити Эдем - КиноКомедия
 #EXTGRP:🎞️Сити Эдем
 https://cityeden.catcast.tv/content/41331/index.m3u8?token=8f96495eee510a33fb3017982ce61eac
 #EXTINF:-1,Сити Эдем - КиноСемья
@@ -1253,6 +1253,7 @@ http://185.234.59.200:8080/SKY_HIGH_WOONDER_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,ZIPPY
 #EXTGRP:🎞️SKY HIGH
 http://185.234.59.200:8080/SKY_HIGH_ZIPPY_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
+
 
 
 
