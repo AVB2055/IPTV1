@@ -584,13 +584,13 @@ https://tinyurl.com/45x3xrpm/chid421/mpegts
 #EXTINF:-1,MYTV HIT
 #EXTGRP:🎞️Фильмы&Сериалы
 http://tinyurl.com/TvZaTak37/MyTV_Hit/video.m3u8?token=freeportal&token=a1ecd668e05f5ce07c81130c9d7fb362
-#EXTINF:-1,viju+ TV1000 action HD
+#EXTINF:-1,viju+ TV1000 action
 #EXTGRP:🎞️Фильмы&Сериалы
 http://188.225.31.197/bpk-tv/000003910/tve/index.m3u8
-#EXTINF:-1,viju+ TV1000 HD
+#EXTINF:-1,viju+ TV1000
 #EXTGRP:🎞️Фильмы&Сериалы
 http://188.225.31.197/bpk-tv/000003747/tve/index.m3u8
-#EXTINF:-1,viju+ TV1000 русское HD
+#EXTINF:-1,viju+ TV1000 русское
 #EXTGRP:🎞️Фильмы&Сериалы
 http://188.225.31.197/bpk-tv/000003748/tve/index.m3u8
 #EXTINF:-1,VIASAT Kino Comedy HD
@@ -1253,6 +1253,7 @@ http://185.234.59.200:8080/SKY_HIGH_WOONDER_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,ZIPPY
 #EXTGRP:🎞️SKY HIGH
 http://185.234.59.200:8080/SKY_HIGH_ZIPPY_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
+
 
 
 
