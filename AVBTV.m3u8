@@ -909,7 +909,7 @@ http://kinowalk.hopto.org/perviryad_live
 #EXTINF:-1,Тоха Стрим no 24/7 к/ф
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/toxa_stream_live
-#EXTINF:-1,Эра VHS no 24/ к/ф
+#EXTINF:-1,Эра VHS no 24/7 к/ф
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/era_vhs_live
 
@@ -930,6 +930,9 @@ http://kinowalk.hopto.org/vsetv_live
 #EXTINF:-1,Aisman м/ф
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/aisman_live
+#EXTINF:-1,EvGAMEN no 24/7 м/ф
+#EXTGRP:🎞️ Kinowalk Production
+http://kinowalk.hopto.org/evgamen_movies_live
 #EXTINF:-1,Dimpon TV м/ф
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/dimpon_live
@@ -939,6 +942,7 @@ http://kinowalk.hopto.org/filmvibes_live
 #EXTINF:-1,PartizaNka tv м/ф
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/partizanka_tv_live
+
 
 #EXTINF:-1,Baragozz_TV no 24/7 т/с
 #EXTGRP:🎞️ Kinowalk Production 
@@ -988,9 +992,6 @@ http://kinowalk.hopto.org/akudjitv_live
 #EXTINF:-1,Alex.Films no 24/7
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/alex.films_live
-#EXTINF:-1,EvGAMEN no 24/7
-#EXTGRP:🎞️ Kinowalk Production
-http://kinowalk.hopto.org/evgamen_movies_live
 #EXTINF:-1,Kinofon no 24/7
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/kinofon_live
