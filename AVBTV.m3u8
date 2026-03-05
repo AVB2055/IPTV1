@@ -851,12 +851,6 @@ http://kinowalk.hopto.org/kinowalk_live
 #EXTINF:-1,KinoMix Юрич к/ф
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/yurich_kinomix_live
-#EXTINF:-1,Maksim Films к/ф
-#EXTGRP:🎞️ Kinowalk Production
-http://kinowalk.hopto.org/mmaxim0vich_live
-#EXTINF:-1,ScripachTV к/ф
-#EXTGRP:🎞️ Kinowalk Production
-http://kinowalk.hopto.org/scripachtv_live
 #EXTINF:-1,KinoJam к/ф
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/kinojam_live
@@ -866,12 +860,18 @@ http://kinowalk.hopto.org/kinopro_live
 #EXTINF:-1,kinolampa no 24/7 к/ф
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/kinolampa_live
+#EXTINF:-1,Maksim Films к/ф
+#EXTGRP:🎞️ Kinowalk Production
+http://kinowalk.hopto.org/mmaxim0vich_live
 #EXTINF:-1,MovieToper к/ф
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/movietoper_live
 #EXTINF:-1,Prodigy no 24/7 к/ф
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/roman_prodigy_live
+#EXTINF:-1,ScripachTV к/ф
+#EXTGRP:🎞️ Kinowalk Production
+http://kinowalk.hopto.org/scripachtv_live
 #EXTINF:-1,TimeToMovie no 24/7 к/ф
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/timetomovie_live
@@ -981,18 +981,25 @@ http://kinowalk.hopto.org/vhs-forever_live
 http://kinowalk.hopto.org/videoserial_live
 
 
-#EXTINF:-1,Legion tv no 24/7
+
+#EXTINF:-1,Akudji no 24/7
 #EXTGRP:🎞️ Kinowalk Production
-https://kinowalk.hopto.org/legion-tv_live
-#EXTINF:-1,Kinofon no 24/7
-#EXTGRP:🎞️ Kinowalk Production
-http://kinowalk.hopto.org/kinofon_live
+http://kinowalk.hopto.org/akudjitv_live
 #EXTINF:-1,Alex.Films no 24/7
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/alex.films_live
 #EXTINF:-1,EvGAMEN no 24/7
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/evgamen_movies_live
+#EXTINF:-1,Kinofon no 24/7
+#EXTGRP:🎞️ Kinowalk Production
+http://kinowalk.hopto.org/kinofon_live
+#EXTINF:-1,Legion tv no 24/7
+#EXTGRP:🎞️ Kinowalk Production
+https://kinowalk.hopto.org/legion-tv_live
+#EXTINF:-1,Profeccor no 24/7
+#EXTGRP:🎞️ Kinowalk Production
+http://kinowalk.hopto.org/profeccor_live
 #EXTINF:-1,ROMEO Video no 24/7
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/romantic_live
@@ -1002,12 +1009,6 @@ http://kinowalk.hopto.org/reanimator_vhs_live
 #EXTINF:-1,ZubrilomFranchise no 24/7
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/zubrilommusic.ru_live
-#EXTINF:-1,Akudji no 24/7
-#EXTGRP:🎞️ Kinowalk Production
-http://kinowalk.hopto.org/akudjitv_live
-#EXTINF:-1,Profeccor no 24/7
-#EXTGRP:🎞️ Kinowalk Production
-http://kinowalk.hopto.org/profeccor_live
 
 
 #EXTINF:-1,Сити Эдем - КиноМистика
