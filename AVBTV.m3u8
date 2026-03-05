@@ -835,13 +835,13 @@ http://185.57.68.33:8091/237/playlist.m3u8
 #EXTGRP:🎞️КиноStream
 https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=SHsCMnRorfwMcPrJz9yoGg&e=2070104027&scheme=https
 #EXTINF:-1,Кинолаффка HD
-#EXTGRP:️🎞️КиноStream
+#EXTGRP:🎞️КиноStream
 https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=19TY0JRfXJzPhrZLaUHGGg&e=2067815807&scheme=https
 #EXTINF:-1,Киножелезо
 #EXTGRP:🎞️КиноStream
 https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=nVulkthwHvONsThcR6A38A&e=2070104121&scheme=https
 #EXTINF:-1,Киножелезо HD
-#EXTGRP:️🎞️КиноStream
+#EXTGRP:🎞️КиноStream
 https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=ef6_lx1jeE7fA4D_mGr-tQ&e=2067815807&scheme=https
 
 #EXTINF:-1,Kinowalk_tv
@@ -1237,6 +1237,7 @@ http://185.234.59.200:8080/SKY_HIGH_WOONDER_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,ZIPPY
 #EXTGRP:🎞️SKY HIGH
 http://185.234.59.200:8080/SKY_HIGH_ZIPPY_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
+
 
 
 
