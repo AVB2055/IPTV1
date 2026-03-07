@@ -3,9 +3,6 @@
 #EXTINF:-1,Первый канал HD
 #EXTGRP:🎞️Федеральные
 http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1,Первый канал HD
-#EXTGRP:🎞️Федеральные
-http://de.1usd.tv/ch001/mono.m3u8?token=1usdtv_sergmih.v2_AgNufSvrIt38emRONB35gC-Q0f8Fxe5MgKRmnpEwvhhsaP0wkp5u9Pvf9rAadZMOZXG5ql6qy24pJRK-Kg
 #EXTINF:-1,Россия 1 HD
 #EXTGRP:🎞️Федеральные
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
@@ -1238,6 +1235,33 @@ http://185.234.59.200:8080/SKY_HIGH_WOONDER_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,ZIPPY
 #EXTGRP:🎞️SKY HIGH
 http://185.234.59.200:8080/SKY_HIGH_ZIPPY_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
+
+#EXTINF:-1 tvg-id="cps-drama" tvg-logo="http://1lot.tv/ch/6833.png"  group-title="CPS"  group-title="CPS",CPS Drama
+http://srvru.play-x.ru:7799/channel/4934b7ff/index.m3u8?q=c7aa47d3087934dd957d4a2a729e221c
+#EXTINF:-1 tvg-id="cps-western" tvg-logo="http://1lot.tv/ch/6928.png"  group-title="CPS",CPS Western
+http://srvru.play-x.ru:7799/channel/n5930f316/index.m3u8?q=c7aa47d3087934dd957d4a2a729e221c
+#EXTINF:-1 tvg-id="cps-mix" tvg-logo="http://1lot.tv/ch/6930.png"  group-title="CPS",CPS Mix
+http://srvru.play-x.ru:7799/channel/n175d960c/index.m3u8?q=c7aa47d3087934dd957d4a2a729e221c
+#EXTINF:-1 tvg-id="cps-fiction" tvg-logo="http://1lot.tv/ch/6927.png"  group-title="CPS",CPS Fiction
+http://srvru.play-x.ru:7799/channel/297716ac/index.m3u8?q=c7aa47d3087934dd957d4a2a729e221c
+#EXTINF:-1 tvg-id="cps-comedy" tvg-logo="http://1lot.tv/ch/6929.png"  group-title="CPS",CPS Comedy
+http://srvru.play-x.ru:7799/channel/n24777fff/index.m3u8?q=c7aa47d3087934dd957d4a2a729e221c
+#EXTINF:-1 tvg-id="cps-anime" tvg-logo="http://1lot.tv/ch/7195.png"  group-title="CPS",CPS Anime
+http://srvru.play-x.ru:7799/channel/4908be0c/index.m3u8?q=c7aa47d3087934dd957d4a2a729e221c
+#EXTINF:-1 tvg-id="cps-action" tvg-logo="http://1lot.tv/ch/7196.png"  group-title="CPS",CPS Action
+http://srvru.play-x.ru:7799/channel/n28870c62/index.m3u8?q=c7aa47d3087934dd957d4a2a729e221c
+#EXTINF:-1 tvg-id="cps-ussr" tvg-logo="http://1lot.tv/ch/7658.png"  group-title="CPS",CPS USSR
+http://srvru.play-x.ru:7799/channel/2bae20c5/index.m3u8?q=c7aa47d3087934dd957d4a2a729e221c
+#EXTINF:-1 tvg-id="cps-fresh" tvg-logo="http://1lot.tv/ch/7664.png"  group-title="CPS",CPS Fresh
+http://srvru.play-x.ru:7799/channel/4950f6c6/index.m3u8?q=c7aa47d3087934dd957d4a2a729e221c
+#EXTINF:-1 tvg-id="cps-oscar" tvg-logo="http://1lot.tv/ch/7692.png"  group-title="CPS",CPS Oscar
+http://srvru.play-x.ru:7799/channel/49d03508/index.m3u8?q=c7aa47d3087934dd957d4a2a729e221c
+#EXTINF:-1 tvg-id="cps-mult" tvg-logo="http://1lot.tv/ch/7995.png"  group-title="CPS",CPS Cartoon
+http://srvru.play-x.ru:7799/channel/7df11706/index.m3u8?q=c7aa47d3087934dd957d4a2a729e221c
+#EXTINF:-1 tvg-id="cps-detective" tvg-logo="http://1lot.tv/ch/7996.png"  group-title="CPS",CPS Investigation
+http://srvru.play-x.ru:7799/channel/758ec89a/index.m3u8?q=c7aa47d3087934dd957d4a2a729e221c
+#EXTINF:-1 tvg-id="cps-jackie" tvg-logo="http://1lot.tv/ch/8003.png"  group-title="CPS",CPS Jackie Chan
+http://srvru.play-x.ru:7799/channel/n356b0931/index.m3u8?q=c7aa47d3087934dd957d4a2a729e221c
 
 
 
