@@ -835,7 +835,9 @@ https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=nV
 #EXTGRP:🎞️КиноStream
 https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=ef6_lx1jeE7fA4D_mGr-tQ&e=2067815807&scheme=https
 
-
+#EXTINF:-1,Akudji No 24/7 к/ф
+#EXTGRP:🎞️ Kinowalk Production
+http://kinowalk.hopto.org/akudjitv_live
 #EXTINF:-1,Alex.Films No 24/7
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/alex.films_live
@@ -893,7 +895,6 @@ http://kinowalk.hopto.org/wihail_live
 #EXTINF:-1,ZubrilomFilm к/ф
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/zubrilomfilm_live
-
 #EXTINF:-1,КОМЕДИИ No 24/7 к/ф
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/cmexye4ku_live
@@ -990,9 +991,6 @@ http://kinowalk.hopto.org/videoserial_live
 
 
 
-#EXTINF:-1,Akudji No 24/7
-#EXTGRP:🎞️ Kinowalk Production
-http://kinowalk.hopto.org/akudjitv_live
 #EXTINF:-1,Kinofon No 24/7
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/kinofon_live
@@ -1240,6 +1238,7 @@ http://185.234.59.200:8080/SKY_HIGH_WOONDER_FHD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,ZIPPY
 #EXTGRP:🎞️SKY HIGH
 http://185.234.59.200:8080/SKY_HIGH_ZIPPY_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
+
 
 
 
