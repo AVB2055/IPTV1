@@ -655,7 +655,7 @@ https://river-3-382.rtbcdn.ru/hls-vod/jChCImggCYMEUV25Ow-OcA/1772901967/2602/0x5
 #EXTINF:-1 tvg-logo="https://pic.rtbcdn.ru/video/2025-05-22/ef/81/ef8158414b9f696eda63f2741fe1ed4d.jpg" group-title="4K VIDEO (VPN)",Мышиная охота (1997)
 https://river-5-554.rtbcdn.ru/hls-vod/JmZetaRvCsm3KE0PZaT6hw/1772901969/2648/0x5000039ce861e005/72103dc6044f4ac8b1a2719d5f960e24.mp4.m3u8?i=3840x2080_12410
 
-#EXTINF:0,
+#EXTINF:0,Охота на воров 2: Пантера (2025)
 #EXTGRP:My Search
 https://c3-video.cmtv.ru/hm/uAHgZf-9t-0/eyJpZCI6IjJBTmdVc3RoLXdJIiwiY29kZWMiOiJoMjY0IiwidXNlclF1YWxpdHkiOltdLCJzZWNyZXQiOjE3NzI4NjQ4MzF9/index-f18-v1-a1.m3u8
 #EXTINF:0,300 спартанцев: Расцвет империи (2013)
@@ -3752,5 +3752,6 @@ http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vod
 #EXTINF:0,Я хочу вернуть тебя (2022)
 #EXTGRP:Кинофильмы
 http://streamer.enchart.one/film/42/76f82e70e20fd5d4e76613255f6b056bfc48c920/vodue/I_Want_You_Back_2022/stream.m3u8
+
 
 
