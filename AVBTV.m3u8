@@ -426,15 +426,6 @@ http://ip1.orgip.net/0201/video.m3u8?token=Ab2b7066c8
 #EXTINF:-1,NHL (Интересные моменты)
 #EXTGRP:🎞️Спортивные
 https://nhl-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1,Окко прайм
-#EXTGRP:🎞️Спортивные
-http://185.234.59.200:8080/okko_praym_sport_hd/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,окко спорт
-#EXTGRP:🎞️Спортивные
-http://185.234.59.200:8080/okko_sport_hd/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,окко футбол
-#EXTGRP:🎞️Спортивные
-http://185.234.59.200:8080/okko_futbol_hd/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,Red Bull HD
 #EXTGRP:🎞️Спортивные
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
@@ -465,12 +456,6 @@ https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=RP
 #EXTINF:-1,Матч! HD
 #EXTGRP:🎞️Спортивные
 http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
-#EXTINF:-1,МАТЧ! БОЕЦ
-#EXTGRP:🎞️Спортивные
-http://185.234.59.200:8080/match_boets_hd/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Мир Баскетбола
-#EXTGRP:🎞️Спортивные
-http://185.234.59.200:8080/mir_basketbola_hd/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,Спортивный HD
 #EXTGRP:🎞️Спортивные
 http://live-3.otcnet.ru/sportivny/index.m3u8
@@ -500,9 +485,6 @@ http://188.225.31.197/bpk-tv/000004365/tve/index.m3u8
 #EXTINF:-1,Детский мир HD
 #EXTGRP:🎞️Детские
 http://188.225.31.197/bpk-tv/000000049/tve/index.m3u8
-#EXTINF:-1,Капитан фантастика
-#EXTGRP:🎞️Детские
-http://185.234.59.200:8080/kapitan_fantastika_hd/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1,Ключайка
 #EXTGRP:🎞️Детские
 https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=QltsCpJv4zS2J2PXJe5VOg&e=2070450958&scheme=https
@@ -654,6 +636,12 @@ http://188.225.31.197/bpk-tv/000000710/tve/index.m3u8
 #EXTINF:-1,ATV Bazmoc
 #EXTGRP:🎞️Фильмы&Сериалы
 http://109.68.122.117:8899/bazmoc
+#EXTINF:-1,Bcu premiere 2
+#EXTGRP:🎞️Фильмы&Сериалы
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11016/index.m3u8
+#EXTINF:-1,Bcu premiere 3
+#EXTGRP:🎞️Фильмы&Сериалы
+http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11017/index.m3u8
 #EXTINF:-1,FOX HD
 #EXTGRP:🎞️Фильмы&Сериалы
 http://188.225.31.197/bpk-tv/000004472/tve/index.m3u8
@@ -859,6 +847,12 @@ http://kinowalk.hopto.org/kinopro_live
 #EXTINF:-1,kinolampa No 24/7 к/ф
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/kinolampa_live
+#EXTINF:-1,Kinofon No 24/7 к/ф
+#EXTGRP:🎞️ Kinowalk Production
+http://kinowalk.hopto.org/kinofon_live
+#EXTINF:-1,Legion tv No 24/7 к/ф
+#EXTGRP:🎞️ Kinowalk Production
+https://kinowalk.hopto.org/legion-tv_live
 #EXTINF:-1,Maksim Films к/ф
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/mmaxim0vich_live
@@ -868,6 +862,9 @@ http://kinowalk.hopto.org/movietoper_live
 #EXTINF:-1,Prodigy No 24/7 к/ф
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/roman_prodigy_live
+#EXTINF:-1,ReanimatoR_VHS No 24/7 к/ф
+#EXTGRP:🎞️ Kinowalk Production
+http://kinowalk.hopto.org/reanimator_vhs_live к/ф
 #EXTINF:-1,ScripachTV к/ф
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/scripachtv_live
@@ -987,23 +984,12 @@ http://kinowalk.hopto.org/vhs-forever_live
 http://kinowalk.hopto.org/videoserial_live
 
 
-
-#EXTINF:-1,Kinofon No 24/7
-#EXTGRP:🎞️ Kinowalk Production
-http://kinowalk.hopto.org/kinofon_live
-#EXTINF:-1,Legion tv No 24/7
-#EXTGRP:🎞️ Kinowalk Production
-https://kinowalk.hopto.org/legion-tv_live
 #EXTINF:-1,Profeccor No 24/7
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/profeccor_live
-#EXTINF:-1,ReanimatoR_VHS No 24/7
-#EXTGRP:🎞️ Kinowalk Production
-http://kinowalk.hopto.org/reanimator_vhs_live
 #EXTINF:-1,ZubrilomFranchise No 24/7
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/zubrilommusic.ru_live
-
 
 #EXTINF:-1,Сити Эдем - КиноМистика
 #EXTGRP:🎞️Сити Эдем
@@ -1023,9 +1009,6 @@ https://cityeden.catcast.tv/content/41333/index.m3u8?token=474cd86e39467c9dfaa93
 #EXTINF:-1,Сити Эдем - КиноДетектив
 #EXTGRP:🎞️Сити Эдем
 https://cityeden.catcast.tv/content/41327/index.m3u8?token=b4165148a2a733cb7ed075023297d583
-#EXTINF:-1,Сити Эдем - КиноАрт
-#EXTGRP:🎞️Сити Эдем
-https://cityeden.catcast.tv/content/38398/index.m3u8?token=8bf1c1fd44f97f9b58fab4a266a4567e
 #EXTINF:-1,Сити Эдем - КиноФантастика
 #EXTGRP:🎞️Сити Эдем
 https://cityeden.catcast.tv/content/45268/index.m3u8?token=83cbe0179bd863b7c1acb9894d7c7ba6
@@ -1033,204 +1016,5 @@ https://cityeden.catcast.tv/content/45268/index.m3u8?token=83cbe0179bd863b7c1acb
 #EXTGRP:🎞️Сити Эдем
 https://cityeden.catcast.tv/content/45269/index.m3u8?token=28470f31cea5990d1be54eb04a48514a
 
-
-#EXTINF:-1,Bcu cinema
-#EXTGRP:🎞️BCU
-http://185.234.59.200:8080/BCU_Cinema_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Bcu cinema+
-#EXTGRP:🎞️BCU
-http://185.234.59.200:8080/BCU_Cinema_Plus_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Bcu Comedy
-#EXTGRP:🎞️BCU
-http://185.234.59.200:8080/BCU_Comedy_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Bcu criminal
-#EXTGRP:🎞️BCU
-http://185.234.59.200:8080/BCU_Criminal_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Bcu Fantastic
-#EXTGRP:🎞️BCU
-http://185.234.59.200:8080/BCU_Fantastic_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Bcu Film
-#EXTGRP:🎞️BCU
-http://185.234.59.200:8080/BCU_FilMystic_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Bcu History
-#EXTGRP:🎞️BCU
-http://185.234.59.200:8080/BCU_History_HD/video.m3u8?token=5uGLTS1oibSIu
-#EXTINF:-1,Bcu kids
-#EXTGRP:🎞️BCU
-http://185.234.59.200:8080/BCU_Kids_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Bcu kids+
-#EXTGRP:🎞️BCU
-http://185.234.59.200:8080/BCU_Kids_Plus_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Bcu Kinorating
-#EXTGRP:🎞️BCU
-http://185.234.59.200:8080/BCU_Kinorating_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Bcu Marvel
-#EXTGRP:🎞️BCU
-http://185.234.59.200:8080/BCU_Marvel_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Bcu premiere 2
-#EXTGRP:🎞️BCU
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11016/index.m3u8
-#EXTINF:-1,Bcu Premiere
-#EXTGRP:🎞️BCU
-http://185.234.59.200:8080/BCU_Premiere_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Bcu premiere 3
-#EXTGRP:🎞️BCU
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11017/index.m3u8
-#EXTINF:-1,Bcu Romantic
-#EXTGRP:🎞️BCU
-http://185.234.59.200:8080/BCU_Romantic_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Bcu Ruserial
-#EXTGRP:🎞️BCU
-http://185.234.59.200:8080/BCU_RUSERIAL_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Bcu Russian
-#EXTGRP:🎞️BCU
-http://185.234.59.200:8080/BCU_Russian_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Bcu Stars
-#EXTGRP:🎞️BCU
-http://185.234.59.200:8080/BCU_Stars_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Bcu Survial
-#EXTGRP:🎞️BCU
-http://185.234.59.200:9090/channel/n794d8763/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Bcu trumotion
-#EXTGRP:🎞️BCU
-http://185.234.59.200:9090/channel/3dada88d/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
-#EXTINF:-1,Bcu ultrA
-#EXTGRP:🎞️BCU
-http://185.234.59.200:8080/BCU_Ultra_4K/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Bcu VHS
-#EXTGRP:🎞️BCU
-http://185.234.59.200:8080/BCU_VHS_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Bcu Кинозал 3
-#EXTGRP:🎞️BCU
-http://185.234.59.200:8080/BCU_Kinozal_Premiere_3_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Bcu СССР
-#EXTGRP:🎞️BCU
-http://185.234.59.200:8080/BCU_USSR_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Bcu кинозал
-#EXTGRP:🎞️BCU
-http://185.234.59.200:8080/BCU_Kinozal_Premiere_1_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Bcu кинозал 2
-#EXTGRP:🎞️BCU
-http://185.234.59.200:8080/BCU_Kinozal_Premiere_2_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Bcu медиа
-#EXTGRP:🎞️BCU
-http://185.234.59.200:8080/BCUMEDIA_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Bcu мультсериал
-#EXTGRP:🎞️BCU
-http://185.234.59.200:8080/BCU_Multserial_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Bcu сваты
-#EXTGRP:🎞️BCU
-http://185.234.59.200:8080/BCU_Svaty_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Катастрофы
-#EXTGRP:🎞️BCU
-http://185.234.59.200:8080/BCU_Catastrophe_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Archive
-#EXTGRP:🎞️SKY HIGH
-http://185.234.59.200:8080/SKY_HIGH_ARCHIVE_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Bat
-#EXTGRP:🎞️SKY HIGH
-http://185.234.59.200:8080/SKY_HIGH_BAT_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Boom
-#EXTGRP:🎞️SKY HIGH
-http://185.234.59.200:8080/SKY_HIGH_BOOM_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Brain
-#EXTGRP:🎞️SKY HIGH
-http://185.234.59.200:8080/SKYHIGHBRAINFHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Brick
-#EXTGRP:🎞️SKY HIGH
-http://185.234.59.200:8080/SKY_HIGH_BRICK_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Case
-#EXTGRP:🎞️SKY HIGH
-http://185.234.59.200:8080/SKY_HIGH_CASE_VHS_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Civil
-#EXTGRP:🎞️SKY HIGH
-http://185.234.59.200:8080/SKY_HIGH_CIVIL_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Dragon
-#EXTGRP:🎞️SKY HIGH
-http://185.234.59.200:8080/SKY_HIGH_DRAGON_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Dusts
-#EXTGRP:🎞️SKY HIGH
-http://185.234.59.200:8080/SKY_HIGH_DUST_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Fear
-#EXTGRP:🎞️SKY HIGH
-http://185.234.59.200:8080/SKY_HIGH_FEAR_VHS_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Firezone
-#EXTGRP:🎞️SKY HIGH
-http://185.234.59.200:8080/SKY_HIGH_FIREZONE_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Future
-#EXTGRP:🎞️SKY HIGH
-http://185.234.59.200:8080/SKY_HIGH_FUTURE_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,GunRush
-#EXTGRP:🎞️SKY HIGH
-http://185.234.59.200:8080/SKY_HIGH_GUNRUSH_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Heart
-#EXTGRP:🎞️SKY HIGH
-http://185.234.59.200:8080/SKY_HIGH_HEART_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Jetix
-#EXTGRP:🎞️SKY HIGH
-http://185.234.59.200:8080/SKY_HIGH_JETIX_HD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Joke
-#EXTGRP:🎞️SKY HIGH
-http://185.234.59.200:8080/SKY_HIGH_JOKE_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Junior
-#EXTGRP:🎞️SKY HIGH
-http://185.234.59.200:8080/SKY_HIGH_JUNIOR_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Lofi
-#EXTGRP:🎞️SKY HIGH
-http://185.234.59.200:8080/SKY_HIGH_LO_FIHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Medy
-#EXTGRP:🎞️SKY HIGH
-http://185.234.59.200:8080/SKY_HIGH_MEDY_VHS_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Mydoc
-#EXTGRP:🎞️SKY HIGH
-http://185.234.59.200:8080/SKY_HIGH_DOC_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Nature
-#EXTGRP:🎞️SKY HIGH
-http://185.234.59.200:8080/SKY_HIGH_NATURE_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Neon
-#EXTGRP:🎞️SKY HIGH
-http://185.234.59.200:8080/SKY_HIGH_NEON_VHS_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Nick
-#EXTGRP:🎞️SKY HIGH
-http://185.234.59.200:8080/SKY_HIGH_NICK_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,quants
-#EXTGRP:🎞️SKY HIGH
-http://185.234.59.200:8080/SKY_HIGH_QUANT_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Red s
-#EXTGRP:🎞️SKY HIGH
-http://185.234.59.200:8080/SKY_HIGH_RED_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Scream
-#EXTGRP:🎞️SKY HIGH
-http://185.234.59.200:8080/SKY_HIGH_SCREAM_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Space
-#EXTGRP:🎞️SKY HIGH
-http://185.234.59.200:8080/SKY_HIGH_SPACE_4K_HDR/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Strike
-#EXTGRP:🎞️SKY HIGH
-http://185.234.59.200:8080/SKY_HIGH_STRIKE_VHS_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Teen
-#EXTGRP:🎞️SKY HIGH
-http://185.234.59.200:8080/SKY_HIGH_TEEN_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Tanos
-#EXTGRP:🎞️SKY HIGH
-http://185.234.59.200:8080/SKY_HIGH_TANOS_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Toon
-#EXTGRP:🎞️SKY HIGH
-http://185.234.59.200:8080/SKY_HIGH_TOON_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Trace
-#EXTGRP:🎞️SKY HIGH
-http://185.234.59.200:8080/SKY_HIGH_TRACE_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Votum
-#EXTGRP:🎞️SKY HIGH
-http://185.234.59.200:8080/SKY_HIGH_VOTUM_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Wizz s
-#EXTGRP:🎞️SKY HIGH
-http://185.234.59.200:8080/SKY_HIGH_WIZZ_VHS_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,Woonder
-#EXTGRP:🎞️SKY HIGH
-http://185.234.59.200:8080/SKY_HIGH_WOONDER_FHD/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1,ZIPPY
-#EXTGRP:🎞️SKY HIGH
-http://185.234.59.200:8080/SKY_HIGH_ZIPPY_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
 
 
