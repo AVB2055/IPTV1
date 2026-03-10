@@ -89,7 +89,7 @@ https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e01
 https://video.govoritmoskva.ru/rufm/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ТАСС HD
 #EXTGRP:🎞️Новостные
-https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m
+https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 #EXTINF:-1,EuroNews Ru
 #EXTGRP:🎞️Новостные
 http://188.225.31.197/bpk-tv/000000025/tve/index.m3u8
@@ -1457,6 +1457,7 @@ https://video1.getstreamhosting.com:1936/8006/8006/playlist.m3u8
 http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,Радио Kids FM
 https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/tracks-v1a1/mono.m3u8?hls_proxy_host=f4eb0d287702d48f6bbf6e6f56891e63
+
 
 
 
