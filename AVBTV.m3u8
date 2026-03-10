@@ -89,7 +89,7 @@ https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e01
 https://video.govoritmoskva.ru/rufm/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ТАСС HD
 #EXTGRP:🎞️Новостные
-https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m
+https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 #EXTINF:-1,EuroNews Ru
 #EXTGRP:🎞️Новостные
 http://188.225.31.197/bpk-tv/000000025/tve/index.m3u8
@@ -153,9 +153,6 @@ https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=0P
 #EXTINF:-1,Terra HD
 #EXTGRP:🎞️Познавательные
 http://188.225.31.197/bpk-tv/000008142/tve/index.m3u8
-#EXTINF:-1,TLC
-#EXTGRP:🎞️Познавательные
-http://176.118.197.125/TLC-HD/index.m3u8
 #EXTINF:-1,TV BRICS HD
 #EXTGRP:🎞️Познавательные
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
@@ -336,9 +333,6 @@ https://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
 #EXTINF:-1,НТВ конкурс Ты супер ! HD
 #EXTGRP:🎞️Развлекательные
 https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1,Сарафан
-#EXTGRP:🎞️Развлекательные
-http://176.118.197.125/Sarafan/index.m3u8
 #EXTINF:-1,ТНТ4 HD
 #EXTGRP:🎞️Развлекательные
 https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=uwhizdZPB-2J2x80Ov49_A&e=2067815802&scheme=https
@@ -372,9 +366,6 @@ https://kino-stream.online/hls/DTRMUSIC1.m3u8
 #EXTINF:-1,Fonbet Music
 #EXTGRP:🎞️Музыкальные
 http://uiptv.do.am/1ufc/603282189/playlist.m3u8
-#EXTINF:-1,Gabbarit Anthem
-#EXTGRP:🎞️Музыкальные
-http://s.only4.tv/9425/video.m3u8?token=fWKpoaHaSj
 #EXTINF:-1,Infinity
 #EXTGRP:🎞️Музыкальные
 https://live20.bozztv.com/giatvplayout7/ushba-t2/tracks-v1a1/mono.ts.m3u8
@@ -590,6 +581,15 @@ http://188.225.31.197/bpk-tv/000004466/tve/index.m3u8
 #EXTINF:-1,Hollywood HD
 #EXTGRP:🎞️Фильмы&Сериалы
 https://tinyurl.com/45x3xrpm/chid421/mpegts
+#EXTINF:-1,IPTVPLAY ФАНТАСТИКА
+#EXTGRP:🎞️Фильмы&Сериалы
+http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1,IPTVPLAY ПАМЯТЬ
+#EXTGRP:🎞️Фильмы&Сериалы
+http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1,IPTVPLAY УЖАСТИК
+#EXTGRP:🎞️Фильмы&Сериалы
+http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1,MYTV HIT
 #EXTGRP:🎞️Фильмы&Сериалы
 http://tinyurl.com/TvZaTak37/MyTV_Hit/video.m3u8?token=freeportal&token=a1ecd668e05f5ce07c81130c9d7fb362
@@ -704,6 +704,9 @@ http://188.225.31.197/bpk-tv/000000709/tve/index.m3u8
 #EXTINF:-1,ATV Armenia Premium 6
 #EXTGRP:🎞️Фильмы&Сериалы
 http://timeshift.arpinet.am/255/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,Arpinet
+#EXTGRP:🎞️Фильмы&Сериалы
+http://timeshift.arpinet.am/237/index.m3u8
 #EXTINF:-1,Кинодром
 #EXTGRP:🎞️Фильмы&Сериалы
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31714/index.m3u8
@@ -1269,8 +1272,6 @@ http://minsk-cache07t.voka.tv/live/9489-req_5k_v5.m3u8
 http://minsk-cache07t.voka.tv/live/3870-req_5k_v5.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы Тест 🔴" ,Konul Tv
 http://live.mediabaytv.workers.dev/?ID=715
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы Тест 🔴" ,Arpinet
-http://timeshift.arpinet.am/237/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы Тест 🔴" ,Kinoliving
 https://tinyurl.com/45x3xrpm/chid413/mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы Тест 🔴" ,Novella TV
@@ -1293,24 +1294,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/scripachmovie/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vxvChLq8/image-34.png" tvg-id="" group-title="🔴 Кинозалы Тест 🔴", Kino 24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title="🔴 IPTVPLAY 🔴" , IPTVPLAY Промо
-http://5.188.158.65:4040/IPTVPLAYPromo.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title="🔴 IPTVPLAY 🔴" , IPTVPLAY ВЕДЬМАК
-http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title="🔴 IPTVPLAY 🔴" , IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО
-http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title="🔴 IPTVPLAY 🔴" , IPTVPLAY ИНТЕРНЫ
-http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title="🔴 IPTVPLAY 🔴" ,IPTVPLAY ФАНТАСТИКА
-http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title="🔴 IPTVPLAY 🔴" ,IPTVPLAY ПАМЯТЬ
-http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title="🔴 IPTVPLAY 🔴" ,IPTVPLAY УЖАСТИК
-http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title="🔴 IPTVPLAY 🔴", IPTVPLAY Великая Отечественная HD
-http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title="🔴 IPTVPLAY 🔴", IPTVPLAY TEST HD
-http://5.188.158.65:4040/IPTVPLAYTEST.tv/video.m3u8?token=lqRGka5-YwwqF0
+
+
+
 
 
 
