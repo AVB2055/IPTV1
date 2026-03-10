@@ -89,7 +89,7 @@ https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e01
 https://video.govoritmoskva.ru/rufm/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ТАСС HD
 #EXTGRP:🎞️Новостные
-https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
+https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m
 #EXTINF:-1,EuroNews Ru
 #EXTGRP:🎞️Новостные
 http://188.225.31.197/bpk-tv/000000025/tve/index.m3u8
@@ -534,6 +534,12 @@ http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 #EXTINF:-1,ATV CineMan HD
 #EXTGRP:🎞️Фильмы&Сериалы
 http://185.57.68.33:80/255/index.m3u8
+#EXTINF:-1,alpha MoreTime
+#EXTGRP:🎞️Фильмы&Сериалы
+https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd_output_0.m3u8?session=4AoZN7Rxw59jYpjVBmY4th
+#EXTINF:-1,Alpha Moretime
+#EXTGRP:🎞️Фильмы&Сериалы
+http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:-1,BEST
 #EXTGRP:🎞️Фильмы&Сериалы
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/20165/index.m3u8
@@ -561,6 +567,12 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/19408/ind
 #EXTINF:-1,MYTV 3
 #EXTGRP:🎞️Фильмы&Сериалы
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/19411/index.m3u8
+#EXTINF:-1,TvBoom.ViP
+#EXTGRP:🎞️Фильмы&Сериалы
+https://kb.catcast.tv/content/49702/index.m3u8
+#EXTINF:-1,TV Boom
+#EXTGRP:🎞️Фильмы&Сериалы
+https://kinostreammedia.hopto.org/tvboom-vip/index.m3u8
 #EXTINF:-1,viju TV1000 action
 #EXTGRP:🎞️Фильмы&Сериалы
 http://188.225.31.197/bpk-tv/000003910/tve/index.m3u8
@@ -612,6 +624,27 @@ http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/9020/index.m3u8
 #EXTINF:-1,КИНОХИТ
 #EXTGRP:🎞️Фильмы&Сериалы
 http://ip1.orgip.net/608/video.m3u8?token=Ab2b7066c8
+#EXTINF:-1,Кино Без Границ
+#EXTGRP:🎞️Фильмы&Сериалы
+http://185.57.68.33:8091/237/playlist.m3u8
+#EXTINF:-1,Кинолаффка
+#EXTGRP:🎞️Фильмы&Сериалы
+https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=SHsCMnRorfwMcPrJz9yoGg&e=2070104027&scheme=https
+#EXTINF:-1,Кинолаффка HD
+#EXTGRP:🎞️Фильмы&Сериалы
+https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=19TY0JRfXJzPhrZLaUHGGg&e=2067815807&scheme=https
+#EXTINF:-1,Кинолаффка HD
+#EXTGRP:🎞️Фильмы&Сериалы
+https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=2ANj0RhjI1hrAkz7Jd83ZQ&e=2069068452&scheme=https
+#EXTINF:-1,Киножелезо
+#EXTGRP:🎞️Фильмы&Сериалы
+https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=nVulkthwHvONsThcR6A38A&e=2070104121&scheme=https
+#EXTINF:-1,Киножелезо HD
+#EXTGRP:🎞️Фильмы&Сериалы
+https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=ef6_lx1jeE7fA4D_mGr-tQ&e=2067815807&scheme=https
+#EXTINF:-1,Киножелезо HD
+#EXTGRP:🎞️Фильмы&Сериалы
+https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=gMBYxSllxsSYVvLG71o4eg&e=2066519765&scheme=https
 #EXTINF:-1,Мировое Кино
 #EXTGRP:🎞️Фильмы&Сериалы
 http://188.225.31.197/bpk-tv/000008488/tve/index.m3u8
@@ -654,6 +687,9 @@ http://188.225.31.197/bpk-tv/000004472/tve/index.m3u8
 #EXTINF:-1,FOX Life HD
 #EXTGRP:🎞️Фильмы&Сериалы
 http://188.225.31.197/bpk-tv/000004471/tve/index.m3u8
+#EXTINF:-1,NSC
+#EXTGRP:🎞️Фильмы&Сериалы
+https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210_output_0.m3u8?session=bomhMGCHEtND9D3hX7kb4M
 #EXTINF:-1,Start World HD
 #EXTGRP:🎞️Фильмы&Сериалы
 http://188.225.31.197/bpk-tv/000007818/tve/index.m3u8
@@ -663,9 +699,21 @@ http://188.225.31.197/bpk-tv/000004375/tve/index.m3u8
 #EXTINF:-1,Дорама
 #EXTGRP:🎞️Фильмы&Сериалы
 http://188.225.31.197/bpk-tv/000003392/tve/index.m3u8
+#EXTINF:-1,ЗОВ ТВ
+#EXTGRP:🎞️Фильмы&Сериалы
+https://live20.bozztv.com/giatv/giatv-tvzovlivestream/tvzovlivestream/chunks.m3u8
+#EXTINF:-1,ЗОВ ТВ Black
+#EXTGRP:🎞️Фильмы&Сериалы
+https://live20.bozztv.com/giatv/giatv-tvzovBlackstream/tvzovBlackstream/chunks.m3u8
+#EXTINF:-1,ЗОВ ТВ RED
+#EXTGRP:🎞️Фильмы&Сериалы
+https://live20.bozztv.com/giatv/giatv-tvzov%20RED/tvzov%20RED/chunks.m3u8
 #EXTINF:-1,Кинеко HD
 #EXTGRP:🎞️Фильмы&Сериалы
 http://188.225.31.197/bpk-tv/000008136/tve/index.m3u8
+#EXTINF:-1,Новый Русский 
+#EXTGRP:🎞️Фильмы&Сериалы
+https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1_output_0.m3u8?session=U3YFrmmaaXDngd96fHTti7
 #EXTINF:-1,НТВ Сериал HD
 #EXTGRP:🎞️Фильмы&Сериалы
 https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
@@ -788,55 +836,6 @@ https://telluri.ru/video/tr-and/335.m3u8
 #EXTINF:-1,НТВ Сериал
 #EXTGRP:🎞️Кинозалы от TELLURI
 https://telluri.ru/video/cog-dl/2065.m3u8
-
-#EXTINF:-1,alpha MoreTime
-#EXTGRP:🎞️КиноStream
-https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd_output_0.m3u8?session=4AoZN7Rxw59jYpjVBmY4th
-#EXTINF:-1,Alpha Moretime
-#EXTGRP:🎞️КиноStream
-http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
-#EXTINF:-1,NSC
-#EXTGRP:🎞️КиноStream
-https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210_output_0.m3u8?session=bomhMGCHEtND9D3hX7kb4M
-#EXTINF:-1,Новый Русский 
-#EXTGRP:🎞️КиноStream
-https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1_output_0.m3u8?session=U3YFrmmaaXDngd96fHTti7
-#EXTINF:-1,TvBoom.ViP
-#EXTGRP:🎞️КиноStream
-https://kb.catcast.tv/content/49702/index.m3u8
-#EXTINF:-1,TV Boom
-#EXTGRP:🎞️КиноStream
-https://kinostreammedia.hopto.org/tvboom-vip/index.m3u8
-#EXTINF:-1,ЗОВ ТВ
-#EXTGRP:🎞️КиноStream
-https://live20.bozztv.com/giatv/giatv-tvzovlivestream/tvzovlivestream/chunks.m3u8
-#EXTINF:-1,ЗОВ ТВ Black
-#EXTGRP:🎞️КиноStream
-https://live20.bozztv.com/giatv/giatv-tvzovBlackstream/tvzovBlackstream/chunks.m3u8
-#EXTINF:-1,ЗОВ ТВ RED
-#EXTGRP:🎞️КиноStream
-https://live20.bozztv.com/giatv/giatv-tvzov%20RED/tvzov%20RED/chunks.m3u8
-#EXTINF:-1,Кино Без Границ
-#EXTGRP:🎞️КиноStream
-http://185.57.68.33:8091/237/playlist.m3u8
-#EXTINF:-1,Кинолаффка
-#EXTGRP:🎞️КиноStream
-https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=SHsCMnRorfwMcPrJz9yoGg&e=2070104027&scheme=https
-#EXTINF:-1,Кинолаффка HD
-#EXTGRP:🎞️КиноStream
-https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=19TY0JRfXJzPhrZLaUHGGg&e=2067815807&scheme=https
-#EXTINF:-1,Кинолаффка HD
-#EXTGRP:🎞️КиноStream
-https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=2ANj0RhjI1hrAkz7Jd83ZQ&e=2069068452&scheme=https
-#EXTINF:-1,Киножелезо
-#EXTGRP:🎞️КиноStream
-https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=nVulkthwHvONsThcR6A38A&e=2070104121&scheme=https
-#EXTINF:-1,Киножелезо HD
-#EXTGRP:🎞️КиноStream
-https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=ef6_lx1jeE7fA4D_mGr-tQ&e=2067815807&scheme=https
-#EXTINF:-1,Киножелезо HD
-#EXTGRP:🎞️КиноStream
-https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=gMBYxSllxsSYVvLG71o4eg&e=2066519765&scheme=https
 
 #EXTINF:-1,Akudji No 24/7 к/ф
 #EXTGRP:🎞️ Kinowalk Production
@@ -1457,8 +1456,6 @@ https://video1.getstreamhosting.com:1936/8006/8006/playlist.m3u8
 http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,Радио Kids FM
 https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/tracks-v1a1/mono.m3u8?hls_proxy_host=f4eb0d287702d48f6bbf6e6f56891e63
-
-
 
 
 
