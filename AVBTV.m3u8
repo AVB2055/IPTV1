@@ -89,7 +89,13 @@ https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e01
 https://video.govoritmoskva.ru/rufm/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ТАСС HD
 #EXTGRP:🎞️Новостные
-https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
+https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m
+#EXTINF:-1,EuroNews Ru
+#EXTGRP:🎞️Новостные
+http://188.225.31.197/bpk-tv/000000025/tve/index.m3u8
+#EXTINF:-1,EuroNews
+#EXTGRP:🎞️Новостные
+https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8
 #EXTINF:-1,RTVi HD
 #EXTGRP:🎞️Новостные
 http://188.225.31.197/bpk-tv/000000039/tve/index.m3u8
@@ -150,9 +156,6 @@ http://188.225.31.197/bpk-tv/000008142/tve/index.m3u8
 #EXTINF:-1,TLC
 #EXTGRP:🎞️Познавательные
 http://176.118.197.125/TLC-HD/index.m3u8
-#EXTINF:-1,Travel+Adventure HD
-#EXTGRP:🎞️Познавательные
-http://77.232.131.211/TravelAdventureHD/index.m3u8
 #EXTINF:-1,TV BRICS HD
 #EXTGRP:🎞️Познавательные
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
@@ -384,9 +387,6 @@ http://89.179.247.144/hls/mixm.m3u8
 #EXTINF:-1,radio m2o HD
 #EXTGRP:🎞️Музыкальные
 http://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1728000.m3u8
-#EXTINF:-1,О!2
-#EXTGRP:🎞️Музыкальные
-http://77.232.131.211/O2TV/index.m3u8
 #EXTINF:-1,Viva Russia
 #EXTGRP:🎞️Музыкальные
 https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=DMmpli1WIQUocDbjCe_9Cg&e=2070450963&scheme=https
@@ -396,9 +396,6 @@ https://live20.bozztv.com/giatvplayout7/ushba-mafia/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Страна FM HD
 #EXTGRP:🎞️Музыкальные
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1,Страна FM
-#EXTGRP:🎞️Музыкальные
-http://live.stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
 #EXTINF:-1,Сан Франциско
 #EXTGRP:🎞️Музыкальные
 http://204.199.3.2/.m3u8
@@ -801,7 +798,7 @@ https://live20.bozztv.com/giatv/giatv-tvzovBlackstream/tvzovBlackstream/chunks.m
 #EXTINF:-1,ЗОВ ТВ RED
 #EXTGRP:🎞️КиноStream
 https://live20.bozztv.com/giatv/giatv-tvzov%20RED/tvzov%20RED/chunks.m3u8
-#EXTINF:-1,Кинозал
+#EXTINF:-1,Кино Без Границ
 #EXTGRP:🎞️КиноStream
 http://185.57.68.33:8091/237/playlist.m3u8
 #EXTINF:-1,Кинолаффка
@@ -988,6 +985,191 @@ http://kinowalk.hopto.org/profeccor_live
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/zubrilommusic.ru_live
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??", VHS кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/and7610_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??", Егор Егорыч
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/yegor_yegorych_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??", У КРАЯ БЕЗДНЫ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/ddator_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??", БезНика
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/522_137_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??", InMuNa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/inmuna_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??", Музыка и фильмы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/diktos33_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??", BOSSFILM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/bossfilm_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??", VAG KINO 164
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/vagner164_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??", seriavaleria
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/seriavaleria_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??", HyBteX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/hybtex_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??", SеVаNz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/sevanz_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??",Фильмы НОВИНКИ Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/mir.kinoxi_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??", LysOFF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/lysoff_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??",MrsDOOmKa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/mrsdoomka_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??", KrotFa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/krotfa_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??", GUWi_TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/guwi_tv_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??", _PhoENIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/phoenix3345_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??", Димитрон фильм
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/dondimitron_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??", KINO-TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/strannik1177_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??", Lisfix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/lisfix_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??", Сериальный мир
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/serials2025_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??", DeVchatA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/devchata_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??", КИНО СТРИМ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/kinostreamlive_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??", Argo_13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/argo_13_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??", 3JIou TaTapuH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/3jiou_tatapuh_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??", natanatty
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/nata.natty_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??", Kycman
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/kycman_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??", Astrix116
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/astrix116_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??", Осторожно Модерн 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/ostorozhnomodern2_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??", 33 квадратных метра
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/33metra_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??", ПикаБУ!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/pipa39_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??", Snoochies Boochies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/sinema_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??", Wfliq
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/wfliq_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??", СВЯТОЙ LIVE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/misha.sdyt_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??", не Кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/notnotes_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??", VHS Power
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/noir_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??", АPRICUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/apricus_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??", IGROComp Films
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/igrocomp_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??", BOH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/boh_music_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??",Кинохунос
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/kinokunos_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??", Кинотека FULL_HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/kinoteka_full_hd_top_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??", Назад в СССР
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/backtotheussr_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??", FGS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/dscb_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??", AASS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/aaasss_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??", Solo ink
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/soloink_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??", MAX LIVЕ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/maximum_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??", КИНО05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://kinowalk.hopto.org/kino05_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??", Первый ряд
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://kinowalk.hopto.org/perviryad_live%20
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??",dj Zour
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://kinowalk.hopto.org/zsmedia_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??", Тоха Киноман
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://kinowalk.hopto.org/kinomania_stream_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??",КИНОУЖАС HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://kinowalk.hopto.org/kinouzhas_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??", deamonnit093
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://kinowalk.hopto.org/deamonnit093_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??", Коновал ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://kinowalk.hopto.org/www.konoval_tv_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??", aleksey_24RUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://kinowalk.hopto.org/aleksey_24rus_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="?? Кинозалы ??", Игрун 1997
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://kinowalk.hopto.org/igrun1997_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="?? Кинозалы ??" , Cinema Time FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/cinematime_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="?? Кинозалы ??" , Disney XD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/disneyxd_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="?? Кинозалы ??" , ZumiBox
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/zumibox_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="?? Кинозалы ??" , Play 4 Fun
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/play4fun_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="?? Кинозалы ??" ,Мультфильмы 24/7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/mezontrop_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="?? Кинозалы ??" , FoxKids-Remastered
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kinowalk.hopto.org/foxkids_remastered_live
+
 #EXTINF:-1,Сити Эдем - КиноМистика
 #EXTGRP:🎞️Сити Эдем
 https://cityeden.catcast.tv/content/40783/index.m3u8?token=4553db048605eecf46c822b88833ce1d
@@ -1013,88 +1195,294 @@ https://cityeden.catcast.tv/content/45268/index.m3u8?token=83cbe0179bd863b7c1acb
 #EXTGRP:🎞️Сити Эдем
 https://cityeden.catcast.tv/content/45269/index.m3u8?token=28470f31cea5990d1be54eb04a48514a
 
-#EXTINF:0 group-title="BCU" tvg-id="4736" tvg-logo="http://epg.one/img2/4736.png" tvg-rec="7",BCU Premiere 1 HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/11015/index.m3u8
-#EXTINF:0 group-title="BCU" tvg-id="4737" tvg-logo="http://epg.one/img2/4737.png" tvg-rec="7",BCU Premiere 2 HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/11016/index.m3u8
-#EXTINF:0 group-title="BCU" tvg-id="4738" tvg-logo="http://epg.one/img2/4738.png" tvg-rec="7",BCU Premiere 3 HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/11017/index.m3u8
-#EXTINF:0 group-title="BCU" tvg-id="4760" tvg-logo="http://epg.one/img2/4760.png" tvg-rec="7",BCU Premiere HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/11039/index.m3u8
-#EXTINF:0 group-title="BCU" tvg-id="4748" tvg-logo="http://epg.one/img2/4748.png" tvg-rec="7",BCU Action HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/11027/index.m3u8
-#EXTINF:0 group-title="BCU" tvg-id="4749" tvg-logo="http://epg.one/img2/4749.png" tvg-rec="7",BCU Catastrophe HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/11028/index.m3u8
-#EXTINF:0 group-title="BCU" tvg-id="4750" tvg-logo="http://epg.one/img2/4750.png" tvg-rec="7",BCU Cinema HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/11029/index.m3u8
-#EXTINF:0 group-title="BCU" tvg-id="4751" tvg-logo="http://epg.one/img2/4751.png" tvg-rec="7",BCU Cinema+ HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/11030/index.m3u8
-#EXTINF:0 group-title="BCU" tvg-id="4753" tvg-logo="http://epg.one/img2/4753.png" tvg-rec="7",BCU Fantastic HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/11032/index.m3u8
-#EXTINF:0 group-title="BCU" tvg-id="4754" tvg-logo="http://epg.one/img2/4754.png" tvg-rec="7",BCU FilMystic HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/11033/index.m3u8
-#EXTINF:0 group-title="BCU" tvg-id="4755" tvg-logo="http://epg.one/img2/4755.png" tvg-rec="7",BCU History HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/11034/index.m3u8
-#EXTINF:0 group-title="BCU" tvg-id="8963" tvg-logo="http://epg.one/img2/8963.png" tvg-rec="7",BCU Comedy HDR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/11031/index.m3u8
-#EXTINF:0 group-title="BCU" tvg-id="5515" tvg-logo="http://epg.one/img2/5515.png" tvg-rec="0",BCU Comedy HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/15026/index.m3u8
-#EXTINF:0 group-title="BCU" tvg-id="4761" tvg-logo="http://epg.one/img2/4761.png" tvg-rec="7",BCU Romantic HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/11040/index.m3u8
-#EXTINF:0 group-title="BCU" tvg-id="4761" tvg-logo="http://epg.one/img2/4761.png" tvg-rec="0",BCU Romantic OLD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/18052/index.m3u8
-#EXTINF:0 group-title="BCU" tvg-id="4758" tvg-logo="http://epg.one/img2/4758.png" tvg-rec="7",BCU Kinorating HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/11037/index.m3u8
-#EXTINF:0 group-title="BCU" tvg-id="4769" tvg-logo="http://epg.one/img2/4769.png" tvg-rec="7",BCU Criminal HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/11048/index.m3u8
-#EXTINF:0 group-title="BCU" tvg-id="8964" tvg-logo="http://epg.one/img2/8964.png" tvg-rec="7",BCU Marvel HDR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/11038/index.m3u8
-#EXTINF:0 group-title="BCU" tvg-id="5514" tvg-logo="http://epg.one/img2/5514.png" tvg-rec="0",BCU Marvel HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/15025/index.m3u8
-#EXTINF:0 group-title="BCU" tvg-id="4765" tvg-logo="http://epg.one/img2/4765.png" tvg-rec="7",BCU Stars HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/11044/index.m3u8
-#EXTINF:0 group-title="BCU" tvg-id="4764" tvg-logo="http://epg.one/img2/4764.png" tvg-rec="7",BCU Media HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/11043/index.m3u8
-#EXTINF:0 group-title="BCU" tvg-id="5513" tvg-logo="http://epg.one/img2/5513.png" tvg-rec="0",BCU Media HD OLD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/15024/index.m3u8
-#EXTINF:0 group-title="BCU" tvg-id="6131" tvg-logo="http://epg.one/img2/6131.png" tvg-rec="0",BCU Reality HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/16082/index.m3u8
-#EXTINF:0 group-title="BCU" tvg-id="6067" tvg-logo="http://epg.one/img2/6067.png" tvg-rec="0",BCU Reality OLD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/16083/index.m3u8
-#EXTINF:0 group-title="BCU" tvg-id="6175" tvg-logo="http://epg.one/img2/6175.png" tvg-rec="0",BCU Survival HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/17019/index.m3u8
-#EXTINF:0 group-title="BCU" tvg-id="6164" tvg-logo="http://epg.one/img2/6164.png" tvg-rec="0",BCU Survival OLD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/17020/index.m3u8
-#EXTINF:0 group-title="BCU" tvg-id="6176" tvg-logo="http://epg.one/img2/6176.png" tvg-rec="0",BCU Cosmo HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/17021/index.m3u8
+#EXTINF:0 group-title="Кинозалы" tvg-id="6353" tvg-logo="http://epg.one/img2/6353.png" tvg-rec="0",Триколор Шерлок Холмс и доктор Ватсон
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/18126/index.m3u8
+#EXTINF:0 group-title="Кинозалы" tvg-id="6354" tvg-logo="http://epg.one/img2/6354.png" tvg-rec="0",Триколор След
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/18127/index.m3u8
+#EXTINF:0 group-title="Кинозалы" tvg-id="6355" tvg-logo="http://epg.one/img2/6355.png" tvg-rec="0",Триколор Ментовские войны
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/18128/index.m3u8
+#EXTINF:0 group-title="Кинозалы" tvg-id="6356" tvg-logo="http://epg.one/img2/6356.png" tvg-rec="0",Триколор Мелодрамы
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/18129/index.m3u8
+#EXTINF:0 group-title="Кинозалы" tvg-id="5357" tvg-logo="http://epg.one/img2/5357.png" tvg-rec="0",Триколор Семнадцать мгновений весны
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/18130/index.m3u8
+#EXTINF:0 group-title="Кинозалы" tvg-id="6358" tvg-logo="http://epg.one/img2/6358.png" tvg-rec="0",Триколор Некрасивая подружка
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/18131/index.m3u8
+#EXTINF:0 group-title="Кинозалы" tvg-id="6359" tvg-logo="http://epg.one/img2/6359.png" tvg-rec="0",Триколор Три богатыря
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/18132/index.m3u8
+#EXTINF:0 group-title="Кинозалы" tvg-id="6360" tvg-logo="http://epg.one/img2/6360.png" tvg-rec="0",Триколор Сибирские деревянные дома
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/18133/index.m3u8
+#EXTINF:0 group-title="Кинозалы" tvg-id="6361" tvg-logo="http://epg.one/img2/6361.png" tvg-rec="0",Триколор Знание
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/18134/index.m3u8
+#EXTINF:0 group-title="Кинозалы" tvg-id="6362" tvg-logo="http://epg.one/img2/6362.png" tvg-rec="0",Триколор Советские мультфильмы
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/18135/index.m3u8
+#EXTINF:0 group-title="Кинозалы" tvg-id="6363" tvg-logo="http://epg.one/img2/6363.png" tvg-rec="0",Триколор Смешарики
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/18136/index.m3u8
+#EXTINF:0 group-title="Кинозалы" tvg-id="6364" tvg-logo="http://epg.one/img2/6364.png" tvg-rec="0",Триколор Комедии
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/18137/index.m3u8
 
-#EXTINF:0 group-title="BCU" tvg-id="6198" tvg-logo="http://epg.one/img2/6198.png" tvg-rec="0",BCU TruMotion HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/17054/index.m3u8
-#EXTINF:0 group-title="BCU" tvg-id="4766" tvg-logo="http://epg.one/img2/4766.png" tvg-rec="7",BCU Ultra 4K
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/11045/index.m3u8
-#EXTINF:0 group-title="BCU" tvg-id="5561" tvg-logo="http://epg.one/img2/5561.png" tvg-rec="0",BCU Premiere Ultra 4K
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/15023/index.m3u8
-#EXTINF:0 group-title="BCU" tvg-id="4763" tvg-logo="http://epg.one/img2/4763.png" tvg-rec="7",BCU VHS HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/11042/index.m3u8
-#EXTINF:0 group-title="BCU" tvg-id="4747" tvg-logo="http://epg.one/img2/4747.png" tvg-rec="7",BCU СССР HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/11026/index.m3u8
-#EXTINF:0 group-title="BCU" tvg-id="4762" tvg-logo="http://epg.one/img2/4762.png" tvg-rec="7",BCU Russian HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/11041/index.m3u8
-#EXTINF:0 group-title="BCU" tvg-id="4767" tvg-logo="http://epg.one/img2/4767.png" tvg-rec="7",BCU RuSerial HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/11046/index.m3u8
-#EXTINF:0 group-title="BCU" tvg-id="4768" tvg-logo="http://epg.one/img2/4768.png" tvg-rec="7",BCU Сваты HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/11047/index.m3u8
 
-#EXTINF:0 group-title="BCU" tvg-id="4756" tvg-logo="http://epg.one/img2/4756.png" tvg-rec="7",BCU Kids HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/11035/index.m3u8
-#EXTINF:0 group-title="BCU" tvg-id="4757" tvg-logo="http://epg.one/img2/4757.png" tvg-rec="7",BCU Kids+ HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/11036/index.m3u8
-#EXTINF:0 group-title="BCU" tvg-id="4746" tvg-logo="http://epg.one/img2/4746.png" tvg-rec="7",BCU Multserial HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/11025/index.m3u8
-#EXTINF:0 group-title="BCU" tvg-id="6848" tvg-logo="http://epg.one/img2/6848.png" tvg-rec="0",BCU Little HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/19425/index.m3u8
-#EXTINF:0 group-title="BCU" tvg-id="6185" tvg-logo="http://epg.one/img2/6185.png" tvg-rec="0",BCU Kids 4K
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/17023/index.m3u8
+#EXTINF:0 group-title="Кинозалы" tvg-id="107" tvg-logo="http://epg.one/img2/107.png" tvg-rec="0",MYTV HIT
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/19410/index.m3u8
+#EXTINF:0 group-title="Кинозалы" tvg-id="104" tvg-logo="http://epg.one/img2/104.png" tvg-rec="0",MYTV
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/19407/index.m3u8
+#EXTINF:0 group-title="Кинозалы" tvg-id="105" tvg-logo="http://epg.one/img2/105.png" tvg-rec="0",MYTV 2
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/19408/index.m3u8
+#EXTINF:0 group-title="Кинозалы" tvg-id="106" tvg-logo="http://epg.one/img2/106.png" tvg-rec="0",MYTV 3
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/19411/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,TV Boom
+https://kinostreammedia.hopto.org/tvboom-vip/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,Кино и Жизнь
+https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=8zEp8CoHlUujIbs_ac3I5g&e=2070281160&scheme=https
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,Советская Киноклассика
+https://tinyurl.com/45x3xrpm/chid276/mpegts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,TV15	
+http://live.mediabaytv.workers.dev/?ID=655
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,SD REX
+http://31.148.48.15:80/Russkiy_Ekstrim/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,HD REX
+http://cdn.kubteltv.workers.dev/?ID=358
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,Sunset One
+https://kinostreammedia.hopto.org/SUNSET-ONE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,RANDOM BEST FILMS
+https://tinyurl.com/aleks-u-romki-40/11043/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,Госфильмофонд. Машина Времени
+http://178.163.2.151:4022/udp/234.0.0.190:2000
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,Тех Лет ТВ
+http://minsk-cache07t.voka.tv/live/9489-req_5k_v5.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,Космос ТВ
+http://minsk-cache07t.voka.tv/live/3870-req_5k_v5.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,TV12 GUDAUTA
+http://185.221.213.254:8080/Mafia2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,Манас ТВ
+http://212.42.111.152:8080/hls/manas.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,Konul Tv
+http://live.mediabaytv.workers.dev/?ID=715
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,Arpinet
+http://timeshift.arpinet.am/237/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,Epic Drama
+http://195.189.60.253/118/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,Kinoliving
+https://tinyurl.com/45x3xrpm/chid413/mpegts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,Romance
+http://193.25.8.59:8000/tlc
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,НИК
+http://188.225.31.197/bpk-tv/000008615/tve/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,Народ Всё Видит
+http://188.225.31.197/bpk-tv/000008614/tve/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,Novella TV
+https://minsk-cache07t.voka.tv/live/1205-req_offset_28000000-req_window_0-4k_v5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,Viju+ Planet
+https://telluri.ru/video/vj/6006.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,VHS-ка
+https://telluri.ru/video/vj/1123.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,.red 
+https://telluri.ru/video/tr-and/1400.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,viju TV1000 HD
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=WoTe5_sOGZKSROZL-80Bdw&e=1773595460&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,viju TV1000 Action
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=kkDofz4ySaJxV3vcYh8JQg&e=1773595493&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,viju TV1000 Romantica
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=c3-6_XA6KiCYQtKqzL42Og&e=1773595478&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" , Детективы КД
+https://bl.rutube.ru/livestream/e05401be60a9cc719fa7075b6e77b86d/index.m3u8?s=wbVW8VM26OpdW5kxFYEmSQ&e=2069694293&scheme=https
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p6y4Q1vk/image-9.png" group-title="🔴 Кинозалы 🔴" ,DTR ZONA 2
+https://kino-stream.online/hls/DTRZONA2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k2MGDGPy/image-15.png" group-title="🔴 Кинозалы 🔴" , Новый Русский
+https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1_output_0.m3u8?session=U3YFrmmaaXDngd96fHTti7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" , LIVETV 
+http://tv.mobyservice.ru/livetv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PzNr8bsH/image-4.png" tvg-id="" group-title="🔴 Кинозалы 🔴", Скрипач ТВ
+https://live20.bozztv.com/akamaissh101/ssh101/scripachmovie/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qY2FXYDg/image-7.png" group-title="🔴 Кинозалы 🔴" ,Legion TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://kinowalk.hopto.org/legion-tv_live
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,Кинолаффка
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=2ANj0RhjI1hrAkz7Jd83ZQ&e=2069068452&scheme=https
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,Киножелезо
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=gMBYxSllxsSYVvLG71o4eg&e=2066519765&scheme=https
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🔴 Кинозалы 🔴", Фильмы и Сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+rtmp://vkvsd171.okcdn.ru/playback/11782676949969?stkn=tdttjWMTsSN64s_v7vN4H2hnLoNqeUjmRvlzhqty-Tau9nm0G8p55sOQW7SDlnk6p9KpR81JzEkD&uid=0&sp=uid,sp&sig=vlibqm4nyu
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🔴 Кинозалы 🔴", Телеканал ЛТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+rtmp://vkvsd70.okcdn.ru/playback/6374540258174?stkn=xq3Mb7tqvmgs58xveKmbdKCzSSEC_rQ3uMikuKbmMkmMnk3xsTTKPz8RETCmOZnBCis_rqufnCM&uid=0&sp=uid,sp&sig=vlibqm4nyu
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🔴 Кинозалы 🔴",ZS Media
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+rtmp://vkvsd251.okcdn.ru/playback/3193011317595?stkn=W9XLVL6g8_mjPFdboe8diHBt2f8QhTG-ACCM0hfYdhbiAMlXT-4FSgUAo6r7xkePFP-OEOkxPqY&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🔴 Кинозалы 🔴", Кино FreeLive 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+rtmp://vkvsd264.okcdn.ru/playback/12653834021813?stkn=C3HB8az4NXBH4hcYgJgkcwhal7JvMA_Mcnyrm9N3OAss07FJIgCYjT3rLts2bNSbccdvox_Amtu-&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,КИНО ВК
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+rtmp://vkvsd9.okcdn.ru/playback/11476322626375?stkn=MWURFX9GxWweqchHYWcYzhzufUF0fxJw12ejfhOPexR9h9Leff8anz9KAxHjfF4R9h4C5PfiYy8&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,КИНО ВК 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+rtmp://vkvsd202.okcdn.ru/playback/10472252320626?stkn=55ZiY3uqOcLbjh8YLZ654EGxTQCPkjoczCP4KcuqIiVY4Xvydx7GLhpzKW3_9I0RZtVa3gKqHM4&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,Kino.Online
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+rtmp://vkvsd80.okcdn.ru/playback/11445095639945?stkn=isz4WXJ0c-P9MNBOKakZS1dQYkSmIEQX81ccorrT3ZqaCJiGkrCrrBEClpFFXVYJSlMjslcRhb0A&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🔴 Кинозалы 🔴", K1n0man1a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+rtmp://vkvsd176.okcdn.ru/playback/9060843400063?stkn=KV0WGPPXIBbOVVy6l6W5YU70Wrv6I9tZOa9CyCjyDUwntlSO4dtIt72cgu0M-sTWTi7PFHAQj8s&uid=0&sp=uid,sp&sig=vlibqm4nyu
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🔴 Кинозалы 🔴", KinoBar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+rtmp://vkvsd267.okcdn.ru/playback/11865043512184?stkn=p0OaO5TQj0hmPh-enAH6jwik4eAW-hSWqeUavrF42cOWe1NwiqXtzfBm7xzkYNBMGpm9hvJiH37E&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🔴 Кинозалы 🔴", TV Series
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+rtmp://vkvsd258.okcdn.ru/playback/4212830514154?stkn=3-5AxYkRTClGxxwNYsB-PosDfNMu_Z8wVCxKPRiA5P1eG-dXv3IyUKjRPAmaGd92HY3VjEPNPE4&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🔴 Кинозалы 🔴", FMC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+rtmp://vkvsd69.okcdn.ru/playback/3780958366657?stkn=QkbWCnARWe2BdgDd2ZlIsACtDwpqkYXvX5avvzYaOvFMLx0UvcPKLeTbLVWs99SwkzSDsjYLt-I&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hrJnvY6/image-15.png" tvg-id="" group-title="🔴 Кинозалы 🔴", SeleCaoTV 1
+https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hrJnvY6/image-15.png" tvg-id="" group-title="🔴 Кинозалы 🔴", SeleCaoTV 2
+https://live20.bozztv.com/akamaissh101/ssh101/esperanza/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🔴 Кинозалы 🔴",Универ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://kino-stream.online:8080/yniver
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" , VK Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+rtmp://vkvsd163.okcdn.ru/playback/12955145284352?stkn=6ch0LLXwWD0t6QW_q7NmQy3fxPoTdQt7CB_dXr_LEFueWUH8_kDzjDtZ9KMbMuhVr1UElvIN76k&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.ibb.co/Xr6Ngptx/image-32.png" group-title="🔴 Кинозалы 🔴", Твоё ТВ HD
+http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.ibb.co/gFHCVrTw/image-33.png" group-title="🔴 Кинозалы 🔴",Твоё ТВ HD Юмор
+http://tvoetv.space:8080/tvoetv_humor/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4nV26ShC/image-4.png" tvg-id="no_epg_cinema" group-title="🔴 Кинозалы 🔴", Смотрим Праздник
+http://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4nV26ShC/image-4.png" tvg-id="no_epg_cinema" group-title="🔴 Кинозалы 🔴", Смотрим Мужское
+http://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4nV26ShC/image-4.png" tvg-id="no_epg_cinema" group-title="🔴 Кинозалы 🔴", Смотрим Факты
+http://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4nV26ShC/image-4.png" tvg-id="no_epg_cinema" group-title="🔴 Кинозалы 🔴", Смотрим Детское
+http://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab089.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4nV26ShC/image-4.png" tvg-id="no_epg_cinema" group-title="🔴 Кинозалы 🔴", Смотрим Классика
+http://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4nV26ShC/image-4.png" tvg-id="no_epg_cinema" group-title="🔴 Кинозалы 🔴", Смотрим Любовь
+http://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248.m3u8
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png",СТРК HD
+http://sochinskayatrk.ru/hdtv/hls/CTPK_400/playlist.m3u8
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png", 43 канал
+http://sochinskayatrk.ru/hdtv/hls/43K_HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,Патриот
+http://185.46.48.18/asvtv/index.m3u8
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png",Феникс+Кино
+http://86.57.209.210/Fenix/index.m3u8
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png",Cinema
+http://catchup.videoline.ru/cinema/playlist.m3u8
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png",НСТ
+http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png",Русский Роман
+http://vod.tuva.ru/rusroman/index.m3u8
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png",Кино ТВ
+http://vod.tuva.ru/kinotv/index.m3u8
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png",Еврокино
+http://vod.tuva.ru/eurokino/index.m3u8
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png",НТВ Право
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ks1NNrWY/image-11.png" tvg-id="" group-title="🔴 Кинозалы 🔴", Кино 1 International
+http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ks1NNrWY/image-11.png" tvg-id="" group-title="🔴 Кинозалы 🔴", Детское Кино International
+https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxvChLq8/image-34.png" tvg-id="" group-title="🔴 Кинозалы 🔴", Kino 24
+http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3ycBZqx3/image-14.png" tvg-id="" group-title="🔴 Кинозалы 🔴", PRO100 TV
+http://sirius.greenhosting.ru/Pro100tvRu/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,ATV Bazmoc
+http://109.68.122.117:8899/bazmoc
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,Suspense
+http://188.225.31.197/bpk-tv/000008739/tve/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title="🔴 Кинозалы 🔴" , IPTVPLAY Промо
+http://5.188.158.65:4040/IPTVPLAYPromo.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title="🔴 Кинозалы 🔴" , IPTVPLAY ВЕДЬМАК
+http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title="🔴 Кинозалы 🔴" , IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО
+http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title="🔴 Кинозалы 🔴" , IPTVPLAY ИНТЕРНЫ
+http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title="🔴 Кинозалы 🔴" ,IPTVPLAY ФАНТАСТИКА
+http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title="🔴 Кинозалы 🔴" ,IPTVPLAY ПАМЯТЬ
+http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title="🔴 Кинозалы 🔴" ,IPTVPLAY УЖАСТИК
+http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title="🔴 Кинозалы 🔴", IPTVPLAY Великая Отечественная HD
+http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title="🔴 Кинозалы 🔴", IPTVPLAY TEST HD
+http://5.188.158.65:4040/IPTVPLAYTEST.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BRsytNR/image-20.png" tvg-id="" group-title="🔴 Кинозалы 🔴", Alpha Moretime
+http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,Жизнь Глазова
+http://yellow.garant.tv/glazov24/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🔴 Кинозалы 🔴",One
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://kinostreammedia.hopto.org/ONE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,Mr.Bean Cartoon HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/0e9e44725d5d5ab7ee92c10b40215419/index.m3u8?s=x2-KvlIlDO7JTvW9rPHDVA&e=2066519767&scheme=https
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,Южный Парк
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+rtmp://vkvsd8.okcdn.ru/playback/8993430186980?stkn=GGhSqZR-fwCnth4Qgp6V-8FWRYYkNgobKIyP4bDf_-mgfVTkXTdS41qOtuNnVfkvBf_6a3g29ec&uid=0&sp=uid,sp&sig=vlibqm4nyu
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" , Мульт Развивайка
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+rtmp://vkvsd163.okcdn.ru/playback/9617415285537?stkn=7rG8jAJ_-nsgBzwhMK0YMXnxU1lCKkv9ovPNX2TNniYZq7NsMZGTGN8xMQH1FHtYphA4-vhgtOs&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,  Детский 0+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+rtmp://vkvsd182.okcdn.ru/playback/9942884887405?stkn=9VVfByDOizlWlr_rfoRi8TpelV04alIYQ_0Jk3cI_HojytXGIOqVjegIFH3lVi14ozMs9MWxBP0&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,  Детский 6+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+rtmp://vkvsd21.okcdn.ru/playback/9707377929063?stkn=DFG1rqI3FgXeZ_htnEwsbN6VQTD1f94i2q76f9zRxAS8Cfi2DmoeIt6qPK7S1qCXEQaRA_Cy79E&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" , DeraGlobusJetix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+rtmp://vkvsd194.okcdn.ru/playback/10414118284142?stkn=0A0HTJUE_DPOb1pOHYef41tWpF1Flwn44AP8dlb5dXz1srxg7SGNStbwMvnZbhdO0TOpvvHX-ME&uid=0&sp=uid,sp&sig=vlibqm4nyu
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" , Мультики и Сказки HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+rtmp://vkvsd181.okcdn.ru/playback/4105799740408?stkn=NjFStGS4WV6BkVv7awAQ0tzj1KU3ogV4kGyB9tlShxJqymgbcn0noE0Y2b4HyjqVg4M_Rc-tbS4&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" , Retromult
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+rtmp://vkvsd181.okcdn.ru/playback/9095387753249?stkn=9QYompqh6WaegO7paI2Zrflo1MY_FAyEjQj2v7QLE-g6Lp4LLhAeSzzrZYpmMqBrRymI7yXcKBE&uid=0&sp=uid,sp&sig=vlibqm4nyu
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" , NikNik-TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+rtmp://vkvsd51.okcdn.ru/playback/9747990391627?stkn=F8e6nFzL9oOzipSsxvG4GPfqzYEqKSUg8JFhCLunA6R6JbHG9P92oZiAZkgVnVmWQm_xueQU9pk&uid=0&sp=uid,sp&sig=vlibqm4nyu
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" , Jetix Online
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://live.jtx-online.ru/memfs/e30ea533-4abf-4a88-91bc-73744ecfd06f.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,Том и Джерри
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,Tom And Jerry
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+http://185.234.59.200:9090/channel/n332cfce7/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,Funny Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+http://185.234.59.200:9090/channel/n3f09b9b3/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,Тип Топ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+http://185.234.59.200:9090/channel/1e009d69/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,Киномульт
+http://minsk-cache07t.voka.tv/live/157-req_5k_v5.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,Советские Мультфильмы
+http://minsk-cache07t.voka.tv/live/3007-req_5k_v5.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,Умка
+http://minsk-cache07t.voka.tv/live/9488-req_5k_v5.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,MM USSR Мультфильм
+https://tinyurl.com/aleks-u-romki-47/13020/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,Liberty Пиксар
+http://t8nlftib.russtv.net/iptv/QYUYWWB6GEC9F9Z5TSDEWH95/15092/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,iberty isney
+http://t8nlftib.russtv.net/iptv/QYUYWWB6GEC9F9Z5TSDEWH95/15093/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,Big Bug Bunny
+https://video1.getstreamhosting.com:1936/8006/8006/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,Fox Kids
+http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы 🔴" ,Радио Kids FM
+https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/tracks-v1a1/mono.m3u8?hls_proxy_host=f4eb0d287702d48f6bbf6e6f56891e63
+
 
 
 
