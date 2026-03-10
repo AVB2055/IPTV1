@@ -1301,10 +1301,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/esperanza/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vxvChLq8/image-34.png" tvg-id="" group-title="🔴 Кинозалы Тест 🔴", Kino 24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3ycBZqx3/image-14.png" tvg-id="" group-title="🔴 Кинозалы Тест 🔴", PRO100 TV
-http://sirius.greenhosting.ru/Pro100tvRu/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы Тест 🔴" ,ATV Bazmoc
-http://109.68.122.117:8899/bazmoc
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title="🔴 Кинозалы Тест 🔴" , IPTVPLAY Промо
 http://5.188.158.65:4040/IPTVPLAYPromo.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title="🔴 Кинозалы Тест 🔴" , IPTVPLAY ВЕДЬМАК
