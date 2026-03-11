@@ -195,6 +195,9 @@ https://minsk-cache07t.voka.tv/live/962.m3u8?
 #EXTINF:-1,Глазами Туриста HD
 #EXTGRP:🔎‍Познавательные
 http://188.225.31.197/bpk-tv/000001414/tve/index.m3u8
+#EXTINF:-1,Госфильмофонд. Машина Времени
+#EXTGRP:🔎‍Познавательные
+http://178.163.2.151:4022/udp/234.0.0.190:2000
 #EXTINF:-1,ЕДА HD
 #EXTGRP:🔎‍Познавательные
 http://188.225.31.197/bpk-tv/000000588/tve/index.m3u8
@@ -360,9 +363,6 @@ https://fl1004.bozztv.com/ushba67/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Deluxe Dance HD
 #EXTGRP:🎧Музыкальные
 https://d2hnivx8upksrk.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1q019khonuqjh/01efc271-2cc2-49ed-adfc-a8c5117f7d26/3.m3u8
-#EXTINF:-1,DTR Music 1
-#EXTGRP:🎧Музыкальные
-https://kino-stream.online/hls/DTRMUSIC1.m3u8
 #EXTINF:-1,Fonbet Music
 #EXTGRP:🎧Музыкальные
 http://uiptv.do.am/1ufc/603282189/playlist.m3u8
@@ -598,6 +598,9 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/19408/ind
 #EXTINF:-1,MYTV 3
 #EXTGRP:📽📺Фильмы&Сериалы
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/19411/index.m3u8
+#EXTINF:-1,RANDOM BEST FILMS
+#EXTGRP:📽📺Фильмы&Сериалы
+https://tinyurl.com/aleks-u-romki-40/11043/index.m3u8
 #EXTINF:-1,TvBoom.ViP
 #EXTGRP:📽📺Фильмы&Сериалы
 https://kb.catcast.tv/content/49702/index.m3u8
@@ -676,6 +679,9 @@ https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=ef
 #EXTINF:-1,Киножелезо HD
 #EXTGRP:📽📺Фильмы&Сериалы
 https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=gMBYxSllxsSYVvLG71o4eg&e=2066519765&scheme=https
+#EXTINF:-1,Кино и Жизнь
+#EXTGRP:📽📺Фильмы&Сериалы
+https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=8zEp8CoHlUujIbs_ac3I5g&e=2070281160&scheme=https
 #EXTINF:-1,Мировое Кино
 #EXTGRP:📽📺Фильмы&Сериалы
 http://188.225.31.197/bpk-tv/000008488/tve/index.m3u8
@@ -688,6 +694,9 @@ http://188.225.31.197/bpk-tv/000008491/tve/index.m3u8
 #EXTINF:-1,Семейное кино HD
 #EXTGRP:📽📺Фильмы&Сериалы
 http://188.225.31.197/bpk-tv/000008489/tve/index.m3u8
+#EXTINF:-1,Советская Киноклассика
+#EXTGRP:📽📺Фильмы&Сериалы
+https://tinyurl.com/45x3xrpm/chid276/mpegts
 #EXTINF:-1,Amedia 2 HD
 #EXTGRP:📽📺Фильмы&Сериалы
 http://188.225.31.197/bpk-tv/000000351/tve/index.m3u8
@@ -754,6 +763,49 @@ https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 #EXTINF:-1,Сапфир HD
 #EXTGRP:📽📺Фильмы&Сериалы
 http://188.225.31.197/bpk-tv/000008135/tve/index.m3u8
+#EXTINF:-1,Тех Лет ТВ
+#EXTGRP:📽📺Фильмы&Сериалы
+http://minsk-cache07t.voka.tv/live/9489-req_5k_v5.m3u8
+#EXTINF:-1,Космос ТВ
+#EXTGRP:📽📺Фильмы&Сериалы
+http://minsk-cache07t.voka.tv/live/3870-req_5k_v5.m3u8
+#EXTINF:-1,Konul Tv
+#EXTGRP:📽📺Фильмы&Сериалы
+http://live.mediabaytv.workers.dev/?ID=715
+#EXTINF:-1,Kinoliving
+#EXTGRP:📽📺Фильмы&Сериалы
+https://tinyurl.com/45x3xrpm/chid413/mpegts
+#EXTINF:-1,Novella TV
+#EXTGRP:📽📺Фильмы&Сериалы
+https://minsk-cache07t.voka.tv/live/1205-req_offset_28000000-req_window_0-4k_v5.m3u8
+#EXTINF:-1,.red 
+#EXTGRP:📽📺Фильмы&Сериалы
+https://telluri.ru/video/tr-and/1400.m3u8
+#EXTINF:-1,viju TV1000 HD
+#EXTGRP:📽📺Фильмы&Сериалы
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=WoTe5_sOGZKSROZL-80Bdw&e=1773595460&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1,viju TV1000 Action
+#EXTGRP:📽📺Фильмы&Сериалы
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=kkDofz4ySaJxV3vcYh8JQg&e=1773595493&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1,viju TV1000 Romantica
+#EXTGRP:📽📺Фильмы&Сериалы
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=c3-6_XA6KiCYQtKqzL42Og&e=1773595478&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1,Детективы КД
+#EXTGRP:📽📺Фильмы&Сериалы
+https://bl.rutube.ru/livestream/e05401be60a9cc719fa7075b6e77b86d/index.m3u8?s=wbVW8VM26OpdW5kxFYEmSQ&e=2069694293&scheme=https
+#EXTINF:-1,DTR ZONA 2
+#EXTGRP:📽📺Фильмы&Сериалы
+https://kino-stream.online/hls/DTRZONA2.m3u8
+#EXTINF:-1,Скрипач ТВ
+#EXTGRP:📽📺Фильмы&Сериалы
+https://live20.bozztv.com/akamaissh101/ssh101/scripachmovie/playlist.m3u8
+#EXTINF:-1,SeleCaoTV 1
+#EXTGRP:📽📺Фильмы&Сериалы
+https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/playlist.m3u8
+#EXTINF:-1,Kino 24
+#EXTGRP:📽📺Фильмы&Сериалы
+http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+
 
 #EXTINF:-1,Смотрим Честный детектив
 #EXTGRP:📺Смотрим&НТВ
@@ -880,55 +932,13 @@ https://autopilot.catcast.tv/content/38128/index.m3u8?token=2c25bdb20383b2533f44
 #EXTINF:-1,Сити Эдем - КиноАзия
 #EXTGRP:🎞️Сити Эдем
 https://cityeden.catcast.tv/content/34393/index.m3u8?token=dbf2611bd4f1aab379cb289c3e79d512
-#EXTINF:-1,Сити Эдем - КиноЭкшен
-#EXTGRP:🎞️Сити Эдем
-https://cityeden.catcast.tv/content/41333/index.m3u8?token=474cd86e39467c9dfaa93e4e49f4be69
 #EXTINF:-1,Сити Эдем - КиноДетектив
 #EXTGRP:🎞️Сити Эдем
 https://cityeden.catcast.tv/content/41327/index.m3u8?token=b4165148a2a733cb7ed075023297d583
-#EXTINF:-1,Сити Эдем - КиноФантастика
-#EXTGRP:🎞️Сити Эдем
-https://cityeden.catcast.tv/content/45268/index.m3u8?token=83cbe0179bd863b7c1acb9894d7c7ba6
 #EXTINF:-1,Сити Эдем - КиноДрама
 #EXTGRP:🎞️Сити Эдем
 https://cityeden.catcast.tv/content/45269/index.m3u8?token=28470f31cea5990d1be54eb04a48514a
 
-#EXTINF:-1 group-title="🎞️ Кинозалы Тест" ,Кино и Жизнь
-https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=8zEp8CoHlUujIbs_ac3I5g&e=2070281160&scheme=https
-#EXTINF:-1 group-title="🎞️ Кинозалы Тест" ,Советская Киноклассика
-https://tinyurl.com/45x3xrpm/chid276/mpegts
-#EXTINF:-1 group-title="🎞️ Кинозалы Тест" ,RANDOM BEST FILMS
-https://tinyurl.com/aleks-u-romki-40/11043/index.m3u8
-#EXTINF:-1 group-title="🎞️ Кинозалы Тест" ,Госфильмофонд. Машина Времени
-http://178.163.2.151:4022/udp/234.0.0.190:2000
-#EXTINF:-1 group-title="🎞️ Кинозалы Тест" ,Тех Лет ТВ
-http://minsk-cache07t.voka.tv/live/9489-req_5k_v5.m3u8
-#EXTINF:-1 group-title="🎞️ Кинозалы Тест" ,Космос ТВ
-http://minsk-cache07t.voka.tv/live/3870-req_5k_v5.m3u8
-#EXTINF:-1 group-title="🎞️ Кинозалы Тест" ,Konul Tv
-http://live.mediabaytv.workers.dev/?ID=715
-#EXTINF:-1 group-title="🎞️ Кинозалы Тест" ,Kinoliving
-https://tinyurl.com/45x3xrpm/chid413/mpegts
-#EXTINF:-1 group-title="🎞️ Кинозалы Тест" ,Novella TV
-https://minsk-cache07t.voka.tv/live/1205-req_offset_28000000-req_window_0-4k_v5.m3u8
-#EXTINF:-1 group-title="🎞️ Кинозалы Тест" ,.red 
-https://telluri.ru/video/tr-and/1400.m3u8
-#EXTINF:-1 group-title="🎞️ Кинозалы Тест" ,viju TV1000 HD
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=WoTe5_sOGZKSROZL-80Bdw&e=1773595460&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 group-title="🎞️ Кинозалы Тест" ,viju TV1000 Action
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=kkDofz4ySaJxV3vcYh8JQg&e=1773595493&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 group-title="🎞️ Кинозалы Тест" ,viju TV1000 Romantica
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=c3-6_XA6KiCYQtKqzL42Og&e=1773595478&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 group-title="🎞️ Кинозалы Тест" , Детективы КД
-https://bl.rutube.ru/livestream/e05401be60a9cc719fa7075b6e77b86d/index.m3u8?s=wbVW8VM26OpdW5kxFYEmSQ&e=2069694293&scheme=https
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p6y4Q1vk/image-9.png" group-title="🎞️ Кинозалы Тест" ,DTR ZONA 2
-https://kino-stream.online/hls/DTRZONA2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PzNr8bsH/image-4.png" tvg-id="" group-title="🎞️ Кинозалы Тест", Скрипач ТВ
-https://live20.bozztv.com/akamaissh101/ssh101/scripachmovie/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hrJnvY6/image-15.png" tvg-id="" group-title="🎞️ Кинозалы Тест", SeleCaoTV 1
-https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vxvChLq8/image-34.png" tvg-id="" group-title="🎞️ Кинозалы Тест", Kino 24
-http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 
 
 #EXTINF:-1,Akudji 📽-⭐️✔️
@@ -1292,10 +1302,4 @@ http://kinowalk.hopto.org/mezontrop_live
 #EXTINF:-1 group-title="🎞️ Kinowalk Production" , FoxKids-Remastered 👶-✔️
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/foxkids_remastered_live
-
-
-📽📺👶🔎🤡⛹🏿🎧-🔴⭐️✔️
-
-
-
 
