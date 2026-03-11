@@ -1,817 +1,810 @@
 #EXTM3U
 
 #EXTINF:-1,Первый канал HD
-#EXTGRP:🎞️Федеральные
+#EXTGRP:🧿Федеральные
 http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1,Россия 1 HD
-#EXTGRP:🎞️Федеральные
+#EXTGRP:🧿Федеральные
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1,Матч ТВ HD
-#EXTGRP:🎞️Федеральные
+#EXTGRP:🧿Федеральные
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:-1,НТВ HD
-#EXTGRP:🎞️Федеральные
+#EXTGRP:🧿Федеральные
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Пятый Канал
-#EXTGRP:🎞️Федеральные
+#EXTGRP:🧿Федеральные
 http://stream-tv.ew21.ru/005/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1,Россия К
-#EXTGRP:🎞️Федеральные
+#EXTGRP:🧿Федеральные
 http://stream-tv.ew21.ru/006/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1,Россия 24 HD
-#EXTGRP:🎞️Федеральные
+#EXTGRP:🧿Федеральные
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
 #EXTINF:-1,Карусель HD
-#EXTGRP:🎞️Федеральные
+#EXTGRP:🧿Федеральные
 http://stream-tv.ew21.ru/008/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1,ОТР HD
-#EXTGRP:🎞️Федеральные
+#EXTGRP:🧿Федеральные
 http://stream-tv.ew21.ru/009/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1,ТВЦ HD
-#EXTGRP:🎞️Федеральные
+#EXTGRP:🧿Федеральные
 http://stream-tv.ew21.ru/010/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1,Рен ТВ
-#EXTGRP:🎞️Федеральные
+#EXTGRP:🧿Федеральные
 http://stream-tv.ew21.ru/011/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1,СПАС
-#EXTGRP:🎞️Федеральные
+#EXTGRP:🧿Федеральные
 http://stream-tv.ew21.ru/012/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1,СТС
-#EXTGRP:🎞️Федеральные
+#EXTGRP:🧿Федеральные
 http://stream-tv.ew21.ru/013/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1,Домашний
-#EXTGRP:🎞️Федеральные
+#EXTGRP:🧿Федеральные
 http://45.145.32.13:20440/domashnij/index.m3u8?token=test
 #EXTINF:-1,ТВ3
-#EXTGRP:🎞️Федеральные
+#EXTGRP:🧿Федеральные
 http://stream-tv.ew21.ru/015/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1,Пятница
-#EXTGRP:🎞️Федеральные
+#EXTGRP:🧿Федеральные
 http://stream-tv.ew21.ru/016/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1,Звезда HD
-#EXTGRP:🎞️Федеральные
+#EXTGRP:🧿Федеральные
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1,Мир
-#EXTGRP:🎞️Федеральные
+#EXTGRP:🧿Федеральные
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1,ТНТ
-#EXTGRP:🎞️Федеральные
+#EXTGRP:🧿Федеральные
 http://stream-tv.ew21.ru/019/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1,Муз ТВ
-#EXTGRP:🎞️Федеральные
+#EXTGRP:🧿Федеральные
 https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
 #EXTINF:-1,360 Новости HD
-#EXTGRP:🎞️Новостные
+#EXTGRP:👁‍Новостные
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1,Известия HD
-#EXTGRP:🎞️Новостные
+#EXTGRP:👁‍Новостные
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Крик-ТВ
-#EXTGRP:🎞️Новостные
+#EXTGRP:👁‍Новостные
 http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8
 #EXTINF:-1,Крик-ТВ
-#EXTGRP:🎞️Новостные
+#EXTGRP:👁‍Новостные
 http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 #EXTINF:-1,Мир 24 HD
-#EXTGRP:🎞️Новостные
+#EXTGRP:👁‍Новостные
 http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ОСН HD
-#EXTGRP:🎞️Новостные
+#EXTGRP:👁‍Новостные
 https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
 #EXTINF:-1,РБК HD
-#EXTGRP:🎞️Новостные
+#EXTGRP:👁‍Новостные
 http://e8-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8
 #EXTINF:-1,Радио Вести FM [1920x1080]
-#EXTGRP:🎞️Новостные
+#EXTGRP:👁‍Новостные
 https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015173
 #EXTINF:-1,Радио Говорит Москва [1920x1080]
-#EXTGRP:🎞️Новостные
+#EXTGRP:👁‍Новостные
 https://video.govoritmoskva.ru/rufm/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ТАСС HD
-#EXTGRP:🎞️Новостные
+#EXTGRP:👁‍Новостные
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 #EXTINF:-1,EuroNews Ru
-#EXTGRP:🎞️Новостные
+#EXTGRP:👁‍Новостные
 http://188.225.31.197/bpk-tv/000000025/tve/index.m3u8
 #EXTINF:-1,EuroNews
-#EXTGRP:🎞️Новостные
+#EXTGRP:👁‍Новостные
 https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8
 #EXTINF:-1,RTVi HD
-#EXTGRP:🎞️Новостные
+#EXTGRP:👁‍Новостные
 http://188.225.31.197/bpk-tv/000000039/tve/index.m3u8
 #EXTINF:-1,DW Russia
-#EXTGRP:🎞️Новостные
+#EXTGRP:👁‍Новостные
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 #EXTINF:-1,DW
-#EXTGRP:🎞️Новостные
+#EXTGRP:👁‍Новостные
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
 #EXTINF:-1,Настоящее время HD [СМИ иноагент]
-#EXTGRP:🎞️Новостные
+#EXTGRP:👁‍Новостные
 https://rferl-ingest.akamaized.net/hls/live/2121657/tvmc05/playlist_1080.m3u8
 #EXTINF:-1,Дождь ТВ [СМИ иногент]
-#EXTGRP:🎞️Новостные
+#EXTGRP:👁‍Новостные
 https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 #EXTINF:-1,CBC
-#EXTGRP:🎞️Новостные
+#EXTGRP:👁‍Новостные
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/cbc.m3u8
 #EXTINF:-1,Соловьев.Live HD
-#EXTGRP:🎞️Новостные
+#EXTGRP:👁‍Новостные
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 #EXTINF:-1,Царьград
-#EXTGRP:🎞️Новостные
+#EXTGRP:👁‍Новостные
 https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=UQvVhXcvnPn0tDMqg2zDYg&e=2068506958&scheme=https
 #EXTINF:-1,360 HD
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1,Animal Planet HD
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 http://188.225.31.197/bpk-tv/000000216/tve/index.m3u8
 #EXTINF:-1,Big Planet HD
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 http://188.225.31.197/bpk-tv/000008052/tve/index.m3u8
 #EXTINF:-1,Discovery Channel HD
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
 #EXTINF:-1,Fashion TV
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 http://fashion.mediacdn.ru/cdn/fashiontv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,History HD
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 http://188.225.31.197/bpk-tv/000001000/tve/index.m3u8
 #EXTINF:-1,Nat Geo Wild HD
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 http://188.225.31.197/bpk-tv/000004474/tve/index.m3u8
 #EXTINF:-1,National Geographic HD
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 http://188.225.31.197/bpk-tv/000000034/tve/index.m3u8
 #EXTINF:-1,RT Д HD
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
 #EXTINF:-1,Rutube TV
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=0PD1llGQtRJEi-nJtJveWA&e=2070364663&scheme=https
 #EXTINF:-1,Terra HD
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 http://188.225.31.197/bpk-tv/000008142/tve/index.m3u8
 #EXTINF:-1,TV BRICS HD
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TV PRO
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 #EXTINF:-1,TV12 GUDAUTA
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 http://185.221.213.254:8080/Mafia2/index.m3u8
 #EXTINF:-1,Univer TV HD
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 https://cdn.universmotri.ru/live/smil:univer.smil/chunklist_w911267907_b3628000_slru.m3u8
 #EXTINF:-1,Viasat Explore HD
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 http://188.225.31.197/bpk-tv/000004157/tve/index.m3u8
 #EXTINF:-1,Viasat Nature HD
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 http://188.225.31.197/bpk-tv/000006482/tve/index.m3u8
 #EXTINF:-1,Visast History HD
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 http://188.225.31.197/bpk-tv/000005528/tve/index.m3u8
 #EXTINF:-1,Viju+ Planet
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 https://telluri.ru/video/vj/6006.m3u8
 #EXTINF:-1,World Fashion
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 http://cdn.wfc.tv/cdn/stream-rus-720p.m3u8
 #EXTINF:-1,Большая Азия HD
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Большая Азия
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Вместе РФ HD
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 http://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 #EXTINF:-1,ВосьМой
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 https://minsk-cache07t.voka.tv/live/962.m3u8?
 #EXTINF:-1,Глазами Туриста HD
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 http://188.225.31.197/bpk-tv/000001414/tve/index.m3u8
 #EXTINF:-1,ЕДА HD
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 http://188.225.31.197/bpk-tv/000000588/tve/index.m3u8
 #EXTINF:-1,Живая природа HD
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 http://188.225.31.197/bpk-tv/000001187/tve/index.m3u8
 #EXTINF:-1,Загородная жизнь HD
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 http://188.225.31.197/bpk-tv/000000289/tve/index.m3u8
 #EXTINF:-1,Загородный
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=e3gd8zlogu4ybvafQost4g&e=2070450932&scheme=https
 #EXTINF:-1,Загородный Int. HD
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 https://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
 #EXTINF:-1,Зал суда HD
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 http://188.225.31.197/bpk-tv/000006638/tve/index.m3u8
 #EXTINF:-1,Звезда Плюс HD
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Зоопарк HD
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 http://188.225.31.197/bpk-tv/000000260/tve/index.m3u8
 #EXTINF:-1,Ключ HD
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 http://188.225.31.197/bpk-tv/000004585/tve/index.m3u8
 #EXTINF:-1,Китай ТВ
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
 #EXTINF:-1,МОДА HD
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 http://188.225.31.197/bpk-tv/000000439/tve/index.m3u8
 #EXTINF:-1,Мужской HD
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 http://188.225.31.197/bpk-tv/000000286/tve/index.m3u8
 #EXTINF:-1,Москва 24 HD
-#EXTGRP:🎞️Новостные
+#EXTGRP:👁‍Новостные
 https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
 #EXTINF:-1,Москва. Доверие
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 #EXTINF:-1,НТВ Следствие вели... HD
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1,НТВ Стиль HD
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 #EXTINF:-1,Неизвестная россия HD
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 http://cdn2.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Охотник и рыболов
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=URw1qTUBYJppc4IY-gE4ew&e=2070450931&scheme=https
 #EXTINF:-1,Первый информационный
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w868240704_b5160000_sleng.m3u8
 #EXTINF:-1,Планета HD
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 http://188.225.31.197/bpk-tv/000001049/tve/index.m3u8
 #EXTINF:-1,ПРНК HD
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
 #EXTINF:-1,Про бизнес
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/chunklist.m3u8
 #EXTINF:-1,Плюс минус 16
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Продвижение HD
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 #EXTINF:-1,Продвижение
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 https://bl.rutube.ru/livestream/ff5c11c9a51750f5d33427762abc315c/index.m3u8?s=WHZZBfXapQyglWukVMsSvw&e=2071742700&scheme=https
 #EXTINF:-1,РЖД HD
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 #EXTINF:-1,Саратов 24 HD
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 http://109.248.11.19:8081/web/c24/playlist.m3u8
 #EXTINF:-1,Тайна HD
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=GmFSizHee8DpOJI6J0bwMA&e=2067815807&scheme=https
 #EXTINF:-1,Тайна ТВ
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=k9bDH53DPY73h1vlbcNhzQ&e=2071743709&scheme=https
 #EXTINF:-1,Тайны галактики HD
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 http://188.225.31.197/bpk-tv/000000332/tve/index.m3u8
 #EXTINF:-1,Тео-ТВ
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_TEOTV/variant.m3u8
 #EXTINF:-1,Тео-ТВ
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 https://stream.teotv.ru/live/site360/playlist.m3u8
 #EXTINF:-1,Теледом HD
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1,Толк ТВ
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 https://live-tolknews.cdnvideo.ru/tolknews/stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Эквилибриум (Kinowalk Production)
-#EXTGRP:🎞️Познавательные
+#EXTGRP:🔎‍Познавательные
 http://kinowalk.hopto.org/equilibrium_live
 #EXTINF:-1,2x2
-#EXTGRP:🎞️Развлекательные
+#EXTGRP:🤡Развлекательные
 https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=hwyoufQp4n4DEevoTh79AQ&e=2068506934&scheme=https
 #EXTINF:-1,Alpha Funny
-#EXTGRP:🎞️Развлекательные
+#EXTGRP:🤡Развлекательные
 http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
 #EXTINF:-1,DTR ZONA 1 HD
-#EXTGRP:🎞️Развлекательные
+#EXTGRP:🤡Развлекательные
 https://kino-stream.online/hls/DTRZONA1.m3u8
 #EXTINF:-1,Gagsnetwork HD
-#EXTGRP:🎞️Развлекательные
+#EXTGRP:🤡Развлекательные
 http://188.225.31.197/bpk-tv/000006639/tve/index.m3u8
 #EXTINF:-1,Mr.Bean Cartoon
-#EXTGRP:🎞️Развлекательные
+#EXTGRP:🤡Развлекательные
 https://bl.rutube.ru/livestream/0e9e44725d5d5ab7ee92c10b40215419/index.m3u8?s=PKlr1KsTF2d2tE-J0_gjZw&e=2067815808&scheme=https
 #EXTINF:-1,TV1 KG HD (Кыргызстан) HD
-#EXTGRP:🎞️Развлекательные
+#EXTGRP:🤡Развлекательные
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 #EXTINF:-1,Анекдот ТВ
-#EXTGRP:🎞️Развлекательные
+#EXTGRP:🤡Развлекательные
 http://188.225.31.197/bpk-tv/000001921/tve/index.m3u8
 #EXTINF:-1,Новое Телевидение
-#EXTGRP:🎞️Развлекательные
+#EXTGRP:🤡Развлекательные
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
 #EXTINF:-1,НТВ Своя Игра
-#EXTGRP:🎞️Развлекательные
+#EXTGRP:🤡Развлекательные
 https://cdn-dvr.ntv.ru/svoya_igra/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1,НТВ Стиль HD
-#EXTGRP:🎞️Развлекательные
+#EXTGRP:🤡Развлекательные
 https://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
 #EXTINF:-1,НТВ конкурс Ты супер ! HD
-#EXTGRP:🎞️Развлекательные
+#EXTGRP:🤡Развлекательные
 https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1,ТНТ4 HD
-#EXTGRP:🎞️Развлекательные
+#EXTGRP:🤡Развлекательные
 https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=uwhizdZPB-2J2x80Ov49_A&e=2067815802&scheme=https
 #EXTINF:-1,Твоё ТВ HD
-#EXTGRP:🎞️Развлекательные
+#EXTGRP:🤡Развлекательные
 http://tvoetv.space:8080/tvoetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Твоё ТВ Юмор HD
-#EXTGRP:🎞️Развлекательные
+#EXTGRP:🤡Развлекательные
 http://tvoetv.space:8080/tvoetv_humor/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Че!
-#EXTGRP:🎞️Развлекательные
+#EXTGRP:🤡Развлекательные
 http://uiptv.do.am/1ufc/109121273/playlist.m3u8
 #EXTINF:-1,Ю HD
-#EXTGRP:🎞️Развлекательные
+#EXTGRP:🤡Развлекательные
 http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
 #EXTINF:-1,1HD HD
-#EXTGRP:🎞️Музыкальные
+#EXTGRP:🎧Музыкальные
 http://188.225.31.197/bpk-tv/000001020/tve/index.m3u8
 #EXTINF:-1,4fun dance
-#EXTGRP:🎞️Музыкальные
+#EXTGRP:🎧Музыкальные
 https://d3s7x6kmqcnb6b.cloudfront.net/hls/3MXYR7I/2A8CFE9544F0/m.m3u8
 #EXTINF:-1,67
-#EXTGRP:🎞️Музыкальные
+#EXTGRP:🎧Музыкальные
 https://fl1004.bozztv.com/ushba67/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Deluxe Dance HD
-#EXTGRP:🎞️Музыкальные
+#EXTGRP:🎧Музыкальные
 https://d2hnivx8upksrk.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1q019khonuqjh/01efc271-2cc2-49ed-adfc-a8c5117f7d26/3.m3u8
 #EXTINF:-1,DTR Music 1
-#EXTGRP:🎞️Музыкальные
+#EXTGRP:🎧Музыкальные
 https://kino-stream.online/hls/DTRMUSIC1.m3u8
 #EXTINF:-1,Fonbet Music
-#EXTGRP:🎞️Музыкальные
+#EXTGRP:🎧Музыкальные
 http://uiptv.do.am/1ufc/603282189/playlist.m3u8
 #EXTINF:-1,Infinity
-#EXTGRP:🎞️Музыкальные
+#EXTGRP:🎧Музыкальные
 https://live20.bozztv.com/giatvplayout7/ushba-t2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Kronehit HD
-#EXTGRP:🎞️Музыкальные
+#EXTGRP:🎧Музыкальные
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 #EXTINF:-1,Kronehit TV
-#EXTGRP:🎞️Музыкальные
+#EXTGRP:🎧Музыкальные
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1,Kiss FM
-#EXTGRP:🎞️Музыкальные
+#EXTGRP:🎧Музыкальные
 https://kisstv.siliconweb.com/kissfm/kisstv/chunks.m3u8
 #EXTINF:-1,MIXM TB HD
-#EXTGRP:🎞️Музыкальные
+#EXTGRP:🎧Музыкальные
 http://89.179.247.144/hls/mixm.m3u8
 #EXTINF:-1,radio m2o HD
-#EXTGRP:🎞️Музыкальные
+#EXTGRP:🎧Музыкальные
 http://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1728000.m3u8
 #EXTINF:-1,Viva Russia
-#EXTGRP:🎞️Музыкальные
+#EXTGRP:🎧Музыкальные
 https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=DMmpli1WIQUocDbjCe_9Cg&e=2070450963&scheme=https
 #EXTINF:-1,Мафия Музыка
-#EXTGRP:🎞️Музыкальные
+#EXTGRP:🎧Музыкальные
 https://live20.bozztv.com/giatvplayout7/ushba-mafia/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Страна FM HD
-#EXTGRP:🎞️Музыкальные
+#EXTGRP:🎧Музыкальные
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1,Сан Франциско
-#EXTGRP:🎞️Музыкальные
+#EXTGRP:🎧Музыкальные
 http://204.199.3.2/.m3u8
 #EXTINF:-1,A21 Network HD
-#EXTGRP:🎞️Спортивные
+#EXTGRP:⛹🏿Спортивные
 http://tv.a21network.ru/stream/37909/index.m3u8
 #EXTINF:-1,Eurosport 1 HD
-#EXTGRP:🎞️Спортивные
+#EXTGRP:⛹🏿Спортивные
 http://176.96.241.40/Eurosport1/index.m3u8
 #EXTINF:-1,Eurosport 2 HD
-#EXTGRP:🎞️Спортивные
+#EXTGRP:⛹🏿Спортивные
 http://188.225.31.197/bpk-tv/000002479/tve/index.m3u8
 #EXTINF:-1,Eurosport 1
-#EXTGRP:🎞️Спортивные
+#EXTGRP:⛹🏿Спортивные
 http://ip1.orgip.net/200/video.m3u8?token=Ab2b7066c8
 #EXTINF:-1,Eurosport 1 HD
-#EXTGRP:🎞️Спортивные
+#EXTGRP:⛹🏿Спортивные
 http://ip1.orgip.net/0200/video.m3u8?token=Ab2b7066c8
 #EXTINF:-1,Eurosport 2
-#EXTGRP:🎞️Спортивные
+#EXTGRP:⛹🏿Спортивные
 http://ip1.orgip.net/201/video.m3u8?token=Ab2b7066c8
 #EXTINF:-1,Eurosport 2 HD
-#EXTGRP:🎞️Спортивные
+#EXTGRP:⛹🏿Спортивные
 http://ip1.orgip.net/0201/video.m3u8?token=Ab2b7066c8
 #EXTINF:-1,NHL (Интересные моменты)
-#EXTGRP:🎞️Спортивные
+#EXTGRP:⛹🏿Спортивные
 https://nhl-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1,Red Bull HD
-#EXTGRP:🎞️Спортивные
+#EXTGRP:⛹🏿Спортивные
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
 #EXTINF:-1,Red Bull HD
-#EXTGRP:🎞️Спортивные
+#EXTGRP:⛹🏿Спортивные
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,Setanta Sports 1 HD
-#EXTGRP:🎞️Спортивные
+#EXTGRP:⛹🏿Спортивные
 http://188.225.31.197/bpk-tv/000004498/tve/index.m3u8
 #EXTINF:-1,Setanta Sports 2 HD
-#EXTGRP:🎞️Спортивные
+#EXTGRP:⛹🏿Спортивные
 http://188.225.31.197/bpk-tv/000004499/tve/index.m3u8
 #EXTINF:-1,Trace Sport Stars HD
-#EXTGRP:🎞️Спортивные
+#EXTGRP:⛹🏿Спортивные
 http://188.225.31.197/bpk-tv/000001122/tve/index.m3u8
 #EXTINF:-1,viju+ Sport HD
-#EXTGRP:🎞️Спортивные
+#EXTGRP:⛹🏿Спортивные
 http://188.225.31.197/bpk-tv/000000135/tve/index.m3u8
 #EXTINF:-1,VITAL DRIVE HD
-#EXTGRP:🎞️Спортивные
+#EXTGRP:⛹🏿Спортивные
 https://autopilot.catcast.tv/content/37909/index.m3u8
 #EXTINF:-1,Волейбол HD
-#EXTGRP:🎞️Спортивные
+#EXTGRP:⛹🏿Спортивные
 https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=yLRKcLLgpyWK0Pr2YTVwLw&e=2067815840&scheme=https
 #EXTINF:-1,Волейбол HD
-#EXTGRP:🎞️Спортивные
+#EXTGRP:⛹🏿Спортивные
 https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=RP3Gdy1OZbXnpfKul6ZHLw&e=2070450972&scheme=https
 #EXTINF:-1,Матч! HD
-#EXTGRP:🎞️Спортивные
+#EXTGRP:⛹🏿Спортивные
 http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:-1,Спортивный HD
-#EXTGRP:🎞️Спортивные
+#EXTGRP:⛹🏿Спортивные
 http://live-3.otcnet.ru/sportivny/index.m3u8
 #EXTINF:-1,Старт Баскетбол HD
-#EXTGRP:🎞️Спортивные
+#EXTGRP:⛹🏿Спортивные
 https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?
 #EXTINF:-1,Старт Триумф HD
-#EXTGRP:🎞️Спортивные
+#EXTGRP:⛹🏿Спортивные
 https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd/33_85479982/1080p/4eaec8986e2012fb936478856fbf3b4b/4818731006.m3u8?live=15&ref=https://tvstart.ru/ru/pages/start-triumph
 #EXTINF:-1,Старт Триумф
-#EXTGRP:🎞️Спортивные
+#EXTGRP:⛹🏿Спортивные
 https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd/33_85479982/1080p/4eaec8986e2012fb936478856fbf3b4b/4818731006.m3u8?live=15&ref=https://tvstart.ru/ru/pages/start-triumph/
 #EXTINF:-1,Удар HD
-#EXTGRP:🎞️Спортивные
+#EXTGRP:⛹🏿Спортивные
 http://188.225.31.197/bpk-tv/000007802/tve/index.m3u8
 #EXTINF:-1,Удар ТВ
-#EXTGRP:🎞️Спортивные
+#EXTGRP:⛹🏿Спортивные
 https://a787201481-s80718.cdn.ngenix.net/hls/CH_UDARHD/video_1920x1080_avc1/playlist.m3u8
 
 
 
 #EXTINF:-1,Mr.Bean Cartoon HD
-#EXTGRP:🎞️Детские
+#EXTGRP:👶Детские
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/0e9e44725d5d5ab7ee92c10b40215419/index.m3u8?s=x2-KvlIlDO7JTvW9rPHDVA&e=2066519767&scheme=https
 #EXTINF:-1,Nickelodeon HD
-#EXTGRP:🎞️Детские
+#EXTGRP:👶Детские
 http://188.225.31.197/bpk-tv/000000499/tve/index.m3u8
 #EXTINF:-1,Nicktoons HD
-#EXTGRP:🎞️Детские
+#EXTGRP:👶Детские
 http://188.225.31.197/bpk-tv/000004365/tve/index.m3u8
 #EXTINF:-1,Jetix Online
-#EXTGRP:🎞️Детские
+#EXTGRP:👶Детские
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://live.jtx-online.ru/memfs/e30ea533-4abf-4a88-91bc-73744ecfd06f.m3u8
 #EXTINF:-1,Детский мир HD
-#EXTGRP:🎞️Детские
+#EXTGRP:👶Детские
 http://188.225.31.197/bpk-tv/000000049/tve/index.m3u8
 #EXTINF:-1,Ключайка
-#EXTGRP:🎞️Детские
+#EXTGRP:👶Детские
 https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=QltsCpJv4zS2J2PXJe5VOg&e=2070450958&scheme=https
 #EXTINF:-1,Лёва HD
-#EXTGRP:🎞️Детские
+#EXTGRP:👶Детские
 http://188.225.31.197/bpk-tv/000008003/tve/index.m3u8
 #EXTINF:-1,Мультиландия HD
-#EXTGRP:🎞️Детские
+#EXTGRP:👶Детские
 http://188.225.31.197/bpk-tv/000000203/tve/index.m3u8
 #EXTINF:-1,Смайлик ТВ HD
-#EXTGRP:🎞️Детские
+#EXTGRP:👶Детские
 https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1,Солнце HD
-#EXTGRP:🎞️Детские
+#EXTGRP:👶Детские
 https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 #EXTINF:-1,СоюзМультфильм
-#EXTGRP:🎞️Детские
+#EXTGRP:👶Детские
 http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1,Суббота HD
-#EXTGRP:🎞️Детские
+#EXTGRP:👶Детские
 https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=fGF8IP-Az_cZHwwgk-of9w&e=2067815805&scheme=https
 #EXTINF:-1,Чип и Дейл
-#EXTGRP:🎞️Детские
+#EXTGRP:👶Детские
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1,Ключайка (МультStream)
-#EXTGRP:🎞️Детские
+#EXTGRP:👶Детские
 https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=8hKIWF5Ng40B0-kW7qvWBA&e=2070122249&scheme=https
 #EXTINF:-1,IPTVPLAY МультСказки HD (МультStream)
-#EXTGRP:🎞️Детские
+#EXTGRP:👶Детские
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1,Киномульт
-#EXTGRP:🎞️Детские
+#EXTGRP:👶Детские
 http://minsk-cache07t.voka.tv/live/157-req_5k_v5.m3u8
 #EXTINF:-1,Мультимания (МультStream)
-#EXTGRP:🎞️Детские
+#EXTGRP:👶Детские
 http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Мамонтёнок ТВ (МультStream)
-#EXTGRP:🎞️Детские
+#EXTGRP:👶Детские
 http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Мультфильмы нашего детства (МультStream)
-#EXTGRP:🎞️Детские
+#EXTGRP:👶Детские
 http://kinowalk.hopto.org/childhood_cartoons_live
 #EXTINF:-1,Пингвин Лоло (МультStream)
-#EXTGRP:🎞️Детские
+#EXTGRP:👶Детские
 http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Радио Kids FM
-#EXTGRP:🎞️Детские
+#EXTGRP:👶Детские
 https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/tracks-v1a1/mono.m3u8?hls_proxy_host=f4eb0d287702d48f6bbf6e6f56891e63
 #EXTINF:-1,Советские Мультфильмы
-#EXTGRP:🎞️Детские
+#EXTGRP:👶Детские
 http://minsk-cache07t.voka.tv/live/3007-req_5k_v5.m3u8
 #EXTINF:-1,Том и Джерри
-#EXTGRP:🎞️Детские
+#EXTGRP:👶Детские
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1,Умка
-#EXTGRP:🎞️Детские
+#EXTGRP:👶Детские
 http://minsk-cache07t.voka.tv/live/9488-req_5k_v5.m3u8
 
 
-
-
-
-
-
-
-
 #EXTINF:-1,80s
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13002/index.m3u8
 #EXTINF:-1,Alpha Cinema
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 #EXTINF:-1,ATV CineMan HD
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 http://185.57.68.33:80/255/index.m3u8
 #EXTINF:-1,alpha MoreTime
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd_output_0.m3u8?session=4AoZN7Rxw59jYpjVBmY4th
 #EXTINF:-1,Alpha Moretime
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:-1,BEST
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/20165/index.m3u8
 #EXTINF:-1,Bollywood HD
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 http://188.225.31.197/bpk-tv/000001419/tve/index.m3u8
 #EXTINF:-1,FlixSnip HD
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 http://188.225.31.197/bpk-tv/000004466/tve/index.m3u8
 #EXTINF:-1,Hollywood HD
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 https://tinyurl.com/45x3xrpm/chid421/mpegts
 #EXTINF:-1,IPTVPLAY ФАНТАСТИКА
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1,IPTVPLAY ПАМЯТЬ
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1,IPTVPLAY УЖАСТИК
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1,MYTV HIT
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 http://tinyurl.com/TvZaTak37/MyTV_Hit/video.m3u8?token=freeportal&token=a1ecd668e05f5ce07c81130c9d7fb362
 #EXTINF:-1,MYTV HIT
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/19410/index.m3u8
 #EXTINF:-1,MYTV
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/19407/index.m3u8
 #EXTINF:-1,MYTV 2
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/19408/index.m3u8
 #EXTINF:-1,MYTV 3
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/19411/index.m3u8
 #EXTINF:-1,TvBoom.ViP
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 https://kb.catcast.tv/content/49702/index.m3u8
 #EXTINF:-1,TV Boom
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 https://kinostreammedia.hopto.org/tvboom-vip/index.m3u8
 #EXTINF:-1,viju TV1000 action
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 http://188.225.31.197/bpk-tv/000003910/tve/index.m3u8
 #EXTINF:-1,viju TV1000
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 http://188.225.31.197/bpk-tv/000003747/tve/index.m3u8
 #EXTINF:-1,viju TV1000 русское
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 http://188.225.31.197/bpk-tv/000003748/tve/index.m3u8
 #EXTINF:-1,VIASAT Kino Comedy HD
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 http://ukr2.ukrainske.tv/493/video.m3u8
 #EXTINF:-1,viju+ Megahit HD
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 http://hls127.freeott.top:8080/ViP_Megahit/video.m3u8
 #EXTINF:-1,viju+ Megahit HD
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 http://188.225.31.197/bpk-tv/000000869/tve/index.m3u8
 #EXTINF:-1,viju+ Comedy HD
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 http://188.225.31.197/bpk-tv/000000870/tve/index.m3u8
 #EXTINF:-1,viju+ Premiere HD
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 http://188.225.31.197/bpk-tv/000000868/tve/index.m3u8
 #EXTINF:-1,Видеокассетаᴴᴰ
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
 #EXTINF:-1,Блокбастер
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/9087/index.m3u8
 #EXTINF:-1,Дом кино Premium HD
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 http://188.225.31.197/bpk-tv/000002943/tve/index.m3u8
 #EXTINF:-1,Еврокино HD
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 http://188.225.31.197/bpk-tv/000000152/tve/index.m3u8
 #EXTINF:-1,Иллюзион+
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 http://188.225.31.197/bpk-tv/000004582/tve/index.m3u8
 #EXTINF:-1,Камеди
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/9091/index.m3u8
 #EXTINF:-1,Кинобоевик HD
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 http://188.225.31.197/bpk-tv/000008490/tve/index.m3u8
 #EXTINF:-1,Кинопремьера
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/9020/index.m3u8
 #EXTINF:-1,КИНОХИТ
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 http://ip1.orgip.net/608/video.m3u8?token=Ab2b7066c8
 #EXTINF:-1,Кино Без Границ
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 http://185.57.68.33:8091/237/playlist.m3u8
 #EXTINF:-1,Кинолаффка
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=SHsCMnRorfwMcPrJz9yoGg&e=2070104027&scheme=https
 #EXTINF:-1,Кинолаффка HD
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=19TY0JRfXJzPhrZLaUHGGg&e=2067815807&scheme=https
 #EXTINF:-1,Кинолаффка HD
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=2ANj0RhjI1hrAkz7Jd83ZQ&e=2069068452&scheme=https
 #EXTINF:-1,Киножелезо
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=nVulkthwHvONsThcR6A38A&e=2070104121&scheme=https
 #EXTINF:-1,Киножелезо HD
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=ef6_lx1jeE7fA4D_mGr-tQ&e=2067815807&scheme=https
 #EXTINF:-1,Киножелезо HD
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=gMBYxSllxsSYVvLG71o4eg&e=2066519765&scheme=https
 #EXTINF:-1,Мировое Кино
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 http://188.225.31.197/bpk-tv/000008488/tve/index.m3u8
 #EXTINF:-1,Победа
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 https://streaming.televizor-24-tochka.ru/live/43.m3u8
 #EXTINF:-1,Премиум Кино
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 http://188.225.31.197/bpk-tv/000008491/tve/index.m3u8
 #EXTINF:-1,Семейное кино HD
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 http://188.225.31.197/bpk-tv/000008489/tve/index.m3u8
 #EXTINF:-1,Amedia 2 HD
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 http://188.225.31.197/bpk-tv/000000351/tve/index.m3u8
 #EXTINF:-1,Amedia Premium HD
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 http://188.225.31.197/bpk-tv/000000709/tve/index.m3u8
 #EXTINF:-1,ATV Armenia Premium 6
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 http://timeshift.arpinet.am/255/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Arpinet
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 http://timeshift.arpinet.am/237/index.m3u8
 #EXTINF:-1,Кинодром
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31714/index.m3u8
 #EXTINF:-1,Amedia 1 HD
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 http://188.225.31.197/bpk-tv/000000710/tve/index.m3u8
 #EXTINF:-1,ATV Bazmoc
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 http://109.68.122.117:8899/bazmoc
 #EXTINF:-1,Bcu premiere 2
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11016/index.m3u8
 #EXTINF:-1,FOX HD
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 http://188.225.31.197/bpk-tv/000004472/tve/index.m3u8
 #EXTINF:-1,FOX Life HD
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 http://188.225.31.197/bpk-tv/000004471/tve/index.m3u8
 #EXTINF:-1,NSC
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210_output_0.m3u8?session=bomhMGCHEtND9D3hX7kb4M
 #EXTINF:-1,Start World HD
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 http://188.225.31.197/bpk-tv/000007818/tve/index.m3u8
 #EXTINF:-1,viju+ Serial HD
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 http://188.225.31.197/bpk-tv/000004375/tve/index.m3u8
 #EXTINF:-1,Дорама
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 http://188.225.31.197/bpk-tv/000003392/tve/index.m3u8
 #EXTINF:-1,ЗОВ ТВ
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 https://live20.bozztv.com/giatv/giatv-tvzovlivestream/tvzovlivestream/chunks.m3u8
 #EXTINF:-1,ЗОВ ТВ Black
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 https://live20.bozztv.com/giatv/giatv-tvzovBlackstream/tvzovBlackstream/chunks.m3u8
 #EXTINF:-1,ЗОВ ТВ RED
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 https://live20.bozztv.com/giatv/giatv-tvzov%20RED/tvzov%20RED/chunks.m3u8
 #EXTINF:-1,Кинеко HD
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 http://188.225.31.197/bpk-tv/000008136/tve/index.m3u8
 #EXTINF:-1,Новый Русский 
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1_output_0.m3u8?session=U3YFrmmaaXDngd96fHTti7
 #EXTINF:-1,НТВ Сериал HD
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 #EXTINF:-1,НТВ Хит
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 #EXTINF:-1,Сапфир HD
-#EXTGRP:🎞️Фильмы&Сериалы
+#EXTGRP:📽📺Фильмы&Сериалы
 http://188.225.31.197/bpk-tv/000008135/tve/index.m3u8
 
 #EXTINF:-1,Смотрим Честный детектив
-#EXTGRP:🎞️ Смотрим&НТВ
+#EXTGRP:📺Смотрим&НТВ
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1,Смотрим 100% Любовь
-#EXTGRP:🎞️ Смотрим&НТВ
+#EXTGRP:📺Смотрим&НТВ
 https://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248
 #EXTINF:-1,Смотрим 100% Классика
-#EXTGRP:🎞️ Смотрим&НТВ
+#EXTGRP:📺Смотрим&НТВ
 https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338
 #EXTINF:-1,Смотрим 100% Детское
-#EXTGRP:🎞️ Смотрим&НТВ
+#EXTGRP:📺Смотрим&НТВ
 https://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab089
 #EXTINF:-1,Смотрим 100% Факты
-#EXTGRP:🎞️ Смотрим&НТВ
+#EXTGRP:📺Смотрим&НТВ
 https://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f
 #EXTINF:-1,Смотрим 100% Праздник
-#EXTGRP:🎞️ Смотрим&НТВ
+#EXTGRP:📺Смотрим&НТВ
 https://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564
 #EXTINF:-1,Смотрим 100% Мужское
-#EXTGRP:🎞️ Смотрим&НТВ
+#EXTGRP:📺Смотрим&НТВ
 https://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d
 #EXTINF:-1,НТВ Сериалы Скорая помощь
-#EXTGRP:🎞️ Смотрим&НТВ
+#EXTGRP:📺Смотрим&НТВ
 https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1,НТВ Сериалы Пёс
-#EXTGRP:🎞️ Смотрим&НТВ
+#EXTGRP:📺Смотрим&НТВ
 https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1,НТВ Сериалы Первый отдел
-#EXTGRP:🎞️ Смотрим&НТВ
+#EXTGRP:📺Смотрим&НТВ
 https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1,НТВ Сериалы Первый отдел
-#EXTGRP:🎞️ Смотрим&НТВ
+#EXTGRP:📺Смотрим&НТВ
 https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,НТВ Сериалы Шеф
-#EXTGRP:🎞️ Смотрим&НТВ
+#EXTGRP:📺Смотрим&НТВ
 https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1,НТВ Сериалы Шеф
-#EXTGRP:🎞️ Смотрим&НТВ
+#EXTGRP:📺Смотрим&НТВ
 https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,НТВ Сериалы Невский
-#EXTGRP:🎞️ Смотрим&НТВ
+#EXTGRP:📺Смотрим&НТВ
 https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1,НТВ Сериалы Невский
-#EXTGRP:🎞️ Смотрим&НТВ
+#EXTGRP:📺Смотрим&НТВ
 https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,НТВ Сериалы Балабол
-#EXTGRP:🎞️ Смотрим&НТВ
+#EXTGRP:📺Смотрим&НТВ
 https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1,НТВ Сериалы Пять минут тишины
-#EXTGRP:🎞️ Смотрим&НТВ
+#EXTGRP:📺Смотрим&НТВ
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
 
 #EXTINF:-1,Viju+ Megahit
@@ -874,6 +867,70 @@ https://telluri.ru/video/tr-and/335.m3u8
 #EXTINF:-1,НТВ Сериал
 #EXTGRP:🎞️Кинозалы от TELLURI
 https://telluri.ru/video/cog-dl/2065.m3u8
+
+#EXTINF:-1,Сити Эдем - КиноМистика
+#EXTGRP:🎞️Сити Эдем
+https://cityeden.catcast.tv/content/40783/index.m3u8?token=4553db048605eecf46c822b88833ce1d
+#EXTINF:-1,Сити Эдем - КиноКомедия
+#EXTGRP:🎞️Сити Эдем
+https://cityeden.catcast.tv/content/41331/index.m3u8?token=8f96495eee510a33fb3017982ce61eac
+#EXTINF:-1,Сити Эдем - КиноСемья
+#EXTGRP:🎞️Сити Эдем
+https://autopilot.catcast.tv/content/38128/index.m3u8?token=2c25bdb20383b2533f44f6073ddfa2b6
+#EXTINF:-1,Сити Эдем - КиноАзия
+#EXTGRP:🎞️Сити Эдем
+https://cityeden.catcast.tv/content/34393/index.m3u8?token=dbf2611bd4f1aab379cb289c3e79d512
+#EXTINF:-1,Сити Эдем - КиноЭкшен
+#EXTGRP:🎞️Сити Эдем
+https://cityeden.catcast.tv/content/41333/index.m3u8?token=474cd86e39467c9dfaa93e4e49f4be69
+#EXTINF:-1,Сити Эдем - КиноДетектив
+#EXTGRP:🎞️Сити Эдем
+https://cityeden.catcast.tv/content/41327/index.m3u8?token=b4165148a2a733cb7ed075023297d583
+#EXTINF:-1,Сити Эдем - КиноФантастика
+#EXTGRP:🎞️Сити Эдем
+https://cityeden.catcast.tv/content/45268/index.m3u8?token=83cbe0179bd863b7c1acb9894d7c7ba6
+#EXTINF:-1,Сити Эдем - КиноДрама
+#EXTGRP:🎞️Сити Эдем
+https://cityeden.catcast.tv/content/45269/index.m3u8?token=28470f31cea5990d1be54eb04a48514a
+
+#EXTINF:-1 group-title="🎞️ Кинозалы Тест" ,Кино и Жизнь
+https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=8zEp8CoHlUujIbs_ac3I5g&e=2070281160&scheme=https
+#EXTINF:-1 group-title="🎞️ Кинозалы Тест" ,Советская Киноклассика
+https://tinyurl.com/45x3xrpm/chid276/mpegts
+#EXTINF:-1 group-title="🎞️ Кинозалы Тест" ,RANDOM BEST FILMS
+https://tinyurl.com/aleks-u-romki-40/11043/index.m3u8
+#EXTINF:-1 group-title="🎞️ Кинозалы Тест" ,Госфильмофонд. Машина Времени
+http://178.163.2.151:4022/udp/234.0.0.190:2000
+#EXTINF:-1 group-title="🎞️ Кинозалы Тест" ,Тех Лет ТВ
+http://minsk-cache07t.voka.tv/live/9489-req_5k_v5.m3u8
+#EXTINF:-1 group-title="🎞️ Кинозалы Тест" ,Космос ТВ
+http://minsk-cache07t.voka.tv/live/3870-req_5k_v5.m3u8
+#EXTINF:-1 group-title="🎞️ Кинозалы Тест" ,Konul Tv
+http://live.mediabaytv.workers.dev/?ID=715
+#EXTINF:-1 group-title="🎞️ Кинозалы Тест" ,Kinoliving
+https://tinyurl.com/45x3xrpm/chid413/mpegts
+#EXTINF:-1 group-title="🎞️ Кинозалы Тест" ,Novella TV
+https://minsk-cache07t.voka.tv/live/1205-req_offset_28000000-req_window_0-4k_v5.m3u8
+#EXTINF:-1 group-title="🎞️ Кинозалы Тест" ,.red 
+https://telluri.ru/video/tr-and/1400.m3u8
+#EXTINF:-1 group-title="🎞️ Кинозалы Тест" ,viju TV1000 HD
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=WoTe5_sOGZKSROZL-80Bdw&e=1773595460&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 group-title="🎞️ Кинозалы Тест" ,viju TV1000 Action
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=kkDofz4ySaJxV3vcYh8JQg&e=1773595493&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 group-title="🎞️ Кинозалы Тест" ,viju TV1000 Romantica
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=c3-6_XA6KiCYQtKqzL42Og&e=1773595478&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 group-title="🎞️ Кинозалы Тест" , Детективы КД
+https://bl.rutube.ru/livestream/e05401be60a9cc719fa7075b6e77b86d/index.m3u8?s=wbVW8VM26OpdW5kxFYEmSQ&e=2069694293&scheme=https
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p6y4Q1vk/image-9.png" group-title="🎞️ Кинозалы Тест" ,DTR ZONA 2
+https://kino-stream.online/hls/DTRZONA2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PzNr8bsH/image-4.png" tvg-id="" group-title="🎞️ Кинозалы Тест", Скрипач ТВ
+https://live20.bozztv.com/akamaissh101/ssh101/scripachmovie/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hrJnvY6/image-15.png" tvg-id="" group-title="🎞️ Кинозалы Тест", SeleCaoTV 1
+https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxvChLq8/image-34.png" tvg-id="" group-title="🎞️ Кинозалы Тест", Kino 24
+http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+
+
 
 #EXTINF:-1,Akudji No 24/7 к/ф
 #EXTGRP:🎞️ Kinowalk Production
@@ -1049,257 +1106,189 @@ http://kinowalk.hopto.org/zubrilommusic.ru_live
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qY2FXYDg/image-7.png" group-title="🎞️ Kinowalk Production" ,Legion TV No 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://kinowalk.hopto.org/legion-tv_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production", VHS кино
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production", VHS кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/and7610_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production", Егор Егорыч
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production", Егор Егорыч
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/yegor_yegorych_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production", У КРАЯ БЕЗДНЫ
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production", У КРАЯ БЕЗДНЫ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/ddator_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production", БезНика
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production", БезНика
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/522_137_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production", InMuNa
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production", InMuNa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/inmuna_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production", Музыка и фильмы
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production", Музыка и фильмы
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/diktos33_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production", BOSSFILM
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production", BOSSFILM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/bossfilm_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production", VAG KINO 164
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production", VAG KINO 164
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/vagner164_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production", seriavaleria
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production", seriavaleria
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/seriavaleria_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production", HyBteX
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production", HyBteX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/hybtex_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production", SеVаNz
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production", SеVаNz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/sevanz_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production",Фильмы НОВИНКИ Live
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production",Фильмы НОВИНКИ Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/mir.kinoxi_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production", LysOFF
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production", LysOFF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/lysoff_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production",MrsDOOmKa
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production",MrsDOOmKa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/mrsdoomka_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production", KrotFa
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production", KrotFa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/krotfa_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production", GUWi_TV
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production", GUWi_TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/guwi_tv_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production", _PhoENIX
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production", _PhoENIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/phoenix3345_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production", Димитрон фильм
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production", Димитрон фильм
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/dondimitron_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production", KINO-TV
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production", KINO-TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/strannik1177_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production", Lisfix
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production", Lisfix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/lisfix_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production", Сериальный мир
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production", Сериальный мир
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/serials2025_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production", DeVchatA
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production", DeVchatA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/devchata_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production", КИНО СТРИМ
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production", КИНО СТРИМ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/kinostreamlive_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production", Argo_13
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production", Argo_13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/argo_13_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production", 3JIou TaTapuH
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production", 3JIou TaTapuH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/3jiou_tatapuh_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production", natanatty
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production", natanatty
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/nata.natty_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production", Kycman
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production", Kycman
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/kycman_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production", Astrix116
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production", Astrix116
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/astrix116_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production", Осторожно Модерн 2
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production", Осторожно Модерн 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/ostorozhnomodern2_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production", 33 квадратных метра
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production", 33 квадратных метра
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/33metra_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production", ПикаБУ!
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production", ПикаБУ!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/pipa39_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production", Snoochies Boochies
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production", Snoochies Boochies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/sinema_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production", Wfliq
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production", Wfliq
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/wfliq_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production", СВЯТОЙ LIVE
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production", СВЯТОЙ LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/misha.sdyt_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production", не Кино
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production", не Кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/notnotes_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production", VHS Power
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production", VHS Power
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/noir_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production", АPRICUS
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production", АPRICUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/apricus_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production", IGROComp Films
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production", IGROComp Films
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/igrocomp_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production", BOH
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production", BOH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/boh_music_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production",Кинохунос
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production",Кинохунос
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/kinokunos_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production", Кинотека FULL_HD
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production", Кинотека FULL_HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/kinoteka_full_hd_top_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production", Назад в СССР
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production", Назад в СССР
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/backtotheussr_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production", FGS
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production", FGS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/dscb_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production", AASS
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production", AASS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/aaasss_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production", Solo ink
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production", Solo ink
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/soloink_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production", MAX LIVЕ
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production", MAX LIVЕ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/maximum_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production", КИНО05
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production", КИНО05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://kinowalk.hopto.org/kino05_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production", Первый ряд
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production", Первый ряд
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://kinowalk.hopto.org/perviryad_live%20
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production",dj Zour
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production",dj Zour
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://kinowalk.hopto.org/zsmedia_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production", Тоха Киноман
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production", Тоха Киноман
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://kinowalk.hopto.org/kinomania_stream_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production",КИНОУЖАС HD
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production",КИНОУЖАС HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://kinowalk.hopto.org/kinouzhas_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production", deamonnit093
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production", deamonnit093
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://kinowalk.hopto.org/deamonnit093_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production", Коновал ТВ
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production", Коновал ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://kinowalk.hopto.org/www.konoval_tv_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production", aleksey_24RUS
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production", aleksey_24RUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://kinowalk.hopto.org/aleksey_24rus_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" tvg-id="" group-title="🎞️ Kinowalk Production", Игрун 1997
+#EXTINF:-1 tvg-id="" group-title="🎞️ Kinowalk Production", Игрун 1997
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://kinowalk.hopto.org/igrun1997_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🎞️ Kinowalk Production" , Cinema Time FHD
+#EXTINF:-1 group-title="🎞️ Kinowalk Production" , Cinema Time FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/cinematime_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🎞️ Kinowalk Production" , Disney XD
+#EXTINF:-1 group-title="🎞️ Kinowalk Production" , Disney XD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/disneyxd_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🎞️ Kinowalk Production" , ZumiBox
+#EXTINF:-1 group-title="🎞️ Kinowalk Production" , ZumiBox
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/zumibox_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🎞️ Kinowalk Production" , Play 4 Fun
+#EXTINF:-1 group-title="🎞️ Kinowalk Production" , Play 4 Fun
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/play4fun_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🎞️ Kinowalk Production" ,Мультфильмы 24/7
+#EXTINF:-1 group-title="🎞️ Kinowalk Production" ,Мультфильмы 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/mezontrop_live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🎞️ Kinowalk Production" , FoxKids-Remastered
+#EXTINF:-1 group-title="🎞️ Kinowalk Production" , FoxKids-Remastered
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://kinowalk.hopto.org/foxkids_remastered_live
-
-#EXTINF:-1,Сити Эдем - КиноМистика
-#EXTGRP:🎞️Сити Эдем
-https://cityeden.catcast.tv/content/40783/index.m3u8?token=4553db048605eecf46c822b88833ce1d
-#EXTINF:-1,Сити Эдем - КиноКомедия
-#EXTGRP:🎞️Сити Эдем
-https://cityeden.catcast.tv/content/41331/index.m3u8?token=8f96495eee510a33fb3017982ce61eac
-#EXTINF:-1,Сити Эдем - КиноСемья
-#EXTGRP:🎞️Сити Эдем
-https://autopilot.catcast.tv/content/38128/index.m3u8?token=2c25bdb20383b2533f44f6073ddfa2b6
-#EXTINF:-1,Сити Эдем - КиноАзия
-#EXTGRP:🎞️Сити Эдем
-https://cityeden.catcast.tv/content/34393/index.m3u8?token=dbf2611bd4f1aab379cb289c3e79d512
-#EXTINF:-1,Сити Эдем - КиноЭкшен
-#EXTGRP:🎞️Сити Эдем
-https://cityeden.catcast.tv/content/41333/index.m3u8?token=474cd86e39467c9dfaa93e4e49f4be69
-#EXTINF:-1,Сити Эдем - КиноДетектив
-#EXTGRP:🎞️Сити Эдем
-https://cityeden.catcast.tv/content/41327/index.m3u8?token=b4165148a2a733cb7ed075023297d583
-#EXTINF:-1,Сити Эдем - КиноФантастика
-#EXTGRP:🎞️Сити Эдем
-https://cityeden.catcast.tv/content/45268/index.m3u8?token=83cbe0179bd863b7c1acb9894d7c7ba6
-#EXTINF:-1,Сити Эдем - КиноДрама
-#EXTGRP:🎞️Сити Эдем
-https://cityeden.catcast.tv/content/45269/index.m3u8?token=28470f31cea5990d1be54eb04a48514a
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы Тест 🔴" ,Кино и Жизнь
-https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=8zEp8CoHlUujIbs_ac3I5g&e=2070281160&scheme=https
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы Тест 🔴" ,Советская Киноклассика
-https://tinyurl.com/45x3xrpm/chid276/mpegts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы Тест 🔴" ,RANDOM BEST FILMS
-https://tinyurl.com/aleks-u-romki-40/11043/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы Тест 🔴" ,Госфильмофонд. Машина Времени
-http://178.163.2.151:4022/udp/234.0.0.190:2000
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы Тест 🔴" ,Тех Лет ТВ
-http://minsk-cache07t.voka.tv/live/9489-req_5k_v5.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы Тест 🔴" ,Космос ТВ
-http://minsk-cache07t.voka.tv/live/3870-req_5k_v5.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы Тест 🔴" ,Konul Tv
-http://live.mediabaytv.workers.dev/?ID=715
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы Тест 🔴" ,Kinoliving
-https://tinyurl.com/45x3xrpm/chid413/mpegts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы Тест 🔴" ,Novella TV
-https://minsk-cache07t.voka.tv/live/1205-req_offset_28000000-req_window_0-4k_v5.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы Тест 🔴" ,.red 
-https://telluri.ru/video/tr-and/1400.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы Тест 🔴" ,viju TV1000 HD
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=WoTe5_sOGZKSROZL-80Bdw&e=1773595460&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы Тест 🔴" ,viju TV1000 Action
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=kkDofz4ySaJxV3vcYh8JQg&e=1773595493&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы Тест 🔴" ,viju TV1000 Romantica
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=c3-6_XA6KiCYQtKqzL42Og&e=1773595478&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="🔴 Кинозалы Тест 🔴" , Детективы КД
-https://bl.rutube.ru/livestream/e05401be60a9cc719fa7075b6e77b86d/index.m3u8?s=wbVW8VM26OpdW5kxFYEmSQ&e=2069694293&scheme=https
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p6y4Q1vk/image-9.png" group-title="🔴 Кинозалы Тест 🔴" ,DTR ZONA 2
-https://kino-stream.online/hls/DTRZONA2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PzNr8bsH/image-4.png" tvg-id="" group-title="🔴 Кинозалы Тест 🔴", Скрипач ТВ
-https://live20.bozztv.com/akamaissh101/ssh101/scripachmovie/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hrJnvY6/image-15.png" tvg-id="" group-title="🔴 Кинозалы Тест 🔴", SeleCaoTV 1
-https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vxvChLq8/image-34.png" tvg-id="" group-title="🔴 Кинозалы Тест 🔴", Kino 24
-http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
-
-
-
-
-
-
 
 
 
