@@ -1,64 +1,64 @@
 #EXTM3U
 
 #EXTINF:-1,Первый канал HD
-#EXTGRP:🧿🇷🇺Федеральные
+#EXTGRP:🇷🇺Федеральные
 http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1,Россия 1 HD
-#EXTGRP:🧿🇷🇺Федеральные
+#EXTGRP:🇷🇺Федеральные
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1,Матч ТВ HD
-#EXTGRP:🧿🇷🇺Федеральные
+#EXTGRP:🇷🇺Федеральные
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:-1,НТВ HD
-#EXTGRP:🧿🇷🇺Федеральные
+#EXTGRP:🇷🇺Федеральные
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Пятый Канал
-#EXTGRP:🧿🇷🇺Федеральные
+#EXTGRP:🇷🇺Федеральные
 http://stream-tv.ew21.ru/005/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1,Россия К
-#EXTGRP:🧿🇷🇺Федеральные
+#EXTGRP:🇷🇺Федеральные
 http://stream-tv.ew21.ru/006/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1,Россия 24 HD
-#EXTGRP:🧿🇷🇺Федеральные
+#EXTGRP:🇷🇺Федеральные
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
 #EXTINF:-1,Карусель HD
-#EXTGRP:🧿🇷🇺Федеральные
+#EXTGRP:🇷🇺Федеральные
 http://stream-tv.ew21.ru/008/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1,ОТР HD
-#EXTGRP:🧿🇷🇺Федеральные
+#EXTGRP:🇷🇺Федеральные
 http://stream-tv.ew21.ru/009/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1,ТВЦ HD
-#EXTGRP:🧿🇷🇺Федеральные
+#EXTGRP:🇷🇺Федеральные
 http://stream-tv.ew21.ru/010/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1,Рен ТВ
-#EXTGRP:🧿🇷🇺Федеральные
+#EXTGRP:🇷🇺Федеральные
 http://stream-tv.ew21.ru/011/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1,СПАС
-#EXTGRP:🧿🇷🇺Федеральные
+#EXTGRP:🇷🇺Федеральные
 http://stream-tv.ew21.ru/012/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1,СТС
-#EXTGRP:🧿🇷🇺Федеральные
+#EXTGRP:🇷🇺Федеральные
 http://stream-tv.ew21.ru/013/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1,Домашний
-#EXTGRP:🧿🇷🇺Федеральные
+#EXTGRP:🇷🇺Федеральные
 http://45.145.32.13:20440/domashnij/index.m3u8?token=test
 #EXTINF:-1,ТВ3
-#EXTGRP:🧿🇷🇺Федеральные
+#EXTGRP:🇷🇺Федеральные
 http://stream-tv.ew21.ru/015/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1,Пятница
-#EXTGRP:🧿🇷🇺Федеральные
+#EXTGRP:🇷🇺Федеральные
 http://stream-tv.ew21.ru/016/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1,Звезда HD
-#EXTGRP:🧿🇷🇺Федеральные
+#EXTGRP:🇷🇺Федеральные
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1,Мир
-#EXTGRP:🧿🇷🇺Федеральные
+#EXTGRP:🇷🇺Федеральные
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1,ТНТ
-#EXTGRP:🧿🇷🇺Федеральные
+#EXTGRP:🇷🇺Федеральные
 http://stream-tv.ew21.ru/019/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1,Муз ТВ
-#EXTGRP:🧿🇷🇺Федеральные
+#EXTGRP:🇷🇺Федеральные
 https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
 #EXTINF:-1,360 Новости HD
 #EXTGRP:👁‍Новостные
@@ -931,10 +931,10 @@ https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/playlist.m3u8
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 
 
-#EXTINF:-1,Akudji 📽-👶✔️
+#EXTINF:-1,Akudji 📽👶-⭐️✔️
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/akudjitv_live
-#EXTINF:-1,Alex.Films 📽📺-️👶✔️
+#EXTINF:-1,Alex.Films 📽📺-️⭐️✔️
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/alex.films_live
 #EXTINF:-1,Blockbusters Time 📽-✔️
