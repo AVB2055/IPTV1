@@ -159,9 +159,6 @@ http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TV PRO
 #EXTGRP:🔎‍Познавательные
 http://rtmp.tvpro-online.ru/hls/ch1.m3u8
-#EXTINF:-1,TV12 GUDAUTA
-#EXTGRP:🔎‍Познавательные
-http://185.221.213.254:8080/Mafia2/index.m3u8
 #EXTINF:-1,Univer TV HD
 #EXTGRP:🔎‍Познавательные
 https://cdn.universmotri.ru/live/smil:univer.smil/chunklist_w911267907_b3628000_slru.m3u8
@@ -1282,3 +1279,4 @@ http://kinowalk.hopto.org/kinouzhas_live
 #EXTINF:-1,Disney XD 👶-🚫
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/disneyxd_live
+
