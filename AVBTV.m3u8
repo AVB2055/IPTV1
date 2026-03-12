@@ -936,9 +936,6 @@ https://telluri.ru/video/tr-and/335.m3u8
 https://telluri.ru/video/cog-dl/2065.m3u8
 
 
-#EXTINF:-1,Alex.Films 🎦📺-️✅ HD
-#EXTGRP:🎞️ Kinowalk Production
-http://kinowalk.hopto.org/alex.films_live
 #EXTINF:-1,Blockbusters Time 🎦-✅ HD
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/blockbusterstime_live
@@ -993,6 +990,9 @@ http://kinowalk.hopto.org/kasseta_live
 #EXTINF:-1,Тоха Стрим 🎦📺🔎🎧💠-✅ HDR
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/toxa_stream_live
+#EXTINF:-1,Alex.Films 🎦📺-️✅ HD
+#EXTGRP:🎞️ Kinowalk Production
+http://kinowalk.hopto.org/alex.films_live
 #EXTINF:-1,4K — Кино и сериалы 🎦📺👶-✅ HDR
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/4khits_live
@@ -1092,7 +1092,7 @@ http://kinowalk.hopto.org/filmomania_live
 #EXTINF:-1,Фильмы сериалы 🎦📺-✅🚫 HDR
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/dfsfsdg_live
-#EXTINF:-1,ROMEO Video 🎦👶🤣-✅🚫
+#EXTINF:-1,ROMEO Video 🎦👶🤣-✅🚫 HDR
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/romantic_live
 #EXTINF:-1,EvGAMEN 🎦📺👶-✅🚫 HDR
@@ -1119,10 +1119,10 @@ http://kinowalk.hopto.org/diktos33_live
 #EXTINF:-1,BOSSFILM 🎦📺🔎-️✅🔴 2K
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/bossfilm_live
-#EXTINF:-1,VAG KINO 164 🎦📺👶-✅🚫
+#EXTINF:-1,VAG KINO 164 🎦📺👶-✅🚫 HDR
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/vagner164_live
-#EXTINF:-1,Димитрон фильм 🎦👶-✅🚫
+#EXTINF:-1,Димитрон фильм 🎦👶-✅🚫 HD
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/dondimitron_live
 #EXTINF:-1,КИНО05 🎦-✅🚫 HD
@@ -1134,7 +1134,7 @@ http://kinowalk.hopto.org/krotfa_live
 #EXTINF:-1,KINO-TV 🎦🎧-✅🚫 HD
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/strannik1177_live
-#EXTINF:-1,Lisfix 🎦📺👶🎧-✅🚫 HDR
+#EXTINF:-1,Lisfix 🎦📺👶🎧-✅🚫 HD
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/lisfix_live
 #EXTINF:-1,не Кино 🎦👶-✅🚫 HDR
@@ -1146,6 +1146,9 @@ http://kinowalk.hopto.org/apricus_live
 #EXTINF:-1,BOH 🎦📺🔎⛹🏿🎧💠-✅🚫 HD
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/boh_music_live
+#EXTINF:-1,Кинохунос 🎦📺-✅🚫 HDR
+#EXTGRP:🎞️ Kinowalk Production
+http://kinowalk.hopto.org/kinokunos_live
 #EXTINF:-1,SeleCaoTV 2 📺👶-️✅ HDR
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/selecaotv1_live
@@ -1155,7 +1158,7 @@ http://kinowalk.hopto.org/aisman_live
 #EXTINF:-1,Baragozz_TV 📺🎧-✅ HD
 #EXTGRP:🎞️ Kinowalk Production 
 http://kinowalk.hopto.org/baragozz_tv_live
-#EXTINF:-1,Игрун 1997 📺-️✅
+#EXTINF:-1,Игрун 1997 📺-️✅ HD
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/igrun1997_live
 #EXTINF:-1,lampoTV 📺🎧-️✅ HD
@@ -1264,10 +1267,8 @@ http://kinowalk.hopto.org/nata.natty_live
 #EXTINF:-1,ПикаБУ! -🚫
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/pipa39_live
-#EXTINF:-1,Кинохунос 🎦📺-🚫
-#EXTGRP:🎞️ Kinowalk Production
-http://kinowalk.hopto.org/kinokunos_live
-#EXTINF:-1,Кинотека FULL_HD -🚫
+
+#EXTINF:-1,Кинотека FULL_HD -🔴
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/kinoteka_full_hd_top_live
 #EXTINF:-1,deamonnit093 -🚫
@@ -1279,4 +1280,3 @@ http://kinowalk.hopto.org/kinouzhas_live
 #EXTINF:-1,Disney XD 👶-🚫
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/disneyxd_live
-
