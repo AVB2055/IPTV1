@@ -156,9 +156,6 @@ http://188.225.31.197/bpk-tv/000008142/tve/index.m3u8
 #EXTINF:-1,TV BRICS HD
 #EXTGRP:🔎‍Познавательные
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TV PRO
-#EXTGRP:🔎‍Познавательные
-http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 #EXTINF:-1,Univer TV HD
 #EXTGRP:🔎‍Познавательные
 https://cdn.universmotri.ru/live/smil:univer.smil/chunklist_w911267907_b3628000_slru.m3u8
@@ -1086,7 +1083,7 @@ http://kinowalk.hopto.org/miiz90x_live
 #EXTINF:-1,Эра VHS 🎦💠-✅🚫 2K
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/era_vhs_live
-#EXTINF:-1,Фильмомания 🎦📺-️✅🚫
+#EXTINF:-1,Фильмомания 🎦📺-️✅🚫 HD
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/filmomania_live
 #EXTINF:-1,Фильмы сериалы 🎦📺-✅🚫 HDR
@@ -1125,7 +1122,7 @@ http://kinowalk.hopto.org/vagner164_live
 #EXTINF:-1,Димитрон фильм 🎦👶-✅🚫 HD
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/dondimitron_live
-#EXTINF:-1,КИНО05 🎦-✅🚫 HD
+#EXTINF:-1,КИНО05 🎦-✅🔴️ HD
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/kino05_live
 #EXTINF:-1,KrotFa 🎦📺-✅🚫
@@ -1149,6 +1146,15 @@ http://kinowalk.hopto.org/boh_music_live
 #EXTINF:-1,Кинохунос 🎦📺-✅🚫 HDR
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/kinokunos_live
+#EXTINF:-1,SеVаNz 🎦📺-✅🚫 HD
+#EXTGRP:🎞️ Kinowalk Production
+http://kinowalk.hopto.org/sevanz_live
+#EXTINF:-1,Малдер Всё ТВ 🎦📺👶-✅🚫️ HDR
+#EXTGRP:🎞️ Kinowalk Production
+http://kinowalk.hopto.org/vsetv_live
+#EXTINF:-1,Maksim Films 🎦-✅🚫 HD
+#EXTGRP:🎞️ Kinowalk Production
+http://kinowalk.hopto.org/mmaxim0vich_live
 #EXTINF:-1,SeleCaoTV 2 📺👶-️✅ HDR
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/selecaotv1_live
@@ -1191,7 +1197,7 @@ http://kinowalk.hopto.org/serials2025_live
 #EXTINF:-1,AASS 📺-✅ HD
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/aaasss_live
-#EXTINF:-1,СВЯТОЙ LIVE 📺-️✅🚫
+#EXTINF:-1,СВЯТОЙ LIVE 📺-️✅🚫 HD
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/misha.sdyt_live
 #EXTINF:-1,seriavaleria 📺-️✅🚫
@@ -1215,31 +1221,21 @@ http://kinowalk.hopto.org/aleksey_24rus_live
 #EXTINF:-1,ПикаБУ! 📺-✅🚫 HD
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/pipa39_live
-
 #EXTINF:-1,ФИЛЬМЫ&СЕРИАЛЫ 🎦📺-🔴
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/films_serials_24_7_live/_live
-#EXTINF:-1,Maksim Films 🎦-🚫
-#EXTGRP:🎞️ Kinowalk Production
-http://kinowalk.hopto.org/mmaxim0vich_live
 #EXTINF:-1,ReanimatoR_VHS 🎦-🚫
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/reanimator_vhs_live
 #EXTINF:-1,wihail 🎦-🚫️
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/wihail_live
-#EXTINF:-1,Малдер Всё ТВ 🎦📺👶-🚫️
-#EXTGRP:🎞️ Kinowalk Production
-http://kinowalk.hopto.org/vsetv_live
 #EXTINF:-1,Rus serials 📺-🚫️
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/zzz881_live
 #EXTINF:-1,HyBteX 📺-🚫
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/hybtex_live
-#EXTINF:-1,SеVаNz 📺-🚫
-#EXTGRP:🎞️ Kinowalk Production
-http://kinowalk.hopto.org/sevanz_live
 #EXTINF:-1,Фильмы НОВИНКИ Live 🎦-🚫
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/mir.kinoxi_live
@@ -1267,7 +1263,7 @@ http://kinowalk.hopto.org/argo_13_live
 #EXTINF:-1,natanatty 📺-🚫
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/nata.natty_live
-#EXTINF:-1,Кинотека FULL_HD -🔴
+#EXTINF:-1,Кинотека FULL_HD -🚫
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/kinoteka_full_hd_top_live
 #EXTINF:-1,deamonnit093 -🚫
