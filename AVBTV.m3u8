@@ -761,7 +761,7 @@ http://kinowalk.hopto.org/vhs-forever_live
 #EXTINF:-1,SeleCaoTV 🎦📺-️🧿
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/selecaotv_live
-#EXTINF:-1,KINOPRO 🎦👶-🧿
+#EXTINF:-1,KINOPRO 🎦👶-🧿🔴
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/kinopro_live
 #EXTINF:-1,𝕂𝔸ℂℂ𝔼𝕋𝔸 🎦👶-️🧿
@@ -776,7 +776,7 @@ http://kinowalk.hopto.org/alex.films_live
 #EXTINF:-1,4K — Кино и сериалы 🎦📺👶-🧿
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/4khits_live
-#EXTINF:-1,VHS кино 🎦📺👶-️🧿
+#EXTINF:-1,VHS кино 🎦📺👶-️🧿🚫
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/and7610_live
 #EXTINF:-1,TopMoment 🎦📺👶-🧿️
@@ -791,7 +791,7 @@ http://kinowalk.hopto.org/www.konoval_tv_live
 #EXTINF:-1,Cinema Time FHD 🎦👶-🧿
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/cinematime_live
-#EXTINF:-1,ZumiBox 🎦👶-🧿
+#EXTINF:-1,ZumiBox 🎦👶-🧿🌍
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/zumibox_live
 #EXTINF:-1,Play 4 Fun 👶-️🧿
@@ -878,7 +878,7 @@ http://kinowalk.hopto.org/filmvibes_live
 #EXTINF:-1,Мультимания 👶-️🧿🔴
 #EXTGRP:🎞️ Kinowalk Production
 http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Мамонтёнок ТВ 👶-️🧿🔴
+#EXTINF:-1,Мамонтёнок ТВ 👶-️🧿🔴🌍
 #EXTGRP:🎞️ Kinowalk Production
 http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Мультфильмы нашего детства 👶-🧿🚫
@@ -896,7 +896,7 @@ http://kinowalk.hopto.org/vampiro1965_live
 #EXTINF:-1,Музыка и фильмы 🎦🎶-🧿🚫
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/diktos33_live
-#EXTINF:-1,BOSSFILM 🎦📺🔎-️🧿🔴
+#EXTINF:-1,BOSSFILM 🎦📺🔎-️🧿🔴S
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/bossfilm_live
 #EXTINF:-1,VAG KINO 164 🎦📺👶-🧿🚫
@@ -998,13 +998,13 @@ http://kinowalk.hopto.org/maximum_live
 #EXTINF:-1,aleksey_24RUS 📺-🧿🚫
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/aleksey_24rus_live
-#EXTINF:-1,ПикаБУ! 📺-🧿🚫
+#EXTINF:-1,ПикаБУ! 📺👶-🧿🚫
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/pipa39_live
 #EXTINF:-1,_PhoENIX 👶-🧿🚫️️
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/phoenix3345_live
-#EXTINF:-1,Эквилибриум 🔎-🧿🚫
+#EXTINF:-1,Эквилибриум 📺🔎-🧿🚫
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/equilibrium_live
 #EXTINF:-1,Akudji 🎦-🧿🚫✔️
@@ -1058,9 +1058,6 @@ http://kinowalk.hopto.org/argo_13_live
 #EXTINF:-1,natanatty 📺-🚫✔️
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/nata.natty_live
-#EXTINF:-1,Кинотека FULL_HD -🚫✔️
-#EXTGRP:🎞️ Kinowalk Production
-http://kinowalk.hopto.org/kinoteka_full_hd_top_live
 #EXTINF:-1,deamonnit093 -🚫✔️
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/deamonnit093_live
