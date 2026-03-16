@@ -770,9 +770,6 @@ http://kinowalk.hopto.org/toxa_stream_live
 #EXTINF:-1,Alex.Films 🎦📺-️🟢
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/alex.films_live
-#EXTINF:-1,KINOPRO 🎦👶-🟢🔴
-#EXTGRP:🎞️ Kinowalk Production
-http://kinowalk.hopto.org/kinopro_live
 #EXTINF:-1,4K — Кино и сериалы 🎦📺👶-🟢
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/4khits_live
@@ -791,7 +788,7 @@ http://kinowalk.hopto.org/www.konoval_tv_live
 #EXTINF:-1,Cinema Time FHD 🎦👶-🟢
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/cinematime_live
-#EXTINF:-1,ZumiBox 🎦👶-🟢🌍
+#EXTINF:-1,ZumiBox 🎦👶-🟢
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/zumibox_live
 #EXTINF:-1,Play 4 Fun 👶-️🟢
@@ -878,7 +875,7 @@ http://kinowalk.hopto.org/filmvibes_live
 #EXTINF:-1,Мультимания 👶-️🟢🔴
 #EXTGRP:🎞️ Kinowalk Production
 http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Мамонтёнок ТВ 👶-️🟢🔴-🌍
+#EXTINF:-1,Мамонтёнок ТВ 👶-️🟢🔴
 #EXTGRP:🎞️ Kinowalk Production
 http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Мультфильмы нашего детства 👶-🟢🟡
@@ -896,7 +893,7 @@ http://kinowalk.hopto.org/vampiro1965_live
 #EXTINF:-1,Музыка и фильмы 🎦🎶-🟢🟡
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/diktos33_live
-#EXTINF:-1,BOSSFILM 🎦📺🔎-️🟢🔴S
+#EXTINF:-1,BOSSFILM 🎦📺🔎-️🟢🚫
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/bossfilm_live
 #EXTINF:-1,VAG KINO 164 🎦📺👶-🟢🟡
@@ -1010,13 +1007,13 @@ http://kinowalk.hopto.org/equilibrium_live
 #EXTINF:-1,Akudji 🎦-🟢⚪🟡
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/akudjitv_live
-#EXTINF:-1,Legion tv 🎦📺👶🤣-🟢⚪🟡
+#EXTINF:-1,Legion tv 🎦📺👶🤣-🟢🟡
 #EXTGRP:🎞️ Kinowalk Production
 https://kinowalk.hopto.org/legion-tv_live
-#EXTINF:-1,БезНика 🎦🤣🎶-️🟢⚪🟡
+#EXTINF:-1,БезНика 🎦🤣🎶💠-️🟢🟡
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/522_137_live
-#EXTINF:-1,KrotFa 🎦📺-🟢⚪🟡
+#EXTINF:-1,KrotFa 🎦📺-🟢🟡
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/krotfa_live
 #EXTINF:-1,ReanimatoR_VHS 🎦-🟢🟡
@@ -1067,3 +1064,6 @@ http://kinowalk.hopto.org/kinouzhas_live
 #EXTINF:-1,Disney XD 👶-⚪🟡
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/disneyxd_live
+#EXTINF:-1,KINOPRO 🎦👶-⚪❌
+#EXTGRP:🎞️ Kinowalk Production
+http://kinowalk.hopto.org/kinopro_live
