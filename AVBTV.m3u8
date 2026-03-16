@@ -138,9 +138,6 @@ https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=0P
 #EXTINF:-1,TV BRICS
 #EXTGRP:🔎‍Познавательные
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Univer TV
-#EXTGRP:🔎‍Познавательные
-https://cdn.universmotri.ru/live/smil:univer.smil/chunklist_w911267907_b3628000_slru.m3u8
 #EXTINF:-1,Viju+ Planet
 #EXTGRP:🔎‍Познавательные
 https://telluri.ru/video/vj/6006.m3u8
@@ -156,9 +153,6 @@ https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Вместе РФ
 #EXTGRP:🔎‍Познавательные
 http://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
-#EXTINF:-1,ВосьМой
-#EXTGRP:🔎‍Познавательные
-https://minsk-cache07t.voka.tv/live/962.m3u8?
 #EXTINF:-1,Госфильмофонд. Машина Времени
 #EXTGRP:🔎‍Познавательные
 http://178.163.2.151:4022/udp/234.0.0.190:2000
@@ -189,9 +183,6 @@ http://cdn2.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Охотник и рыболов
 #EXTGRP:🔎‍Познавательные
 https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=URw1qTUBYJppc4IY-gE4ew&e=2070450931&scheme=https
-#EXTINF:-1,Первый информационный
-#EXTGRP:🔎‍Познавательные
-https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w868240704_b5160000_sleng.m3u8
 #EXTINF:-1,ПРНК
 #EXTGRP:🔎‍Познавательные
 https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
@@ -216,7 +207,7 @@ http://109.248.11.19:8081/web/c24/playlist.m3u8
 #EXTINF:-1,Тайна
 #EXTGRP:🔎‍Познавательные
 https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=GmFSizHee8DpOJI6J0bwMA&e=2067815807&scheme=https
-#EXTINF:-1,Тайна ТВ
+#EXTINF:-1,Тайна
 #EXTGRP:🔎‍Познавательные
 https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=k9bDH53DPY73h1vlbcNhzQ&e=2071743709&scheme=https
 #EXTINF:-1,Тео-ТВ
@@ -231,9 +222,6 @@ http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1,Толк ТВ
 #EXTGRP:🔎‍Познавательные
 https://live-tolknews.cdnvideo.ru/tolknews/stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Эквилибриум (Kinowalk Production)
-#EXTGRP:🔎‍Познавательные
-http://kinowalk.hopto.org/equilibrium_live
 #EXTINF:-1,2x2
 #EXTGRP:🤣Развлекательные
 https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=hwyoufQp4n4DEevoTh79AQ&e=2068506934&scheme=https
@@ -407,18 +395,6 @@ http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1,Киномульт
 #EXTGRP:👶Детские
 http://minsk-cache07t.voka.tv/live/157-req_5k_v5.m3u8
-#EXTINF:-1,Мультимания (МультStream)
-#EXTGRP:👶Детские
-http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Мамонтёнок ТВ (МультStream)
-#EXTGRP:👶Детские
-http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Мультфильмы нашего детства (МультStream)
-#EXTGRP:👶Детские
-http://kinowalk.hopto.org/childhood_cartoons_live
-#EXTINF:-1,Пингвин Лоло (МультStream)
-#EXTGRP:👶Детские
-http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Радио Kids FM
 #EXTGRP:👶Детские
 https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/tracks-v1a1/mono.m3u8?hls_proxy_host=f4eb0d287702d48f6bbf6e6f56891e63
@@ -431,7 +407,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1,Умка
 #EXTGRP:👶Детские
 http://minsk-cache07t.voka.tv/live/9488-req_5k_v5.m3u8
-
 
 #EXTINF:-1,80s
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
@@ -568,9 +543,6 @@ http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11016/index.m3u8
 #EXTINF:-1,NSC
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210_output_0.m3u8?session=bomhMGCHEtND9D3hX7kb4M
-#EXTINF:-1,ЗОВ ТВ
-#EXTGRP:🎦📺Фильмы 🔹 Сериалы
-https://live20.bozztv.com/giatv/giatv-tvzovlivestream/tvzovlivestream/chunks.m3u8
 #EXTINF:-1,ЗОВ ТВ Black
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 https://live20.bozztv.com/giatv/giatv-tvzovBlackstream/tvzovBlackstream/chunks.m3u8
@@ -870,7 +842,7 @@ http://kinowalk.hopto.org/ostorozhnomodern2_live
 #EXTINF:-1,33 квадратных метра 🤣-🧿
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/33metra_live
-#EXTINF:-1,ChowAmigo 🎦-🧿🚫 2K
+#EXTINF:-1,ChowAmigo 🎦-🧿🚫
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/chowamigo_live
 #EXTINF:-1,KinoJam 🎦📺-🧿🚫
@@ -885,7 +857,7 @@ http://kinowalk.hopto.org/timetohorror_live
 #EXTINF:-1,Мы из 90-х 🎦-🧿🚫
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/miiz90x_live
-#EXTINF:-1,Эра VHS 🎦💠-🧿🚫 2K
+#EXTINF:-1,Эра VHS 🎦💠-🧿🚫
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/era_vhs_live
 #EXTINF:-1,Фильмомания 🎦📺-️🧿🚫
@@ -903,6 +875,18 @@ http://kinowalk.hopto.org/evgamen_movies_live
 #EXTINF:-1,FilmVibes 👶-🧿🚫️
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/filmvibes_live
+#EXTINF:-1,Мультимания 👶-️🧿🔴
+#EXTGRP:🎞️ Kinowalk Production
+http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Мамонтёнок ТВ 👶-️🧿🔴
+#EXTGRP:🎞️ Kinowalk Production
+http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Мультфильмы нашего детства 👶-🧿🚫
+#EXTGRP:🎞️ Kinowalk Production
+http://kinowalk.hopto.org/childhood_cartoons_live
+#EXTINF:-1,Пингвин Лоло 👶-️🧿
+#EXTGRP:🎞️ Kinowalk Production
+http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1,PartizaNka tv 🎦👶🎶💠-️🧿🚫
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/partizanka_tv_live
@@ -912,7 +896,7 @@ http://kinowalk.hopto.org/vampiro1965_live
 #EXTINF:-1,Музыка и фильмы 🎦🎶-🧿🚫
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/diktos33_live
-#EXTINF:-1,BOSSFILM 🎦📺🔎-️🧿🔴 2K
+#EXTINF:-1,BOSSFILM 🎦📺🔎-️🧿🔴
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/bossfilm_live
 #EXTINF:-1,VAG KINO 164 🎦📺👶-🧿🚫
@@ -924,7 +908,6 @@ http://kinowalk.hopto.org/dondimitron_live
 #EXTINF:-1,КИНО05 🎦-🧿🚫
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/kino05_live
-
 #EXTINF:-1,KINO-TV 🎦🎶-🧿🚫
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/strannik1177_live
@@ -955,7 +938,7 @@ http://kinowalk.hopto.org/mmaxim0vich_live
 #EXTINF:-1,SeleCaoTV 2 📺👶-️🧿
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/selecaotv1_live
-#EXTINF:-1,Aisman 📺👶-🧿 2K
+#EXTINF:-1,Aisman 📺👶-🧿
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/aisman_live
 #EXTINF:-1,Baragozz_TV 📺🎶-🧿
@@ -1018,15 +1001,18 @@ http://kinowalk.hopto.org/aleksey_24rus_live
 #EXTINF:-1,ПикаБУ! 📺-🧿🚫
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/pipa39_live
+#EXTINF:-1,_PhoENIX 👶-🧿🚫️️
+#EXTGRP:🎞️ Kinowalk Production
+http://kinowalk.hopto.org/phoenix3345_live
+#EXTINF:-1,Эквилибриум 🔎-🧿🚫
+#EXTGRP:🎞️ Kinowalk Production
+http://kinowalk.hopto.org/equilibrium_live
 #EXTINF:-1,Akudji 🎦-🧿🚫✔️
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/akudjitv_live
 #EXTINF:-1,Legion tv 🎦📺👶🤣-🧿🚫✔️
 #EXTGRP:🎞️ Kinowalk Production
 https://kinowalk.hopto.org/legion-tv_live
-#EXTINF:-1,_PhoENIX 👶-🧿🚫️✔️
-#EXTGRP:🎞️ Kinowalk Production
-http://kinowalk.hopto.org/phoenix3345_live
 #EXTINF:-1,БезНика 🎦🤣🎶-️🧿🚫✔️
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/522_137_live
