@@ -126,9 +126,6 @@ https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce
 #EXTINF:-1,360
 #EXTGRP:🔎‍Познавательные
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1,Fashion TV
-#EXTGRP:🔎‍Познавательные
-http://fashion.mediacdn.ru/cdn/fashiontv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,RT Д
 #EXTGRP:🔎‍Познавательные
 http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
@@ -138,9 +135,6 @@ https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=0P
 #EXTINF:-1,TV BRICS
 #EXTGRP:🔎‍Познавательные
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Viju+ Planet
-#EXTGRP:🔎‍Познавательные
-https://telluri.ru/video/vj/6006.m3u8
 #EXTINF:-1,World Fashion
 #EXTGRP:🔎‍Познавательные
 http://cdn.wfc.tv/cdn/stream-rus-720p.m3u8
@@ -392,22 +386,12 @@ https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=8h
 #EXTINF:-1,IPTVPLAY МультСказки (МультStream)
 #EXTGRP:👶Детские
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1,Киномульт
-#EXTGRP:👶Детские
-http://minsk-cache07t.voka.tv/live/157-req_5k_v5.m3u8
 #EXTINF:-1,Радио Kids FM
 #EXTGRP:👶Детские
 https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/tracks-v1a1/mono.m3u8?hls_proxy_host=f4eb0d287702d48f6bbf6e6f56891e63
-#EXTINF:-1,Советские Мультфильмы
-#EXTGRP:👶Детские
-http://minsk-cache07t.voka.tv/live/3007-req_5k_v5.m3u8
 #EXTINF:-1,Том и Джерри
 #EXTGRP:👶Детские
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-#EXTINF:-1,Умка
-#EXTGRP:👶Детские
-http://minsk-cache07t.voka.tv/live/9488-req_5k_v5.m3u8
-
 #EXTINF:-1,80s
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13002/index.m3u8
@@ -558,33 +542,12 @@ https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 #EXTINF:-1,НТВ Хит
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
-#EXTINF:-1,Тех Лет ТВ
-#EXTGRP:🎦📺Фильмы 🔹 Сериалы
-http://minsk-cache07t.voka.tv/live/9489-req_5k_v5.m3u8
-#EXTINF:-1,Космос ТВ
-#EXTGRP:🎦📺Фильмы 🔹 Сериалы
-http://minsk-cache07t.voka.tv/live/3870-req_5k_v5.m3u8
 #EXTINF:-1,Konul Tv
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 http://live.mediabaytv.workers.dev/?ID=715
 #EXTINF:-1,Kinoliving
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 https://tinyurl.com/45x3xrpm/chid413/mpegts
-#EXTINF:-1,Novella TV
-#EXTGRP:🎦📺Фильмы 🔹 Сериалы
-https://minsk-cache07t.voka.tv/live/1205-req_offset_28000000-req_window_0-4k_v5.m3u8
-#EXTINF:-1,.red 
-#EXTGRP:🎦📺Фильмы 🔹 Сериалы
-https://telluri.ru/video/tr-and/1400.m3u8
-#EXTINF:-1,viju TV1000
-#EXTGRP:🎦📺Фильмы 🔹 Сериалы
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=WoTe5_sOGZKSROZL-80Bdw&e=1773595460&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1,viju TV1000 Action
-#EXTGRP:🎦📺Фильмы 🔹 Сериалы
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=kkDofz4ySaJxV3vcYh8JQg&e=1773595493&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1,viju TV1000 Romantica
-#EXTGRP:🎦📺Фильмы 🔹 Сериалы
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=c3-6_XA6KiCYQtKqzL42Og&e=1773595478&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1,Детективы КД
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 https://bl.rutube.ru/livestream/e05401be60a9cc719fa7075b6e77b86d/index.m3u8?s=wbVW8VM26OpdW5kxFYEmSQ&e=2069694293&scheme=https
@@ -653,68 +616,6 @@ https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1,НТВ Сериалы Пять минут тишины
 #EXTGRP:📺Смотрим 🔹 НТВ
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
-
-#EXTINF:-1,Viju+ Megahit
-#EXTGRP:🎞️Кинозалы от TELLURI
-https://telluri.ru/video/vj/6002.m3u8
-#EXTINF:-1,Viju+ Premiere
-#EXTGRP:🎞️Кинозалы от TELLURI
-https://telluri.ru/video/vj/6001.m3u8
-#EXTINF:-1,Viju+ Comedy
-#EXTGRP:🎞️Кинозалы от TELLURI
-https://telluri.ru/video/vj/6003.m3u8
-#EXTINF:-1,Viju+ Serial
-#EXTGRP:🎞️Кинозалы от TELLURI
-https://telluri.ru/video/vj/6004.m3u8
-#EXTINF:-1,Viju TV1000
-#EXTGRP:🎞️Кинозалы от TELLURI
-https://telluri.ru/video/vj/5107.m3u8
-#EXTINF:-1,Viju TV1000 Action
-#EXTGRP:🎞️Кинозалы от TELLURI
-https://telluri.ru/video/vj/5106.m3u8
-#EXTINF:-1,Viju TV1000 Новелла
-#EXTGRP:🎞️Кинозалы от TELLURI
-https://telluri.ru/video/vj/545.m3u8
-#EXTINF:-1,Viju TV1000 Romantica
-#EXTGRP:🎞️Кинозалы от TELLURI
-https://telluri.ru/video/vj/3111.m3u8
-#EXTINF:-1,НСТ
-#EXTGRP:🎞️Кинозалы от TELLURI
-https://telluri.ru/video/tr-and/6008.m3u8
-#EXTINF:-1,Киноман
-#EXTGRP:🎞️Кинозалы от TELLURI
-https://telluri.ru/video/59.m3u8
-#EXTINF:-1,Муви ТВ
-#EXTGRP:🎞️Кинозалы от TELLURI
-https://telluri.ru/video/tr-and/5007.m3u8
-#EXTINF:-1,START World
-#EXTGRP:🎞️Кинозалы от TELLURI
-https://telluri.ru/video/vod/9011.m3u8
-#EXTINF:-1,START Air
-#EXTGRP:🎞️Кинозалы от TELLURI
-https://telluri.ru/video/vod/1804.m3u8
-#EXTINF:-1,Еврокино
-#EXTGRP:🎞️Кинозалы от TELLURI
-https://telluri.ru/video/vod/903.m3u8
-#EXTINF:-1,Мосфильм. Золотая коллекция
-#EXTGRP:🎞️Кинозалы от TELLURI
-https://telluri.ru/video/1124.m3u8
-#EXTINF:-1,Русский иллюзион
-#EXTGRP:🎞️Кинозалы от TELLURI
-https://telluri.ru/video/vod/869.m3u8
-#EXTINF:-1,Дом Кино Премиум
-#EXTGRP:🎞️Кинозалы от TELLURI
-https://telluri.ru/video/5111.m3u8
-#EXTINF:-1,Кинопоказ
-#EXTGRP:🎞️Кинозалы от TELLURI
-https://telluri.ru/video/tr-and/285.m3u8
-#EXTINF:-1,Ретро
-#EXTGRP:🎞️Кинозалы от TELLURI
-https://telluri.ru/video/tr-and/335.m3u8
-#EXTINF:-1,НТВ Сериал
-#EXTGRP:🎞️Кинозалы от TELLURI
-https://telluri.ru/video/cog-dl/2065.m3u8
-
 
 #EXTINF:-1,Blockbusters Time 🎦-🟢
 #EXTGRP:🎞️ Kinowalk Production
