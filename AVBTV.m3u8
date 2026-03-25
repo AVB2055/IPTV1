@@ -267,9 +267,6 @@ https://d3s7x6kmqcnb6b.cloudfront.net/hls/3MXYR7I/2A8CFE9544F0/m.m3u8
 #EXTINF:-1,67
 #EXTGRP:🎶Музыкальные
 https://fl1004.bozztv.com/ushba67/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Deluxe Dance
-#EXTGRP:🎶Музыкальные
-https://d2hnivx8upksrk.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1q019khonuqjh/01efc271-2cc2-49ed-adfc-a8c5117f7d26/3.m3u8
 #EXTINF:-1,Fonbet Music
 #EXTGRP:🎶Музыкальные
 http://uiptv.do.am/1ufc/603282189/playlist.m3u8
@@ -330,9 +327,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv
 #EXTINF:-1,Red Bull
 #EXTGRP:⛹🏿Спортивные
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,VITAL DRIVE
-#EXTGRP:⛹🏿Спортивные
-https://autopilot.catcast.tv/content/37909/index.m3u8
 #EXTINF:-1,Волейбол
 #EXTGRP:⛹🏿Спортивные
 https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=yLRKcLLgpyWK0Pr2YTVwLw&e=2067815840&scheme=https
@@ -443,9 +437,6 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/19411/ind
 #EXTINF:-1,RANDOM BEST FILMS
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 https://tinyurl.com/aleks-u-romki-40/11043/index.m3u8
-#EXTINF:-1,TvBoom.ViP
-#EXTGRP:🎦📺Фильмы 🔹 Сериалы
-https://kb.catcast.tv/content/49702/index.m3u8
 #EXTINF:-1,TVBoom.ViP
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 https://kinostreammedia.hopto.org/tvboom-vip/index.m3u8
@@ -497,18 +488,6 @@ https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=8z
 #EXTINF:-1,Советская Киноклассика
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 https://tinyurl.com/45x3xrpm/chid276/mpegts
-#EXTINF:-1,Сити Эдем - КиноКомедия
-#EXTGRP:🎦📺Фильмы 🔹 Сериалы
-https://cityeden.catcast.tv/content/41331/index.m3u8?token=8f96495eee510a33fb3017982ce61eac
-#EXTINF:-1,Сити Эдем - КиноАзия
-#EXTGRP:🎦📺Фильмы 🔹 Сериалы
-https://cityeden.catcast.tv/content/34393/index.m3u8?token=dbf2611bd4f1aab379cb289c3e79d512
-#EXTINF:-1,Сити Эдем - КиноДетектив
-#EXTGRP:🎦📺Фильмы 🔹 Сериалы
-https://cityeden.catcast.tv/content/41327/index.m3u8?token=b4165148a2a733cb7ed075023297d583
-#EXTINF:-1,Сити Эдем - КиноДрама
-#EXTGRP:🎦📺Фильмы 🔹 Сериалы
-https://cityeden.catcast.tv/content/45269/index.m3u8?token=28470f31cea5990d1be54eb04a48514a
 #EXTINF:-1,ATV Armenia Premium 6
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 http://timeshift.arpinet.am/255/tracks-v1a1/mono.ts.m3u8
@@ -821,7 +800,7 @@ http://kinowalk.hopto.org/vampiro1965_live
 #EXTINF:-1,Музыка и фильмы 🎦🎶-🟡
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/diktos33_live
-#EXTINF:-1,VAG KINO 164 🎦📺👶-🟡
+#EXTINF:-1,VAG KINO 164 🎦📺👶-🔴
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/vagner164_live
 #EXTINF:-1,Димитрон фильм 🎦👶-🟡
@@ -908,13 +887,13 @@ http://kinowalk.hopto.org/reanimator_vhs_live
 #EXTINF:-1,DeVchatA 🎦🔎💠-🟡
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/devchata_live
-#EXTINF:-1,Первый ряд 🎦-🚫
+#EXTINF:-1,Первый ряд 🎦-🔴
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/perviryad_live%20
-#EXTINF:-1,BOSSFILM 🎦📺🔎-️🚫
+#EXTINF:-1,BOSSFILM 🎦📺🔎-️🔴
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/bossfilm_live
-#EXTINF:-1,Astrix116 📺-🚫
+#EXTINF:-1,Astrix116 📺-🔴
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/astrix116_live
 #EXTINF:-1,KINOPRO 🎦👶-🔴
@@ -923,46 +902,46 @@ http://kinowalk.hopto.org/kinopro_live
 #EXTINF:-1,Мультфильмы нашего детства 👶-🔴
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/childhood_cartoons_live
-#EXTINF:-1,wihail 🎦-🔴
+#EXTINF:-1,wihail 🎦-⚠️
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/wihail_live
-#EXTINF:-1,Rus serials 📺-🔴
+#EXTINF:-1,Rus serials 📺-⚠️
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/zzz881_live
-#EXTINF:-1,HyBteX 📺-🔴
+#EXTINF:-1,HyBteX 📺-⚠️
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/hybtex_live
-#EXTINF:-1,Фильмы НОВИНКИ Live 🎦-🔴
+#EXTINF:-1,Фильмы НОВИНКИ Live 🎦-⚠️
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/mir.kinoxi_live
-#EXTINF:-1,LysOFF 📺-🔴
+#EXTINF:-1,LysOFF 📺-⚠️
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/lysoff_live
-#EXTINF:-1,Profeccor -🔴
+#EXTINF:-1,Profeccor -⚠️
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/profeccor_live
-#EXTINF:-1,ZubrilomFranchise -🔴
+#EXTINF:-1,ZubrilomFranchise -⚠️
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/zubrilommusic.ru_live
-#EXTINF:-1,GUWi_TV 🎦-🔴
+#EXTINF:-1,GUWi_TV 🎦-⚠️
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/guwi_tv_live
-#EXTINF:-1,КИНО СТРИМ 🎦-🔴
+#EXTINF:-1,КИНО СТРИМ 🎦-⚠️
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/kinostreamlive_live
-#EXTINF:-1,Argo_13 📺-🔴
+#EXTINF:-1,Argo_13 📺-⚠️
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/argo_13_live
-#EXTINF:-1,natanatty 📺-🔴
+#EXTINF:-1,natanatty 📺-⚠️
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/nata.natty_live
-#EXTINF:-1,deamonnit093 -🔴
+#EXTINF:-1,deamonnit093 -⚠️
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/deamonnit093_live
-#EXTINF:-1,КИНОУЖАС 📺-🔴
+#EXTINF:-1,КИНОУЖАС 📺-⚠️
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/kinouzhas_live
-#EXTINF:-1,Disney XD 👶-🔴
+#EXTINF:-1,Disney XD 👶-⚠️
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/disneyxd_live
 
