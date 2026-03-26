@@ -536,6 +536,12 @@ https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/playlist.m3u8
 #EXTINF:-1,Kino 24
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+#EXTINF:-1,Scripach TV 2
+#EXTGRP:🎦📺Фильмы 🔹 Сериалы
+https://kinostreammedia.hopto.org/SCRIPACHTV/index.m3u8
+#EXTINF:-1,NikNik-TV
+#EXTGRP:🎦📺Фильмы 🔹 Сериалы
+https://hostrec.ru/live/wic2AtEFCLwsZcUkAgtZcjlYgjc.m3u8
 
 
 #EXTINF:-1,Смотрим Честный детектив
@@ -884,6 +890,15 @@ http://kinowalk.hopto.org/reanimator_vhs_live
 #EXTINF:-1,DeVchatA 🎦🔎💠-🟡
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/devchata_live
+#EXTINF:-1,Сериальный сериальчик 📺-🟢
+#EXTGRP:🎞️ Kinowalk Production
+http://kinowalk.hopto.org/seriality_live
+#EXTINF:-1,VideoVk 🎦-🟢
+#EXTGRP:🎞️ Kinowalk Production
+http://kinowalk.hopto.org/videovk_live
+#EXTINF:-1,JTX Online 👶-🟢
+#EXTGRP:🎞️ Kinowalk Production
+http://kinowalk.hopto.org/jtxonline_live
 #EXTINF:-1,Первый ряд 🎦-🚫
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/perviryad_live%20
