@@ -458,7 +458,7 @@ http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/9020/index.m3u8
 #EXTINF:-1,КИНОХИТ
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 http://ip1.orgip.net/608/video.m3u8?token=Ab2b7066c8
-#EXTINF:-1,Кино Без Границ
+#EXTINF:-1,Кино Без Границ 🔴
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 http://185.57.68.33:8091/237/playlist.m3u8
 #EXTINF:-1,Кинолаффка
@@ -488,7 +488,7 @@ https://tinyurl.com/45x3xrpm/chid276/mpegts
 #EXTINF:-1,ATV Armenia Premium 6
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 http://timeshift.arpinet.am/255/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Arpinet
+#EXTINF:-1,Arpinet 🔴
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 http://timeshift.arpinet.am/237/index.m3u8
 #EXTINF:-1,Кинодром
@@ -611,7 +611,7 @@ http://kinowalk.hopto.org/kinolampa_live
 #EXTINF:-1,MovieToper 🎦-️🟢
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/movietoper_live
-#EXTINF:-1,Prodigy 🎦-⚠️
+#EXTINF:-1,Prodigy 🎦-🟡
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/roman_prodigy_live
 #EXTINF:-1,TimeToMovie 🎦-️🟢
@@ -623,7 +623,7 @@ http://kinowalk.hopto.org/videoarsenal_live
 #EXTINF:-1,Video Channel 🎦🧒-🟢
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/video_channel_live
-#EXTINF:-1,Video_Prokat 🎦-️🟢
+#EXTINF:-1,Video_Prokat 🎦-️🔴
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/video_prokat_live
 #EXTINF:-1,ZubrilomFilm 🎦-🟢
@@ -704,9 +704,6 @@ http://kinowalk.hopto.org/ostorozhnomodern2_live
 #EXTINF:-1,33 квадратных метра 🤣-🟡
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/33metra_live
-#EXTINF:-1,Сериальный сериальчик 📺🤣-🟢
-#EXTGRP:🎞️ Kinowalk Production
-http://kinowalk.hopto.org/seriality_live
 #EXTINF:-1,JTX Online 🧒-🟢
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/jtxonline_live
@@ -755,6 +752,9 @@ http://kinowalk.hopto.org/inmuna_live
 #EXTINF:-1,Сериальный мир 📺-🟢
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/serials2025_live
+#EXTINF:-1,Сериальный сериальчик 📺🤣-🟢
+#EXTGRP:🎞️ Kinowalk Production
+http://kinowalk.hopto.org/seriality_live
 #EXTINF:-1,ScripachTV 🎦-🟡
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/scripachtv_live
@@ -860,7 +860,7 @@ http://kinowalk.hopto.org/misha.sdyt_live
 #EXTINF:-1,seriavaleria 📺-️🟡
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/seriavaleria_live
-#EXTINF:-1,MrsDOOmKa 📺-️🟡
+#EXTINF:-1,MrsDOOmKa 📺-️🔴
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/mrsdoomka_live
 #EXTINF:-1,IGROComp Films 📺-🟡
@@ -893,7 +893,7 @@ http://kinowalk.hopto.org/522_137_live
 #EXTINF:-1,KrotFa 🎦📺-🟡
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/krotfa_live
-#EXTINF:-1,ReanimatoR_VHS 🎦-🟡
+#EXTINF:-1,ReanimatoR_VHS 🎦📺-🟡
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/reanimator_vhs_live
 #EXTINF:-1,DeVchatA 🎦🔎♕-🟡
@@ -956,5 +956,3 @@ http://kinowalk.hopto.org/kinouzhas_live
 #EXTINF:-1,Disney XD 🧒-⚪
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/disneyxd_live
-
-
