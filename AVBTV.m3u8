@@ -366,13 +366,6 @@ https://a787201481-s80718.cdn.ngenix.net/hls/CH_UDARHD/video_1920x1080_avc1/play
 #EXTINF:-1 ,Беларусь 5
 #EXTGRP:⛹🏿Спортивные
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1,Матч! Премьер
-#EXTGRP:⛹🏿Спортивные
-http://tv.woobl.ru:9091/channel/n67d98595/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1,ТВ Спорт HD
-#EXTGRP:⛹🏿Спортивные
-http://tv.woobl.ru:9090/channel/c03c9c1/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-
 
 #EXTINF:-1,Mr.Bean Cartoon
 #EXTGRP:🧒Детские
