@@ -243,6 +243,9 @@ https://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
 #EXTINF:-1,НТВ конкурс Ты супер !
 #EXTGRP:🤣Развлекательные
 https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 ,Перец
+#EXTGRP:🤣Развлекательные
+http://158.101.222.193:88/georgia_play.php?id=perec
 #EXTINF:-1,ТНТ4
 #EXTGRP:🤣Развлекательные
 https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=uwhizdZPB-2J2x80Ov49_A&e=2067815802&scheme=https
@@ -258,6 +261,21 @@ http://uiptv.do.am/1ufc/109121273/playlist.m3u8
 #EXTINF:-1,Ю
 #EXTGRP:🤣Развлекательные
 http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Сарафан
+#EXTGRP:🤣Развлекательные
+https://stream8.cinerama.uz/1249/tracks-v1a1/mono.m3u8
+#EXTINF:-1,САРАФАН
+#EXTGRP:🤣Развлекательные
+http://31.210.208.171:8080/sarafan/index.m3u8?token=+W2MSER
+#EXTINF:-1,Ю
+#EXTGRP:🤣Развлекательные
+http://31.210.208.171:8080/u/index.m3u8?token=+W2MSER
+#EXTINF:-1 ,КВН ТВ
+#EXTGRP:🤣Развлекательные
+http://31.210.208.171:8080/kvn_tv/index.m3u8?token=+W2MSER
+#EXTINF:-1,КВН ТВ
+#EXTGRP:🤣Развлекательные
+https://a3569457567-s70378.cdn.ngenix.net/kvn_tv/1/index.m3u8
 #EXTINF:-1,4fun dance
 #EXTGRP:🎶Музыкальные
 https://d3s7x6kmqcnb6b.cloudfront.net/hls/3MXYR7I/2A8CFE9544F0/m.m3u8
@@ -321,9 +339,6 @@ https://nhl-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1,Red Bull
 #EXTGRP:⛹🏿Спортивные
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
-#EXTINF:-1,Red Bull
-#EXTGRP:⛹🏿Спортивные
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,Волейбол
 #EXTGRP:⛹🏿Спортивные
 https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=yLRKcLLgpyWK0Pr2YTVwLw&e=2067815840&scheme=https
@@ -348,6 +363,24 @@ https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd
 #EXTINF:-1,Удар ТВ
 #EXTGRP:⛹🏿Спортивные
 https://a787201481-s80718.cdn.ngenix.net/hls/CH_UDARHD/video_1920x1080_avc1/playlist.m3u8
+#EXTINF:-1 ,Беларусь 5
+#EXTGRP:⛹🏿Спортивные
+https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1,Матч! Премьер
+#EXTGRP:⛹🏿Спортивные
+http://tv.woobl.ru:9091/channel/n67d98595/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
+#EXTINF:-1,Окко Футбол HD
+#EXTGRP:⛹🏿Спортивные
+http://boxviptv.net:25461/di637/002662/1608
+#EXTINF:-1,Окко Спорт HD
+#EXTGRP:⛹🏿Спортивные
+http://boxviptv.net:25461/di637/002662/1610
+#EXTINF:-1,Окко Прайм Спорт HD
+#EXTGRP:⛹🏿Спортивные
+http://boxviptv.net:25461/di637/002662/1609
+#EXTINF:-1,ТВ Спорт HD
+#EXTGRP:⛹🏿Спортивные
+http://tv.woobl.ru:9090/channel/c03c9c1/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
 
 
 #EXTINF:-1,Mr.Bean Cartoon
