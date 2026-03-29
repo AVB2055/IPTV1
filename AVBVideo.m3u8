@@ -135,34 +135,7 @@ https://fl1001.bozztv.com/ushba-t3/tracks-v1a1/mono.m3u8
 https://fl1001.bozztv.com/ushba-mafia/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Музыка",Music & Girls 2
 https://fl1001.bozztv.com/ushba-monj/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="MM",MM Боевик
-http://boxviptv.net:25461/di637/002662/858
-#EXTINF:-1  group-title="MM",MM Катастрофа
-http://boxviptv.net:25461/di637/002662/859
-#EXTINF:-1  group-title="MM",MM Celebrity HD
-http://boxviptv.net:25461/di637/002662/860
-#EXTINF:-1  group-title="MM",MM Ужасы HD
-http://boxviptv.net:25461/di637/002662/862
-#EXTINF:-1  group-title="MM",MM Супергерои HD
-http://boxviptv.net:25461/di637/002662/863
-#EXTINF:-1  group-title="MM",MM USSR Детектив HD
-http://boxviptv.net:25461/di637/002662/864
-#EXTINF:-1  group-title="MM",MM Сваты HD
-http://boxviptv.net:25461/di637/002662/865
-#EXTINF:-1  group-title="MM",MM Love HD
-http://boxviptv.net:25461/di637/002662/866
-#EXTINF:-1  group-title="MM",MM Семейный 1 HD
-http://boxviptv.net:25461/di637/002662/926
-#EXTINF:-1  group-title="MM",MM Семейный 2 HD
-http://boxviptv.net:25461/di637/002662/927
-#EXTINF:-1  group-title="MM",MM 1 HD
-http://boxviptv.net:25461/di637/002662/802
-#EXTINF:-1  group-title="MM",MM 2 HD
-http://boxviptv.net:25461/di637/002662/803
-#EXTINF:-1  group-title="MM",MM 3 HD
-http://boxviptv.net:25461/di637/002662/804
-#EXTINF:-1  group-title="MM",MM 4 HD
-http://boxviptv.net:25461/di637/002662/805
+
 #EXTINF:-1  group-title="﻿VF",﻿VF Сериалы Турции
 http://tv.woobl.ru:9090/channel/1a838d17/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
 #EXTINF:-1  group-title="﻿VF",﻿VF Вестерн
