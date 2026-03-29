@@ -55,22 +55,10 @@ http://31.148.48.15/Russkiy_Bestseller/tracks-v1a1/mono.m3u8
 https://cdn4.skygo.mn/live/disk1/Pobeda/HLSv3-FTA/Pobeda.m3u8
 #EXTINF:-1  group-title="Кино",Киносвидание
 http://tv.woobl.ru:9090/channel/n52b4297e/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="Детское",Чип и Дейл
-http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
-#EXTINF:-1  group-title="Детское",2x2
-http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
-#EXTINF:-1  group-title="Детское",Мамонтёнок
-http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Детское",Карусель
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
-#EXTINF:-1  group-title="Детское",Детское кино International
-https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1  group-title="Музыка",NM Television
 https://tv.a21network.ru/content/40650/index.m3u8
-#EXTINF:-1  group-title="Детское",Vevo Retro Rock
+#EXTINF:-1  group-title="Музыка",Vevo Retro Rock
 https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3000145P
-#EXTINF:-1  group-title="Детское",Шансон ТВ
-https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 #EXTINF:-1  group-title="Музыка",Шансон ТВ
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 #EXTINF:-1  group-title="Музыка",Радио Шансон
