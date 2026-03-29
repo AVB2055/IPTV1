@@ -1,148 +1,6 @@
-#EXTM3U url-tvg="http://gabbarit.drm-play.com/epg_1.xml.gz,http://epg.one/epg2.xml.gz,https://iptvx.one/EPG.gz"
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/15PLk5jG/LA.jpg" group-title="Полезное",LocalSand-передача файлов
-https://www.dropbox.com/scl/fi/66awmd08u2syrdl5dfm3o/TvLA.ts?rlkey=iq6ugd7ocng52rd5rbdgluwns&st=6hb2sz5w&dl=1
-#EXTINF:-1 ,Первый канал
-#EXTVLCOPT:http-user-agentwink/1.30.1(AndroidTV/9)HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
-#EXTINF:-1 ,Россия 1 HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:-1  group-title="Эфир",Россия 1 HD
-http://dmitry-tv.ddns.net/hls/smotrim/region/CH_RUSSIA1HD_BRYANSK.m3u8
-#EXTINF:-1 ,РОССИЯ 1
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
-#EXTINF:-1  group-title="Эфир",Россия 24 HD
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
-#EXTINF:-1 ,Россия 24
-http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA24.m3u8
-#EXTINF:-1 ,Звезда HD
-http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 ,НТВ HD
-https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 ,НТВ
-https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
-#EXTINF:-1 ,Рен ТВ
-https://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
-#EXTINF:-1 ,РЕН ТВ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
-#EXTINF:-1 ,Рен ТВ International
-http://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
-#EXTINF:-1 ,Пятый канал
-http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
-#EXTINF:-1 ,ТВЦ
-https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
-#EXTINF:-1  group-title="Эфир",Домашний
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
-#EXTINF:-1 ,Известия HD
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1  group-title="Эфир",ТАСС
-https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
-#EXTINF:-1 ,РБК HD
-http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
-#EXTINF:-1 ,МИР 24 HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 ,Мир HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1  group-title="Эфир",ОТР HD
-https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_OTR_KLNG_FILIAL/variant.m3u8
-#EXTINF:-1 ,ОТР
-http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
-#EXTINF:-1 ,RTVI
-https://a3569457567-s70378.cdn.ngenix.net/rtvi/1/index.m3u8
-#EXTINF:-1 ,Беларусь 5
-https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1  group-title="Спорт",Матч!
-http://tv.woobl.ru:9091/channel/n509abd25/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="Спорт",Матч! HD
-http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
-#EXTINF:-1  group-title="Спорт",Матч! Премьер
-http://tv.woobl.ru:9091/channel/n67d98595/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="Спорт",Окко Футбол HD
-http://boxviptv.net:25461/di637/002662/1608
-#EXTINF:-1  group-title="Спорт",Окко Спорт HD
-http://boxviptv.net:25461/di637/002662/1610
-#EXTINF:-1  group-title="Спорт",Окко Прайм Спорт HD
-http://boxviptv.net:25461/di637/002662/1609
-#EXTINF:-1  group-title="Спорт",ТВ Спорт HD
-http://tv.woobl.ru:9090/channel/c03c9c1/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="Спорт",Red Bull HD
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 ,СТС HD
-https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R02_STS/variant.m3u8
-#EXTINF:-1 ,СТС
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
-#EXTINF:-1 ,СТС Love
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
-#EXTINF:-1 ,ТНТ
-http://31.131.141.195:8000/play/2090/index.m3u8
-#EXTINF:-1  group-title="Развлекательные",ТНТ
-http://185.46.16.239:8000/TNT
-#EXTINF:-1 ,ТНТ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
-#EXTINF:-1 ,ТНТ4
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
-#EXTINF:-1 ,Пятница!
-http://vod.tuva.ru/friday/index.m3u8
-#EXTINF:-1 ,СУББОТА!
-#EXTVLCOPT:http-user-agentWINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
-#EXTINF:-1  group-title="Развлекательные",Сарафан
-https://stream8.cinerama.uz/1249/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Развлекательные",САРАФАН
-http://31.210.208.171:8080/sarafan/index.m3u8?token=+W2MSER
-#EXTINF:-1 ,Че
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
-#EXTINF:-1 ,Перец
-http://158.101.222.193:88/georgia_play.php?id=perec
-#EXTINF:-1  group-title="Развлекательные",Ю
-http://31.210.208.171:8080/u/index.m3u8?token=+W2MSER
-#EXTINF:-1  group-title="Развлекательные",Ю
-http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
-#EXTINF:-1 ,КВН ТВ
-http://31.210.208.171:8080/kvn_tv/index.m3u8?token=+W2MSER
-#EXTINF:-1  group-title="Развлекательные",КВН ТВ
-https://a3569457567-s70378.cdn.ngenix.net/kvn_tv/1/index.m3u8
-#EXTINF:-1 ,Твое ТВ HD
-http://tvoetv.space:8080/tvoetv/index.m3u8
-#EXTINF:-1 ,ТВОЕ ТВ HD - ЮМОР
-http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF:-1  tvg-id="kaleydoskop-tv" tvg-logo="https://iptvx.one/picons/kaleydoskop.png" group-title="Развлекательные",Калейдоскоп ТВ
-http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
-#EXTINF:-1  group-title="Развлекательные",Мистер Бин
-https://fl1001.bozztv.com/ushba45/index.m3u8
-#EXTINF:-1  group-title="Развлекательные",Шоу Бенни Хилла
-https://fl1001.bozztv.com/ushba62/tracks-v1a1/mono.m3u8 
-#EXTINF:-1  group-title="Познавательные",Звезда Плюс
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/PJzHJFKf/star.webp",STAR MEDIA
-https://fl1001.bozztv.com/ushba4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Неизвестная Россия HD
-https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
-#EXTINF:-1  group-title="Познавательные",Авто 24
-http://45.145.32.13:20440/avto24/index.m3u8?token=test
-#EXTINF:-1 ,Мужской
-http://193.25.8.59:8000/muzhskoy
-#EXTINF:-1 ,Наша Тема
-http://live-3.otcnet.ru/nashatema/index.m3u8
-#EXTINF:-1 ,555 Hunt & Fishing TV HD
-http://193.169.178.29:8081/podsekaiTV/chanelHD1080/playlist.m3u8
-#EXTINF:-1 ,RT Doc
-http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
-#EXTINF:-1 ,360°
-https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
-#EXTINF:-1  group-title="Познавательные",Travel+Adventure HD
-http://77.232.131.211/TravelAdventureHD/index.m3u8
-#EXTINF:-1 ,НТВ Стиль
-https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 ,ОСН
-https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
-#EXTINF:-1 ,Россия К
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
-#EXTINF:-1 ,Наука
-https://vod.tuva.ru/nauka2/index.m3u8
+#EXTM3U 
 #EXTINF:-1  group-title="Познавательные",National Geographic HD
 http://tv.woobl.ru:9090/channel/n1c0d81bd/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="Познавательные",Nat Geo Wild
-http://tv.woobl.ru:9090/channel/n3466b05c/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
 #EXTINF:-1  group-title="Познавательные",Nat Geo Wild СНГ HD
 http://tv.woobl.ru:9090/channel/5fb5ef8/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
 #EXTINF:-1  group-title="Познавательные",Viasat Explore HD
@@ -153,44 +11,6 @@ http://188.225.31.197/bpk-tv/000006482/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000005528/tve/index.m3u8
 #EXTINF:-1  group-title="Познавательные",лекторий DОСТОЕВСКИЙ
 https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Познавательные",Документалка 1
-https://fl1001.bozztv.com/ushba28/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Познавательные",Документалка 2
-https://fl1001.bozztv.com/ushba29/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Познавательные",Документалка 3
-https://fl1001.bozztv.com/ushba38/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Кино",НТВ Сериал
-https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 ,НТВ Хит
-https://cdn.ntv.ru/th_hit/playlist.m3u8
-#EXTINF:-1 ,НТВ Право
-https://cdn.ntv.ru/th_pravo/playlist.m3u8
-#EXTINF:-1  group-title="Кино",НТВ Сериалы Следствие вели...
-https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1  group-title="Кино",НТВ Сериалы Скорая помощь
-https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1  group-title="Кино",НТВ Сериалы Пёс
-https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1  group-title="Кино",НТВ Сериалы Первый отдел
-https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1  group-title="Кино",НТВ Сериалы Шеф
-https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1  group-title="Кино",НТВ Сериалы Невский
-https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1  group-title="Кино",НТВ Сериалы Балабол
-https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1  group-title="Кино",НТВ Сериалы.Пять минут тишины
-https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1  group-title="Кино",Бандитский Петербург TV
-http://146.59.93.251/12042/index.m3u8?token=09CA671DAA57
-#EXTINF:-1  group-title="Кино",Смотрим Кино и сериалы
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1  group-title="Кино",Смотрим Мужское
-http://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d.m3u8
-#EXTINF:-1  group-title="Кино",Смотрим Классика
-http://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338.m3u8
-#EXTINF:-1  group-title="Кино",Смотрим Любовь
-http://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248.m3u8
 #EXTINF:-1  group-title="Кино",viju TV1000 HD
 http://188.225.31.197/bpk-tv/000003747/tve/index.m3u8
 #EXTINF:-1  group-title="Кино",viju TV1000 Action HD
@@ -205,21 +25,17 @@ http://188.225.31.197/bpk-tv/000000868/tve/index.m3u8
 http://176.118.197.101/Retro/index.m3u8
 #EXTINF:-1  group-title="Кино",Родное кино
 http://176.118.197.101/RodnoeKino/index.m3u8
-#EXTINF:-1  tvg-id="prodvizhenie" tvg-logo="https://iptvx.one/picons/prodvizhenie.png" group-title="Кино",Продвижение
+#EXTINF:-1  group-title="Кино",Продвижение
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
-#EXTINF:-1 ,Красная линия
-http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
 #EXTINF:-1  group-title="Кино",ЭХО ТВ
 https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
-#EXTINF:-1  tvg-id="7tv" tvg-logo="https://iptvx.one/picons/7tv.png" group-title="Кино",7 TV
+#EXTINF:-1  group-title="Кино",7 TV
 http://v4.proofix.ru:80/7tv-live/index.m3u8
-#EXTINF:-1 ,Cinema
+#EXTINF:-1  group-title="Кино",Cinema
 http://catchup.videoline.ru/cinema/index.m3u8 
-#EXTINF:-1 ,Cinema
+#EXTINF:-1  group-title="Кино",Cinema
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,ТВ3
-http://stream-tv.ew21.ru/015/video.m3u8?hash=TN66TE4YB
-#EXTINF:-1 ,НСТ
+#EXTINF:-1  group-title="Кино",НСТ
 http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
 #EXTINF:-1  group-title="Кино",Мир сериала
 http://94.236.201.114/MIR_SERIALA_SD/index.m3u8
@@ -231,8 +47,6 @@ http://tinyurl.com/45%783%78%72%70%6D/chid276/index.m3u8
 http://46.53.208.4:80/live/1124.m3u8
 #EXTINF:-1  group-title="Кино",Мосфильм. Золотая коллекция
 http://hls127.freeott.top:8080/Mosfilm/mono.m3u8
-#EXTINF:-1 ,Время
-http://31.148.48.15/Vremya/index.m3u8
 #EXTINF:-1  group-title="Кино",Арсенал HD
 https://s06.watcher.uz/120/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 #EXTINF:-1  group-title="Кино",Русский Бестселлер
@@ -241,39 +55,35 @@ http://31.148.48.15/Russkiy_Bestseller/tracks-v1a1/mono.m3u8
 https://cdn4.skygo.mn/live/disk1/Pobeda/HLSv3-FTA/Pobeda.m3u8
 #EXTINF:-1  group-title="Кино",Киносвидание
 http://tv.woobl.ru:9090/channel/n52b4297e/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png" group-title="Детское",Чип и Дейл
+#EXTINF:-1  group-title="Детское",Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
-#EXTINF:-1 ,2x2
+#EXTINF:-1  group-title="Детское",2x2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
-#EXTINF:-1 ,Мамонтёнок
+#EXTINF:-1  group-title="Детское",Мамонтёнок
 http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Карусель
+#EXTINF:-1  group-title="Детское",Карусель
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
-#EXTINF:-1  tvg-id="detkinoint-tviksel" tvg-logo="https://i.ibb.co/wQw41WP/1f571c10d0b089e69f4552847134143f.png" group-title="Детское",Детское кино International
+#EXTINF:-1  group-title="Детское",Детское кино International
 https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1 ,Ералаш
-https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Детское",IPTVPLAY МультСказки HD
-http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1  tvg-logo="https://img.catcast.tv/uploads/10082022/logos/40650-62f2d2890f632.jpg",NM Television
+#EXTINF:-1  group-title="Музыка",NM Television
 https://tv.a21network.ru/content/40650/index.m3u8
-#EXTINF:-1 ,Vevo Retro Rock
+#EXTINF:-1  group-title="Детское",Vevo Retro Rock
 https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3000145P
-#EXTINF:-1 ,Шансон ТВ
+#EXTINF:-1  group-title="Детское",Шансон ТВ
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
-#EXTINF:-1 ,Шансон ТВ
+#EXTINF:-1  group-title="Музыка",Шансон ТВ
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://radioshanson.ru/assets/2a380c6a/img/logo-09-09-2019.png" group-title="Музыка",Радио Шансон
+#EXTINF:-1  group-title="Музыка",Радио Шансон
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
 #EXTINF:-1  group-title="Музыка",TMF RUS
 https://edge1-eu-west.picarto.tv/stream/hls/golive+TMFRUS/1_0/index.m3u8
-#EXTINF:-1  tvg-logo="http://i114.fastpic.ru/big/2021/0209/e3/411906b8ef8f41c95f5ead2c793a02e3.png",Kronehit TV
+#EXTINF:-1  group-title="Музыка",Kronehit TV
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:-1 ,XITE Hits
+#EXTINF:-1  group-title="Музыка",XITE Hits
 https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300004RH
-#EXTINF:-1  tvg-id="retro-music-cz" tvg-logo="https://iptvx.one/picons/retro-music-cz.png" group-title="Музыка",Retro Music TV
+#EXTINF:-1  group-title="Музыка",Retro Music TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/HsvGnLG9/1.jpg",Dancehits 80
+#EXTINF:-1  group-title="Музыка",Dancehits 80
 http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:-1  group-title="Музыка",Oldies Hits
 https://video07.logicahost.com.br/oldieshits/oldieshits/chunklist.m3u8
@@ -285,15 +95,15 @@ https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1  group-title="Музыка",Now 90's
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,Муз ТВ
+#EXTINF:-1  group-title="Музыка",Муз ТВ
 http://radio.tvs.by:8088/MuzTV/index.m3u8
-#EXTINF:-1 ,MIXM TV
+#EXTINF:-1  group-title="Музыка",MIXM TV
 http://89.179.247.144/hls/mixm.m3u8
-#EXTINF:-1 ,ТНТ Music
+#EXTINF:-1  group-title="Музыка",ТНТ Music
 https://tntm.mediacdn.ru/cdn/tntmusic/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/jjj2v5D0/african-mask-2239614.png",Afrobeats TV
+#EXTINF:-1  group-title="Музыка",Afrobeats TV
 http://edge11.vedge.infomaniak.com/livecast/ik:bblackafrica/chunklist.m3u8
-#EXTINF:-1 ,MTV Live HD
+#EXTINF:-1  group-title="Музыка",MTV Live HD
 http://live.iptvtotaal.com:8000/mvhengeliptv/d6BDiLr3VT/139173
 #EXTINF:-1  group-title="Музыка",Bridge TV Classic
 http://31.148.48.15:80/Bridge_TV_Classic/index.m3u8
@@ -305,322 +115,235 @@ http://31.148.48.15:80/Bridge_TV_Dance/index.m3u8
 http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
 #EXTINF:-1  group-title="Музыка",Bridge TV Шлягер
 http://193.25.8.59:8000/mtv
-#EXTINF:-1 ,ЖАРА
+#EXTINF:-1  group-title="Музыка",ЖАРА
 http://31.148.48.15/Zhara/index.m3u8
-#EXTINF:-1  tvg-name="XITE Just Chill" tvg-id="USBB2300003JZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300003JZ_20240716T002652SQUARE.png" tvg-chno="4363" group-title="Музыка",XITE Just Chill
+#EXTINF:-1  group-title="Музыка",XITE Just Chill
 https://dvnftgdlbnemm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dh48uzd9o895t/XITE_Just_Chill.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB2300003JZ
-#EXTINF:-1 ,Deluxe Lounge HD
+#EXTINF:-1  group-title="Музыка",Deluxe Lounge HD
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
-#EXTINF:-1 ,Deluxe Rap
+#EXTINF:-1  group-title="Музыка",Deluxe Rap
 http://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:-1 ,Deluxe Dance
+#EXTINF:-1  group-title="Музыка",Deluxe Dance
 https://d2hnivx8upksrk.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1q019khonuqjh/01efc271-2cc2-49ed-adfc-a8c5117f7d26/3.m3u8
-#EXTINF:-1 ,Power Dance
+#EXTINF:-1  group-title="Музыка",Power Dance
 https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-#EXTINF:-1 ,POWER LOVE
+#EXTINF:-1  group-title="Музыка",POWER LOVE
 http://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
-#EXTINF:-1 ,POWER TV
+#EXTINF:-1  group-title="Музыка",POWER TV
 http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
-#EXTINF:-1 ,Страна FM
+#EXTINF:-1  group-title="Музыка",Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1 ,K-POP by CJ ENM
+#EXTINF:-1  group-title="Музыка",K-POP by CJ ENM
 https://d3kmrn2mstrnk5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7ppcp3lxg7oer/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US39000038W
-#EXTINF:-1  tvg-logo="https://nrg91.gr/wp-content/uploads/2017/07/originalNRG-300x128.png",NRG 91 Music HD
+#EXTINF:-1  group-title="Музыка",NRG 91 Music HD
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
-#EXTINF:-1 ,XITE Siempre Latino
+#EXTINF:-1  group-title="Музыка",XITE Siempre Latino
 https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300010L9
-#EXTINF:-1 ,Музыка 2
+#EXTINF:-1  group-title="Музыка",Музыка 2
 https://fl1001.bozztv.com/ushba-t2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Музыка 3
+#EXTINF:-1  group-title="Музыка",Музыка 3
 https://fl1001.bozztv.com/ushba-t3/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/KjB50QRW/dance-11289950.png",Music & Girls
+#EXTINF:-1  group-title="Музыка",Music & Girls
 https://fl1001.bozztv.com/ushba-mafia/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/KjB50QRW/dance-11289950.png",Music & Girls 2
+#EXTINF:-1  group-title="Музыка",Music & Girls 2
 https://fl1001.bozztv.com/ushba-monj/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,МОСКВА 24
-https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_MOSKOV24/variant.m3u8
-#EXTINF:-1 ,360 новости
-https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
-#EXTINF:-1 ,ОТВ Екатеринбург
-#EXTVLCOPT:http-user-agentExoPlayer2/2.37
-https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8
-#EXTINF:-1  tvg-id="nts-irbit",НТС-Ирбит
-#EXTVLCOPT:http-user-agentExoPlayer2/2.37
-https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_IRBITVEST_EKT/variant.m3u8
-#EXTINF:-1  tvg-id="4kanal-piatnica" tvg-logo="https://i.postimg.cc/HLPwmHZ4/4kanal-piatnica.png",4 канал Екатеренбург
-http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
-#EXTINF:-1 ,Липецкое время
-http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_LIPETSK_LVREM/variant.m3u8
-#EXTINF:-1 ,ВОТтв HD
-https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_LIPETSK_VOTTV/variant.m3u8
-#EXTINF:-1 ,House Floor
-https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
-#EXTINF:-1  group-title="Кинозалы",MM Боевик
+#EXTINF:-1  group-title="MM",MM Боевик
 http://boxviptv.net:25461/di637/002662/858
-#EXTINF:-1  group-title="Кинозалы",MM Катастрофа
+#EXTINF:-1  group-title="MM",MM Катастрофа
 http://boxviptv.net:25461/di637/002662/859
-#EXTINF:-1  group-title="Кинозалы",MM Celebrity HD
+#EXTINF:-1  group-title="MM",MM Celebrity HD
 http://boxviptv.net:25461/di637/002662/860
-#EXTINF:-1  group-title="Кинозалы",MM Ужасы HD
+#EXTINF:-1  group-title="MM",MM Ужасы HD
 http://boxviptv.net:25461/di637/002662/862
-#EXTINF:-1  group-title="Кинозалы",MM Супергерои HD
+#EXTINF:-1  group-title="MM",MM Супергерои HD
 http://boxviptv.net:25461/di637/002662/863
-#EXTINF:-1  group-title="Кинозалы",MM USSR Детектив HD
+#EXTINF:-1  group-title="MM",MM USSR Детектив HD
 http://boxviptv.net:25461/di637/002662/864
-#EXTINF:-1  group-title="Кинозалы",MM Сваты HD
+#EXTINF:-1  group-title="MM",MM Сваты HD
 http://boxviptv.net:25461/di637/002662/865
-#EXTINF:-1  group-title="Кинозалы",MM Love HD
+#EXTINF:-1  group-title="MM",MM Love HD
 http://boxviptv.net:25461/di637/002662/866
-#EXTINF:-1  group-title="Кинозалы",MM Семейный 1 HD
+#EXTINF:-1  group-title="MM",MM Семейный 1 HD
 http://boxviptv.net:25461/di637/002662/926
-#EXTINF:-1  group-title="Кинозалы",MM Семейный 2 HD
+#EXTINF:-1  group-title="MM",MM Семейный 2 HD
 http://boxviptv.net:25461/di637/002662/927
-#EXTINF:-1  group-title="Кинозалы",MM 1 HD
+#EXTINF:-1  group-title="MM",MM 1 HD
 http://boxviptv.net:25461/di637/002662/802
-#EXTINF:-1  group-title="Кинозалы",MM 2 HD
+#EXTINF:-1  group-title="MM",MM 2 HD
 http://boxviptv.net:25461/di637/002662/803
-#EXTINF:-1  group-title="Кинозалы",MM 3 HD
+#EXTINF:-1  group-title="MM",MM 3 HD
 http://boxviptv.net:25461/di637/002662/804
-#EXTINF:-1  group-title="Кинозалы",MM 4 HD
+#EXTINF:-1  group-title="MM",MM 4 HD
 http://boxviptv.net:25461/di637/002662/805
-#EXTINF:-1  tvg-logo="https://i.ibb.co/Qdr5Cfq/image-4.png" group-title="Кинозалы",Сити Эдем - КиноЭкшен
-https://cityeden.catcast.tv/content/41333/index.m3u8 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/9rKHwBV.png" group-title="Кинозалы",Сити Эдем - КиноДетектив
-https://cityeden.catcast.tv/content/41327/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/29ddffh.png" group-title="Кинозалы",Сити Эдем - КиноДрама
-https://cityeden.catcast.tv/content/45269/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/0qGCS1S.png" group-title="Кинозалы",Сити Эдем - КиноКлассика
-https://cityeden.catcast.tv/content/34185/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/Aga2XVA.png" group-title="Кинозалы",Сити Эдем - КиноКомедия
-https://cityeden.catcast.tv/content/41331/index.m3u8
-#EXTINF:-1  group-title="Кинозалы",Сити Эдем - КиноФантастика
-https://cityeden.catcast.tv/content/45268/index.m3u8
-#EXTINF:-1  group-title="Кинозалы",IPTVPLAY ФАНТАСТИКА HD
-http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1  tvg-logo="https://iptv-play.ru/channels/all_icons/6823.png" group-title="Кинозалы",IPTVPLAY ИНТЕРНЫ
-http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1  group-title="Кинозалы",IPTVPLAY МУЛЬТСКАЗКИ HD
-http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1  group-title="Кинозалы",IPTVPLAY ПАМЯТЬ HD
-http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1  group-title="Кинозалы",IPTVPLAY УЖАСТИК HD
-http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1  group-title="Кинозалы",IPTVPLAY ВЕДЬМАК HD
-http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1  tvg-logo="https://iptv-play.ru/channels/all_icons/10851.png" group-title="Кинозалы",IPTVPLAY Великая Отечественная HD
-http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1  group-title="Кинозалы",КИНОДРОМ
-https://fl1001.bozztv.com/ushba-films-b/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы",КИНОДРОМ
-https://fl1001.bozztv.com/ushba-films-c/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы",КИНОДРОМ
-https://fl1001.bozztv.com/ushba-films-d/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы",КИНОДРОМ
-https://fl1001.bozztv.com/ushba-films-e/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы",КИНОДРОМ
-https://fl1001.bozztv.com/ushba-films-f/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы",КИНОДРОМ
-https://fl1001.bozztv.com/ushba-films-g/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы",КИНОДРОМ
-https://fl1001.bozztv.com/ushba-films-m/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы",КИНОДРОМ
-https://fl1001.bozztv.com/ushba-films-n/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы",КИНОДРОМ
-https://fl1001.bozztv.com/ushba-films-o/index.m3u8
-#EXTINF:-1  group-title="Кинозалы",КИНОДРОМ
-https://fl1001.bozztv.com/ushba-films-p/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы",КИНОДРОМ
-https://fl1001.bozztv.com/ushba-films-qr/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Кинозалы",КИНОДРОМ
-https://fl1001.bozztv.com/ushba-films-t/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/Fbqr28m/resize-48.png" group-title="Кинозалы",Ushba TV-Кинозалы 3
-https://rpn3.bozztv.com/dvrfl07/ushba24/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/Fbqr28m/resize-48.png" group-title="Кинозалы",Ushba TV-Кинозалы 4
-https://fl1001.bozztv.com/ushba26/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/Fbqr28m/resize-48.png" group-title="Кинозалы",Ushba TV-Кинозалы 5
-https://fl1001.bozztv.com/ushba-films-b/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/Fbqr28m/resize-48.png" group-title="Кинозалы",Ushba TV-Кинозалы 7
-https://fl1001.bozztv.com/ushba-films-d/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/Fbqr28m/resize-48.png" group-title="Кинозалы",Ushba TV-Кинозалы 8
-https://fl1001.bozztv.com/ushba-films-e/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/Fbqr28m/resize-48.png" group-title="Кинозалы",Ushba TV-Кинозалы 9
-https://fl1001.bozztv.com/ushba-films-f/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/Fbqr28m/resize-48.png" group-title="Кинозалы",Ushba TV-Кинозалы 10
-https://fl1001.bozztv.com/ushba-films-g/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-name="L.A-(https://t.me/TVruLA)" tvg-logo="https://i.postimg.cc/15PLk5jG/LA.jpg",LAUNCHER-AVTO t.me/TVruLA
-https://www.dropbox.com/scl/fi/t77mlqb8rkyp3ohj2138j/Launcher-Avto.ts?rlkey=kdgvbllwpdkt6wr9ab6tp1pcl&st=0r1rzs3y&dl=1
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/15PLk5jG/LA.jpg" group-title="Полезное",MSX Media Ststion X
-https://www.dropbox.com/scl/fi/93gfnue9gp0jluw35ixfh/Launcher-Avto2.ts?rlkey=gh1h13cqtdw0jvyapzg71m7by&st=19hj8ofh&dl=1
-
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Сериалы Турции
+#EXTINF:-1  group-title="﻿VF",﻿VF Сериалы Турции
 http://tv.woobl.ru:9090/channel/1a838d17/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Вестерн
+#EXTINF:-1  group-title="﻿VF",﻿VF Вестерн
 http://tv.woobl.ru:9090/channel/n528273d6/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Счастливы Вместе
+#EXTINF:-1  group-title="﻿VF",﻿VF Счастливы Вместе
 http://tv.woobl.ru:9090/channel/n7accaef4/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Бесстыжие
+#EXTINF:-1  group-title="﻿VF",﻿VF Бесстыжие
 http://tv.woobl.ru:9090/channel/n50f17f9e/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Владимир Высоцкий
+#EXTINF:-1  group-title="﻿VF",﻿VF Владимир Высоцкий
 http://tv.woobl.ru:9090/channel/1c358a0e/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Два с половиной человека
+#EXTINF:-1  group-title="﻿VF",﻿VF Два с половиной человека
 http://tv.woobl.ru:9090/channel/n61eb0115/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Новогодний
+#EXTINF:-1  group-title="﻿VF",﻿VF Новогодний
 http://tv.woobl.ru:9090/channel/d65b946/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Ёлки
+#EXTINF:-1  group-title="﻿VF",﻿VF Ёлки
 http://tv.woobl.ru:9090/channel/19a06d1c/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF New Year
+#EXTINF:-1  group-title="﻿VF",﻿VF New Year
 http://tv.woobl.ru:9090/channel/753b1d01/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF С новым годом!
+#EXTINF:-1  group-title="﻿VF",﻿VF С новым годом!
 http://tv.woobl.ru:9090/channel/174fc91b/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Гарри Поттер
+#EXTINF:-1  group-title="﻿VF",﻿VF Гарри Поттер
 http://tv.woobl.ru:9091/channel/75b2c293/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Секс в большом городе
+#EXTINF:-1  group-title="﻿VF",﻿VF Секс в большом городе
 http://tv.woobl.ru:9090/channel/3981b951/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Карточный домик
+#EXTINF:-1  group-title="﻿VF",﻿VF Карточный домик
 http://tv.woobl.ru:9090/channel/n36d4b5a6/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Disney Movie
+#EXTINF:-1  group-title="﻿VF",﻿VF Disney Movie
 http://tv.woobl.ru:9090/channel/n156c5598/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Теория большого взрыва
+#EXTINF:-1  group-title="﻿VF",﻿VF Теория большого взрыва
 http://tv.woobl.ru:9090/channel/63fad5f/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Adventure
+#EXTINF:-1  group-title="﻿VF",﻿VF Adventure
 http://tv.woobl.ru:9090/channel/n7b2b1a94/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Anime
+#EXTINF:-1  group-title="﻿VF",﻿VF Anime
 http://tv.woobl.ru:9090/channel/n1c340330/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Cartoon
+#EXTINF:-1  group-title="﻿VF",﻿VF Cartoon
 http://tv.woobl.ru:9090/channel/74dfb4ca/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Comedy
+#EXTINF:-1  group-title="﻿VF",﻿VF Comedy
 http://tv.woobl.ru:9090/channel/n66d2e643/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Family
+#EXTINF:-1  group-title="﻿VF",﻿VF Family
 http://tv.woobl.ru:9090/channel/n62799578/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Fantasy
+#EXTINF:-1  group-title="﻿VF",﻿VF Fantasy
 http://tv.woobl.ru:9090/channel/1359d482/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Melodrama
+#EXTINF:-1  group-title="﻿VF",﻿VF Melodrama
 http://tv.woobl.ru:9090/channel/n2090b378/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Mystic
+#EXTINF:-1  group-title="﻿VF",﻿VF Mystic
 http://tv.woobl.ru:9090/channel/n553291f5/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Ужасы
+#EXTINF:-1  group-title="﻿VF",﻿VF Ужасы
 http://tv.woobl.ru:9090/channel/1c49ef83/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF VHS MIX
+#EXTINF:-1  group-title="﻿VF",﻿VF VHS MIX
 http://tv.woobl.ru:9090/channel/357166f9/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Ужасы VHS
+#EXTINF:-1  group-title="﻿VF",﻿VF Ужасы VHS
 http://tv.woobl.ru:9090/channel/nffb23c/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Премьера
+#EXTINF:-1  group-title="﻿VF",﻿VF Премьера
 http://tv.woobl.ru:9090/channel/79c36785/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Premiere
+#EXTINF:-1  group-title="﻿VF",﻿VF Premiere
 http://tv.woobl.ru:9090/channel/n25c46863/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Классика
+#EXTINF:-1  group-title="﻿VF",﻿VF Классика
 http://tv.woobl.ru:9090/channel/6197a3c3/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Classic
+#EXTINF:-1  group-title="﻿VF",﻿VF Classic
 http://tv.woobl.ru:9090/channel/n794af212/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Комедия
+#EXTINF:-1  group-title="﻿VF",﻿VF Комедия
 http://tv.woobl.ru:9090/channel/63bea0ca/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Катастрофы
+#EXTINF:-1  group-title="﻿VF",﻿VF Катастрофы
 http://tv.woobl.ru:9090/channel/n39976b52/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Marvel
+#EXTINF:-1  group-title="﻿VF",﻿VF Marvel
 http://tv.woobl.ru:9090/channel/n5685335d/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Военные
+#EXTINF:-1  group-title="﻿VF",﻿VF Военные
 http://tv.woobl.ru:9090/channel/n43d216d1/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Наша победа
+#EXTINF:-1  group-title="﻿VF",﻿VF Наша победа
 http://tv.woobl.ru:9090/channel/n30e8cca0/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Фильмы СССР
+#EXTINF:-1  group-title="﻿VF",﻿VF Фильмы СССР
 http://tv.woobl.ru:9090/channel/n6aabccf9/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Мультфильмы СССР
+#EXTINF:-1  group-title="﻿VF",﻿VF Мультфильмы СССР
 http://tv.woobl.ru:9090/channel/dd63185/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Солдаты
+#EXTINF:-1  group-title="﻿VF",﻿VF Солдаты
 http://tv.woobl.ru:9090/channel/n2a045a21/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Сериал
+#EXTINF:-1  group-title="﻿VF",﻿VF Сериал
 http://tv.woobl.ru:9090/channel/69835d3b/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Thriller
+#EXTINF:-1  group-title="﻿VF",﻿VF Thriller
 http://tv.woobl.ru:9090/channel/7eba127c/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Джеки Чан
+#EXTINF:-1  group-title="﻿VF",﻿VF Джеки Чан
 http://tv.woobl.ru:9090/channel/4a8e1aa1/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Эльдар Рязанов
+#EXTINF:-1  group-title="﻿VF",﻿VF Эльдар Рязанов
 http://tv.woobl.ru:9090/channel/2392d973/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Ходячие мертвецы
+#EXTINF:-1  group-title="﻿VF",﻿VF Ходячие мертвецы
 http://tv.woobl.ru:9090/channel/n55c845c9/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Comedy Woman
+#EXTINF:-1  group-title="﻿VF",﻿VF Comedy Woman
 http://tv.woobl.ru:9090/channel/8c9433f/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Игра престолов
+#EXTINF:-1  group-title="﻿VF",﻿VF Игра престолов
 http://tv.woobl.ru:9090/channel/3a3c06b5/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Одесская киностудия
+#EXTINF:-1  group-title="﻿VF",﻿VF Одесская киностудия
 http://tv.woobl.ru:9090/channel/17ce964a/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Киностудия им. Горького
+#EXTINF:-1  group-title="﻿VF",﻿VF Киностудия им. Горького
 http://tv.woobl.ru:9090/channel/19d8650/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Рижская киностудия
+#EXTINF:-1  group-title="﻿VF",﻿VF Рижская киностудия
 http://tv.woobl.ru:9090/channel/n2782a1ca/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Свердловская киностудия
+#EXTINF:-1  group-title="﻿VF",﻿VF Свердловская киностудия
 http://tv.woobl.ru:9090/channel/2ca97b95/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Беларусьфильм
+#EXTINF:-1  group-title="﻿VF",﻿VF Беларусьфильм
 http://tv.woobl.ru:9090/channel/n29c744b4/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF HBO
+#EXTINF:-1  group-title="﻿VF",﻿VF HBO
 http://tv.woobl.ru:9090/channel/n5a118def/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Michael Jackson
+#EXTINF:-1  group-title="﻿VF",﻿VF Michael Jackson
 http://tv.woobl.ru:9090/channel/n68a02a6a/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Король и Шут
+#EXTINF:-1  group-title="﻿VF",﻿VF Король и Шут
 http://tv.woobl.ru:9090/channel/n4439966a/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Легенды Ретро ФМ
+#EXTINF:-1  group-title="﻿VF",﻿VF Легенды Ретро ФМ
 http://tv.woobl.ru:9090/channel/n64eef067/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Музыкальный Новый год!
+#EXTINF:-1  group-title="﻿VF",﻿VF Музыкальный Новый год!
 http://tv.woobl.ru:9090/channel/4f5a2cf4/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Modern Talking
+#EXTINF:-1  group-title="﻿VF",﻿VF Modern Talking
 http://tv.woobl.ru:9090/channel/n309c3147/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Britney Spears
+#EXTINF:-1  group-title="﻿VF",﻿VF Britney Spears
 http://tv.woobl.ru:9090/channel/58c7ef7/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Музыка
+#EXTINF:-1  group-title="﻿VF",﻿VF Музыка
 http://tv.woobl.ru:9090/channel/61bc9c55/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Music
+#EXTINF:-1  group-title="﻿VF",﻿VF Music
 http://tv.woobl.ru:9090/channel/n1b87957f/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Rock
+#EXTINF:-1  group-title="﻿VF",﻿VF Rock
 http://tv.woobl.ru:9090/channel/17e50789/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Караоке
+#EXTINF:-1  group-title="﻿VF",﻿VF Караоке
 http://tv.woobl.ru:9090/channel/4c1105ef/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Шансон
+#EXTINF:-1  group-title="﻿VF",﻿VF Шансон
 http://tv.woobl.ru:9090/channel/752d9a6f/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Музсоюз
+#EXTINF:-1  group-title="﻿VF",﻿VF Музсоюз
 http://tv.woobl.ru:9090/channel/n2a2d868e/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Metal
+#EXTINF:-1  group-title="﻿VF",﻿VF Metal
 http://tv.woobl.ru:9090/channel/n1b8ed89d/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Rap
+#EXTINF:-1  group-title="﻿VF",﻿VF Rap
 http://tv.woobl.ru:9090/channel/n5a116483/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Хит-парад
+#EXTINF:-1  group-title="﻿VF",﻿VF Хит-парад
 http://tv.woobl.ru:9090/channel/n44c8e20f/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Русский рок
+#EXTINF:-1  group-title="﻿VF",﻿VF Русский рок
 http://tv.woobl.ru:9090/channel/718b3db0/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Disney Cartoon
+#EXTINF:-1  group-title="﻿VF",﻿VF Disney Cartoon
 http://tv.woobl.ru:9090/channel/6b3d5ca6/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Союзмультфильм
+#EXTINF:-1  group-title="﻿VF",﻿VF Союзмультфильм
 http://tv.woobl.ru:9090/channel/n2d6853a9/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Ералаш
+#EXTINF:-1  group-title="﻿VF",﻿VF Ералаш
 http://tv.woobl.ru:9090/channel/559cfdb2/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF VHS Cartoon
+#EXTINF:-1  group-title="﻿VF",﻿VF VHS Cartoon
 http://tv.woobl.ru:9090/channel/n2661f275/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Малыш
+#EXTINF:-1  group-title="﻿VF",﻿VF Малыш
 http://tv.woobl.ru:9090/channel/1be4bb40/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Мультуб
+#EXTINF:-1  group-title="﻿VF",﻿VF Мультуб
 http://tv.woobl.ru:9090/channel/n29f01acc/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Новогодние мультфильмы
+#EXTINF:-1  group-title="﻿VF",﻿VF Новогодние мультфильмы
 http://tv.woobl.ru:9090/channel/292969e0/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Скуби-Ду
+#EXTINF:-1  group-title="﻿VF",﻿VF Скуби-Ду
 http://tv.woobl.ru:9090/channel/2350f52f/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Авто
+#EXTINF:-1  group-title="﻿VF",﻿VF Авто
 http://tv.woobl.ru:9090/channel/19a71de2/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Охота
+#EXTINF:-1  group-title="﻿VF",﻿VF Охота
 http://tv.woobl.ru:9090/channel/1c0a8021/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Домашний повар
+#EXTINF:-1  group-title="﻿VF",﻿VF Домашний повар
 http://tv.woobl.ru:9090/channel/n7af86f45/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Путешествия
+#EXTINF:-1  group-title="﻿VF",﻿VF Путешествия
 http://tv.woobl.ru:9090/channel/74270aa0/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Рыбалка
+#EXTINF:-1  group-title="﻿VF",﻿VF Рыбалка
 http://tv.woobl.ru:9090/channel/n494a299d/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Стройка
+#EXTINF:-1  group-title="﻿VF",﻿VF Стройка
 http://tv.woobl.ru:9090/channel/n22e5d5b4/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Маски Шоу
+#EXTINF:-1  group-title="﻿VF",﻿VF Маски Шоу
 http://tv.woobl.ru:9090/channel/n7caae0c/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Каламбур
+#EXTINF:-1  group-title="﻿VF",﻿VF Каламбур
 http://tv.woobl.ru:9090/channel/2d867841/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Орел и решка
+#EXTINF:-1  group-title="﻿VF",﻿VF Орел и решка
 http://tv.woobl.ru:9090/channel/2f3d9d6d/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF Концерты
+#EXTINF:-1  group-title="﻿VF",﻿VF Концерты
 http://tv.woobl.ru:9090/channel/16ba75c5/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="﻿TvZavTak",﻿VF КВН
+#EXTINF:-1  group-title="﻿VF",﻿VF КВН
 http://tv.woobl.ru:9090/channel/n5a02bc9f/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
