@@ -1,8 +1,4 @@
 #EXTM3U 
-#EXTINF:-1  group-title="Познавательные",National Geographic HD
-http://tv.woobl.ru:9090/channel/n1c0d81bd/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
-#EXTINF:-1  group-title="Познавательные",Nat Geo Wild СНГ HD
-http://tv.woobl.ru:9090/channel/5fb5ef8/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
 #EXTINF:-1  group-title="Познавательные",Viasat Explore HD
 http://188.225.31.197/bpk-tv/000004157/tve/index.m3u8
 #EXTINF:-1  group-title="Познавательные",Viasat Nature HD
@@ -21,40 +17,12 @@ http://188.225.31.197/bpk-tv/000000870/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000000869/tve/index.m3u8
 #EXTINF:-1  group-title="Кино",viju+ Premiere HD
 http://188.225.31.197/bpk-tv/000000868/tve/index.m3u8
-#EXTINF:-1  group-title="Кино",Ретро
-http://176.118.197.101/Retro/index.m3u8
-#EXTINF:-1  group-title="Кино",Родное кино
-http://176.118.197.101/RodnoeKino/index.m3u8
-#EXTINF:-1  group-title="Кино",Продвижение
-http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
-#EXTINF:-1  group-title="Кино",ЭХО ТВ
-https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
-#EXTINF:-1  group-title="Кино",7 TV
-http://v4.proofix.ru:80/7tv-live/index.m3u8
-#EXTINF:-1  group-title="Кино",Cinema
-http://catchup.videoline.ru/cinema/index.m3u8 
-#EXTINF:-1  group-title="Кино",Cinema
-http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Кино",НСТ
-http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
-#EXTINF:-1  group-title="Кино",Мир сериала
-http://94.236.201.114/MIR_SERIALA_SD/index.m3u8
-#EXTINF:-1  group-title="Кино",Сапфир
-http://31.148.48.15/Sapfir/index.m3u8
 #EXTINF:-1  group-title="Кино",Советская киноклассика
 http://tinyurl.com/45%783%78%72%70%6D/chid276/index.m3u8
 #EXTINF:-1  group-title="Кино",Мосфильм. Золотая коллекция
 http://46.53.208.4:80/live/1124.m3u8
-#EXTINF:-1  group-title="Кино",Мосфильм. Золотая коллекция
-http://hls127.freeott.top:8080/Mosfilm/mono.m3u8
 #EXTINF:-1  group-title="Кино",Арсенал HD
 https://s06.watcher.uz/120/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
-#EXTINF:-1  group-title="Кино",Русский Бестселлер
-http://31.148.48.15/Russkiy_Bestseller/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Кино",Победа
-https://cdn4.skygo.mn/live/disk1/Pobeda/HLSv3-FTA/Pobeda.m3u8
-#EXTINF:-1  group-title="Кино",Киносвидание
-http://tv.woobl.ru:9090/channel/n52b4297e/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
 #EXTINF:-1  group-title="Музыка",NM Television
 https://tv.a21network.ru/content/40650/index.m3u8
 #EXTINF:-1  group-title="Музыка",Vevo Retro Rock
