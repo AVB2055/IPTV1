@@ -631,8 +631,7 @@ http://kinowalk.hopto.org/yurich_kinomix_live
 #EXTINF:-1,kinolampa 🎦-🟢
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/kinolampa_live
-#EXTINF:-1,MovieToper 🎦-️🟢
-#EXTGRP:🎞️ Kinowalk Production
+#EXTINF:-1 group-title="🎞️ Kinowalk Production" tvg-logo="https://goodgame.ru/files/avatars/av_1676704_9wc1.jpg",MovieToper 🎦-️🟢
 http://kinowalk.hopto.org/movietoper_live
 #EXTINF:-1,Prodigy 🎦-🟡
 #EXTGRP:🎞️ Kinowalk Production
@@ -643,8 +642,7 @@ http://kinowalk.hopto.org/timetomovie_live
 #EXTINF:-1,VideoArsenal 🎦-️🟢
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/videoarsenal_live
-#EXTINF:-1,Video Channel 🎦🧒-🟢
-#EXTGRP:🎞️ Kinowalk Production
+#EXTINF:-1 group-title="🎞️ Kinowalk Production" tvg-logo="https://images.live.vkvideo.ru/user/20737705/avatar?change_time=1746958066&croped=1&mh=140&mw=140",Video Channel 🎦🧒-🟢
 http://kinowalk.hopto.org/video_channel_live
 #EXTINF:-1,Video_Prokat 🎦-️🔴
 #EXTGRP:🎞️ Kinowalk Production
@@ -652,8 +650,7 @@ http://kinowalk.hopto.org/video_prokat_live
 #EXTINF:-1,ZubrilomFilm 🎦-🟢
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/zubrilomfilm_live
-#EXTINF:-1,КОМЕДИИ 24/7 🎦🧒-🟢
-#EXTGRP:🎞️ Kinowalk Production
+#EXTINF:-1 group-title="🎞️ Kinowalk Production" tvg-logo="https://images.live.vkvideo.ru/user/18725544/avatar?change_time=1764060712&croped=1&mh=140&mw=140",КОМЕДИИ 24/7 🎦🧒-🟢
 http://kinowalk.hopto.org/cmexye4ku_live
 #EXTINF:-1,VHS Forever 🎦📺🧒-️🟡
 #EXTGRP:🎞️ Kinowalk Production
@@ -742,8 +739,7 @@ http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SeleCaoTV 2 📺🧒-️🟢
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/selecaotv1_live
-#EXTINF:-1,Aisman 📺🧒-🟡
-#EXTGRP:🎞️ Kinowalk Production
+#EXTINF:-1 group-title="🎞️ Kinowalk Production" tvg-logo="https://images.live.vkvideo.ru/user/13253802/avatar?change_time=1768739676&croped=1&mh=140&mw=140",Aisman 📺🧒-🟡
 http://kinowalk.hopto.org/aisman_live
 #EXTINF:-1,Baragozz_TV 📺🎶-🟢
 #EXTGRP:🎞️ Kinowalk Production 
@@ -757,7 +753,8 @@ http://kinowalk.hopto.org/lampotv_live
 #EXTINF:-1,SerialTV 📺-️🟢
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/serialtv_live
-#EXTINF:-1,serial4u 📺-🟢
+#EXTINF:-1 group-title="🎞️ Kinowalk Production" tvg-logo="https://images.live.vkvideo.ru/user/20555010/avatar?change_time=1742524384&croped=1&mh=140&mw=140",serial4u 📺-🟢
+#EXTINF:-1,serial4u
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/serial4u_live
 #EXTINF:-1,Serial Productions 📺-🟢
@@ -796,32 +793,25 @@ http://kinowalk.hopto.org/sinema_live
 #EXTINF:-1,ChowAmigo 🎦-🟡
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/chowamigo_live
-#EXTINF:-1,KinoJam 🎦📺-🟡
-#EXTGRP:🎞️ Kinowalk Production
+#EXTINF:-1 group-title="🎞️ Kinowalk Production" tvg-logo="https://i.postimg.cc/ZK8brxhb/Kino-Jam.png",KinoJam 🎦📺-🟡
 http://kinowalk.hopto.org/kinojam_live
-#EXTINF:-1,Kinofon 🎦📺🧒🤣-🟡
-#EXTGRP:🎞️ Kinowalk Production
+#EXTINF:-1 group-title="🎞️ Kinowalk Production" tvg-logo="https://images.live.vkvideo.ru/user/20655827/avatar?change_time=1752925345&croped=1&mh=140&mw=140",Kinofon 🎦📺🧒🤣-🟡
 http://kinowalk.hopto.org/kinofon_live
 #EXTINF:-1,TimeToHorror 🎦-🟡
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/timetohorror_live
-#EXTINF:-1,Мы из 90-х 🎦-🟡
-#EXTGRP:🎞️ Kinowalk Production
+#EXTINF:-1 group-title="🎞️ Kinowalk Production" tvg-logo="https://images.live.vkvideo.ru/user/20495921/avatar?change_time=1742225886&croped=1&mh=140&mw=140",Мы из 90-х 🎦-🟡
 http://kinowalk.hopto.org/miiz90x_live
 #EXTINF:-1,Эра VHS 🎦♕-🟡
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/era_vhs_live
-#EXTINF:-1,Фильмомания 🎦📺-️🟡
-#EXTGRP:🎞️ Kinowalk Production
+#EXTINF:-1 group-title="🎞️ Kinowalk Production" tvg-logo="https://images.live.vkvideo.ru/user/19957061/avatar?change_time=1745459243&croped=1&mh=140&mw=140",Фильмомания 🎦📺-️🟡
 http://kinowalk.hopto.org/filmomania_live
-#EXTINF:-1,Фильмы сериалы 🎦📺-🟡
-#EXTGRP:🎞️ Kinowalk Production
+#EXTINF:-1 group-title="🎞️ Kinowalk Production" tvg-logo="https://images.live.vkvideo.ru/user/19940394/avatar?change_time=1734982742&croped=1&mh=140&mw=140",Фильмы сериалы 🎦📺-🟡
 http://kinowalk.hopto.org/dfsfsdg_live
-#EXTINF:-1,ROMEO Video 🎦🧒🤣-🟡
-#EXTGRP:🎞️ Kinowalk Production
+#EXTINF:-1 group-title="🎞️ Kinowalk Production" tvg-logo="https://images.live.vkvideo.ru/user/20292590/avatar?change_time=1746735412&croped=1&mh=140&mw=140",ROMEO Video 🎦🧒🤣-🟡
 http://kinowalk.hopto.org/romantic_live
-#EXTINF:-1,EvGAMEN 🎦📺🧒-🟡
-#EXTGRP:🎞️ Kinowalk Production
+#EXTINF:-1 group-title="🎞️ Kinowalk Production" tvg-logo="https://lh3.googleusercontent.com/a/ACg8ocJRCQczrVJsPbG0Q7qgMvphfUBuJiGktsI7wwPXSYxQCcGPBu8=s96-c",EvGAMEN 🎦📺🧒-🟡
 http://kinowalk.hopto.org/evgamen_movies_live
 #EXTINF:-1,FilmVibes 🧒-🟡️
 #EXTGRP:🎞️ Kinowalk Production
@@ -868,8 +858,7 @@ http://kinowalk.hopto.org/sevanz_live
 #EXTINF:-1,Малдер Всё ТВ 🎦📺🧒-🟡️
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/vsetv_live
-#EXTINF:-1,Maksim Films 🎦-🟡
-#EXTGRP:🎞️ Kinowalk Production
+#EXTINF:-1 group-title="🎞️ Kinowalk Production" tvg-logo="https://avatars.mds.yandex.net/i?id=d8bb932a618b126fd382904f1cde2371_sr-5429110-images-thumbs&n=13",Maksim Films 🎦-🟡
 http://kinowalk.hopto.org/mmaxim0vich_live
 #EXTINF:-1,Егор Егорыч 📺-🟡️
 #EXTGRP:🎞️ Kinowalk Production
@@ -901,14 +890,11 @@ http://kinowalk.hopto.org/pipa39_live
 #EXTINF:-1,_PhoENIX 🧒-🟡️️
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/phoenix3345_live
-#EXTINF:-1,Эквилибриум 📺🔎-🟡
-#EXTGRP:🎞️ Kinowalk Production
+#EXTINF:-1 group-title="🎞️ Kinowalk Production" tvg-logo="https://images.live.vkvideo.ru/user/20745126/avatar?change_time=1746520742&croped=1&mh=140&mw=140",Эквилибриум 📺🔎-🟡
 http://kinowalk.hopto.org/equilibrium_live
-#EXTINF:-1,Akudji 🎦-🟡
-#EXTGRP:🎞️ Kinowalk Production
+#EXTINF:-1 group-title="🎞️ Kinowalk Production" tvg-logo="https://images.live.vkvideo.ru/user/19223927/avatar?change_time=1753304099&croped=1&mh=140&mw=140",Akudji 🎦-🟡
 http://kinowalk.hopto.org/akudjitv_live
-#EXTINF:-1,Legion tv 🎦📺🧒🤣-🟡
-#EXTGRP:🎞️ Kinowalk Production
+#EXTINF:-1 group-title="🎞️ Kinowalk Production" tvg-logo="https://i.imgur.com/FOhNoZe.png",Legion tv 🎦📺🧒🤣-🟡
 https://kinowalk.hopto.org/legion-tv_live
 #EXTINF:-1,БезНика 🎦🤣🎶♕-️🟡
 #EXTGRP:🎞️ Kinowalk Production
@@ -931,8 +917,7 @@ http://kinowalk.hopto.org/bossfilm_live
 #EXTINF:-1,Astrix116 📺-🟡
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/astrix116_live
-#EXTINF:-1,KINOPRO 🎦🧒-⚠️
-#EXTGRP:🎞️ Kinowalk Production
+#EXTINF:-1 group-title="🎞️ Kinowalk Production" tvg-logo="https://lastfm.freetls.fastly.net/i/u/300x300/e6ac114abd700e4d57b230a703187a26.jpg",KINOPRO 🎦🧒-⚠️
 http://kinowalk.hopto.org/kinopro_live
 #EXTINF:-1,Мультфильмы нашего детства 🧒-🔴
 #EXTGRP:🎞️ Kinowalk Production
@@ -940,7 +925,8 @@ http://kinowalk.hopto.org/childhood_cartoons_live
 #EXTINF:-1,Argo_13 📺♕-🟡
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/argo_13_live
-#EXTINF:-1,wihail 🎦-⚪
+#EXTINF:-1 group-title="🎞️ Kinowalk Production" tvg-logo="https://images.live.vkvideo.ru/user/19829671/avatar?change_time=1734328186&croped=1&mh=140&mw=140",wihail 🎦-⚪
+#EXTINF:-1,wihail
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/wihail_live
 #EXTINF:-1,Rus serials 📺-⚪
@@ -958,8 +944,7 @@ http://kinowalk.hopto.org/lysoff_live
 #EXTINF:-1,Profeccor -⚪
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/profeccor_live
-#EXTINF:-1,ZubrilomFranchise -⚪
-#EXTGRP:🎞️ Kinowalk Production
+#EXTINF:-1 group-title="🎞️ Kinowalk Production" tvg-logo="https://images.live.vkplay.ru/user/18929766/avatar?change_time=1715176122&croped=1&mh=140&mw=140",ZubrilomFranchise ⚪
 http://kinowalk.hopto.org/zubrilommusic.ru_live
 #EXTINF:-1,GUWi_TV 🎦-⚪
 #EXTGRP:🎞️ Kinowalk Production
