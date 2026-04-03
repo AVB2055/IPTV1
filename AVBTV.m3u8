@@ -147,9 +147,6 @@ https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Вместе РФ
 #EXTGRP:🔎‍Познавательные
 http://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
-#EXTINF:-1,Госфильмофонд. Машина Времени
-#EXTGRP:🔎‍Познавательные
-http://178.163.2.151:4022/udp/234.0.0.190:2000
 #EXTINF:-1,Загородный
 #EXTGRP:🔎‍Познавательные
 https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=e3gd8zlogu4ybvafQost4g&e=2070450932&scheme=https
@@ -427,9 +424,6 @@ http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:-1,BEST
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/20165/index.m3u8
-#EXTINF:-1,Hollywood
-#EXTGRP:🎦📺Фильмы 🔹 Сериалы
-https://tinyurl.com/45x3xrpm/chid421/mpegts
 #EXTINF:-1,IPTVPLAY ФАНТАСТИКА
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
@@ -466,9 +460,6 @@ http://ukr2.ukrainske.tv/493/video.m3u8
 #EXTINF:-1,viju+ Megahit
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 http://hls127.freeott.top:8080/ViP_Megahit/video.m3u8
-#EXTINF:-1,Видеокассетаᴴᴰ
-#EXTGRP:🎦📺Фильмы 🔹 Сериалы
-https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
 #EXTINF:-1,Блокбастер
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/9087/index.m3u8
@@ -505,9 +496,6 @@ https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=gM
 #EXTINF:-1,Кино и Жизнь
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=8zEp8CoHlUujIbs_ac3I5g&e=2070281160&scheme=https
-#EXTINF:-1,Советская Киноклассика
-#EXTGRP:🎦📺Фильмы 🔹 Сериалы
-https://tinyurl.com/45x3xrpm/chid276/mpegts
 #EXTINF:-1,ATV Armenia Premium 6
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 http://timeshift.arpinet.am/255/tracks-v1a1/mono.ts.m3u8
@@ -544,18 +532,12 @@ https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 #EXTINF:-1,Konul Tv
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 http://live.mediabaytv.workers.dev/?ID=715
-#EXTINF:-1,Kinoliving
-#EXTGRP:🎦📺Фильмы 🔹 Сериалы
-https://tinyurl.com/45x3xrpm/chid413/mpegts
 #EXTINF:-1,Детективы КД
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 https://bl.rutube.ru/livestream/e05401be60a9cc719fa7075b6e77b86d/index.m3u8?s=wbVW8VM26OpdW5kxFYEmSQ&e=2069694293&scheme=https
 #EXTINF:-1,DTR ZONA 2
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 https://kino-stream.online/hls/DTRZONA2.m3u8
-#EXTINF:-1,SeleCaoTV 1
-#EXTGRP:🎦📺Фильмы 🔹 Сериалы
-https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/playlist.m3u8
 #EXTINF:-1,Kino 24
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
