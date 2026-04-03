@@ -736,8 +736,6 @@ http://kinowalk.hopto.org/lampotv_live
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/serialtv_live
 #EXTINF:-1 group-title="🎞️ Kinowalk Production" tvg-logo="https://images.live.vkvideo.ru/user/20555010/avatar?change_time=1742524384&croped=1&mh=140&mw=140",serial4u 📺-🟢
-#EXTINF:-1,serial4u
-#EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/serial4u_live
 #EXTINF:-1,Serial Productions 📺-🟢
 #EXTGRP:🎞️ Kinowalk Production
