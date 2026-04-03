@@ -905,7 +905,8 @@ http://kinowalk.hopto.org/childhood_cartoons_live
 #EXTINF:-1,Argo_13 📺♕-🟡
 #EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/argo_13_live
-#EXTINF:-1 group-title="🎞️ Kinowalk Production" tvg-logo="https://images.live.vkvideo.ru/user/19829671/avatar?change_time=1734328186&croped=1&mh=140&mw=140",wihail 🎦-⚪
+#EXTINF:-1,wihail 🎦-⚪
+#EXTGRP:🎞️ Kinowalk Production
 http://kinowalk.hopto.org/wihail_live
 #EXTINF:-1,Rus serials 📺-⚪
 #EXTGRP:🎞️ Kinowalk Production
