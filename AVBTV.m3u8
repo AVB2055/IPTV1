@@ -316,6 +316,38 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1,Сан Франциско
 #EXTGRP:🎶Музыкальные
 http://204.199.3.2/.m3u8
+#EXTINF:-1  group-title="🎶Музыкальные",NM Television
+https://tv.a21network.ru/content/40650/index.m3u8
+#EXTINF:-1  group-title="🎶Музыкальные",Муз ТВ
+http://radio.tvs.by:8088/MuzTV/index.m3u8
+#EXTINF:-1  group-title="🎶Музыкальные",MIXM TV
+http://89.179.247.144/hls/mixm.m3u8
+#EXTINF:-1  group-title="🎶Музыкальные",ТНТ Music
+https://tntm.mediacdn.ru/cdn/tntmusic/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1  group-title="🎶Музыкальные",Afrobeats TV
+http://edge11.vedge.infomaniak.com/livecast/ik:bblackafrica/chunklist.m3u8
+#EXTINF:-1  group-title="🎶Музыкальные",MTV Live HD
+http://live.iptvtotaal.com:8000/mvhengeliptv/d6BDiLr3VT/139173
+#EXTINF:-1  group-title="🎶Музыкальные",Power Dance
+https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:-1  group-title="🎶Музыкальные",POWER LOVE
+http://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:-1  group-title="🎶Музыкальные",POWER TV
+http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+#EXTINF:-1  group-title="🎶Музыкальные",Страна FM
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1  group-title="🎶Музыкальные",Музыка 2
+https://fl1001.bozztv.com/ushba-t2/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="🎶Музыкальные",Музыка 3
+https://fl1001.bozztv.com/ushba-t3/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="🎶Музыкальные",Music & Girls
+https://fl1001.bozztv.com/ushba-mafia/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="🎶Музыкальные",Music & Girls 2
+https://fl1001.bozztv.com/ushba-monj/tracks-v1a1/mono.m3u8
+
+
+
+
 #EXTINF:-1,A21 Network
 #EXTGRP:⛹🏿Спортивные
 http://tv.a21network.ru/stream/37909/index.m3u8
