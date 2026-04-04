@@ -279,9 +279,7 @@ http://31.210.208.171:8080/kvn_tv/index.m3u8?token=+W2MSER
 #EXTINF:-1,КВН ТВ
 #EXTGRP:🤣Развлекательные
 https://a3569457567-s70378.cdn.ngenix.net/kvn_tv/1/index.m3u8
-#EXTINF:-1,4fun dance
-#EXTGRP:🎶Музыкальные
-https://d3s7x6kmqcnb6b.cloudfront.net/hls/3MXYR7I/2A8CFE9544F0/m.m3u8
+
 #EXTINF:-1,67
 #EXTGRP:🎶Музыкальные
 https://fl1004.bozztv.com/ushba67/tracks-v1a1/mono.m3u8
