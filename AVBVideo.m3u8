@@ -1,1 +1,1057 @@
-
+#EXTM3U
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Россия К
+http://boxviptv.net:25461/di637/002662/118
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",СТС
+http://boxviptv.net:25461/di637/002662/119
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",НТВ
+http://boxviptv.net:25461/di637/002662/120
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",НТВ SD
+http://boxviptv.net:25461/di637/002662/1602
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Домашний
+http://boxviptv.net:25461/di637/002662/121
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",ТНТ
+http://boxviptv.net:25461/di637/002662/122
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Мир
+http://boxviptv.net:25461/di637/002662/123
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Мир TV
+http://boxviptv.net:25461/di637/002662/1601
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Мир 24
+http://boxviptv.net:25461/di637/002662/124
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Победа
+http://boxviptv.net:25461/di637/002662/129
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Первый канал HD
+http://boxviptv.net:25461/di637/002662/173
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",РБК HD
+http://boxviptv.net:25461/di637/002662/174
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Euronews Россия
+http://boxviptv.net:25461/di637/002662/175
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Дождь
+http://boxviptv.net:25461/di637/002662/176
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Россия 1
+http://boxviptv.net:25461/di637/002662/177
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Россия 1 (Backup)
+http://boxviptv.net:25461/di637/002662/876
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Россия 24
+http://boxviptv.net:25461/di637/002662/178
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Пятый канал
+http://boxviptv.net:25461/di637/002662/179
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Рен ТВ HD
+http://boxviptv.net:25461/di637/002662/218
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Пятница! HD
+http://boxviptv.net:25461/di637/002662/219
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",ТВ3 HD
+http://boxviptv.net:25461/di637/002662/220
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",ТНТ4 HD
+http://boxviptv.net:25461/di637/002662/221
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Звезда
+http://boxviptv.net:25461/di637/002662/235
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",ТВЦ
+http://boxviptv.net:25461/di637/002662/230
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Ю ТВ
+http://boxviptv.net:25461/di637/002662/231
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Суббота
+http://boxviptv.net:25461/di637/002662/232
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Че
+http://boxviptv.net:25461/di637/002662/233
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Love Nature HD TR
+http://boxviptv.net:25461/di637/002662/80
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",DISCOVERY TR
+http://boxviptv.net:25461/di637/002662/107
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",NAT GEO WILD
+http://boxviptv.net:25461/di637/002662/108
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",NATIONAL GEOGRAPHIC HD TR
+http://boxviptv.net:25461/di637/002662/295
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",BEIN IZ
+http://boxviptv.net:25461/di637/002662/186
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",BBC EARTH
+http://boxviptv.net:25461/di637/002662/113
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",ViASAT HiSTORY HD
+http://boxviptv.net:25461/di637/002662/294
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",VIASAT EXPLORER
+http://boxviptv.net:25461/di637/002662/1193
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",TRT BELGESEL
+http://boxviptv.net:25461/di637/002662/111
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",YABAN TV
+http://boxviptv.net:25461/di637/002662/275
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",DMAX
+http://boxviptv.net:25461/di637/002662/184
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",TLC
+http://boxviptv.net:25461/di637/002662/183
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",TLC (BACKUP)
+http://boxviptv.net:25461/di637/002662/693
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",CIFTCI TV
+http://boxviptv.net:25461/di637/002662/638
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",MM Live Planet HD
+http://boxviptv.net:25461/di637/002662/879
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",HISTORY
+http://boxviptv.net:25461/di637/002662/168
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Охота и рыбалка
+http://boxviptv.net:25461/di637/002662/169
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Animal Planet
+http://boxviptv.net:25461/di637/002662/180
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Наука HD
+http://boxviptv.net:25461/di637/002662/181
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Живая Планета
+http://boxviptv.net:25461/di637/002662/188
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",National Geographic
+http://boxviptv.net:25461/di637/002662/189
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Viju Nature
+http://boxviptv.net:25461/di637/002662/190
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Viju History
+http://boxviptv.net:25461/di637/002662/191
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Viju+Explore
+http://boxviptv.net:25461/di637/002662/192
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Viju+ Planet HD
+http://boxviptv.net:25461/di637/002662/1170
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Discovery Science
+http://boxviptv.net:25461/di637/002662/246
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Idman TV HD TR
+http://boxviptv.net:25461/di637/002662/76
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",İdman TV ʜᴅ (GEO)
+http://boxviptv.net:25461/di637/002662/1361
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",CBC SPORT SD
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",CBC SPORT SD 2
+http://boxviptv.net:25461/di637/002662/703
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",CBC SPORT ʜᴅ
+http://boxviptv.net:25461/di637/002662/946
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",HT SPOR
+http://boxviptv.net:25461/di637/002662/1025
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",A SPOR
+http://boxviptv.net:25461/di637/002662/116
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",A SPOR SD
+http://boxviptv.net:25461/di637/002662/690
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",TRT SPOR HD
+http://boxviptv.net:25461/di637/002662/199
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",TRT SPOR SD
+http://boxviptv.net:25461/di637/002662/1020
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",TRT SPOR YILDIZ
+http://boxviptv.net:25461/di637/002662/1353
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",TV 8.5 HD
+http://boxviptv.net:25461/di637/002662/267
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",BEINSPORTS HABER
+http://boxviptv.net:25461/di637/002662/115
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",beIN Sports 1 FEED MATCHTIME
+http://boxviptv.net:25461/di637/002662/852
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",beIN Sports 1 SD TR MatchTime
+http://boxviptv.net:25461/di637/002662/212
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",bein Sports 1 +
+http://boxviptv.net:25461/di637/002662/385
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",beIN Sports 1 HD
+http://boxviptv.net:25461/di637/002662/273
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Bein Sports 1 Dx
+http://boxviptv.net:25461/di637/002662/384
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",beIN Sports -EXXEN matchtime(Pt)
+http://boxviptv.net:25461/di637/002662/274
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",beIN Sports 2 HD TR
+http://boxviptv.net:25461/di637/002662/213
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",beIN Sports 2 HD TR dx
+http://boxviptv.net:25461/di637/002662/387
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",beIN Sports 3 FHD Maç Zamanı
+http://boxviptv.net:25461/di637/002662/851
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",beIN Sports 3 HD TR (Backup)
+http://boxviptv.net:25461/di637/002662/350
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",beIN Sports 3 HD TR
+http://boxviptv.net:25461/di637/002662/214
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",beIN Sports 4 HD TR
+http://boxviptv.net:25461/di637/002662/215
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",BEIN SPORTS 5 FHD
+http://boxviptv.net:25461/di637/002662/201
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",beIN SPOR MAX 1 HD
+http://boxviptv.net:25461/di637/002662/242
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",beIN SPOR MAX 2 HD
+http://boxviptv.net:25461/di637/002662/98
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",EXXEN SPORTS 1 ʜᴅ
+http://boxviptv.net:25461/di637/002662/934
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",EXXEN SPORTS 2 ʜᴅ
+http://boxviptv.net:25461/di637/002662/1256
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",EXXEN SPORTS 3 ʜᴅ
+http://boxviptv.net:25461/di637/002662/1257
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",tabii Spor ʜᴅ
+http://boxviptv.net:25461/di637/002662/1255
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",tabii Spor 1 HD
+http://boxviptv.net:25461/di637/002662/937
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",tabii Spor 2 HD
+http://boxviptv.net:25461/di637/002662/938
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",tabii Spor 3 HD
+http://boxviptv.net:25461/di637/002662/939
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",tabii Spor 4 HD
+http://boxviptv.net:25461/di637/002662/940
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",tabii Spor 5 HD
+http://boxviptv.net:25461/di637/002662/941
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",tabii Spor 6 HD
+http://boxviptv.net:25461/di637/002662/942
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",S Sport STR
+http://boxviptv.net:25461/di637/002662/861
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",S Sport 1 HD TR
+http://boxviptv.net:25461/di637/002662/243
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",S SPORT 2 FHD
+http://boxviptv.net:25461/di637/002662/254
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",S SPORT 2  rezerv
+http://boxviptv.net:25461/di637/002662/292
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",S SPORT PLUS 1 HD
+http://boxviptv.net:25461/di637/002662/1355
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",S SPORT PLUS 2 HD
+http://boxviptv.net:25461/di637/002662/1356
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",S SPORT PLUS 3 HD
+http://boxviptv.net:25461/di637/002662/1357
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Sporsmart HD
+http://boxviptv.net:25461/di637/002662/203
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",SPOR SMART 2 FHD
+http://boxviptv.net:25461/di637/002662/152
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Tivibuspor HD TR
+https://andro.okan11gote12sokan.cfd/checklist/androstreamlivets1.m3u8
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Tivibuspor 1 HD TR
+http://boxviptv.net:25461/di637/002662/200
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Tivibuspor 2 HD TR
+http://boxviptv.net:25461/di637/002662/264
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Tivibuspor 3 HD TR
+http://boxviptv.net:25461/di637/002662/263
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",FB TV
+http://boxviptv.net:25461/di637/002662/301
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",EUROSPORT 1 ʜᴅ
+http://boxviptv.net:25461/di637/002662/211
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",EUROSPORT 2 ʜᴅ
+http://boxviptv.net:25461/di637/002662/216
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Setanta Sports+ Ukraine HD
+http://boxviptv.net:25461/di637/002662/207
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Setanta Qazaqstan
+http://boxviptv.net:25461/di637/002662/1100
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Setanta Sports 1 HD
+http://boxviptv.net:25461/di637/002662/1112
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Setanta Sports 2 HD
+http://boxviptv.net:25461/di637/002662/1113
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Окко Спорт HD
+http://boxviptv.net:25461/di637/002662/1608
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Окко Футбол HD
+http://boxviptv.net:25461/di637/002662/1610
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Окко 1
+http://boxviptv.net:25461/di637/002662/1013
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Окко 2
+http://boxviptv.net:25461/di637/002662/1607
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Окко 3
+http://boxviptv.net:25461/di637/002662/1609
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Sport 1 HD IL
+http://boxviptv.net:25461/di637/002662/1604
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Sport 2 HD IL
+http://boxviptv.net:25461/di637/002662/1281
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Sport 3 HD IL
+http://boxviptv.net:25461/di637/002662/1605
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Sport 4 FHD IL
+http://boxviptv.net:25461/di637/002662/1606
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",5Sport Live HD IL
+http://boxviptv.net:25461/di637/002662/1603
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Матч ТВ
+http://boxviptv.net:25461/di637/002662/158
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Матч ТВ HD
+http://boxviptv.net:25461/di637/002662/910
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Матч! Футбол 1
+http://boxviptv.net:25461/di637/002662/467
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Матч! Футбол 1  HD
+http://boxviptv.net:25461/di637/002662/696
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Матч! Футбол 2
+http://boxviptv.net:25461/di637/002662/468
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Матч! Футбол 2 HD
+http://boxviptv.net:25461/di637/002662/697
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Матч! Футбол 3
+http://boxviptv.net:25461/di637/002662/469
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Матч! Футбол 3 HD
+http://boxviptv.net:25461/di637/002662/698
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",МАТЧ ПРЕМЬЕР
+http://boxviptv.net:25461/di637/002662/157
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",МАТЧ ПРЕМЬЕР HD
+http://boxviptv.net:25461/di637/002662/913
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Матч! Арена
+http://boxviptv.net:25461/di637/002662/911
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Матч! Страна
+http://boxviptv.net:25461/di637/002662/912
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Матч! Боец
+http://boxviptv.net:25461/di637/002662/159
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Матч! Боец HD
+http://boxviptv.net:25461/di637/002662/1299
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Матч! Игра
+http://boxviptv.net:25461/di637/002662/156
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Бокс ТВ
+http://boxviptv.net:25461/di637/002662/1021
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",KHL
+http://boxviptv.net:25461/di637/002662/689
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",UDAR HD
+http://boxviptv.net:25461/di637/002662/1026
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Extreme Sports
+http://boxviptv.net:25461/di637/002662/903
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Телеканал Футбол
+http://boxviptv.net:25461/di637/002662/202
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",DAZN 1 HD
+http://boxviptv.net:25461/di637/002662/570
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",DAZN 2 HD
+http://boxviptv.net:25461/di637/002662/571
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",DAZN 3 HD
+http://boxviptv.net:25461/di637/002662/572
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",DAZN 4 HD
+http://boxviptv.net:25461/di637/002662/573
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",FILM BOX OFFICE 1
+http://boxviptv.net:25461/di637/002662/1618
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",FILM BOX OFFICE 2
+http://boxviptv.net:25461/di637/002662/1619
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",REDBOX PREMIERE
+http://boxviptv.net:25461/di637/002662/1620
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",REDBOX DRAMA HD
+http://boxviptv.net:25461/di637/002662/1621
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",MAX Orjinal HD
+http://boxviptv.net:25461/di637/002662/889
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",FIX CINEMA Action
+http://boxviptv.net:25461/di637/002662/890
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",FIX CINEMA Netflix
+http://boxviptv.net:25461/di637/002662/888
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",ProTurk Western
+http://boxviptv.net:25461/di637/002662/1450
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",ProTurk Vizyon
+http://boxviptv.net:25461/di637/002662/1451
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",RAKIPSIZTV VIZYON 1
+http://boxviptv.net:25461/di637/002662/1456
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",RAKIPSIZTV VIZYON 4
+http://boxviptv.net:25461/di637/002662/1459
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",RAKIPSIZTV VIZYON 5
+http://boxviptv.net:25461/di637/002662/1460
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",SINEMA TV 1001 HD
+http://boxviptv.net:25461/di637/002662/226
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",SINEMA TV 1002 HD
+http://boxviptv.net:25461/di637/002662/1342
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",SINEMA TV 2 HD
+http://boxviptv.net:25461/di637/002662/1343
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",SINEMA TV YERLI HD
+http://boxviptv.net:25461/di637/002662/253
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",SiNEMA TV AiLE FHD
+http://boxviptv.net:25461/di637/002662/1346
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",SINEMA TV AKSIYON
+http://boxviptv.net:25461/di637/002662/105
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",SINEMA TV AKSIYON 2
+http://boxviptv.net:25461/di637/002662/260
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",BE*N SERIES SCFI HD
+http://boxviptv.net:25461/di637/002662/106
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",DIZISMART PREMIUM HD
+http://boxviptv.net:25461/di637/002662/103
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",EPIC DRAMA
+http://boxviptv.net:25461/di637/002662/1311
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",BE*N SERIES DRAMA
+http://boxviptv.net:25461/di637/002662/1241
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",BE*N SERIES COMEDY
+http://boxviptv.net:25461/di637/002662/1242
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",beIN MOVIES ACTION
+http://boxviptv.net:25461/di637/002662/89
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",BEIN MOVIES PREMIER  HD
+http://boxviptv.net:25461/di637/002662/104
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",BEIN MOVIES PREMIERE 2 ʜᴅ
+http://boxviptv.net:25461/di637/002662/261
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",beIN MOVIES FAMILY
+http://boxviptv.net:25461/di637/002662/259
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",beIN MOVIES STARS HD
+http://boxviptv.net:25461/di637/002662/1314
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",KEMAL SUNAL
+http://boxviptv.net:25461/di637/002662/296
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Dreambox-Kemal Sunal
+http://boxviptv.net:25461/di637/002662/558
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",KEMAL SUNAL 3
+http://boxviptv.net:25461/di637/002662/1455
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Dizi Film TV
+http://boxviptv.net:25461/di637/002662/807
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",САПФИР
+http://boxviptv.net:25461/di637/002662/537
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Bollywood
+http://boxviptv.net:25461/di637/002662/125
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Русский Иллюзион
+http://boxviptv.net:25461/di637/002662/130
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Русский бестселлер
+http://boxviptv.net:25461/di637/002662/131
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Русский Детектив
+http://boxviptv.net:25461/di637/002662/132
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Наше Мужское HD
+http://boxviptv.net:25461/di637/002662/133
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Родное Кино
+http://boxviptv.net:25461/di637/002662/128
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",ИНДИЙСКОЕ КИНО
+http://boxviptv.net:25461/di637/002662/126
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",КИНОПРЕМЬЕРА HD
+http://boxviptv.net:25461/di637/002662/134
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Кинохит
+http://boxviptv.net:25461/di637/002662/135
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Киносвидание
+http://boxviptv.net:25461/di637/002662/136
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Киносерия
+http://boxviptv.net:25461/di637/002662/137
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Кинокомедия
+http://boxviptv.net:25461/di637/002662/139
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Киномикс
+http://boxviptv.net:25461/di637/002662/140
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Киносемья
+http://boxviptv.net:25461/di637/002662/141
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Киноужас HD
+http://boxviptv.net:25461/di637/002662/1413
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",МУЖСКОЕ КИНО
+http://boxviptv.net:25461/di637/002662/245
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Еврокино
+http://boxviptv.net:25461/di637/002662/194
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Кинопоказ
+http://boxviptv.net:25461/di637/002662/143
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Остросюжетное HD
+http://boxviptv.net:25461/di637/002662/227
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Блокбастер
+http://boxviptv.net:25461/di637/002662/240
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Viju TV1000 Новелла HD
+http://boxviptv.net:25461/di637/002662/1063
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Viju TV1000 Русское
+http://boxviptv.net:25461/di637/002662/1064
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Viju+ Premiere HD
+http://boxviptv.net:25461/di637/002662/304
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Viju+ Megahit HD
+http://boxviptv.net:25461/di637/002662/305
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Viju+ Comedy HD
+http://boxviptv.net:25461/di637/002662/306
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Viju TV1000 Action
+http://boxviptv.net:25461/di637/002662/144
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Viju TV1000 HD
+http://boxviptv.net:25461/di637/002662/145
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Viasat Serial HD
+http://boxviptv.net:25461/di637/002662/909
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",AMEDIA HIT
+http://boxviptv.net:25461/di637/002662/146
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",AMEDIA 1
+http://boxviptv.net:25461/di637/002662/147
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Amedia Premium
+http://boxviptv.net:25461/di637/002662/195
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Дом Кино Премиум HD
+http://boxviptv.net:25461/di637/002662/340
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Кино ТВ HD
+http://boxviptv.net:25461/di637/002662/341
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Страшное HD
+http://boxviptv.net:25461/di637/002662/280
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",СТС Love
+http://boxviptv.net:25461/di637/002662/193
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Мосфильм
+http://boxviptv.net:25461/di637/002662/699
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Русский роман
+http://boxviptv.net:25461/di637/002662/700
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Любимое Кино
+http://boxviptv.net:25461/di637/002662/248
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",.sci-fi
+http://boxviptv.net:25461/di637/002662/281
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",НСТ
+http://boxviptv.net:25461/di637/002662/389
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Индия ТВ
+http://boxviptv.net:25461/di637/002662/1060
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Yosso TV Netflix
+http://boxviptv.net:25461/di637/002662/228
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",VF Disney Movie
+http://boxviptv.net:25461/di637/002662/197
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",VF Оскар
+http://boxviptv.net:25461/di637/002662/110
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",VF Криминал
+http://boxviptv.net:25461/di637/002662/229
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",BCU Кинозал Premiere 1 HD
+http://boxviptv.net:25461/di637/002662/222
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",BCU Кинозал Premiere 2 HD
+http://boxviptv.net:25461/di637/002662/223
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",BCU Кинозал Premiere 3 HD
+http://boxviptv.net:25461/di637/002662/224
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",BCU Cinema HD
+http://boxviptv.net:25461/di637/002662/225
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",BCU History HD
+http://boxviptv.net:25461/di637/002662/894
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",BCU VHS HD
+http://boxviptv.net:25461/di637/002662/895
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",BCU Premiere HD
+http://boxviptv.net:25461/di637/002662/896
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",BCU СССР HD
+http://boxviptv.net:25461/di637/002662/897
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",BCU Action HD
+http://boxviptv.net:25461/di637/002662/898
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",BCU FilMystic HD
+http://boxviptv.net:25461/di637/002662/899
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",BCU Catastrophe HD
+http://boxviptv.net:25461/di637/002662/900
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",BCU Kinorating HD
+http://boxviptv.net:25461/di637/002662/901
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",минимакс-newfilm 1 HD
+http://boxviptv.net:25461/di637/002662/802
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",минимакс-newfilm 2 HD
+http://boxviptv.net:25461/di637/002662/803
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",минимакс-newfilm 3 HD
+http://boxviptv.net:25461/di637/002662/804
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",минимакс-newfilm.ru 4 HD
+http://boxviptv.net:25461/di637/002662/805
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",MM UFO
+http://boxviptv.net:25461/di637/002662/857
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",MM Боевик
+http://boxviptv.net:25461/di637/002662/858
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",MM Катастрофа
+http://boxviptv.net:25461/di637/002662/859
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",MM Celebrity HD
+http://boxviptv.net:25461/di637/002662/860
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",MM Ужасы HD
+http://boxviptv.net:25461/di637/002662/862
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",MM Супергерои HD
+http://boxviptv.net:25461/di637/002662/863
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",MM USSR Детектив HD
+http://boxviptv.net:25461/di637/002662/864
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",MM Сваты HD
+http://boxviptv.net:25461/di637/002662/865
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",MM Love HD
+http://boxviptv.net:25461/di637/002662/866
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",MM Спорт HD
+http://boxviptv.net:25461/di637/002662/867
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",MM Семейный 1 HD
+http://boxviptv.net:25461/di637/002662/926
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",MM Семейный 2 HD
+http://boxviptv.net:25461/di637/002662/927
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Кинозал! Интерны ТВ
+http://boxviptv.net:25461/di637/002662/928
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",TMB AZ
+http://boxviptv.net:25461/di637/002662/65
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Kral Pop
+http://boxviptv.net:25461/di637/002662/217
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",NR 1
+http://boxviptv.net:25461/di637/002662/234
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Power Turk
+http://boxviptv.net:25461/di637/002662/236
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Dream Turk HD TR
+http://boxviptv.net:25461/di637/002662/238
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",ЖАРА TV
+http://boxviptv.net:25461/di637/002662/148
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",MUZ TV
+http://boxviptv.net:25461/di637/002662/149
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",RU TV
+http://boxviptv.net:25461/di637/002662/150
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",ТНТ Music
+http://boxviptv.net:25461/di637/002662/151
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Arb Gunes
+http://boxviptv.net:25461/di637/002662/1414
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",TRT COCUK
+http://boxviptv.net:25461/di637/002662/112
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",DISNEY JR HD
+http://boxviptv.net:25461/di637/002662/596
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",MINIKA COCUK
+http://boxviptv.net:25461/di637/002662/786
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",MinikaGO
+http://boxviptv.net:25461/di637/002662/787
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Cartoon Network TR
+http://boxviptv.net:25461/di637/002662/581
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",MM Tom and Jerry HD
+http://boxviptv.net:25461/di637/002662/878
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",VF Малыш
+http://boxviptv.net:25461/di637/002662/109
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Детский мир
+http://boxviptv.net:25461/di637/002662/163
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",DISNEY
+http://boxviptv.net:25461/di637/002662/164
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",NICKELODEON
+http://boxviptv.net:25461/di637/002662/165
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Карусель
+http://boxviptv.net:25461/di637/002662/166
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",ANI
+http://boxviptv.net:25461/di637/002662/167
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",on4
+http://boxviptv.net:25461/di637/002662/279
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Dost Tv
+http://boxviptv.net:25461/di637/002662/282
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Ocko Expres
+http://boxviptv.net:25461/di637/002662/321
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Шансон ТВ
+http://boxviptv.net:25461/di637/002662/322
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Red Bull TV HD
+http://boxviptv.net:25461/di637/002662/323
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",PLUTO DOCU
+http://boxviptv.net:25461/di637/002662/324
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",HuntStream
+http://boxviptv.net:25461/di637/002662/327
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Мульт
+http://boxviptv.net:25461/di637/002662/328
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",ZooMoo Kids
+http://boxviptv.net:25461/di637/002662/329
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Кухня ТВ
+http://boxviptv.net:25461/di637/002662/333
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Diyanet Tv
+http://boxviptv.net:25461/di637/002662/347
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Zehra Tv
+http://boxviptv.net:25461/di637/002662/334
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",TRT MUZIK
+http://boxviptv.net:25461/di637/002662/354
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",HALK TV
+http://boxviptv.net:25461/di637/002662/356
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",BBC World News
+http://boxviptv.net:25461/di637/002662/358
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",CNBC
+http://boxviptv.net:25461/di637/002662/359
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",CNN International
+http://boxviptv.net:25461/di637/002662/360
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Al Jazeera English
+http://boxviptv.net:25461/di637/002662/410
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",TRT World
+http://boxviptv.net:25461/di637/002662/412
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",DW News
+http://boxviptv.net:25461/di637/002662/414
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",euronews
+http://boxviptv.net:25461/di637/002662/415
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",KANAL 35
+http://boxviptv.net:25461/di637/002662/462
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Известия
+http://boxviptv.net:25461/di637/002662/475
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",БОБЕР
+http://boxviptv.net:25461/di637/002662/528
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Vostok TV
+http://boxviptv.net:25461/di637/002662/532
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",НТВ ПРАВО
+http://boxviptv.net:25461/di637/002662/533
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",НТВ СЕРИАЛ
+http://boxviptv.net:25461/di637/002662/534
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",НТВ СТИЛЬ
+http://boxviptv.net:25461/di637/002662/535
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",АВТО 24
+http://boxviptv.net:25461/di637/002662/543
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Красная линия
+http://boxviptv.net:25461/di637/002662/547
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Russia Today
+http://boxviptv.net:25461/di637/002662/548
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",PowerTürk Taptaze TV
+http://boxviptv.net:25461/di637/002662/583
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",PowerTürk Slow TV
+http://boxviptv.net:25461/di637/002662/584
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",PowerTürk Akustik TV
+http://boxviptv.net:25461/di637/002662/585
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Power Love TV
+http://boxviptv.net:25461/di637/002662/586
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Power Dance TV
+http://boxviptv.net:25461/di637/002662/587
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Power TV
+http://boxviptv.net:25461/di637/002662/588
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Nat Geo Wild HD
+http://boxviptv.net:25461/di637/002662/590
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",ALVIN TV
+http://boxviptv.net:25461/di637/002662/614
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Мультиландия HD
+http://boxviptv.net:25461/di637/002662/622
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Discovery HD
+http://boxviptv.net:25461/di637/002662/623
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Da Vinci Learning
+http://boxviptv.net:25461/di637/002662/625
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Kronehit TV HD
+http://boxviptv.net:25461/di637/002662/632
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",TRT TURK
+http://boxviptv.net:25461/di637/002662/637
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Вопросы и ответы
+http://boxviptv.net:25461/di637/002662/639
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",APA TV
+http://boxviptv.net:25461/di637/002662/640
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Vilayet TV
+http://boxviptv.net:25461/di637/002662/642
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Восток ТВ
+http://boxviptv.net:25461/di637/002662/645
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",NRG
+http://boxviptv.net:25461/di637/002662/647
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Музыка Первого
+http://boxviptv.net:25461/di637/002662/650
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Deluxe Dance
+http://boxviptv.net:25461/di637/002662/651
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Spirit TV
+http://boxviptv.net:25461/di637/002662/652
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Vibee TV
+http://boxviptv.net:25461/di637/002662/653
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Кто есть кто
+http://boxviptv.net:25461/di637/002662/705
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",KANAL 12
+http://boxviptv.net:25461/di637/002662/759
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",LALEGUL TV
+http://boxviptv.net:25461/di637/002662/761
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",SPORT TV 1
+http://boxviptv.net:25461/di637/002662/765
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",SPORT TV 2
+http://boxviptv.net:25461/di637/002662/766
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",SPORT TV 3
+http://boxviptv.net:25461/di637/002662/767
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",SPORT TV 4
+http://boxviptv.net:25461/di637/002662/768
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",SPORT TV 5
+http://boxviptv.net:25461/di637/002662/769
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Москва 24
+http://boxviptv.net:25461/di637/002662/792
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",НТВ‑ХИТ
+http://boxviptv.net:25461/di637/002662/793
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",SKY SPORTS F1 UK
+http://boxviptv.net:25461/di637/002662/801
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",SEMERGEND TV
+http://boxviptv.net:25461/di637/002662/806
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Kanal Avrupa
+http://boxviptv.net:25461/di637/002662/818
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Tempo TV
+http://boxviptv.net:25461/di637/002662/819
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",SuperTurk TV
+http://boxviptv.net:25461/di637/002662/820
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",РОССИЯ РТР
+http://boxviptv.net:25461/di637/002662/855
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Перец International
+http://boxviptv.net:25461/di637/002662/877
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Atv Sinema
+http://boxviptv.net:25461/di637/002662/880
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Investigation Discovery HD
+http://boxviptv.net:25461/di637/002662/904
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Оружие
+http://boxviptv.net:25461/di637/002662/905
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Еда
+http://boxviptv.net:25461/di637/002662/906
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",CNBC-e
+http://boxviptv.net:25461/di637/002662/907
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",FX
+http://boxviptv.net:25461/di637/002662/914
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",FX LIFE
+http://boxviptv.net:25461/di637/002662/915
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Наш Кинопоказ
+http://boxviptv.net:25461/di637/002662/916
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",UATV/FreeДом
+http://boxviptv.net:25461/di637/002662/1009
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Ретро
+http://boxviptv.net:25461/di637/002662/1058
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",BOX Docu HD
+http://boxviptv.net:25461/di637/002662/1061
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",BOX Travel Premiere HD
+http://boxviptv.net:25461/di637/002662/1171
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",BOX AutoTrend HD
+http://boxviptv.net:25461/di637/002662/1172
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",The Explorers HD
+http://boxviptv.net:25461/di637/002662/1062
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Дикий
+http://boxviptv.net:25461/di637/002662/1081
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Hollywood HD
+http://boxviptv.net:25461/di637/002662/1082
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Советская киноклассика
+http://boxviptv.net:25461/di637/002662/1083
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",День Победы
+http://boxviptv.net:25461/di637/002662/1084
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Беларусь 24
+http://boxviptv.net:25461/di637/002662/1091
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Outdoor Channel
+http://boxviptv.net:25461/di637/002662/1092
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",H2
+http://boxviptv.net:25461/di637/002662/1093
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Big Planet HD
+http://boxviptv.net:25461/di637/002662/1094
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",ГЛАЗАМИ ТУРИСТА
+http://boxviptv.net:25461/di637/002662/1099
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Охотник и рыболов
+http://boxviptv.net:25461/di637/002662/1108
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",English Class HD
+http://boxviptv.net:25461/di637/002662/1129
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",ОТР
+http://boxviptv.net:25461/di637/002662/1140
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Телеканал 360
+http://boxviptv.net:25461/di637/002662/1141
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Наша Сибирь 4К
+http://boxviptv.net:25461/di637/002662/1146
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",A Haber
+http://boxviptv.net:25461/di637/002662/1147
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",TRT 2
+http://boxviptv.net:25461/di637/002662/1149
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Shopping Live
+http://boxviptv.net:25461/di637/002662/1150
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Ювелирочка
+http://boxviptv.net:25461/di637/002662/1151
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Открытый мир
+http://boxviptv.net:25461/di637/002662/1153
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Продвижение
+http://boxviptv.net:25461/di637/002662/1156
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Дом Кино
+http://boxviptv.net:25461/di637/002662/1227
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",2x2
+http://boxviptv.net:25461/di637/002662/1233
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Смайл ТВ
+http://boxviptv.net:25461/di637/002662/1267
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Моя планета
+http://boxviptv.net:25461/di637/002662/1268
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Большая Азия
+http://boxviptv.net:25461/di637/002662/1273
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Liberty BBC FHD
+http://boxviptv.net:25461/di637/002662/1301
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",EKOL TV
+http://boxviptv.net:25461/di637/002662/1386
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Akit TV
+http://boxviptv.net:25461/di637/002662/1395
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",MELTEM TV
+http://boxviptv.net:25461/di637/002662/1407
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Горы
+http://iptv.prosto.tv:7000/ch340/video.m3u8
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Озеро
+http://iptv.prosto.tv:7000/ch341/video.m3u8
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Рыбалка
+http://iptv.prosto.tv:7000/ch344/video.m3u8
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Бассейн
+http://iptv.prosto.tv:7000/ch345/video.m3u8
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Флора
+http://iptv.prosto.tv:7000/ch346/video.m3u8
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Сад
+http://iptv.prosto.tv:7000/ch347/video.m3u8
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Джунгли
+http://iptv.prosto.tv:7000/ch339/video.m3u8
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Река
+http://iptv.prosto.tv:7000/ch338/video.m3u8
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Тропики
+http://iptv.prosto.tv:7000/ch335/video.m3u8
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Пляж
+http://iptv.prosto.tv:7000/ch332/video.m3u8
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Лес
+http://iptv.prosto.tv:7000/ch330/video.m3u8
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Водопад
+http://iptv.prosto.tv:7000/ch329/video.m3u8
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Ночь
+http://iptv.prosto.tv:7000/ch349/video.m3u8
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Зима
+http://iptv.prosto.tv:7000/ch327/video.m3u8
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Аквариум
+http://iptv.prosto.tv:7000/ch325/video.m3u8
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Stream City
+http://iptv.prosto.tv:7000/ch321/video.m3u8
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",ЭКО система
+http://iptv.prosto.tv:7000/ch316/video.m3u8
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Катастрофы
+http://iptv.prosto.tv:7000/ch312/video.m3u8
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Подводный мир
+http://iptv.prosto.tv:7000/ch305/video.m3u8
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Дожди
+http://iptv.prosto.tv:7000/ch304/video.m3u8
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Горная долина
+http://iptv.prosto.tv:7000/ch302/video.m3u8
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Терраса
+http://iptv.prosto.tv:7000/ch336/video.m3u8
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Свет вокруг
+http://iptv.prosto.tv:7000/ch351/video.m3u8
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Зоо
+http://iptv.prosto.tv:7000/ch319/video.m3u8
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Space Stream
+http://iptv.prosto.tv:7000/ch314/video.m3u8
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Пейзаж
+http://iptv.prosto.tv:7000/ch343/video.m3u8
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Камин
+http://iptv.prosto.tv:7000/ch318/video.m3u8
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Relaxon
+http://iptv.prosto.tv:7000/ch317/video.m3u8
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",ZIGGO SPORT SELECT HD
+http://boxviptv.net:25461/di637/002662/576
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",France 24
+http://boxviptv.net:25461/di637/002662/1464
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Das Erste (Germany)
+http://boxviptv.net:25461/di637/002662/1471
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",TNT Sports 1
+http://boxviptv.net:25461/di637/002662/1614
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Дорама
+http://boxviptv.net:25461/di637/002662/1617
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",MUSICBOX GOLD
+http://boxviptv.net:25461/di637/002662/1623
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",ULKE TV
+http://boxviptv.net:25461/di637/002662/1625
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",CineMan ПёС + Лихач
+http://boxviptv.net:25461/di637/002662/1626
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",VF Anime
+http://boxviptv.net:25461/di637/002662/1627
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",DAZN Sport 1 HD (DE)
+http://boxviptv.net:25461/di637/002662/1635
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",DAZN Sport 2 HD (DE)
+http://boxviptv.net:25461/di637/002662/1636
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Беларусь 5 HD
+http://boxviptv.net:25461/di637/002662/1663
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Солнце
+http://boxviptv.net:25461/di637/002662/1672
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",MAHNI TV
+http://boxviptv.net:25461/di637/002662/1674
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Русская Комедия
+http://boxviptv.net:25461/di637/002662/1678
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",АВТО ПЛЮС
+http://boxviptv.net:25461/di637/002662/1679
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",KEPEZ
+http://boxviptv.net:25461/di637/002662/1681
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",TV XXI
+http://boxviptv.net:25461/di637/002662/1682
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Киноман
+http://boxviptv.net:25461/di637/002662/1686
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",START Air HD
+http://boxviptv.net:25461/di637/002662/1687
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",START World
+http://boxviptv.net:25461/di637/002662/1688
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",ЖИВАЯ ПРИРОДА
+http://boxviptv.net:25461/di637/002662/1691
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Yosso TV Travel
+http://boxviptv.net:25461/di637/002662/1695
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",VF Гарри Поттер
+http://boxviptv.net:25461/di637/002662/1696
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",REAL
+http://boxviptv.net:25461/di637/002662/55
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",bir TV
+http://boxviptv.net:25461/di637/002662/1704
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",tele NEWS
+http://boxviptv.net:25461/di637/002662/1705
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",QAZ SPORT
+http://boxviptv.net:25461/di637/002662/1711
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",SPORT+
+http://boxviptv.net:25461/di637/002662/1712
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Q Live
+http://boxviptv.net:25461/di637/002662/1714
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Q Live 1
+http://boxviptv.net:25461/di637/002662/1715
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Q Live 2
+http://boxviptv.net:25461/di637/002662/1716
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Q Live 3
+http://boxviptv.net:25461/di637/002662/1717
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Ayaz  TV
+http://boxviptv.net:25461/di637/002662/1718
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Q SPORT LEAGUE
+http://boxviptv.net:25461/di637/002662/1724
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Q FOOTBALL
+http://boxviptv.net:25461/di637/002662/1725
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",TGRT HABER
+http://boxviptv.net:25461/di637/002662/1726
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",TGRT BELGESEL
+http://boxviptv.net:25461/di637/002662/1727
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",NBA USA
+http://boxviptv.net:25461/di637/002662/1728
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",RUTUBE TV
+http://boxviptv.net:25461/di637/002662/1729
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Кавказ 24
+http://boxviptv.net:25461/di637/002662/1730
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Приколы 1
+http://boxviptv.net:25461/di637/002662/1731
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Приколы 2
+http://boxviptv.net:25461/di637/002662/1732
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Мистер Бин
+http://boxviptv.net:25461/di637/002662/1733
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Документалка 1
+http://boxviptv.net:25461/di637/002662/1734
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Документалка 2
+http://boxviptv.net:25461/di637/002662/1735
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Документалка 3
+http://boxviptv.net:25461/di637/002662/1736
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Кинозалы 2
+http://boxviptv.net:25461/di637/002662/1738
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Кинозалы 3
+http://boxviptv.net:25461/di637/002662/1739
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Кинозалы 4
+http://boxviptv.net:25461/di637/002662/1740
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Кинозалы 5
+http://boxviptv.net:25461/di637/002662/1741
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Кинозалы 6
+http://boxviptv.net:25461/di637/002662/1742
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Кинозалы 7
+http://boxviptv.net:25461/di637/002662/1743
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Кинозалы 8
+http://boxviptv.net:25461/di637/002662/1744
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Кинозалы 9
+http://boxviptv.net:25461/di637/002662/1745
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Кинозалы 10
+http://boxviptv.net:25461/di637/002662/1746
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Кинозалы 11
+http://boxviptv.net:25461/di637/002662/1747
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Кинозалы 13
+http://boxviptv.net:25461/di637/002662/1749
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Кинозалы 14
+http://boxviptv.net:25461/di637/002662/1750
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Кинозалы 15
+http://boxviptv.net:25461/di637/002662/1751
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Кинозалы 16
+http://boxviptv.net:25461/di637/002662/1752
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Кинозалы 17
+http://boxviptv.net:25461/di637/002662/1753
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Кинозалы 18
+http://boxviptv.net:25461/di637/002662/1754
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Кинозалы 19
+http://boxviptv.net:25461/di637/002662/1755
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Кинозалы 20
+http://boxviptv.net:25461/di637/002662/1756
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Retro Movies
+http://boxviptv.net:25461/di637/002662/1757
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Доктор Достоевский
+http://boxviptv.net:25461/di637/002662/1758
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Импульс Севера
+http://boxviptv.net:25461/di637/002662/1761
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Евразия
+http://boxviptv.net:25461/di637/002662/1763
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",ННТВ
+http://boxviptv.net:25461/di637/002662/1764
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",UNIVER TV
+http://boxviptv.net:25461/di637/002662/1765
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Радость моя
+http://boxviptv.net:25461/di637/002662/1767
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Жар Птица
+http://boxviptv.net:25461/di637/002662/1768
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Илли ТВ
+http://boxviptv.net:25461/di637/002662/1773
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",БТВ
+http://boxviptv.net:25461/di637/002662/1776
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",GALAXY
+http://boxviptv.net:25461/di637/002662/1778
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Terra
+http://boxviptv.net:25461/di637/002662/1779
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Время
+http://boxviptv.net:25461/di637/002662/1780
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",ДОМАШНИЕ ЖИВОТНЫЕ
+http://boxviptv.net:25461/di637/002662/1781
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",ЗАГОРОДНАЯ ЖИЗНЬ
+http://boxviptv.net:25461/di637/002662/1782
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",ЗДОРОВОЕ ТВ
+http://boxviptv.net:25461/di637/002662/1784
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",ЗООПАРК
+http://boxviptv.net:25461/di637/002662/1785
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",ПОЕХАЛИ!
+http://boxviptv.net:25461/di637/002662/1786
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",CINEMA
+http://boxviptv.net:25461/di637/002662/1787
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",MEZZO
+http://boxviptv.net:25461/di637/002662/1788
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",.BLACK
+http://boxviptv.net:25461/di637/002662/1789
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",.RED
+http://boxviptv.net:25461/di637/002662/1790
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",VF New Year
+http://boxviptv.net:25461/di637/002662/1791
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Yosso TV Nature
+http://boxviptv.net:25461/di637/002662/1795
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Fint Ga 1
+http://boxviptv.net:25461/di637/002662/1796
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Fint Ga 2
+http://boxviptv.net:25461/di637/002662/1797
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Fint Ga 3
+http://boxviptv.net:25461/di637/002662/1798
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Fint Ga 4
+http://boxviptv.net:25461/di637/002662/1799
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Fint Ga 5
+http://boxviptv.net:25461/di637/002662/1800
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Fint Ga 6
+http://boxviptv.net:25461/di637/002662/1801
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Alpha Cinema
+http://boxviptv.net:25461/di637/002662/1803
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Alpha Funny
+http://boxviptv.net:25461/di637/002662/1804
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",15+ Music
+http://boxviptv.net:25461/di637/002662/1805
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Новый Русский
+http://boxviptv.net:25461/di637/002662/1806
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Канал NSC+
+http://boxviptv.net:25461/di637/002662/1807
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Соловьёв LIVE
+http://boxviptv.net:25461/di637/002662/1809
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Телеканал 78
+http://boxviptv.net:25461/di637/002662/1810
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Телеканал ТОЛК
+http://boxviptv.net:25461/di637/002662/1811
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",ЛенТВ24
+http://boxviptv.net:25461/di637/002662/1812
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",ПРО БИЗНЕС
+http://boxviptv.net:25461/di637/002662/1813
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",С1 Сургут
+http://boxviptv.net:25461/di637/002662/1814
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Буряад ТВ
+http://boxviptv.net:25461/di637/002662/1815
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",ВЕТТА 24
+http://boxviptv.net:25461/di637/002662/1816
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Ключайка
+http://boxviptv.net:25461/di637/002662/1817
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",РГВК Дагестан
+http://boxviptv.net:25461/di637/002662/1818
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",Якутия 24
+http://boxviptv.net:25461/di637/002662/1819
+#EXTINF:-1 group-title="BOX IPTV" tvg-id="simpleTVFakeEpgId",РЖД ТВ
+http://boxviptv.net:25461/di637/002662/1820
