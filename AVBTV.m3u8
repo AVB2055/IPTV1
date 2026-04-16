@@ -110,7 +110,7 @@ https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
 https://rferl-ingest.akamaized.net/hls/live/2121657/tvmc05/playlist_1080.m3u8
 #EXTINF:-1,Дождь ТВ [СМИ иногент]
 #EXTGRP:👁‍Новостные
-https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
+http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/20083/index.m3u8
 #EXTINF:-1,CBC
 #EXTGRP:👁‍Новостные
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/cbc.m3u8
@@ -352,16 +352,16 @@ http://tv.a21network.ru/stream/37909/index.m3u8
 #EXTINF:-1,Eurosport 1
 #EXTGRP:⛹🏿Спортивные
 http://176.96.241.40/Eurosport1/index.m3u8
-#EXTINF:-1,Eurosport 1
+#EXTINF:-1,Eurosport 1-🔴
 #EXTGRP:⛹🏿Спортивные
 http://ip1.orgip.net/200/video.m3u8?token=Ab2b7066c8
-#EXTINF:-1,Eurosport 1
+#EXTINF:-1,Eurosport 1-🔴
 #EXTGRP:⛹🏿Спортивные
 http://ip1.orgip.net/0200/video.m3u8?token=Ab2b7066c8
-#EXTINF:-1,Eurosport 2
+#EXTINF:-1,Eurosport 2-🔴
 #EXTGRP:⛹🏿Спортивные
 http://ip1.orgip.net/201/video.m3u8?token=Ab2b7066c8
-#EXTINF:-1,Eurosport 2
+#EXTINF:-1,Eurosport 2-🔴
 #EXTGRP:⛹🏿Спортивные
 http://ip1.orgip.net/0201/video.m3u8?token=Ab2b7066c8
 #EXTINF:-1,NHL (Интересные моменты)
@@ -463,9 +463,6 @@ http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
 http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1,MYTV HIT
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
-http://tinyurl.com/TvZaTak37/MyTV_Hit/video.m3u8?token=freeportal&token=a1ecd668e05f5ce07c81130c9d7fb362
-#EXTINF:-1,MYTV HIT
-#EXTGRP:🎦📺Фильмы 🔹 Сериалы
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/19410/index.m3u8
 #EXTINF:-1,MYTV
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
@@ -482,9 +479,6 @@ https://tinyurl.com/aleks-u-romki-40/11043/index.m3u8
 #EXTINF:-1,VIASAT Kino Comedy
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 http://ukr2.ukrainske.tv/493/video.m3u8
-#EXTINF:-1,viju+ Megahit
-#EXTGRP:🎦📺Фильмы 🔹 Сериалы
-http://hls127.freeott.top:8080/ViP_Megahit/video.m3u8
 #EXTINF:-1,Блокбастер
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/9087/index.m3u8
@@ -494,10 +488,7 @@ http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/9091/index.m3u8
 #EXTINF:-1,Кинопремьера
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/9020/index.m3u8
-#EXTINF:-1,КИНОХИТ
-#EXTGRP:🎦📺Фильмы 🔹 Сериалы
-http://ip1.orgip.net/608/video.m3u8?token=Ab2b7066c8
-#EXTINF:-1,Кино Без Границ 🔴
+#EXTINF:-1,Кино Без Границ 
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 http://185.57.68.33:8091/237/playlist.m3u8
 #EXTINF:-1,Кинолаффка
@@ -524,7 +515,7 @@ https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=8z
 #EXTINF:-1,ATV Armenia Premium 6
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 http://timeshift.arpinet.am/255/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Arpinet 🔴
+#EXTINF:-1,Arpinet
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 http://timeshift.arpinet.am/237/index.m3u8
 #EXTINF:-1,Кинодром
