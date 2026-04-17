@@ -352,18 +352,6 @@ http://tv.a21network.ru/stream/37909/index.m3u8
 #EXTINF:-1,Eurosport 1
 #EXTGRP:⛹🏿Спортивные
 http://176.96.241.40/Eurosport1/index.m3u8
-#EXTINF:-1,Eurosport 1-🔴
-#EXTGRP:⛹🏿Спортивные
-http://ip1.orgip.net/200/video.m3u8?token=Ab2b7066c8
-#EXTINF:-1,Eurosport 1-🔴
-#EXTGRP:⛹🏿Спортивные
-http://ip1.orgip.net/0200/video.m3u8?token=Ab2b7066c8
-#EXTINF:-1,Eurosport 2-🔴
-#EXTGRP:⛹🏿Спортивные
-http://ip1.orgip.net/201/video.m3u8?token=Ab2b7066c8
-#EXTINF:-1,Eurosport 2-🔴
-#EXTGRP:⛹🏿Спортивные
-http://ip1.orgip.net/0201/video.m3u8?token=Ab2b7066c8
 #EXTINF:-1,NHL (Интересные моменты)
 #EXTGRP:⛹🏿Спортивные
 https://nhl-firetv.amagi.tv/playlist.m3u8
@@ -536,9 +524,6 @@ https://live20.bozztv.com/giatv/giatv-tvzovBlackstream/tvzovBlackstream/chunks.m
 #EXTINF:-1,ЗОВ ТВ RED
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 https://live20.bozztv.com/giatv/giatv-tvzov%20RED/tvzov%20RED/chunks.m3u8
-#EXTINF:-1,Новый Русский 
-#EXTGRP:🎦📺Фильмы 🔹 Сериалы
-https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1_output_0.m3u8?session=U3YFrmmaaXDngd96fHTti7
 #EXTINF:-1,НТВ Сериал
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
