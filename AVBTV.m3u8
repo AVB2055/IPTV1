@@ -225,9 +225,6 @@ https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=hw
 #EXTINF:-1,Alpha Funny
 #EXTGRP:🤣Развлекательные
 http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
-#EXTINF:-1,DTR ZONA 1
-#EXTGRP:🤣Развлекательные
-https://kino-stream.online/hls/DTRZONA1.m3u8
 #EXTINF:-1,Mr.Bean Cartoon
 #EXTGRP:🤣Развлекательные
 https://bl.rutube.ru/livestream/0e9e44725d5d5ab7ee92c10b40215419/index.m3u8?s=PKlr1KsTF2d2tE-J0_gjZw&e=2067815808&scheme=https
@@ -334,17 +331,6 @@ http://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
 http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
 #EXTINF:-1  group-title="🎶Музыкальные",Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1  group-title="🎶Музыкальные",Музыка 2
-https://fl1001.bozztv.com/ushba-t2/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="🎶Музыкальные",Музыка 3
-https://fl1001.bozztv.com/ushba-t3/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="🎶Музыкальные",Music & Girls
-https://fl1001.bozztv.com/ushba-mafia/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="🎶Музыкальные",Music & Girls 2
-https://fl1001.bozztv.com/ushba-monj/tracks-v1a1/mono.m3u8
-
-
-
 
 #EXTINF:-1,A21 Network
 #EXTGRP:⛹🏿Спортивные
@@ -533,9 +519,6 @@ https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 #EXTINF:-1,Детективы КД
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 https://bl.rutube.ru/livestream/e05401be60a9cc719fa7075b6e77b86d/index.m3u8?s=wbVW8VM26OpdW5kxFYEmSQ&e=2069694293&scheme=https
-#EXTINF:-1,DTR ZONA 2
-#EXTGRP:🎦📺Фильмы 🔹 Сериалы
-https://kino-stream.online/hls/DTRZONA2.m3u8
 #EXTINF:-1,Kino 24
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
@@ -606,8 +589,7 @@ http://kinowalk.hopto.org/yurich_kinomix_live
 http://kinowalk.hopto.org/kinolampa_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)" tvg-logo="https://goodgame.ru/files/avatars/av_1676704_9wc1.jpg",MovieToper 🎦-️🟢
 http://kinowalk.hopto.org/movietoper_live
-#EXTINF:-1 group-title="🎞️Кинозалы (VPN)", Prodigy 🎦-🟡
-http://kinowalk.hopto.org/roman_prodigy_live
+
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)", TimeToMovie 🎦📺-️🟢
 http://kinowalk.hopto.org/timetomovie_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)" ,VideoArsenal 🎦-️🟢
@@ -620,8 +602,6 @@ http://kinowalk.hopto.org/video_prokat_live
 http://kinowalk.hopto.org/zubrilomfilm_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)" tvg-logo="https://images.live.vkvideo.ru/user/18725544/avatar?change_time=1764060712&croped=1&mh=140&mw=140",КОМЕДИИ 24/7 🎦🧒-🟢
 http://kinowalk.hopto.org/cmexye4ku_live
-#EXTINF:-1 group-title="🎞️Кинозалы (VPN)" tvg-logo="https://images.live.vkplay.ru/user/19154240/avatar?change_time=1720968476&croped=1&mh=140&mw=140",VHS Forever 🎦📺🧒-️🟡
-http://kinowalk.hopto.org/vhs-forever_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)" tvg-logo="https://kino-stream.online/logo/SeleCaoTV.png",SeleCaoTV 🎦📺-️🟢
 http://kinowalk.hopto.org/selecaotv_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)",𝕂𝔸ℂℂ𝔼𝕋𝔸 🎦🧒-️🟢
@@ -630,16 +610,10 @@ http://kinowalk.hopto.org/kasseta_live
 http://kinowalk.hopto.org/toxa_stream_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)" tvg-logo="https://images.live.vkvideo.ru/user/19397267/avatar?change_time=1763534733&croped=1&mh=140&mw=140",Alex.Films 🎦📺-️🟢
 http://kinowalk.hopto.org/alex.films_live
-#EXTINF:-1 group-title="🎞️Кинозалы (VPN)" tvg-logo="https://telik.live/images/4k-hits.png",4K — Кино и сериалы 🎦📺🧒-🟡
-http://kinowalk.hopto.org/4khits_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)", TopMoment LiVE 🎦📺🧒-🟢️
 http://kinowalk.hopto.org/topmomentlive_live
-#EXTINF:-1 group-title="🎞️Кинозалы (VPN)",Коновал ТВ 🎦📺🤣-🔴
-http://kinowalk.hopto.org/www.konoval_tv_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)",Cinema Time FHD 🎦🧒-🟢
 http://kinowalk.hopto.org/cinematime_live
-#EXTINF:-1 group-title="🎞️Кинозалы (VPN)", ZumiBox 🧒🎦-🟡
-http://kinowalk.hopto.org/zumibox_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)", Play 4 Fun 🧒-️🟢
 http://kinowalk.hopto.org/play4fun_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)", Мультфильмы 24/7 🧒-️🟢️
@@ -648,26 +622,16 @@ http://kinowalk.hopto.org/mezontrop_live
 http://kinowalk.hopto.org/foxkids_remastered_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)", Kycman 🧒-🟢
 http://kinowalk.hopto.org/kycman_live
-#EXTINF:-1 group-title="🎞️Кинозалы (VPN)", Wfliq 🧒-️🟡️
-http://kinowalk.hopto.org/wfliq_live
-#EXTINF:-1 group-title="🎞️Кинозалы (VPN)", 3JIou TaTapuH 🎦📺-️🟡
-http://kinowalk.hopto.org/3jiou_tatapuh_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)", Solo ink 🎦📺🧒♣︎-🟢
 http://kinowalk.hopto.org/soloink_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)", Назад в СССР 🎦📺🔎⛹🏿-️🟢
 http://kinowalk.hopto.org/backtotheussr_live
-#EXTINF:-1 group-title="🎞️Кинозалы (VPN)",VHS Power 🎦📺🧒-️🔴
-http://kinowalk.hopto.org/noir_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)", dj Zour 🎦-🟢
 http://kinowalk.hopto.org/zsmedia_live
-#EXTINF:-1 group-title="🎞️Кинозалы (VPN)", Тоха Киноман 🎦🧒-🟡
-http://kinowalk.hopto.org/kinomania_stream_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)", VideoVk 🎦-🟢
 http://kinowalk.hopto.org/videovk_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)", Осторожно Модерн 🤣-️🟢
 http://kinowalk.hopto.org/ostorozhnomodern2_live
-#EXTINF:-1 group-title="🎞️Кинозалы (VPN)", 33 квадратных метра 🤣-🟡
-http://kinowalk.hopto.org/33metra_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)", JTX Online 🧒-🟢
 http://kinowalk.hopto.org/jtxonline_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)",Мультимания 🧒-️🟢
@@ -678,12 +642,9 @@ http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
 http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)", SeleCaoTV1 📺🧒-️🟢
 http://kinowalk.hopto.org/selecaotv1_live
-#EXTINF:-1 group-title="🎞️Кинозалы (VPN)" tvg-logo="https://images.live.vkvideo.ru/user/13253802/avatar?change_time=1768739676&croped=1&mh=140&mw=140",Aisman 📺🧒-🟡
 http://kinowalk.hopto.org/aisman_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)",Baragozz_TV 📺🎶-🟢
 http://kinowalk.hopto.org/baragozz_tv_live
-#EXTINF:-1 group-title="🎞️Кинозалы (VPN)",Игрун 1997 📺-️🟡
-http://kinowalk.hopto.org/igrun1997_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)", lampoTV 📺🎶-️🟢
 http://kinowalk.hopto.org/lampotv_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)" tvg-logo="https://images.live.vkvideo.ru/user/30346500/avatar?change_time=1767118302&croped=1&mh=140&mw=140",SerialTV 📺-️🟢
@@ -702,7 +663,25 @@ http://kinowalk.hopto.org/inmuna_live
 http://kinowalk.hopto.org/serials2025_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)", Сериальный сериальчик 📺🤣-🟢
 http://kinowalk.hopto.org/seriality_live
-http://kinowalk.hopto.org/seriality_live
+#EXTINF:-1 group-title="🎞️Кинозалы (VPN)", Prodigy 🎦-🟡
+http://kinowalk.hopto.org/roman_prodigy_live
+#EXTINF:-1 group-title="🎞️Кинозалы (VPN)" tvg-logo="https://images.live.vkplay.ru/user/19154240/avatar?change_time=1720968476&croped=1&mh=140&mw=140",VHS Forever 🎦📺🧒-️🟡
+http://kinowalk.hopto.org/vhs-forever_live
+#EXTINF:-1 group-title="🎞️Кинозалы (VPN)" tvg-logo="https://telik.live/images/4k-hits.png",4K — Кино и сериалы 🎦📺🧒-🟡
+http://kinowalk.hopto.org/4khits_live
+#EXTINF:-1 group-title="🎞️Кинозалы (VPN)", ZumiBox 🧒🎦-🟡
+http://kinowalk.hopto.org/zumibox_live
+#EXTINF:-1 group-title="🎞️Кинозалы (VPN)", Wfliq 🧒-️🟡️
+http://kinowalk.hopto.org/wfliq_live
+#EXTINF:-1 group-title="🎞️Кинозалы (VPN)", 3JIou TaTapuH 🎦📺-️🟡
+http://kinowalk.hopto.org/3jiou_tatapuh_live
+#EXTINF:-1 group-title="🎞️Кинозалы (VPN)", Тоха Киноман 🎦🧒-🟡
+http://kinowalk.hopto.org/kinomania_stream_live
+#EXTINF:-1 group-title="🎞️Кинозалы (VPN)", 33 квадратных метра 🤣-🟡
+http://kinowalk.hopto.org/33metra_live
+#EXTINF:-1 group-title="🎞️Кинозалы (VPN)" tvg-logo="https://images.live.vkvideo.ru/user/13253802/avatar?change_time=1768739676&croped=1&mh=140&mw=140",Aisman 📺🧒-🟡
+#EXTINF:-1 group-title="🎞️Кинозалы (VPN)",Игрун 1997 📺-️🟡
+http://kinowalk.hopto.org/igrun1997_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)" tvg-logo="https://kino-stream.online/logo/scripach.png",ScripachTV 🎦-🟡
 http://kinowalk.hopto.org/scripachtv_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)" tvg-logo="https://goodgame.ru/files/avatars/av_1643154_P8Jo.jpg",Dimpon TV 🎦📺🧒-️🟡
@@ -733,7 +712,7 @@ http://kinowalk.hopto.org/dfsfsdg_live
 http://kinowalk.hopto.org/romantic_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)" tvg-logo="https://lh3.googleusercontent.com/a/ACg8ocJRCQczrVJsPbG0Q7qgMvphfUBuJiGktsI7wwPXSYxQCcGPBu8=s96-c",EvGAMEN 🎦📺🧒-🟡
 http://kinowalk.hopto.org/evgamen_movies_live
-#EXTINF:-1 group-title="🎞️Кинозалы (VPN)",FilmVibes 🧒-🟡️
+#EXTINF:-1 group-title="🎞️Кинозалы (VPN)",FilmVibes 🧒-🟡
 http://kinowalk.hopto.org/filmvibes_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)",PartizaNka tv 🎦🧒🎶♣︎-️🟡
 http://kinowalk.hopto.org/partizanka_tv_live
@@ -741,8 +720,6 @@ http://kinowalk.hopto.org/partizanka_tv_live
 http://kinowalk.hopto.org/vampiro1965_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)",Музыка и фильмы 🎦🎶-🟡
 http://kinowalk.hopto.org/diktos33_live
-#EXTINF:-1 group-title="🎞️Кинозалы (VPN)", VAG KINO 164 🎦📺🧒-🔴
-http://kinowalk.hopto.org/vagner164_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)",Димитрон фильм 🎦🧒-🟡
 http://kinowalk.hopto.org/dondimitron_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)",КИНО05 🎦-🟡
@@ -761,7 +738,7 @@ http://kinowalk.hopto.org/boh_music_live
 http://kinowalk.hopto.org/kinokunos_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)",SеVаNz 🎦📺-🟡
 http://kinowalk.hopto.org/sevanz_live
-#EXTINF:-1 group-title="🎞️Кинозалы (VPN)" tvg-logo="https://i.postimg.cc/gjR3t6sS/1.jpg", Малдер Всё ТВ 🎦📺🧒-🟡️
+#EXTINF:-1 group-title="🎞️Кинозалы (VPN)" tvg-logo="https://i.postimg.cc/gjR3t6sS/1.jpg", Малдер Всё ТВ 🎦📺🧒-🟡
 http://kinowalk.hopto.org/vsetv_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)" tvg-logo="https://avatars.mds.yandex.net/i?id=d8bb932a618b126fd382904f1cde2371_sr-5429110-images-thumbs&n=13",Maksim Films 🎦-🟡
 http://kinowalk.hopto.org/mmaxim0vich_live
@@ -769,12 +746,8 @@ http://kinowalk.hopto.org/mmaxim0vich_live
 http://kinowalk.hopto.org/yegor_yegorych_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)", AASS 📺-🟡
 http://kinowalk.hopto.org/aaasss_live
-#EXTINF:-1 group-title="🎞️Кинозалы (VPN)",СВЯТОЙ LIVE 📺-️🔴
-http://kinowalk.hopto.org/misha.sdyt_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)",seriavaleria 📺-️🟡
 http://kinowalk.hopto.org/seriavaleria_live
-#EXTINF:-1 group-title="🎞️Кинозалы (VPN)",MrsDOOmKa 📺-️🔴
-http://kinowalk.hopto.org/mrsdoomka_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)",IGROComp Films 📺-🟡
 http://kinowalk.hopto.org/igrocomp_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)", MAX LIVЕ 📺-🟡 
@@ -783,7 +756,7 @@ http://kinowalk.hopto.org/maximum_live
 http://kinowalk.hopto.org/aleksey_24rus_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)", ПикаБУ! 📺🧒-🟡
 http://kinowalk.hopto.org/pipa39_live
-#EXTINF:-1 group-title="🎞️Кинозалы (VPN)",_PhoENIX 🧒-🟡️️
+#EXTINF:-1 group-title="🎞️Кинозалы (VPN)",_PhoENIX 🧒-🟡️
 http://kinowalk.hopto.org/phoenix3345_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)" tvg-logo="https://images.live.vkvideo.ru/user/20745126/avatar?change_time=1746520742&croped=1&mh=140&mw=140",Эквилибриум 📺🔎-🟡
 http://kinowalk.hopto.org/equilibrium_live
@@ -799,19 +772,30 @@ http://kinowalk.hopto.org/krotfa_live
 http://kinowalk.hopto.org/reanimator_vhs_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)", DeVchatA 🎦🔎♣︎-🟡
 http://kinowalk.hopto.org/devchata_live
-#EXTINF:-1 group-title="🎞️Кинозалы (VPN)",Первый ряд 🎦-🚫
-http://kinowalk.hopto.org/perviryad_live%20
-#EXTINF:-1 group-title="🎞️Кинозалы (VPN)",BOSSFILM 🎦📺🔎-️🚫
-#EXTINF:-1 group-title="🎞️Кинозалы (VPN)" tvg-logo="https://images.live.vkvideo.ru/user/19857529/avatar?change_time=1735363832&croped=1&mh=140&mw=140",BOSSFILM 🎦📺🔎-️🚫
-http://kinowalk.hopto.org/bossfilm_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)", Astrix116 📺-🟡
 http://kinowalk.hopto.org/astrix116_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)" tvg-logo="https://lastfm.freetls.fastly.net/i/u/300x300/e6ac114abd700e4d57b230a703187a26.jpg",KINOPRO 🎦🧒-🟡
 http://kinowalk.hopto.org/kinopro_live
-#EXTINF:-1 group-title="🎞️Кинозалы (VPN)", Мультфильмы детства 🧒-🔴
-http://kinowalk.hopto.org/childhood_cartoons_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)", Argo_13 📺♣︎-🟡
 http://kinowalk.hopto.org/argo_13_live
+#EXTINF:-1 group-title="🎞️Кинозалы (VPN)", КИНОУЖАС HD 🎦-🟡
+http://kinowalk.hopto.org/kinouzhas_live
+#EXTINF:-1 group-title="🎞️Кинозалы (VPN)",Первый ряд 🎦-🚫
+http://kinowalk.hopto.org/perviryad_live%20
+#EXTINF:-1 group-title="🎞️Кинозалы (VPN)" tvg-logo="https://images.live.vkvideo.ru/user/19857529/avatar?change_time=1735363832&croped=1&mh=140&mw=140",BOSSFILM 🎦📺🔎-️🚫
+http://kinowalk.hopto.org/bossfilm_live
+#EXTINF:-1 group-title="🎞️Кинозалы (VPN)",Коновал ТВ 🎦📺🤣-🔴
+http://kinowalk.hopto.org/www.konoval_tv_live
+#EXTINF:-1 group-title="🎞️Кинозалы (VPN)",VHS Power 🎦📺🧒-️🔴
+http://kinowalk.hopto.org/noir_live
+#EXTINF:-1 group-title="🎞️Кинозалы (VPN)", VAG KINO 164 🎦📺🧒-🔴
+http://kinowalk.hopto.org/vagner164_live
+#EXTINF:-1 group-title="🎞️Кинозалы (VPN)",СВЯТОЙ LIVE 📺-️🔴
+http://kinowalk.hopto.org/misha.sdyt_live
+#EXTINF:-1 group-title="🎞️Кинозалы (VPN)",MrsDOOmKa 📺-️🔴
+http://kinowalk.hopto.org/mrsdoomka_live
+#EXTINF:-1 group-title="🎞️Кинозалы (VPN)", Мультфильмы детства 🧒-🔴
+http://kinowalk.hopto.org/childhood_cartoons_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)" tvg-logo="https://images.live.vkvideo.ru/user/19829671/avatar?change_time=1734328186&croped=1&mh=140&mw=140",wihail 🎦-⚪
 http://kinowalk.hopto.org/wihail_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)" tvg-logo="https://images.live.vkvideo.ru/user/25125777/avatar?change_time=1768089850&croped=1&mh=140&mw=140",R serials  📺-⚪
@@ -834,9 +818,13 @@ http://kinowalk.hopto.org/kinostreamlive_live
 http://kinowalk.hopto.org/nata.natty_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)",deamonnit093 -⚪
 http://kinowalk.hopto.org/deamonnit093_live
-#EXTINF:-1 group-title="🎞️Кинозалы (VPN)", КИНОУЖАС HD 🎦-🟡
-http://kinowalk.hopto.org/kinouzhas_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)", Disney XD 🧒-⚪
 http://kinowalk.hopto.org/disneyxd_live
 
 
+#EXTINF:-1,DTR ZONA 1🔴
+#EXTGRP:🔴 Трансляция отсутствует
+https://kino-stream.online/hls/DTRZONA1.m3u8
+#EXTINF:-1,DTR ZONA 2🔴
+#EXTGRP:🔴 Трансляция отсутствует
+https://kino-stream.online/hls/DTRZONA2.m3u8
