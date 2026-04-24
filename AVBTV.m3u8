@@ -60,7 +60,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1,ТНТ
 #EXTGRP:🇷🇺Федеральные
 http://stream-tv.ew21.ru/019/video.m3u8?hash=TN66TE4YB
-#EXTINF:-1,Муз ТВ
+#EXTINF:-1,Муз ТВ🔴[No signal]
 #EXTGRP:🇷🇺Федеральные
 https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
 #EXTINF:-1,360 Новости
@@ -138,21 +138,12 @@ http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 #EXTINF:-1,World Fashion
 #EXTGRP:🔎‍Познавательные
 http://cdn.wfc.tv/cdn/stream-rus-720p.m3u8
-#EXTINF:-1,Большая Азия
-#EXTGRP:🔎‍Познавательные
-http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Большая Азия
-#EXTGRP:🔎‍Познавательные
-https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Вместе РФ
 #EXTGRP:🔎‍Познавательные
 http://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 #EXTINF:-1,Загородный
 #EXTGRP:🔎‍Познавательные
 https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=e3gd8zlogu4ybvafQost4g&e=2070450932&scheme=https
-#EXTINF:-1,Загородный Int.
-#EXTGRP:🔎‍Познавательные
-https://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
 #EXTINF:-1,Звезда Плюс
 #EXTGRP:🔎‍Познавательные
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
@@ -213,12 +204,6 @@ http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1,Толк ТВ
 #EXTGRP:🔎‍Познавательные
 https://live-tolknews.cdnvideo.ru/tolknews/stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="🔎‍Познавательные",Viasat Explore HD
-http://188.225.31.197/bpk-tv/000004157/tve/index.m3u8
-#EXTINF:-1  group-title="🔎‍Познавательные",Viasat Nature HD
-http://188.225.31.197/bpk-tv/000006482/tve/index.m3u8
-#EXTINF:-1  group-title="🔎‍Познавательные",Viasat History HD
-http://188.225.31.197/bpk-tv/000005528/tve/index.m3u8
 #EXTINF:-1,2x2
 #EXTGRP:🤣Развлекательные
 https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=hwyoufQp4n4DEevoTh79AQ&e=2068506934&scheme=https
@@ -264,13 +249,13 @@ http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Сарафан
 #EXTGRP:🤣Развлекательные
 https://stream8.cinerama.uz/1249/tracks-v1a1/mono.m3u8
-#EXTINF:-1,САРАФАН
+#EXTINF:-1,САРАФАН🔴[No signal]
 #EXTGRP:🤣Развлекательные
 http://31.210.208.171:8080/sarafan/index.m3u8?token=+W2MSER
-#EXTINF:-1,Ю
+#EXTINF:-1,Ю🔴[No signal]
 #EXTGRP:🤣Развлекательные
 http://31.210.208.171:8080/u/index.m3u8?token=+W2MSER
-#EXTINF:-1 ,КВН ТВ
+#EXTINF:-1 ,КВН ТВ🔴[No signal]
 #EXTGRP:🤣Развлекательные
 http://31.210.208.171:8080/kvn_tv/index.m3u8?token=+W2MSER
 #EXTINF:-1,КВН ТВ
@@ -313,8 +298,6 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1,Сан Франциско
 #EXTGRP:🎶Музыкальные
 http://204.199.3.2/.m3u8
-#EXTINF:-1  group-title="🎶Музыкальные",NM Television
-https://tv.a21network.ru/content/40650/index.m3u8
 #EXTINF:-1  group-title="🎶Музыкальные",MIXM TV
 http://89.179.247.144/hls/mixm.m3u8
 #EXTINF:-1  group-title="🎶Музыкальные",ТНТ Music
@@ -447,9 +430,6 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/19408/ind
 #EXTINF:-1,MYTV 3
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/19411/index.m3u8
-#EXTINF:-1,RANDOM BEST FILMS
-#EXTGRP:🎦📺Фильмы 🔹 Сериалы
-https://tinyurl.com/aleks-u-romki-40/11043/index.m3u8
 #EXTINF:-1,VIASAT Kino Comedy
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 http://ukr2.ukrainske.tv/493/video.m3u8
@@ -646,16 +626,12 @@ http://kinowalk.hopto.org/lampotv_live
 http://kinowalk.hopto.org/serialtv_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)" tvg-logo="https://images.live.vkvideo.ru/user/20555010/avatar?change_time=1742524384&croped=1&mh=140&mw=140",serial4u 📺-🟢[24/7]
 http://kinowalk.hopto.org/serial4u_live
-#EXTINF:-1 group-title="🎞️Кинозалы (VPN)", Video Serial 📺-🟢[24/7]
-http://kinowalk.hopto.org/videoserial_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)", У КРАЯ БЕЗДНЫ 📺🔎⛹🏿-🟢[24/7]
 http://kinowalk.hopto.org/ddator_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)",Первый ряд 🎦-🟢[24/7 Televizo]
 http://kinowalk.hopto.org/perviryad_live%20
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)", ZumiBox 🧒🎦-🔵[Not 24/7]
 http://kinowalk.hopto.org/zumibox_live
-#EXTINF:-1 group-title="🎞️Кинозалы (VPN)", InMuNa Live 📺-🔵[Not 24/7]
-http://kinowalk.hopto.org/inmuna_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)" tvg-logo="https://images.live.vkplay.ru/user/19154240/avatar?change_time=1720968476&croped=1&mh=140&mw=140",VHS Forever 🎦📺🧒-️🔵[Not 24/7]
 http://kinowalk.hopto.org/vhs-forever_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)", Wfliq 🧒-️🔵[Not 24/7]️
@@ -809,7 +785,11 @@ http://kinowalk.hopto.org/nata.natty_live
 http://kinowalk.hopto.org/deamonnit093_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)", Disney XD 🧒-⚪[Dormant]
 http://kinowalk.hopto.org/disneyxd_live
-#EXTINF:-1 group-title="🎞️Кинозалы (VPN)",_PhoENIX 🧒-🔴[No signal ]
+#EXTINF:-1 group-title="🎞️Кинозалы (VPN)", Video Serial 📺-🔴[No signal]
+http://kinowalk.hopto.org/videoserial_live
+#EXTINF:-1 group-title="🎞️Кинозалы (VPN)", InMuNa Live 📺-🔴[No signal]
+http://kinowalk.hopto.org/inmuna_live
+#EXTINF:-1 group-title="🎞️Кинозалы (VPN)",_PhoENIX 🧒-🔴[No signal]
 http://kinowalk.hopto.org/phoenix3345_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)" tvg-logo="https://i.postimg.cc/gjR3t6sS/1.jpg", Малдер Всё ТВ 🎦📺🧒-🔴[No signal]
 http://kinowalk.hopto.org/vsetv_live
@@ -823,8 +803,8 @@ http://kinowalk.hopto.org/mrsdoomka_live
 http://kinowalk.hopto.org/childhood_cartoons_live
 
 #EXTINF:-1,DTR ZONA 1🔴[No signal]
-#EXTGRP:🔴[No signal ]
+#EXTGRP:🔴[No signal]
 https://kino-stream.online/hls/DTRZONA1.m3u8
 #EXTINF:-1,DTR ZONA 2🔴[No signal]
-#EXTGRP:🔴[No signal ]
+#EXTGRP:🔴[No signal]
 https://kino-stream.online/hls/DTRZONA2.m3u8
