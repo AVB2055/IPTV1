@@ -60,9 +60,9 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1,ТНТ
 #EXTGRP:🇷🇺Федеральные
 http://stream-tv.ew21.ru/019/video.m3u8?hash=TN66TE4YB
-#EXTINF:-1,Муз ТВ🔴[No signal]
+#EXTINF:-1,Муз ТВ
 #EXTGRP:🇷🇺Федеральные
-https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
+http://185.46.16.239:8000/Muz_TV
 #EXTINF:-1,360 Новости
 #EXTGRP:👁‍Новостные
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v5a1/mono.m3u8
