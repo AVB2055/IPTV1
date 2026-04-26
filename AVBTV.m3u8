@@ -62,7 +62,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 http://stream-tv.ew21.ru/019/video.m3u8?hash=TN66TE4YB
 #EXTINF:-1,Муз ТВ
 #EXTGRP:🇷🇺Федеральные
-http://185.46.16.239:8000/Muz_TV
+http://46.32.176.50/muztv/index.m3u8
 #EXTINF:-1,360 Новости
 #EXTGRP:👁‍Новостные
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v5a1/mono.m3u8
@@ -249,15 +249,6 @@ http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Сарафан
 #EXTGRP:🤣Развлекательные
 https://stream8.cinerama.uz/1249/tracks-v1a1/mono.m3u8
-#EXTINF:-1,САРАФАН🔴[No signal]
-#EXTGRP:🤣Развлекательные
-http://31.210.208.171:8080/sarafan/index.m3u8?token=+W2MSER
-#EXTINF:-1,Ю🔴[No signal]
-#EXTGRP:🤣Развлекательные
-http://31.210.208.171:8080/u/index.m3u8?token=+W2MSER
-#EXTINF:-1 ,КВН ТВ🔴[No signal]
-#EXTGRP:🤣Развлекательные
-http://31.210.208.171:8080/kvn_tv/index.m3u8?token=+W2MSER
 #EXTINF:-1,КВН ТВ
 #EXTGRP:🤣Развлекательные
 https://a3569457567-s70378.cdn.ngenix.net/kvn_tv/1/index.m3u8
