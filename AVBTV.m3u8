@@ -210,18 +210,12 @@ https://live-tolknews.cdnvideo.ru/tolknews/stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1,2x2
 #EXTGRP:🤣Развлекательные
 https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=hwyoufQp4n4DEevoTh79AQ&e=2068506934&scheme=https
-#EXTINF:-1,Alpha Funny
-#EXTGRP:🤣Развлекательные
-http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
 #EXTINF:-1,Mr.Bean Cartoon
 #EXTGRP:🤣Развлекательные
 https://bl.rutube.ru/livestream/0e9e44725d5d5ab7ee92c10b40215419/index.m3u8?s=PKlr1KsTF2d2tE-J0_gjZw&e=2067815808&scheme=https
 #EXTINF:-1,TV1 KG (Кыргызстан)
 #EXTGRP:🤣Развлекательные
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
-#EXTINF:-1,Новое Телевидение
-#EXTGRP:🤣Развлекательные
-http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
 #EXTINF:-1,НТВ Своя Игра
 #EXTGRP:🤣Развлекательные
 https://cdn-dvr.ntv.ru/svoya_igra/tracks-v1a1/rewind-240.ts.m3u8
@@ -312,12 +306,6 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1,A21 Network
 #EXTGRP:⛹🏿Спортивные
 http://tv.a21network.ru/stream/37909/index.m3u8
-#EXTINF:-1,Eurosport 1
-#EXTGRP:⛹🏿Спортивные
-http://176.96.241.40/Eurosport1/index.m3u8
-#EXTINF:-1,NHL (Интересные моменты)
-#EXTGRP:⛹🏿Спортивные
-https://nhl-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1,Red Bull
 #EXTGRP:⛹🏿Спортивные
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
@@ -388,18 +376,9 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1,80s
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13002/index.m3u8
-#EXTINF:-1,Alpha Cinema
-#EXTGRP:🎦📺Фильмы 🔹 Сериалы
-http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 #EXTINF:-1,ATV CineMan
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 http://185.57.68.33:80/255/index.m3u8
-#EXTINF:-1,alpha MoreTime
-#EXTGRP:🎦📺Фильмы 🔹 Сериалы
-https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd_output_0.m3u8?session=4AoZN7Rxw59jYpjVBmY4th
-#EXTINF:-1,Alpha Moretime
-#EXTGRP:🎦📺Фильмы 🔹 Сериалы
-http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:-1,BEST
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/20165/index.m3u8
@@ -588,8 +567,6 @@ http://kinowalk.hopto.org/topmomentlive_live
 http://kinowalk.hopto.org/cinematime_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)", Play 4 Fun 🧒-️🟢[24/7]
 http://kinowalk.hopto.org/play4fun_live
-#EXTINF:-1 group-title="🎞️Кинозалы (VPN)", Мультфильмы 24/7 🧒-️🟢[24/7]️
-http://kinowalk.hopto.org/mezontrop_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)",FoxKids-Remastered 🧒-🟢[24/7]
 http://kinowalk.hopto.org/foxkids_remastered_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)", Kycman 🧒-🟢[24/7]
@@ -624,6 +601,8 @@ http://kinowalk.hopto.org/serial4u_live
 http://kinowalk.hopto.org/ddator_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)",Первый ряд 🎦-🟢[24/7 Televizo]
 http://kinowalk.hopto.org/perviryad_live%20
+#EXTINF:-1 group-title="🎞️Кинозалы (VPN)", Мультфильмы 24/7 🧒-️🔵[Not 24/7]️
+http://kinowalk.hopto.org/mezontrop_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)", ZumiBox 🧒🎦-🔵[Not 24/7]
 http://kinowalk.hopto.org/zumibox_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)" tvg-logo="https://images.live.vkplay.ru/user/19154240/avatar?change_time=1720968476&croped=1&mh=140&mw=140",VHS Forever 🎦📺🧒-️🔵[Not 24/7]
@@ -755,6 +734,8 @@ http://kinowalk.hopto.org/argo_13_live
 http://kinowalk.hopto.org/noir_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)",Serial Productions📺-🟡[Not Daily]
 http://kinowalk.hopto.org/swat2k_live
+#EXTINF:-1 group-title="🎞️Кинозалы (VPN)", InMuNa Live 📺-🟡[Not Daily]
+http://kinowalk.hopto.org/inmuna_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)" tvg-logo="https://images.live.vkvideo.ru/user/19829671/avatar?change_time=1734328186&croped=1&mh=140&mw=140",wihail 🎦-⚪[Dormant]
 http://kinowalk.hopto.org/wihail_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)" tvg-logo="https://images.live.vkvideo.ru/user/25125777/avatar?change_time=1768089850&croped=1&mh=140&mw=140",R serials  📺-⚪[Dormant]
@@ -781,8 +762,6 @@ http://kinowalk.hopto.org/deamonnit093_live
 http://kinowalk.hopto.org/disneyxd_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)", Video Serial 📺-🔴[No signal]
 http://kinowalk.hopto.org/videoserial_live
-#EXTINF:-1 group-title="🎞️Кинозалы (VPN)", InMuNa Live 📺-🔴[No signal]
-http://kinowalk.hopto.org/inmuna_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)",_PhoENIX 🧒-🔴[No signal]
 http://kinowalk.hopto.org/phoenix3345_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)" tvg-logo="https://i.postimg.cc/gjR3t6sS/1.jpg", Малдер Всё ТВ 🎦📺🧒-🔴[No signal]
@@ -796,9 +775,30 @@ http://kinowalk.hopto.org/mrsdoomka_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)", Мультфильмы детства 🧒-🔴[No signal]
 http://kinowalk.hopto.org/childhood_cartoons_live
 
-#EXTINF:-1,DTR ZONA 1🔴[No signal]
-#EXTGRP:🔴[No signal]
+#EXTINF:-1,DTR ZONA 1
+#EXTGRP:⚪[TEST]
 https://kino-stream.online/hls/DTRZONA1.m3u8
-#EXTINF:-1,DTR ZONA 2🔴[No signal]
-#EXTGRP:🔴[No signal]
+#EXTINF:-1,DTR ZONA 2
+#EXTGRP:⚪[TEST]
 https://kino-stream.online/hls/DTRZONA2.m3u8
+#EXTINF:-1,Новое Телевидение
+#EXTGRP:⚪[TEST]
+http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+#EXTINF:-1,Alpha Funny
+#EXTGRP:⚪[TEST]
+http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
+#EXTINF:-1,Alpha Cinema
+#EXTGRP:⚪[TEST]
+http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
+#EXTINF:-1,alpha MoreTime
+#EXTGRP:⚪[TEST]
+https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd_output_0.m3u8?session=4AoZN7Rxw59jYpjVBmY4th
+#EXTINF:-1,alpha MoreTime
+#EXTGRP:⚪[TEST]
+http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
+#EXTINF:-1,Eurosport 1
+#EXTGRP:⚪[TEST]
+http://176.96.241.40/Eurosport1/index.m3u8
+#EXTINF:-1,NHL (Интересные моменты)
+#EXTGRP:⚪[TEST]
+https://nhl-firetv.amagi.tv/playlist.m3u8
