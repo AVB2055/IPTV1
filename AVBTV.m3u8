@@ -331,6 +331,12 @@ https://a787201481-s80718.cdn.ngenix.net/hls/CH_UDARHD/video_1920x1080_avc1/play
 #EXTINF:-1 ,Беларусь 5
 #EXTGRP:⛹🏿Спортивные
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1,Eurosport 1 (VPN)
+#EXTGRP:⛹🏿Спортивные
+http://176.96.241.40/Eurosport1/index.m3u8
+#EXTINF:-1,NHL (Интересные моменты) (VPN)
+#EXTGRP:⛹🏿Спортивные
+https://nhl-firetv.amagi.tv/playlist.m3u8
 
 #EXTINF:-1,Mr.Bean Cartoon
 #EXTGRP:🧒Детские
@@ -788,9 +794,3 @@ https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd_output_0.m3u
 #EXTINF:-1,alpha MoreTime
 #EXTGRP:🟣[TEST]
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
-#EXTINF:-1,Eurosport 1
-#EXTGRP:🟣[TEST]
-http://176.96.241.40/Eurosport1/index.m3u8
-#EXTINF:-1,NHL (Интересные моменты)
-#EXTGRP:🟣[TEST]
-https://nhl-firetv.amagi.tv/playlist.m3u8
