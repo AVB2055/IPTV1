@@ -377,6 +377,9 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1,80s
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13002/index.m3u8
+#EXTINF:-1,alpha MoreTime
+#EXTGRP:🎦📺Фильмы 🔹 Сериалы
+http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:-1,ATV CineMan
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 http://185.57.68.33:80/255/index.m3u8
@@ -404,6 +407,9 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/19408/ind
 #EXTINF:-1,MYTV 3
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/19411/index.m3u8
+#EXTINF:-1,NSC+
+#EXTGRP:🎦📺Фильмы 🔹 Сериалы
+http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 #EXTINF:-1,VIASAT Kino Comedy
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 http://ukr2.ukrainske.tv/493/video.m3u8
@@ -776,21 +782,4 @@ http://kinowalk.hopto.org/mrsdoomka_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)", Мультфильмы детства 🧒-🔴[No signal]
 http://kinowalk.hopto.org/childhood_cartoons_live
 
-#EXTINF:-1,DTR ZONA 1
-#EXTGRP:🟣[TEST]
-https://kino-stream.online/hls/DTRZONA1.m3u8
-#EXTINF:-1,DTR ZONA 2
-#EXTGRP:🟣[TEST]
-https://kino-stream.online/hls/DTRZONA2.m3u8
-#EXTINF:-1,Alpha Funny
-#EXTGRP:🟣[TEST]
-http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
-#EXTINF:-1,Alpha Cinema
-#EXTGRP:🟣[TEST]
-http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
-#EXTINF:-1,alpha MoreTime
-#EXTGRP:🟣[TEST]
-https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd_output_0.m3u8?session=4AoZN7Rxw59jYpjVBmY4th
-#EXTINF:-1,alpha MoreTime
-#EXTGRP:🟣[TEST]
-http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
+
