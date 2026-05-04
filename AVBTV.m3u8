@@ -331,7 +331,7 @@ https://a787201481-s80718.cdn.ngenix.net/hls/CH_UDARHD/video_1920x1080_avc1/play
 #EXTINF:-1 ,Беларусь 5
 #EXTGRP:⛹🏿Спортивные
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1,Eurosport 1 (VPN)
+#EXTINF:-1,Eurosport 1
 #EXTGRP:⛹🏿Спортивные
 http://176.96.241.40/Eurosport1/index.m3u8
 #EXTINF:-1,NHL (Интересные моменты) (VPN)
