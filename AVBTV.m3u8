@@ -114,9 +114,6 @@ https://rferl-ingest.akamaized.net/hls/live/2121657/tvmc05/playlist_1080.m3u8
 #EXTINF:-1,Дождь ТВ [СМИ иногент]
 #EXTGRP:👁‍Новостные
 http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/20083/index.m3u8
-#EXTINF:-1,CBC
-#EXTGRP:👁‍Новостные
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/cbc.m3u8
 #EXTINF:-1,Соловьев.Live
 #EXTGRP:👁‍Новостные
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
