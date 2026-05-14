@@ -660,8 +660,6 @@ http://kinowalk.hopto.org/videovk_live
 
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)" tvg-logo="https://images.live.vkvideo.ru/user/19940394/avatar?change_time=1734982742&croped=1&mh=140&mw=140",Фильмы сериалы 🎦📺-🟡[Not Daily]
 http://kinowalk.hopto.org/dfsfsdg_live
-#EXTINF:-1 group-title="🎞️Кинозалы (VPN)" tvg-logo="https://lh3.googleusercontent.com/a/ACg8ocJRCQczrVJsPbG0Q7qgMvphfUBuJiGktsI7wwPXSYxQCcGPBu8=s96-c",EvGAMEN 🎦📺🧒-🟡[Not Daily]
-http://kinowalk.hopto.org/evgamen_movies_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)",SеVаNz 🎦📺-🟡[Not Daily]
 http://kinowalk.hopto.org/sevanz_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)", Егор Егорыч 📺-🟡[Not Daily]
@@ -717,6 +715,8 @@ http://kinowalk.hopto.org/argo_13_live
 http://kinowalk.hopto.org/noir_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)", InMuNa Live 📺-🟡[Not Daily]
 http://kinowalk.hopto.org/inmuna_live
+#EXTINF:-1 group-title="🎞️Кинозалы (VPN)",KINO-TV 🎦🎶♣︎-🧒[No signal]
+http://kinowalk.hopto.org/strannik1177_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)" tvg-logo="https://images.live.vkvideo.ru/user/19829671/avatar?change_time=1734328186&croped=1&mh=140&mw=140",wihail 🎦-⚪[Didn't work]
 http://kinowalk.hopto.org/wihail_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)" tvg-logo="https://images.live.vkvideo.ru/user/25125777/avatar?change_time=1768089850&croped=1&mh=140&mw=140",R serials  📺-⚪[Didn't work]
@@ -741,12 +741,12 @@ http://kinowalk.hopto.org/nata.natty_live
 http://kinowalk.hopto.org/deamonnit093_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)", Disney XD 🧒-⚪[Didn't work]
 http://kinowalk.hopto.org/disneyxd_live
+#EXTINF:-1 group-title="🎞️Кинозалы (VPN)" tvg-logo="https://lh3.googleusercontent.com/a/ACg8ocJRCQczrVJsPbG0Q7qgMvphfUBuJiGktsI7wwPXSYxQCcGPBu8=s96-c",EvGAMEN 🎦📺🧒-🔴[Not Daily]
+http://kinowalk.hopto.org/evgamen_movies_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)" tvg-logo="https://images.live.vkvideo.ru/user/19957061/avatar?change_time=1745459243&croped=1&mh=140&mw=140",Фильмомания 🎦📺-️🔴[No signal]
 http://kinowalk.hopto.org/filmomania_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)" tvg-logo="https://telik.live/images/4k-hits.png",4K — Кино и сериалы 🎦📺🧒-🔴[No signal]
 http://kinowalk.hopto.org/4khits_live
-#EXTINF:-1 group-title="🎞️Кинозалы (VPN)",KINO-TV 🎦🎶♣︎-🔴[No signal]
-http://kinowalk.hopto.org/strannik1177_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)", Video Serial 📺-🔴[No signal]
 http://kinowalk.hopto.org/videoserial_live
 #EXTINF:-1 group-title="🎞️Кинозалы (VPN)",_PhoENIX 🧒-🔴[No signal]
