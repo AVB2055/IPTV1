@@ -96,16 +96,31 @@ https://video.govoritmoskva.ru/rufm/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ТАСС
 #EXTGRP:👁‍Новостные
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
-#EXTINF:-1,RTVi
+#EXTINF:-1,Соловьев.Live
+#EXTGRP:👁‍Новостные
+https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
+#EXTINF:-1,Царьград
+#EXTGRP:👁‍Новостные
+https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=UQvVhXcvnPn0tDMqg2zDYg&e=2068506958&scheme=https
+#EXTINF:-1,За!ТВ FD
+#EXTGRP:👁‍Новостные
+https://streaming.televizor-24-tochka.ru/live/25-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1,Москва 24
+#EXTGRP:👁‍Новостные
+https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
+#EXTINF:-1,RTVi [СМИ иноагент]
 #EXTGRP:👁‍Новостные
 https://a3569457567-s70378.cdn.ngenix.net/rtvi/1/index.m3u8
-#EXTINF:-1,EuroNews
+#EXTINF:-1,RTVi [СМИ иноагент]
+#EXTGRP:👁‍Новостные
+http://178.134.1.158:8081/rtvi/index.m3u8
+#EXTINF:-1,EuroNews [СМИ иноагент]
 #EXTGRP:👁‍Новостные
 https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8
-#EXTINF:-1,DW Russia
+#EXTINF:-1,DW Russia [СМИ иноагент]
 #EXTGRP:👁‍Новостные
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
-#EXTINF:-1,DW
+#EXTINF:-1,DW [СМИ иноагент]
 #EXTGRP:👁‍Новостные
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
 #EXTINF:-1,Настоящее время [СМИ иноагент]
@@ -123,15 +138,36 @@ http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1664142&e
 #EXTINF:-1,FreeДомᴴᴰ [СМИ иногент]
 #EXTGRP:👁‍Новостные
 http://s06.wsbof.com:8090/s/9b6f8047/freedom-ua-hd.m3u8
-#EXTINF:-1,Соловьев.Live
+#EXTINF:-1,RTN FD [СМИ иногент]
 #EXTGRP:👁‍Новостные
-https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
-#EXTINF:-1,Царьград
+http://radioserver.abinet.com:8815/udp/127.0.0.1:6002
+#EXTINF:-1,RTN FD [СМИ иногент]
 #EXTGRP:👁‍Новостные
-https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=UQvVhXcvnPn0tDMqg2zDYg&e=2068506958&scheme=https
-#EXTINF:-1,Москва 24
+http://4.59.210.197:8815/udp/127.0.0.1:6002
+#EXTINF:-1,Russia's Future [СМИ иногент]
 #EXTGRP:👁‍Новостные
-https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
+http://81.166.129.185:8001/1:0:16:68:2fa8:13e:820000:0:0:0:
+#EXTINF:-1,Russia's Future [СМИ иногент]
+#EXTGRP:👁‍Новостные
+http://91.228.35.249:8001/1:0:16:68:2fa8:13e:820000:0:0:0:
+#EXTINF:-1,Svoboda [СМИ иногент]
+#EXTGRP:👁‍Новостные
+http://81.166.129.185:8001/1:0:16:65:2fa8:13e:820000:0:0:0:
+#EXTINF:-1,Svoboda [СМИ иногент]
+#EXTGRP:👁‍Новостные
+http://91.228.35.249:8001/1:0:16:65:2fa8:13e:820000:0:0:0:
+#EXTINF:-1,Svoboda News [СМИ иногент]
+#EXTGRP:👁‍Новостные
+http://81.166.129.185:8001/1:0:16:66:2fa8:13e:820000:0:0:0:
+#EXTINF:-1,Svoboda News [СМИ иногент]
+#EXTGRP:👁‍Новостные
+http://91.228.35.249:8001/1:0:16:66:2fa8:13e:820000:0:0:0:
+#EXTINF:-1,Svoboda+ [СМИ иногент]
+#EXTGRP:👁‍Новостные
+http://81.166.129.185:8001/1:0:16:69:2fa8:13e:820000:0:0:0:
+#EXTINF:-1,Svoboda+ [СМИ иногент]
+#EXTGRP:👁‍Новостные
+http://91.228.35.249:8001/1:0:16:69:2fa8:13e:820000:0:0:0:
 #EXTINF:-1,360
 #EXTGRP:🔎‍Познавательные
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
