@@ -112,17 +112,12 @@ https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce
 #EXTGRP:👁‍Новостные
 https://a3569457567-s70378.cdn.ngenix.net/rtvi/1/index.m3u8
 #EXTINF:-1,RTVi [СМИ иноагент]
-#EXTGRP:👁‍Новостные
-http://178.134.1.158:8081/rtvi/index.m3u8
 #EXTINF:-1,EuroNews [СМИ иноагент]
 #EXTGRP:👁‍Новостные
 https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8
 #EXTINF:-1,DW Russia [СМИ иноагент]
 #EXTGRP:👁‍Новостные
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
-#EXTINF:-1,DW [СМИ иноагент]
-#EXTGRP:👁‍Новостные
-https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
 #EXTINF:-1,Настоящее время [СМИ иноагент]
 #EXTGRP:👁‍Новостные
 https://dash3.antik.sk/live/test_current_time_atktv/playlist.m3u8
