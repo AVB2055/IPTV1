@@ -120,18 +120,6 @@ https://dash2.antik.sk/live/test_uatv/playlist.m3u8
 #EXTINF:-1,RTN FD [СМИ иногент]
 #EXTGRP:👁‍Новостные
 http://4.59.210.197:8815/udp/127.0.0.1:6002
-#EXTINF:-1,Russia's Future [СМИ иногент]
-#EXTGRP:👁‍Новостные
-http://81.166.129.185:8001/1:0:16:68:2fa8:13e:820000:0:0:0:
-#EXTINF:-1,Svoboda [СМИ иногент]
-#EXTGRP:👁‍Новостные
-http://81.166.129.185:8001/1:0:16:65:2fa8:13e:820000:0:0:0:
-#EXTINF:-1,Svoboda News [СМИ иногент]
-#EXTGRP:👁‍Новостные
-http://81.166.129.185:8001/1:0:16:66:2fa8:13e:820000:0:0:0:
-#EXTINF:-1,Svoboda+ [СМИ иногент]
-#EXTGRP:👁‍Новостные
-http://81.166.129.185:8001/1:0:16:69:2fa8:13e:820000:0:0:0:
 
 #EXTINF:-1,360
 #EXTGRP:🔎‍Познавательные
@@ -269,8 +257,6 @@ https://live20.bozztv.com/giatvplayout7/ushba-mafia/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Сан Франциско
 #EXTGRP:🎶Музыкальные
 http://204.199.3.2/.m3u8
-#EXTINF:-1  group-title="🎶Музыкальные",MIXM TV
-http://89.179.247.144/hls/mixm.m3u8
 #EXTINF:-1  group-title="🎶Музыкальные",ТНТ Music
 https://tntm.mediacdn.ru/cdn/tntmusic/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  group-title="🎶Музыкальные",Afrobeats TV
@@ -768,9 +754,6 @@ https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=yL
 #EXTINF:-1,Старт Триумф
 #EXTGRP:🛠Reserve
 https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd/33_85479982/1080p/4eaec8986e2012fb936478856fbf3b4b/4818731006.m3u8?live=15&ref=https://tvstart.ru/ru/pages/start-triumph/
-#EXTINF:-1 ,Eurosport 1ᴴᴰ
-#EXTGRP:🛠Reserve
-http://77.245.98.18:8000/play/a00h
 #EXTINF:-1 ,Eurosport 1ᴴᴰ
 #EXTGRP:🛠Reserve
 http://178.134.1.158:8081/eurosport/index.m3u8
