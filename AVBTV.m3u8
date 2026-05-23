@@ -120,6 +120,18 @@ https://dash2.antik.sk/live/test_uatv/playlist.m3u8
 #EXTINF:-1,RTN FD [СМИ иногент]
 #EXTGRP:👁‍Новостные
 http://4.59.210.197:8815/udp/127.0.0.1:6002
+#EXTINF:-1,Russia's Future [СМИ иногент]
+#EXTGRP:👁‍Новостные
+http://91.228.35.249:8001/1:0:16:68:2fa8:13e:820000:0:0:0:
+#EXTINF:-1,Svoboda [СМИ иногент]
+#EXTGRP:👁‍Новостные
+http://91.228.35.249:8001/1:0:16:65:2fa8:13e:820000:0:0:0:
+#EXTINF:-1,Svoboda News [СМИ иногент]
+#EXTGRP:👁‍Новостные
+http://91.228.35.249:8001/1:0:16:66:2fa8:13e:820000:0:0:0:
+#EXTINF:-1,Svoboda+ [СМИ иногент]
+#EXTGRP:👁‍Новостные
+http://91.228.35.249:8001/1:0:16:69:2fa8:13e:820000:0:0:0:
 
 #EXTINF:-1,360
 #EXTGRP:🔎‍Познавательные
@@ -724,18 +736,6 @@ http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8
 #EXTINF:-1,RTN FD [СМИ иногент]
 #EXTGRP:🛠Reserve
 http://radioserver.abinet.com:8815/udp/127.0.0.1:6002
-#EXTINF:-1,Russia's Future [СМИ иногент]
-#EXTGRP:🛠Reserve
-http://91.228.35.249:8001/1:0:16:68:2fa8:13e:820000:0:0:0:
-#EXTINF:-1,Svoboda [СМИ иногент]
-#EXTGRP:🛠Reserve
-http://91.228.35.249:8001/1:0:16:65:2fa8:13e:820000:0:0:0:
-#EXTINF:-1,Svoboda News [СМИ иногент]
-#EXTGRP:🛠Reserve
-http://91.228.35.249:8001/1:0:16:66:2fa8:13e:820000:0:0:0:
-#EXTINF:-1,Svoboda+ [СМИ иногент]
-#EXTGRP:🛠Reserve
-http://91.228.35.249:8001/1:0:16:69:2fa8:13e:820000:0:0:0:
 #EXTINF:-1,Продвижение
 #EXTGRP:🛠Reserve
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
