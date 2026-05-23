@@ -86,9 +86,6 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/cbc.m3u8
 #EXTINF:0,DWᴴᴰ Russian
 #EXTGRP:2НОВОСТИ
 http://hubtv.ru/index.php?stream=aHR0cHM6Ly9kd2FtZHN0cmVhbTExMC5ha2FtYWl6ZWQubmV0L2hscy9saXZlLzIwMTc5NzEvZHdzdHJlYW0xMTAvc3RyZWFtMDUvc3RyZWFtUGxheWxpc3QubTN1OA==
-#EXTINF:0,EuroNews
-#EXTGRP:2НОВОСТИ
-http://188.225.31.197/bpk-tv/000000025/tve/index.m3u8?token=test
 #EXTINF:0,Euronews Russia SD
 #EXTGRP:2НОВОСТИ
 https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25018/euronews-ru-avc1_3300000=26-mp4a_143200_rus=2.m3u8
@@ -239,9 +236,6 @@ https://live-hls-web-aja.getaj.net/AJA/01.m3u8
 #EXTINF:0,Al Jazeeraᴴᴰ (Mubasher)
 #EXTGRP:3NEWS
 http://live-hls-web-ajm.getaj.net/AJM/01.m3u8
-#EXTINF:0,Akit TV SD
-#EXTGRP:3NEWS
-https://akittv-live.ercdn.net/akittv/akittv.m3u8
 #EXTINF:0,Bursa TV HD
 #EXTGRP:3NEWS
 https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
@@ -497,15 +491,9 @@ http://live-hls-web-aja.getaj.net/AJA/05.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny82Lz
 #EXTINF:0,Russia Todayᴴᴰ
 #EXTGRP:3NEWS
 http://cdn-01.bonus-tv.ru:80/RussiaToday/index.m3u8
-#EXTINF:0,Al Jazeera English HD
-#EXTGRP:3NEWS
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:0,CNBC Europe HD
 #EXTGRP:3NEWS
 http://91.228.35.249:8001/1:0:1:1326:33F4:13E:820000:0:0:0:
-#EXTINF:0,ДОМАШНИЙ
-#EXTGRP:4ЭФИРНЫЕ ⓵
-http://176.96.241.40/Domashniy/index.m3u8
 #EXTINF:0,ЗВЕЗДА
 #EXTGRP:4ЭФИРНЫЕ ⓵
 http://85.192.10.131/hls/zvezda/playlist.m3u8
@@ -533,9 +521,6 @@ http://cdn.kubteltv.workers.dev/?ID=4
 #EXTINF:0,НТВᴴᴰ
 #EXTGRP:4ЭФИРНЫЕ ⓵
 https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=6m3Gs23GSL7HcQGUblqWUA&e=2065265022&scheme=https
-#EXTINF:0,ОТР
-#EXTGRP:4ЭФИРНЫЕ ⓵
-http://tmptv.sunduk.tv/CH317/index.m3u8
 #EXTINF:0,ПЕРВЫЙ КАНАЛ
 #EXTGRP:4ЭФИРНЫЕ ⓵
 https://flussonic.mkpnet.ru/tv-4f9598ab5f91dca4/video.m3u8?token=test
@@ -587,18 +572,12 @@ http://cdn.kubteltv.workers.dev/?ID=35
 #EXTINF:0,ТВ3
 #EXTGRP:4ЭФИРНЫЕ ⓵
 http://cdn.kubteltv.workers.dev/?ID=15
-#EXTINF:0,ТВЦ
-#EXTGRP:4ЭФИРНЫЕ ⓵
-http://cdn.kubteltv.workers.dev/?ID=10
 #EXTINF:0,ТВЦ FD
 #EXTGRP:4ЭФИРНЫЕ ⓵
 https://stream8.cinerama.uz/1025/tracks-v1a1a1/mono.m3u8
 #EXTINF:0,ТВЦ HD
 #EXTGRP:4ЭФИРНЫЕ ⓵
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/QVP3XYV8KEF4TL/19222/index.m3u8
-#EXTINF:0,ТНТ
-#EXTGRP:4ЭФИРНЫЕ ⓵
-http://cdn.kubteltv.workers.dev/?ID=19
 #EXTINF:0,ТНТᴴᴰ
 #EXTGRP:4ЭФИРНЫЕ ⓵
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/QVP3XYV8KEF4TL/10024/index.m3u8
@@ -608,15 +587,9 @@ http://cdn.kubteltv.workers.dev/?ID=32
 #EXTINF:0,ТНТ 4
 #EXTGRP:4ЭФИРНЫЕ ⓵
 https://flussonic.mkpnet.ru/tv-5f6d3cfda1af8989/video.m3u8
-#EXTINF:0,ТНТ4ᴴᴰ
-#EXTGRP:4ЭФИРНЫЕ ⓵
-http://92.63.106.41/24hp/stream.php?id=3571
 #EXTINF:0,ЧЕ!
 #EXTGRP:4ЭФИРНЫЕ ⓵
 http://31.148.48.15:80/Che/index.m3u8?token=test
-#EXTINF:0,Ю
-#EXTGRP:4ЭФИРНЫЕ ⓵
-http://cdn.kubteltv.workers.dev/?ID=23
 #EXTINF:0,Ю SD
 #EXTGRP:4ЭФИРНЫЕ ⓵
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=9cPc1rCGu6M932eqrifRhQ&e=2066519758&scheme=https
@@ -650,9 +623,6 @@ http://cdn.kubteltv.workers.dev/?ID=2
 #EXTINF:0,ТНТ HD
 #EXTGRP:4ЭФИРНЫЕ ⓵
 http://cdn.kubteltv.workers.dev/?ID=373
-#EXTINF:0,Пятница! SD
-#EXTGRP:4ЭФИРНЫЕ ⓵
-http://46.17.46.31:2021/channel/583bb5aa/index.m3u8?q=d6d5c7126384bc888fc2fe53fdb8f77c
 #EXTINF:0,НТВ HD
 #EXTGRP:4ЭФИРНЫЕ ⓵
 http://cdn.kubteltv.workers.dev/?ID=375
@@ -698,9 +668,6 @@ https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/tracks-v1a1/mono.m3
 #EXTINF:0,Мир (+7)
 #EXTGRP:5ЭФИРНЫЕ
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/tracks-v1a1/mono.m3u8
-#EXTINF:0,НТВ (+2)
-#EXTGRP:5ЭФИРНЫЕ
-http://176.96.241.40/NTV/index.m3u8
 #EXTINF:0,НТВ +4
 #EXTGRP:5ЭФИРНЫЕ
 http://dmitry-tv.ddns.net/hls/T2/CH_NTV_4.m3u8
@@ -806,9 +773,6 @@ http://mfe01.cliptv.az/dash/Rossiya_1_HDhfhf937456.ism/playlist.mpd
 #EXTINF:0,Россия 1ᴴᴰ (+2)
 #EXTGRP:5ЭФИРНЫЕ
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/track_105_f0bbf63e/chunklist.m3u8
-#EXTINF:0,Россия 1 (+3) FD
-#EXTGRP:5ЭФИРНЫЕ
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/omsk/russia24-sd/792000_576p.m3u8
 #EXTINF:0,Россия 1ᴴᴰ (+3)
 #EXTGRP:5ЭФИРНЫЕ
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/3/russia1-hd/track_105_b11bf8e4/chunklist.m3u8
@@ -1103,9 +1067,6 @@ http://live-3.otcnet.ru/dimgrad/index.m3u8
 #EXTINF:0,АБАЗА ТВᴴᴰ (СУХУМ)
 #EXTGRP:7РОССИЙСКИЕ
 https://public.apsny.camera/tv_abaza_tv_to_site/index.m3u8
-#EXTINF:0,СРЕДАᴴᴰ
-#EXTGRP:7РОССИЙСКИЕ
-rtmp://vkvsd54.okcdn.ru/playback/7334915353564?stkn=xjEbdnErgCJf8IsliRWaYbSGn3nBxcnAmEKoz4bMR9vrzA5wkhiA_w31RD4nMSAk5sZsfNNxuPE&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:0,TV ШАНС
 #EXTGRP:7РОССИЙСКИЕ
 https://autopilot.catcast.tv/content/40722/index.m3u8
@@ -1163,9 +1124,6 @@ https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w_b
 #EXTINF:0,БЕЛАРУСЬ 3 SD
 #EXTGRP:8БЕЛАРУСЬ
 https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w_b1460000_sleng.m3u8
-#EXTINF:0,БЕЛАРУСЬ 3ᴴᴰ
-#EXTGRP:8БЕЛАРУСЬ
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
 #EXTINF:0,БЕЛАРУСЬ 4 (Гомель) SD
 #EXTGRP:8БЕЛАРУСЬ
 http://46.56.85.151:8080/0.m3u8
@@ -1196,9 +1154,6 @@ https://radio.tvs.by:8089/TB-3/index.m3u8
 #EXTINF:0,ОНТ
 #EXTGRP:8БЕЛАРУСЬ
 http://85.238.112.40:8810/hls_sec/239.1.75.33-.m3u8
-#EXTINF:0,ОНТᴴᴰ
-#EXTGRP:8БЕЛАРУСЬ
-https://edge56.dc.beltelecom.by/ont/_definst_/ont/chunklist_w316090515.m3u8
 #EXTINF:0,СТВ
 #EXTGRP:8БЕЛАРУСЬ
 http://194.158.222.36:6103
@@ -1220,21 +1175,9 @@ http://87.252.229.200:8083/pinsk
 #EXTINF:0,Интекс SD (Барановичи)
 #EXTGRP:8БЕЛАРУСЬ
 http://86.57.177.44:8110/intex
-#EXTINF:0,ТНТ Internationalᴴᴰ (Беларусь)
-#EXTGRP:8БЕЛАРУСЬ
-http://92.63.106.41/ptv/voka/ch.php?id=31ec7e4b-c7aa-48d4-978d-f482a6d4a850
 #EXTINF:0,ВосьМойᴴᴰ
 #EXTGRP:8БЕЛАРУСЬ
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/QVP3XYV8KEF4TL/2186/index.m3u8
-#EXTINF:0,СИНЕМА TVᴴᴰ
-#EXTGRP:8БЕЛАРУСЬ
-http://92.63.106.41/ptv/voka/ch.php?id=ca41163b-3857-4725-9780-076ec2c36f2e
-#EXTINF:0,ТехЛет ТВ
-#EXTGRP:8БЕЛАРУСЬ
-http://92.63.106.41/ptv/voka/ch.php?id=a7d783af-49ae-4b82-be66-9758bbe677b6
-#EXTINF:0,Воен ТВᴴᴰ
-#EXTGRP:8БЕЛАРУСЬ
-http://92.63.106.41/ptv/voka/ch.php?id=81f0a5cd-abaa-4699-b470-aa397a91f450
 #EXTINF:0,BELSATᴴᴰ
 #EXTGRP:8БЕЛАРУСЬ
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/QVP3XYV8KEF4TL/10036/index.m3u8
@@ -1322,81 +1265,30 @@ http://air.racyja.com:8000/racja128
 #EXTINF:0,FreeДом
 #EXTGRP:9𝕐𝕜𝕡𝕒Їℍ𝕒
 https://dash2.antik.sk/live/test_uatv/playlist.m3u8
-#EXTINF:0,FreeДомᴴᴰ
-#EXTGRP:9𝕐𝕜𝕡𝕒Їℍ𝕒
-http://s06.wsbof.com:8090/s/9b6f8047/freedom-ua-hd.m3u8
-#EXTINF:0,1+1 International
-#EXTGRP:9𝕐𝕜𝕡𝕒Їℍ𝕒
-http://212.86.120.82:8000/play/a01b/index.m3u8
 #EXTINF:0,2+2ᴴᴰ
 #EXTGRP:9𝕐𝕜𝕡𝕒Їℍ𝕒
 http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/2990
-#EXTINF:0,ICTVᴴᴰ
-#EXTGRP:9𝕐𝕜𝕡𝕒Їℍ𝕒
-http://tinyurl.com/TvZaTak02/0159/index.m3u8
 #EXTINF:0,ОЦЕᴴᴰ
 #EXTGRP:9𝕐𝕜𝕡𝕒Їℍ𝕒
 http://212.42.117.34:8080/hls/OshTV.m3u8
-#EXTINF:0,МИ+ Україна
-#EXTGRP:9𝕐𝕜𝕡𝕒Їℍ𝕒
-http://193.160.224.14:52057/we_ukraine.m3u8
-#EXTINF:0,МИ-УКРАЇНАᴴᴰ
-#EXTGRP:9𝕐𝕜𝕡𝕒Їℍ𝕒
-http://tinyurl.com/TvZaTak02/0174/index.m3u8
-#EXTINF:0,Репортер (Одеса) SD
-#EXTGRP:9𝕐𝕜𝕡𝕒Їℍ𝕒
-http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/playlist.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
 #EXTINF:0,ITV (Рівне)
 #EXTGRP:9𝕐𝕜𝕡𝕒Їℍ𝕒
 https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8
-#EXTINF:0,ITV (Рівне) SD
-#EXTGRP:9𝕐𝕜𝕡𝕒Їℍ𝕒
-http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
-#EXTINF:0,СК1 (Житомир)
-#EXTGRP:9𝕐𝕜𝕡𝕒Їℍ𝕒
-http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr-lq/playlist.m3u8
-#EXTINF:0,СК1 (Житомир) SD
-#EXTGRP:9𝕐𝕜𝕡𝕒Їℍ𝕒
-http://cdn1.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8
-#EXTINF:0,СK1 (Житомир) SD
-#EXTGRP:9𝕐𝕜𝕡𝕒Їℍ𝕒
-http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
 #EXTINF:0,Рiвне 1 SD
 #EXTGRP:9𝕐𝕜𝕡𝕒Їℍ𝕒
 https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8
 #EXTINF:0,Сфера ТВ (Рiвне)
 #EXTGRP:9𝕐𝕜𝕡𝕒Їℍ𝕒
 https://cdn10.live-tv.cloud/sferarv/sferarv-abr/playlist.m3u8
-#EXTINF:0,Сфера ТВ (Рiвне) SD
-#EXTGRP:9𝕐𝕜𝕡𝕒Їℍ𝕒
-http://cdn10.live-tv.od.ua:8081/sferarv/720p/playlist.m3u8
-#EXTINF:0,КТРК (Кам'янець-Подільский) SD
-#EXTGRP:9𝕐𝕜𝕡𝕒Їℍ𝕒
-https://cdn10.live-tv.cloud/k-ptrk/720p/playlist.m3u8
 #EXTINF:0,Перший Закарпатьский
 #EXTGRP:9𝕐𝕜𝕡𝕒Їℍ𝕒
 http://91.226.35.134:8081/PK
-#EXTINF:0,Первый городскойᴴᴰ (Кривий Ріг)
-#EXTGRP:9𝕐𝕜𝕡𝕒Їℍ𝕒
-https://cdn1.live-tv.cloud/1tvkr/1tvkr-abr-lq/playlist.m3u8
 #EXTINF:0,Перший міський (Одеса)
 #EXTGRP:9𝕐𝕜𝕡𝕒Їℍ𝕒
 http://91.194.79.46:8081/stream2/channel2/playlist.m3u8
 #EXTINF:0,Перший міськийᴴᴰ (Одеса)
 #EXTGRP:9𝕐𝕜𝕡𝕒Їℍ𝕒
 http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
-#EXTINF:0,TIC ТВ (Одеса)
-#EXTGRP:9𝕐𝕜𝕡𝕒Їℍ𝕒
-http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod504/playlist.m3u8
-#EXTINF:0,TIC ТВ (Одеса) SD
-#EXTGRP:9𝕐𝕜𝕡𝕒Їℍ𝕒
-https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8
-#EXTINF:0,ТРК Круг (Одеса)
-#EXTGRP:9𝕐𝕜𝕡𝕒Їℍ𝕒
-http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr/krugod/krugod/playlist.m3u8
-#EXTINF:0,Измаiл
-#EXTGRP:9𝕐𝕜𝕡𝕒Їℍ𝕒
-http://cdn10.live-tv.od.ua:8081/izod/izod-abr/playlist.m3u8
 #EXTINF:0,ГLAS PLUS
 #EXTGRP:9𝕐𝕜𝕡𝕒Їℍ𝕒
 http://85.238.112.69:8811/hls_sec/239.0.58.39-.m3u8
@@ -1412,21 +1304,12 @@ https://rpn3.bozztv.com/dvrfl07/ushba12/index.m3u8
 #EXTINF:0,Україна 2 SD
 #EXTGRP:9𝕐𝕜𝕡𝕒Їℍ𝕒
 https://rpn3.bozztv.com/dvrfl07/ushba5/tracks-v1a1/mono.m3u8
-#EXTINF:0,УКРАЇНА 2 SD
-#EXTGRP:9𝕐𝕜𝕡𝕒Їℍ𝕒
-http://tinyurl.com/TvZaTak20/ushba5/tracks-v1a1/mono.m3u8
-#EXTINF:0,КІНО TV VHS SD
-#EXTGRP:9𝕐𝕜𝕡𝕒Їℍ𝕒
-https://live20.bozztv.com/giatv/giatv-88882com/88882com/chunks.m3u8
 #EXTINF:0,AMC
 #EXTGRP:9𝕐𝕜𝕡𝕒Їℍ𝕒
 http://tet3dgnk.russtv.net/iptv/QGP3QXDP95UFB4/31792/index.m3u8
 #EXTINF:0,Наше улюблене кіноᴴᴰ
 #EXTGRP:9𝕐𝕜𝕡𝕒Їℍ𝕒
 http://tet3dgnk.russtv.net/iptv/QGP3QXDP95UFB4/15007/index.m3u8
-#EXTINF:0,FilmUADramaᴴᴰ
-#EXTGRP:9𝕐𝕜𝕡𝕒Їℍ𝕒
-http://188.225.31.197/bpk-tv/000003028/tve/index.m3u8
 #EXTINF:0,Масон ТВᴴᴰ
 #EXTGRP:9𝕐𝕜𝕡𝕒Їℍ𝕒
 http://195.189.60.253/mason_tv_hd/video.m3u8
@@ -1478,9 +1361,6 @@ http://91.228.35.249:8001/1:0:16:67:2FA8:13E:820000:0:0:0
 #EXTINF:0,NTS Moldova
 #EXTGRP:9𝕐𝕜𝕡𝕒Їℍ𝕒
 http://5.56.77.9:50000
-#EXTINF:0,FreeДом HD
-#EXTGRP:9𝕐𝕜𝕡𝕒Їℍ𝕒
-http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1664142&extension=ts&play_token=Qai6QFfAwf
 #EXTINF:0,Первый канал Евразия
 #EXTGRP:10КАЗАХСТАН
 http://91.228.35.249:8001/1:0:1:1C92:332C:13E:820000:0:0:0
@@ -1490,9 +1370,6 @@ https://tvcdn01.oktv.kz/tv/mir/index.m3u8
 #EXTINF:0,24KZ 🇰🇿
 #EXTGRP:10КАЗАХСТАН
 https://stream8.cinerama.uz/1408/tracks-v1a1/mono.m3u8
-#EXTINF:0,Хабарᴴᴰ 🇰🇿
-#EXTGRP:10КАЗАХСТАН
-http://120.70.60.179:9901/tsfile/live/1000_1.m3u8?authid=0&key=txiptv&playlive=0
 #EXTINF:0,Abai TV 🇰🇿
 #EXTGRP:10КАЗАХСТАН
 https://abaitv-stream.qazcdn.com/abaitv/abaitv/tracks-v2a1/mono.ts.m3u8
@@ -1538,9 +1415,6 @@ http://live.zhanafm.kz:8080/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b_output_0.
 #EXTINF:0,ТВОЁ ТВ (Темиртау) 🇰🇿
 #EXTGRP:10КАЗАХСТАН
 http://smarty.oktv.kz/tvmiddleware/api/channel/url/?cid=21&device=android_stb&client_id=1&authkey=fceb15e8f73be3fd883c2ec490e8d0d69d989dd0b5a284e5c107902b9d2960465923bc93581ef74040c44e3a93d108388f1b8b9d6b89e2f39ea29efee8b72897&timezone=0
-#EXTINF:0,МТРК (Петропавловск) 🇰🇿
-#EXTGRP:10КАЗАХСТАН
-http://smarty.oktv.kz/tvmiddleware/api/channel/url/?cid=15&device=android_stb&client_id=1&authkey=fceb15e8f73be3fd883c2ec490e8d0d69d989dd0b5a284e5c107902b9d2960465923bc93581ef74040c44e3a93d108388f1b8b9d6b89e2f39ea29efee8b72897&timezone=0
 #EXTINF:0,TDK42 (Уральск) SD 🇰🇿
 #EXTGRP:10КАЗАХСТАН
 https://live-tdk42kz.cdnvideo.ru/tdk42kz/tdk42kz_720.smil/playlist.m3u8
@@ -1565,12 +1439,6 @@ https://streams.adapto.kz/hls/live/muzzone/main_stream.m3u8
 #EXTINF:0,Sport+ 🇰🇿
 #EXTGRP:10КАЗАХСТАН
 http://37.46.49.14:18010/play/a056/index.m3u8
-#EXTINF:0,Q Sport Arenaᴴᴰ 🇰🇿
-#EXTGRP:10КАЗАХСТАН
-http://77.245.98.18:8000/play/a00d
-#EXTINF:0,Q Sport Leagueᴴᴰ 🇰🇿
-#EXTGRP:10КАЗАХСТАН
-http://77.245.98.18:8000/play/a00c
 #EXTINF:0,Qazsportᴴᴰ 🇰🇿
 #EXTGRP:10КАЗАХСТАН
 http://37.46.49.14:18010/play/a04c/index.m3u8
@@ -1586,9 +1454,6 @@ https://stream.qaztv.kz/live/stream3/index.m3u8
 #EXTINF:0,Astana TV
 #EXTGRP:10КАЗАХСТАН
 http://smarty.oktv.kz/tvmiddleware/api/channel/url/?cid=9&device=android_stb&client_id=1&authkey=fceb15e8f73be3fd883c2ec490e8d0d69d989dd0b5a284e5c107902b9d2960465923bc93581ef74040c44e3a93d108388f1b8b9d6b89e2f39ea29efee8b72897&timezone=0
-#EXTINF:0,Jibek Joly
-#EXTGRP:10КАЗАХСТАН
-http://smarty.oktv.kz/tvmiddleware/api/channel/url/?cid=159&device=android_stb&client_id=1&authkey=fceb15e8f73be3fd883c2ec490e8d0d69d989dd0b5a284e5c107902b9d2960465923bc93581ef74040c44e3a93d108388f1b8b9d6b89e2f39ea29efee8b72897&timezone=0
 #EXTINF:0,QAZAQSTAN
 #EXTGRP:10КАЗАХСТАН
 http://smarty.oktv.kz/tvmiddleware/api/channel/url/?cid=1&device=android_stb&client_id=1&authkey=fceb15e8f73be3fd883c2ec490e8d0d69d989dd0b5a284e5c107902b9d2960465923bc93581ef74040c44e3a93d108388f1b8b9d6b89e2f39ea29efee8b72897&timezone=0
@@ -1610,12 +1475,6 @@ https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
 #EXTINF:0,Balapan HD
 #EXTGRP:10КАЗАХСТАН
 http://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
-#EXTINF:0,МТРК (Петропавловск)
-#EXTGRP:10КАЗАХСТАН
-https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
-#EXTINF:0,МТРК(Петропавловск)
-#EXTGRP:10КАЗАХСТАН
-http://tvcdn01.oktv.kz/tv/mtrk/index.m3u8
 #EXTINF:0,QAZAQSTAN HD
 #EXTGRP:10КАЗАХСТАН
 https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
@@ -1631,9 +1490,6 @@ http://91.228.35.249:8001/1:0:1:2340:2328:13E:820000:0:0:0
 #EXTINF:0,Qostanai
 #EXTGRP:10КАЗАХСТАН
 https://fs.uplink.kz/qostanai/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:0,TV1 KGᴴᴰ 🇰🇬
-#EXTGRP:11КЫРГЫЗСТАН
-http://hubtv.ru/index.php?stream=aHR0cDovLzIxMi4yLjIyNS4zMDoxOTM1L2xpdmUvc2l0ZS5zdHJlYW0vcGxheWxpc3QubTN1OA==
 #EXTINF:0,312 Кино 🇰🇬
 #EXTGRP:11КЫРГЫЗСТАН
 http://176.126.166.43:1935/live/312kino/chunklist_w164832369.m3u8
@@ -1862,27 +1718,15 @@ http://178.134.1.158:8081/shottv/index.m3u8
 #EXTINF:0,ЕВРОКИНО
 #EXTGRP:13𝕂иℍ𝕠
 http://94.230.250.140/eurokino/index.m3u8
-#EXTINF:0,ЕВРОКИНО HD
-#EXTGRP:13𝕂иℍ𝕠
-http://46.53.208.4:80/live/903.m3u8
 #EXTINF:0,ИЛЛЮЗИОН+
 #EXTGRP:13𝕂иℍ𝕠
 http://158.101.222.193:88/georgia_play.php?id=illuzionplus
-#EXTINF:0,Иллюзион+ HD
-#EXTGRP:13𝕂иℍ𝕠
-http://46.53.208.4:80/live/603.m3u8
 #EXTINF:0,КИНО ТВ
 #EXTGRP:13𝕂иℍ𝕠
 https://vod.tuva.ru/kinotv/index.m3u8
-#EXTINF:0,КИНО ТВ FD
-#EXTGRP:13𝕂иℍ𝕠
-https://livetv.mylifeisgood.net.ru/channels/kinotv.m3u8
 #EXTINF:0,КИНО ТВ SD
 #EXTGRP:13𝕂иℍ𝕠
 http://31.148.48.15:80/Kino_TV_HD/video.m3u8
-#EXTINF:0,Кино ТВ HD (+4)
-#EXTGRP:13𝕂иℍ𝕠
-http://92.63.106.41/ptv/trico/ch.php?id=2542&token=freshtv
 #EXTINF:0,Кино Без Границ SD
 #EXTGRP:13𝕂иℍ𝕠
 http://185.57.68.33:8091/237/playlist.m3u8
@@ -1898,36 +1742,21 @@ http://31148.rafail1982.uz/Kinopokaz/index.m3u8
 #EXTINF:0,КИНОСАТ
 #EXTGRP:13𝕂иℍ𝕠
 http://31.148.48.15/Kineko/index.m3u8
-#EXTINF:0,Киноман FD
-#EXTGRP:13𝕂иℍ𝕠
-http://dmi3y-tv6.ru/hls/blrus/voka/CH_KINOMAN.m3u8
 #EXTINF:0,НСТ
 #EXTGRP:13𝕂иℍ𝕠
 http://cdn.kubteltv.workers.dev/?ID=364
 #EXTINF:0,Т24
 #EXTGRP:13𝕂иℍ𝕠
 http://83.217.12.157:81/udp/239.1.1.158:1234
-#EXTINF:0,ТВ 21
-#EXTGRP:13𝕂иℍ𝕠
-http://tmptv.sunduk.tv/CH145/index.m3u8
 #EXTINF:0,ТВ 21ᴴᴰ
 #EXTGRP:13𝕂иℍ𝕠
 http://31.148.48.15/TV_XXI/index.m3u8?token=test
-#EXTINF:0,ТВ-21M
-#EXTGRP:13𝕂иℍ𝕠
-http://46.53.208.4:80/live/2018.m3u8
-#EXTINF:0,Классика Кино FD
-#EXTGRP:13𝕂иℍ𝕠
-http://46.53.208.4:80/live/3006.m3u8
 #EXTINF:0,Классика Кино SD
 #EXTGRP:13𝕂иℍ𝕠
 http://stitch.teletarget.ru/vintera/movieclassic/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDI2IDExOjQ5OjIxIFBNJmhhc2hfdmFsdWU9NzBLbWM5SUpMWitZVEplblVPVDFHUT09JnZhbGlkbWludXRlcz00ODA=
 #EXTINF:0,ATV Cineman SD
 #EXTGRP:13𝕂иℍ𝕠
 http://185.57.68.33:8091/255/index.m3u8
-#EXTINF:0,Новелла ТВ
-#EXTGRP:13𝕂иℍ𝕠
-http://tinyurl.com/TvvZaTak/1205-req_offset_28000000-req_window_0-2k_v5.m3u8?|User-Agent=http-user-agent=Lavf53.32.100
 #EXTINF:0,Иллюзион + HD
 #EXTGRP:13𝕂иℍ𝕠
 http://46.32.176.50/illuzion/index.m3u8
@@ -1958,9 +1787,6 @@ http://dmitry-tv.ddns.net/hls/CH_FILMBOX.m3u8
 #EXTINF:0,FILM BOX ARTHOUSE
 #EXTGRP:13𝕂иℍ𝕠
 http://dmitry-tv.ddns.net/hls/CH_FILMBOX_ARTHOUSE.m3u8
-#EXTINF:0,Movie Classic FD
-#EXTGRP:13𝕂иℍ𝕠
-http://dmi3y-tv6.ru/hls/blrus/voka/CH_MOVIE_CLASSIC.m3u8
 #EXTINF:0,Любимое Кино FHD
 #EXTGRP:13𝕂иℍ𝕠
 http://176.118.197.101/LubimoeKino/mono.m3u8
@@ -1982,54 +1808,30 @@ http://193.25.8.59:8000/tlc
 #EXTINF:0,viju TV1000
 #EXTGRP:14VIJUКИНО
 http://93.84.115.174:10181/tv1000
-#EXTINF:0,viju TV 1000 FD
-#EXTGRP:14VIJUКИНО
-http://46.53.208.4:80/live/5107.m3u8
 #EXTINF:0,viju TV1000 Русское
 #EXTGRP:14VIJUКИНО
 http://93.84.115.174:10181/tv1000ru
-#EXTINF:0,viju TV1000 Русское FD
-#EXTGRP:14VIJUКИНО
-http://46.53.208.4:80/live/5109.m3u8
 #EXTINF:0,viju TV1000 Русское HD
 #EXTGRP:14VIJUКИНО
 http://cdn.kubteltv.workers.dev/?ID=193
 #EXTINF:0,viju TV1000 Русскоеᴴᴰ
 #EXTGRP:14VIJUКИНО
 https://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8?token=test
-#EXTINF:0,viju TV1000 Новеллаᴴᴰ
-#EXTGRP:14VIJUКИНО
-http://46.53.208.4:80/live/545.m3u8
 #EXTINF:0,viju TV1000 Action
 #EXTGRP:14VIJUКИНО
 http://93.84.115.174:10181/tv1000action
-#EXTINF:0,viju TV1000 Romantica FD
-#EXTGRP:14VIJUКИНО
-http://46.53.208.4/live/3111.m3u8
 #EXTINF:0,viju+ Comedyᴴᴰ
 #EXTGRP:14VIJUКИНО
 https://flussonic.mkpnet.ru/tv-c385ec3bab3a3605/video.m3u8?token=test
-#EXTINF:0,viju+ Comedy HD
-#EXTGRP:14VIJUКИНО
-http://tmptv.sunduk.tv/CH311/index.m3u8
 #EXTINF:0,viju+ Megahitᴴᴰ
 #EXTGRP:14VIJUКИНО
 http://46.53.208.4:80/live/6002.m3u8
-#EXTINF:0,viju+ Megahit HD
-#EXTGRP:14VIJUКИНО
-http://tmptv.sunduk.tv/CH313/index.m3u8
 #EXTINF:0,viju+ Premiereᴴᴰ
 #EXTGRP:14VIJUКИНО
 https://flussonic.mkpnet.ru/tv-e107d21a90cb808f/video.m3u8?token=test
-#EXTINF:0,viju+ Premiere HD
-#EXTGRP:14VIJUКИНО
-http://tmptv.sunduk.tv/CH315/index.m3u8
 #EXTINF:0,viju+ Serial SD
 #EXTGRP:14VIJUКИНО
 http://mfe02.cliptv.az/dash/MGM_HDqwervbyu78.ism/playlist.mpd
-#EXTINF:0,viju+ Serialᴴᴰ
-#EXTGRP:14VIJUКИНО
-http://46.53.208.4:80/live/6004.m3u8
 #EXTINF:0,Индийское Кино
 #EXTGRP:14VIJUКИНО
 http://cdn.kubteltv.workers.dev/?ID=77
@@ -2063,18 +1865,12 @@ http://93.84.115.174:10181/kinohit
 #EXTINF:0,Мужское Кино
 #EXTGRP:14VIJUКИНО
 http://185.161.224.211/dash/Mujskoye_Kino_SDpoiu876.ism/playlist.mpd
-#EXTINF:0,Родное Кино
-#EXTGRP:14VIJUКИНО
-http://tmptv.sunduk.tv/CH23/index.m3u8
 #EXTINF:0,Мужское Киноᴴᴰ
 #EXTGRP:14VIJUКИНО
 https://stream8.cinerama.uz/1237/tracks-v2a1/mono.m3u8
 #EXTINF:0,Наше Новое Кино
 #EXTGRP:14VIJUКИНО
 http://93.84.115.174:10181/nashenovoekino
-#EXTINF:0,Наше Новое Кино HD
-#EXTGRP:14VIJUКИНО
-http://92.63.106.41/24hp/stream.php?id=3739
 #EXTINF:0,Наше Новое Киноᴴᴰ
 #EXTGRP:14VIJUКИНО
 http://93.113.203.165/iptv/F5BM9GXMAPYBDK/19231/index.m3u8
@@ -2084,15 +1880,9 @@ http://cdn.kubteltv.workers.dev/?ID=191
 #EXTINF:0,viju TV1000 Action HD
 #EXTGRP:14VIJUКИНО
 http://cdn.kubteltv.workers.dev/?ID=192
-#EXTINF:0,viju TV1000 Romantica HD
-#EXTGRP:14VIJUКИНО
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=NIeCFdLRtyKjObWO6DOlEw&e=1776498761&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:0,viju TV1000 Новелла HD
 #EXTGRP:14VIJUКИНО
 http://cdn.kubteltv.workers.dev/?ID=381
-#EXTINF:0,viju+ Serial HD
-#EXTGRP:14VIJUКИНО
-http://92.63.106.41/24hp/stream.php?id=3592
 #EXTINF:0,Индийское кино
 #EXTGRP:14VIJUКИНО
 https://s03.watcher.uz/52/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
@@ -2102,42 +1892,12 @@ http://cdn.kubteltv.workers.dev/?ID=328
 #EXTINF:0,Кинопремьера HD
 #EXTGRP:14VIJUКИНО
 https://s04.watcher.uz/5/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
-#EXTINF:0,Киносвидание HD
-#EXTGRP:14VIJUКИНО
-http://92.63.106.41/24hp/stream.php?id=526
-#EXTINF:0,Киносемья HD
-#EXTGRP:14VIJUКИНО
-http://92.63.106.41/24hp/stream.php?id=528
 #EXTINF:0,Киноужас HD
 #EXTGRP:14VIJUКИНО
 http://cdn.kubteltv.workers.dev/?ID=200
-#EXTINF:0,Кинохит HD
-#EXTGRP:14VIJUКИНО
-http://92.63.106.41/24hp/stream.php?id=534
-#EXTINF:0,Мужское кино HD
-#EXTGRP:14VIJUКИНО
-http://92.63.106.41/24hp/stream.php?id=148
 #EXTINF:0,Родное кино
 #EXTGRP:14VIJUКИНО
 http://213.141.224.226:4022/udp/238.1.1.92:1234
-#EXTINF:0,viju TV1000 FD
-#EXTGRP:14VIJUКИНО
-http://46.53.208.4/live/5107.m3u8
-#EXTINF:0,viju TV1000 Action FD
-#EXTGRP:14VIJUКИНО
-http://46.53.208.4/live/5106.m3u8
-#EXTINF:0,TV1000 Kino_TV.HD
-#EXTGRP:14VIJUКИНО
-https://livetv-app.mylifeisgood.net.ru/channels/viju-tv1000.m3u8
-#EXTINF:0,TV1000 ACTION Kino_TV.HD
-#EXTGRP:14VIJUКИНО
-https://livetv-app.mylifeisgood.net.ru/channels/viju-tv1000action.m3u8
-#EXTINF:0,TV1000 RUKino Kino_TV.HD
-#EXTGRP:14VIJUКИНО
-https://livetv-app.mylifeisgood.net.ru/channels/viju-tv1000russkoe.m3u8
-#EXTINF:0,Vip Comedy Kino_TV.HD
-#EXTGRP:14VIJUКИНО
-https://livetv-app.mylifeisgood.net.ru/channels/viju-comedy.m3u8
 #EXTINF:0,Vip Serial Kino_TV.HD
 #EXTGRP:14VIJUКИНО
 http://46.32.176.50/ViasatSportHD/index.m3u8
@@ -2159,9 +1919,6 @@ https://kino.zunotv.workers.dev/viju_tv1000_hd/index.m3u8
 #EXTINF:0,Viju TV1000 Action
 #EXTGRP:14VIJUКИНО
 https://kino.zunotv.workers.dev/viju_tv1000_action_hd/index.m3u8
-#EXTINF:0,Киносвидание FD
-#EXTGRP:14VIJUКИНО
-http://5.188.159.128:8070/kinosvidanie/index.m3u8
 #EXTINF:0,viju TV1000 SD
 #EXTGRP:14VIJUКИНО
 http://46.32.176.50/tv1000/index.m3u8
@@ -2195,9 +1952,6 @@ http://46.32.176.50/tv1000ruskoekino/index.m3u8
 #EXTINF:0,.black
 #EXTGRP:15СЕРИАЛЫ
 http://213.141.224.226:4022/udp/238.1.1.70:1234
-#EXTINF:0,.black FD
-#EXTGRP:15СЕРИАЛЫ
-http://46.53.208.4:80/live/3001.m3u8
 #EXTINF:0,.red
 #EXTGRP:15СЕРИАЛЫ
 http://213.141.224.226:4022/udp/238.1.1.69:1234
@@ -2210,9 +1964,6 @@ http://93.84.115.174:10181/sonyhd
 #EXTINF:0,.sci-fi
 #EXTGRP:15СЕРИАЛЫ
 http://213.141.224.226:4022/udp/238.1.1.71:1234
-#EXTINF:0,.sci-fi FD
-#EXTGRP:15СЕРИАЛЫ
-http://46.53.208.4:80/live/207.m3u8
 #EXTINF:0,Amedia 1
 #EXTGRP:15СЕРИАЛЫ
 http://a3569457567-s70378.cdn.ngenix.net/amedia_1/2/index.m3u8
@@ -2249,9 +2000,6 @@ https://kino.zunotv.workers.dev/start_world_hd/index.m3u8
 #EXTINF:0,Start World HD
 #EXTGRP:15СЕРИАЛЫ
 http://cdn.kubteltv.workers.dev/?ID=371
-#EXTINF:0,Start Worldᴴᴰ
-#EXTGRP:15СЕРИАЛЫ
-https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 #EXTINF:0,Дорама
 #EXTGRP:15СЕРИАЛЫ
 https://s06.watcher.uz/132/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
@@ -2288,27 +2036,15 @@ https://kino.zunotv.workers.dev/novella_tv_hd/index.m3u8
 #EXTINF:0,START Air
 #EXTGRP:15СЕРИАЛЫ
 https://kino.zunotv.workers.dev/start_air_hd/index.m3u8
-#EXTINF:0,Fox
-#EXTGRP:15СЕРИАЛЫ
-http://77.245.98.18:8000/play/a00w
 #EXTINF:0,Amedia Premium FD
 #EXTGRP:15СЕРИАЛЫ
 http://46.32.176.50/AmediaPremium/index.m3u8
 #EXTINF:0,Amedia Premium HD
 #EXTGRP:15СЕРИАЛЫ
 http://93.84.115.174:10181/amediapremiumhd
-#EXTINF:0,Start World
-#EXTGRP:15СЕРИАЛЫ
-http://77.245.98.18:8000/play/a02c
 #EXTINF:0,Epic Media
 #EXTGRP:15СЕРИАЛЫ
 http://fl1004.bozztv.com/ushba77/tracks-v1a1/mono.m3u8
-#EXTINF:0,НОВЕЛЛА ТВ FD
-#EXTGRP:15СЕРИАЛЫ
-http://dmitry-tv.ddns.net/hls/blrus/voka/CH_NOVELLATV.m3u8
-#EXTINF:0,НОВЕЛЛА ТВ HD
-#EXTGRP:15СЕРИАЛЫ
-http://dmitry-tv.ddns.net/hls/blrus/voka/CH_NOVELLATVHD.m3u8
 #EXTINF:0,FOX LIFE
 #EXTGRP:15СЕРИАЛЫ
 http://dmitry-tv.ddns.net/hls/CH_FOX_LIFE.m3u8
@@ -2327,9 +2063,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
 #EXTINF:0,Start Air HD
 #EXTGRP:16СЕРИАЛЫ
 http://cdn.kubteltv.workers.dev/?ID=372
-#EXTINF:0,Start Airᴴᴰ
-#EXTGRP:16СЕРИАЛЫ
-https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 #EXTINF:0,Арсенал FD
 #EXTGRP:16СЕРИАЛЫ
 http://dmitry-tv.ddns.net/hls/CH_ARSENAL.m3u8
@@ -2366,18 +2099,12 @@ http://93.84.115.174:10181/telekafe
 #EXTINF:0,Феникс+Кино
 #EXTGRP:16СЕРИАЛЫ
 http://cdn.kubteltv.workers.dev/?ID=72
-#EXTINF:0,7 TV Moldova
-#EXTGRP:16СЕРИАЛЫ
-http://185.164.82.18:9009/aDxLhVQm_7TV
 #EXTINF:0,Сериал SD
 #EXTGRP:16СЕРИАЛЫ
 http://fl1004.bozztv.com/ushba5/tracks-v1a1/mono.m3u8
 #EXTINF:0,НТВ Хит
 #EXTGRP:17СЕРИАЛЫ 2
 http://cdn.kubteltv.workers.dev/?ID=329
-#EXTINF:0,НТВ Стиль HD
-#EXTGRP:17СЕРИАЛЫ 2
-http://92.63.106.41/24hp/stream.php?id=219
 #EXTINF:0,НТВ Балаболᴴᴰ
 #EXTGRP:17СЕРИАЛЫ 2
 https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/mono.ts.m3u8
@@ -2546,9 +2273,6 @@ https://kino.zunotv.workers.dev/dom_kino_premium_hd/index.m3u8
 #EXTINF:0,Дом Кино Премиум SD
 #EXTGRP:18𝕂иℍ𝕠
 http://mfe01.cliptv.az/dash/Dom_Kino_Premium_HDsdfgio81.ism/playlist.mpd
-#EXTINF:0,Дом Кино Премиумᴴᴰ
-#EXTGRP:18𝕂иℍ𝕠
-http://92.63.106.41/ptv/trico/ch.php?id=716&token=freshtv
 #EXTINF:0,Мосфильм.Золотая Коллекция
 #EXTGRP:18𝕂иℍ𝕠
 http://178.134.1.158:8081/mosfilm/index.m3u8
@@ -2582,15 +2306,9 @@ http://93.84.115.174:10181/retro
 #EXTINF:0,Советское Кино SD
 #EXTGRP:18𝕂иℍ𝕠
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
-#EXTINF:0,Русская Комедия
-#EXTGRP:18𝕂иℍ𝕠
-http://tv.ttk.mx:9050
 #EXTINF:0,Русский Иллюзион
 #EXTGRP:18𝕂иℍ𝕠
 http://93.84.115.174:10181/rusilluzion
-#EXTINF:0,Русский Иллюзионᴴᴰ
-#EXTGRP:18𝕂иℍ𝕠
-http://92.63.106.41/24hp/stream.php?id=3454
 #EXTINF:0,КиноСезонᴴᴰ
 #EXTGRP:18𝕂иℍ𝕠
 http://stitch.teletarget.ru/vintera/movieseason/index.m3u8
@@ -2726,33 +2444,9 @@ http://217.154.10.99:2020/channel/4e9dab20/index.m3u8?q=ac8328a8c05870646c45caa2
 #EXTINF:0,TVRUS+ HD
 #EXTGRP:20КИНОЗАЛ
 http://217.154.10.99:2020/channel/n7ae3dc73/index.m3u8?q=ac8328a8c05870646c45caa253710a85
-#EXTINF:0,NSC+ HD
-#EXTGRP:21КиноStream
-https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210.m3u8
 #EXTINF:0,Всё ТВᴴᴰ
 #EXTGRP:21КиноStream
 http://85.88.175.48:2020/udp/239.4.0.147:2020
-#EXTINF:0,TvBoom.ViP HD
-#EXTGRP:21КиноStream
-https://tv.kino-stream.online/TVBOOM-VIP/index.m3u8
-#EXTINF:0,RsTV HD
-#EXTGRP:21КиноStream
-rtmp://vkvsd177.okcdn.ru/playback/9784991296445?stkn=Bu11jviKqv8XV4jmbgsGRyXtfTi46qNmVpzNczQTttL_wt7OBO_B47D8PLo_bnF7hndvjB5NAuI&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:0,Konul TV HD
-#EXTGRP:21КиноStream
-http://tinyurl.com/TvZaTak68/?ID=715&20yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
-#EXTINF:0,DTR ZONA 1 SD
-#EXTGRP:21КиноStream
-https://kino-stream.online/hls/DTRZONA1.m3u8
-#EXTINF:0,DTR ZONA 2 SD
-#EXTGRP:21КиноStream
-https://kino-stream.online/hls/DTRZONA2.m3u8
-#EXTINF:0,TV12 GUDAUTA HD
-#EXTGRP:21КиноStream
-rtmp://vkvsd79.okcdn.ru/playback/6258783562721?stkn=LGFR4BuetxRDxWb-Fe5_8LRzLCIrjpUHYJMaXC4lGh_7amroGBS4D7cCf4EjgiYzauW5KCSI0n8&uid=0&sp=uid,sp&sig=vlibqm4nyu
-#EXTINF:0,Sveteeq Fm HD
-#EXTGRP:21КиноStream
-https://liveplay.trovo.live/live/73846_113245750_113245750.flv?bizid=73846&txSecret=08f0ae16816bf66e15bcbd8611517fe0&txTime=69be5163&_bmlj_t=ChxpNUpPZm5mVnpCaWhYb21iVFY2cUpYMWxaRFE9EiQyNDg5MjQxNi1jMGMzLTQ4ZDAtODM2My01MDU2MTljYzIwMWEaHjExMzI0NTc1MF8xMTMyNDU3NTBfMTc3MzQ3NTU1NSCrwtrNBiiP%2BMQ3Mhk3Mzg0Nl8xMTMyNDU3NTBfMTEzMjQ1NzUwQg00Ni4xMzguMTQ3LjI4ShtsaXZlLXJlYWRlci1zdnJfR2V0TGl2ZUluZm9QBGACehI4ODUwMTI2ODQ4MjUxMjIzMTmQAQQ%3D&playScene=innerSite&pvid=885012684825122319&_f_=1773576495007
 #EXTINF:0,Всё ТВ SD
 #EXTGRP:21КиноStream
 https://s.catcast.tv/content/43064/index.m3u8?token=12e9b4b3f3c1a94794e26197460d95c6
@@ -2762,21 +2456,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/scripachmovie/playlist.m3u8
 #EXTINF:0,СТРК
 #EXTGRP:21КиноStream
 http://sochinskayatrk.ru/hdtv/hls/CTPK_400/playlist.m3u8
-#EXTINF:0,СТРК SD
-#EXTGRP:21КиноStream
-http://sochinskayatrk.ru/hdtv/hls/CTPK_HD/playlist.m3u8
-#EXTINF:0,СТРК 43 канал SD
-#EXTGRP:21КиноStream
-http://sochinskayatrk.ru/hdtv/hls/43K_HD/playlist.m3u8
-#EXTINF:0,ВК Киноᴴᴰ
-#EXTGRP:21КиноStream
-rtmp://vkvsd9.okcdn.ru/playback/11476322626375?stkn=MWURFX9GxWweqchHYWcYzhzufUF0fxJw12ejfhOPexR9h9Leff8anz9KAxHjfF4R9h4C5PfiYy8&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:0,ВК Кино 2ᴴᴰ
-#EXTGRP:21КиноStream
-rtmp://vkvsd202.okcdn.ru/playback/10472252320626?stkn=55ZiY3uqOcLbjh8YLZ654EGxTQCPkjoczCP4KcuqIiVY4Xvydx7GLhpzKW3_9I0RZtVa3gKqHM4&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:0,ВК Кино и сериалыᴴᴰ
-#EXTGRP:21КиноStream
-rtmp://vkvsd196.okcdn.ru/playback/12955145284352?stkn=z4T70nsJfsesUP9S-NMciqKLtV28OVwB4wSZwnZGL1vbVtF0_YHglWGItLNxQ-oA7FpUPpPxox0&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:0,Alpha Cinemaᴴᴰ
 #EXTGRP:21КиноStream
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
@@ -2795,18 +2474,6 @@ http://185.57.68.33:80/237/playlist.m3u8
 #EXTINF:0,Lenta Kino
 #EXTGRP:21КиноStream
 http://tinyurl.com/TvZaTak20/ushba-films-w/tracks-v1a1/mono.m3u8
-#EXTINF:0,K1n0man1aᴴᴰ
-#EXTGRP:21КиноStream
-rtmp://vkvsd176.okcdn.ru/playback/9060843400063?stkn=KV0WGPPXIBbOVVy6l6W5YU70Wrv6I9tZOa9CyCjyDUwntlSO4dtIt72cgu0M-sTWTi7PFHAQj8s&uid=0&sp=uid,sp&sig=vlibqm4nyu
-#EXTINF:0,KinoBar HD
-#EXTGRP:21КиноStream
-rtmp://vkvsd79.okcdn.ru/playback/11865043512184?stkn=iP9X2jyo6Zr-w_LUZKkXvBaBp3-lOX9JjFgyOpcPnbsjorW-MN9cBeUsyuGVMWt0uqYPqhnhKxwK&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:0,FantasticMistyc HD
-#EXTGRP:21КиноStream
-rtmp://vkvsd69.okcdn.ru/playback/3780958366657?stkn=QkbWCnARWe2BdgDd2ZlIsACtDwpqkYXvX5avvzYaOvFMLx0UvcPKLeTbLVWs99SwkzSDsjYLt-I&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:0,TV Series HD
-#EXTGRP:21КиноStream
-rtmp://vkvsd258.okcdn.ru/playback/4212830514154?stkn=3-5AxYkRTClGxxwNYsB-PosDfNMu_Z8wVCxKPRiA5P1eG-dXv3IyUKjRPAmaGd92HY3VjEPNPE4&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:0,Кинолаффкаᴴᴰ
 #EXTGRP:21КиноStream
 https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=2ANj0RhjI1hrAkz7Jd83ZQ&e=2069068452&scheme=https
@@ -2819,21 +2486,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/playlist.m3u8
 #EXTINF:0,Видеокассетаᴴᴰ
 #EXTGRP:21КиноStream
 https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
-#EXTINF:0,Kino Online HD
-#EXTGRP:21КиноStream
-rtmp://vkvsd80.okcdn.ru/playback/11445095639945?stkn=isz4WXJ0c-P9MNBOKakZS1dQYkSmIEQX81ccorrT3ZqaCJiGkrCrrBEClpFFXVYJSlMjslcRhb0A&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:0,ZSMEDIA SD
-#EXTGRP:21КиноStream
-rtmp://vkvsd251.okcdn.ru/playback/3193011317595?stkn=W9XLVL6g8_mjPFdboe8diHBt2f8QhTG-ACCM0hfYdhbiAMlXT-4FSgUAo6r7xkePFP-OEOkxPqY&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:0,Smotrim Vmeste HD
 #EXTGRP:21КиноStream
 https://liveplay.trovo.live/live/73846_117149913_117149913.flv?bizid=73846&txSecret=7701deafd7d2be7474714a0b6b5fb4a8&txTime=69a96a72&_bmlj_t=ChxNMEhJS1pUN2cyR3phOTJibDFJN21JM04ybFE9EiQ2OWQyOWU2YS1kNTM4LTQ0ZmItOTExYS1kOWJhNDQzOTY2Y2IaHjExNzE0OTkxM18xMTcxNDk5MTNfMTc3MjEwNTcxNCD8q4TNBiiP%2BMQ3Mhk3Mzg0Nl8xMTcxNDk5MTNfMTE3MTQ5OTEzQg00Ni4xMzguMTQ3LjI4ShtsaXZlLXJlYWRlci1zdnJfR2V0TGl2ZUluZm9QBGACehI4ODUwMTI2ODQ4MjUxMjIzMTmQAQQ%3D&playScene=innerSite&pvid=885012684825122319&_f_=1772164608956
-#EXTINF:0,PryaniKᴴᴰ
-#EXTGRP:21КиноStream
-https://liveplay2.trovocdn.net/mist/flv/video+f704nk3yz8kbqvup.flv?bizid=73846&txSecret=6d9000d0831c04e61c1ca43b0e67652d&txTime=694a9aa3&waittrackcount=7&maxwaittrackms=30000&buffer=10&startunix=-10&trovoFlv=1&video=5000kbps&_bmlj_t=ChxyRy8wRjA5V0xYSVJrY1dOYUUzckFMRTBNaEk9EiQwYWMxZjAwYS05MjIyLTQ1ZWMtYjU1Mi0zZTRkZTgyYTRmZDkaHjExNjgxNjc1MF8xMTY4MTY3NTBfMTc2NTg5MjEyNiDZxZXKBiiP%2BMQ3MhZ2aWRlbytmNzA0bmszeXo4a2JxdnVwONg2Qg00Ni4xMzguMTQ4LjgyShtsaXZlLXJlYWRlci1zdnJfR2V0TGl2ZUluZm9QBGACehI5ODIxOTQwNzM2MjUwOTEwMjCQAQQ%3D&playScene=innerSite&pvid=982194073625091020&_f_=1766154972225
-#EXTINF:0,Skarabey TV HD
-#EXTGRP:21КиноStream
-https://liveplay.trovo.live/live/73846_111174275_111174275_1080pv2.flv?bizid=73846&txSecret=8b3b2e7ca4c66bcb15285f68dba6a4f5&txTime=69ae3eff&_bmlj_t=Chx1UXFhcFNFOURQUHZvZFlBS0dWVEhmVXJ1dWs9EiQzNTcwNGFlZC1jZTUzLTRhZDUtOGU1Ni05ODRiODdiNGQ1NzMaHjExMTE3NDI3NV8xMTExNzQyNzVfMTc3MjQyMjI3MSDBgZrNBiiP%2BMQ3MiE3Mzg0Nl8xMTExNzQyNzVfMTExMTc0Mjc1XzEwODBwdjI4iCdCDTQ2LjEzOC4xNDcuMjhKG2xpdmUtcmVhZGVyLXN2cl9HZXRMaXZlSW5mb1AEYAJ6Ejg4NTAxMjY4NDgyNTEyMjMxOZABBA%3D%3D&playScene=innerSite&pvid=885012684825122319&_f_=1772519622510
 #EXTINF:0,MB TV
 #EXTGRP:21КиноStream
 https://dvrfl07.bozztv.com/ushba-films-yz/tracks-v1a1/mono.m3u8
@@ -2861,21 +2516,9 @@ https://dvrfl07.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,FilmON SD
 #EXTGRP:21КиноStream
 https://rpn3.bozztv.com/dvrfl07/ushba64/index.m3u8
-#EXTINF:0,Mayhemᴴᴰ
-#EXTGRP:21КиноStream
-https://liveplay.trovo.live/live/73846_108456939_108456939.flv?bizid=73846&txSecret=1a1c8b4e6d1bf7e6641f524c3470e5a1&txTime=6953e280&_bmlj_t=ChxTNk9ObUNKbTcvOTkycjAwc0V1S2lqTloxMVE9EiRiMDQ1NGJjMC03Njc0LTQ5ZTYtYTc5Mi1lNTgyZjg1ZDNmMjcaHjEwODQ1NjkzOV8xMDg0NTY5MzlfMTc2NjUwMDM1MiCflKvKBiiP%2BMQ3Mhk3Mzg0Nl8xMDg0NTY5MzlfMTA4NDU2OTM5Qg00Ni4xMzguMTQ4LjgyShtsaXZlLXJlYWRlci1zdnJfR2V0TGl2ZUluZm9QBGACehI4ODUwMTI2ODQ4MjUxMjIzMTmQAQQ%3D&playScene=innerSite&pvid=885012684825122319&_f_=1766509091971
-#EXTINF:0,ZemSkov SD
-#EXTGRP:21КиноStream
-https://liveplay.trovo.live/live/73846_108987558_108987558.flv?bizid=73846&txSecret=f1fa3569ef4eb5e0f3c8553f5d42ee7d&txTime=69b376e1&_bmlj_t=ChwvZWFFUFFMenFVNmZlbWM5STFHdndaVVAvMDA9EiRmZjYzODYyOS0xNTE5LTQzZmQtOTYyZS1iYmFjYjE5NTIxMmUaHjEwODk4NzU1OF8xMDg5ODc1NThfMTc3Mjc2NDI1NyDvk6vNBiiP%2BMQ3Mhk3Mzg0Nl8xMDg5ODc1NThfMTA4OTg3NTU4Qg00Ni4xMzguMTQ3LjI4ShtsaXZlLXJlYWRlci1zdnJfR2V0TGl2ZUluZm9QBGACehI4ODUwMTI2ODQ4MjUxMjIzMTmQAQQ%3D&playScene=innerSite&pvid=885012684825122319&_f_=1772800499473
-#EXTINF:0,*AutisticCulture HD
-#EXTGRP:21КиноStream
-https://liveplay.trovo.live/live/73846_104287548_104287548.flv?bizid=73846&txSecret=297a61c13cf7ae66999d7dbd8f67e270&txTime=68b1ab09&_bmlj_t=ChxMbTYwbU5LWHVsc2t1bzNwN0d5M1YzR0lVME09EiRkZDFmYTBjMC1kMjE4LTQyZmMtODg4My0xY2U4Y2JkODFmMjkaHjEwNDI4NzU0OF8xMDQyODc1NDhfMTc1NTg2OTMyMSCNvqLFBiiP%2BMQ3Mhk3Mzg0Nl8xMDQyODc1NDhfMTA0Mjg3NTQ4Qg40Ni4xMzguMTQ2LjIyM0obbGl2ZS1yZWFkZXItc3ZyX0dldExpdmVJbmZvUARgAnoQNDgwMzE3NDQyNTA0MTkwOJABBA%3D%3D&playScene=innerSite&pvid=4803174425041908&_f_=1755881233708
 #EXTINF:0,Film Visit
 #EXTGRP:21КиноStream
 https://fl1003.bozztv.com/ushba-films-l/tracks-v1a1/mono.m3u8
-#EXTINF:0,Film Zone
-#EXTGRP:21КиноStream
-https://tinyurl.com/TvZaTak07/ushba-films-g/tracks-v1a1/mono.m3u8
 #EXTINF:0,Globus TV
 #EXTGRP:21КиноStream
 http://tinyurl.com/%74%76%7A%61%74%61%6B20/ushba-films-b/tracks-v1a1/mono.m3u8
@@ -2885,9 +2528,6 @@ https://fl1003.bozztv.com/ushba-films-p/tracks-v1a1/mono.m3u8
 #EXTINF:0,KinoFilm
 #EXTGRP:21КиноStream
 http://tinyurl.com/%74%76%7A%61%74%61%6B20/ushba-films-m/tracks-v1a1/mono.m3u8
-#EXTINF:0,Sinema 360
-#EXTGRP:21КиноStream
-https://tinyurl.com/TvZaTak07/ushba-films-f/tracks-v1a1/mono.m3u8
 #EXTINF:0,SSAFilm
 #EXTGRP:21КиноStream
 https://fl1003.bozztv.com/ushba-films-c/tracks-v1a1/mono.m3u8
@@ -2903,48 +2543,12 @@ https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-centra
 #EXTINF:0,Province HD
 #EXTGRP:21КиноStream
 https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.rmtRK2FPYHmD.m3u8
-#EXTINF:0,Кино ВК HD
-#EXTGRP:21КиноStream
-rtmp://vkvsd249.okcdn.ru/playback/11476322626375?stkn=6ZvE0ZY2mEWWoiyODjhS5OPDNBY7YlMNap9wZyAnU7TmJXeKb9JPFfONHCd59AjyYkTygJHec4A&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:0,Кино ВК 2 HD
-#EXTGRP:21КиноStream
-rtmp://vkvsd243.okcdn.ru/playback/10472252320626?stkn=vjSgQTBCvo-PV2KkzjQWix-AgQOqVwI7Lffm0fYrTHUMC4ggE3p89R0ODQzGziywj1dRaMj3VoA&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:0,Cinema dSKe HD
-#EXTGRP:21КиноStream
-https://liveplay.trovo.live/live/73846_117156405_117156405.flv?bizid=73846&txSecret=89b57eb2a99c460819b057b8f84dd1b3&txTime=69b401bb&_bmlj_t=ChwwODhsak5DWktJako0TzVwOG8rK3pHS1ZEU0k9EiQ5MzE3NzhlZi03Zjk1LTRmYmEtYjFhMS0zMTljZTgxZDFiNDMaHjExNzE1NjQwNV8xMTcxNTY0MDVfMTc3Mjc5OTc0OSCkmavNBiiP%2BMQ3Mhk3Mzg0Nl8xMTcxNTY0MDVfMTE3MTU2NDA1Qg00Ni4xMzguMTQ3LjI4ShtsaXZlLXJlYWRlci1zdnJfR2V0TGl2ZUluZm9QBGACehI4ODUwMTI2ODQ4MjUxMjIzMTmQAQQ%3D&playScene=innerSite&pvid=885012684825122319&_f_=1772801192718
 #EXTINF:0,Кинозал SD
 #EXTGRP:21КиноStream
 http://185.57.68.33/237/index.m3u8?WithCaption
-#EXTINF:0,1auto-tv.ru SD
-#EXTGRP:21КиноStream
-rtmp://vkvsd158.okcdn.ru/playback/10332204051428?stkn=hVx0kn1sfv1eSrGAlIcUsySgZkHrd9_xf3lTnhlbP9v3QWoCIPDZ6tWCko0yGbsh45skapyzpt4&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:0,Phaztil HD
-#EXTGRP:21КиноStream
-https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.U0tZwUmIDmYb.m3u8
-#EXTINF:0,Epic Media HD
-#EXTGRP:21КиноStream
-rtmp://vkvsd66.okcdn.ru/playback/14311402711915?stkn=ME4R_v8_Atb03b-lQzarXbofyDBJSMhPfcJnsQ26jVGhmtVOe66eWrwPi2gAJdiRNTWcEp0dIwJC&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:0,SUNSET 1 HD
-#EXTGRP:21КиноStream
-http://str-01.sunset-media.org/SunsetOne/index.m3u8
-#EXTINF:0,CyberTV HD
-#EXTGRP:21КиноStream
-https://live20.bozztv.com/akamaissh101/ssh101/cybertv/chunks.m3u8
-#EXTINF:0,CyberTV 2 HD
-#EXTGRP:21КиноStream
-https://live20.bozztv.com/akamaissh101/ssh101/cybertv2/chunks.m3u8
-#EXTINF:0,Yaasya HD
-#EXTGRP:21КиноStream
-https://liveplay.trovo.live/live/73846_107141214_107141214.flv?bizid=73846&txSecret=bfb891d85da7d19891f997f09078b6ef&txTime=68b31502&_bmlj_t=Chw5Zyt6cmNsQjd2UllVNEdlZ0VFbysvV28xOUE9EiQ5YzFhMjUwNi0wZjgwLTQ5YzUtODFlOC1jNDAyOTE2NzNlY2YaHjEwNzE0MTIxNF8xMDcxNDEyMTRfMTc1NTk2MTk4NiCq1afFBiiP%2BMQ3Mhk3Mzg0Nl8xMDcxNDEyMTRfMTA3MTQxMjE0Qg40Ni4xMzguMTQ2LjIyM0obbGl2ZS1yZWFkZXItc3ZyX0dldExpdmVJbmZvUARgAnoQNDgwMzE3NDQyNTA0MTkwOJABBA%3D%3D&playScene=innerSite&pvid=4803174425041908&_f_=1755966126417
-#EXTINF:0,Amazonka
-#EXTGRP:21КиноStream
-https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.fLlpBNPgoo3U.m3u8
 #EXTINF:0,Мои сериалы SD
 #EXTGRP:21КиноStream
 https://live20.bozztv.com/giatvplayout7/ushba5/index.m3u8
-#EXTINF:0,Кино FreeLive HD
-#EXTGRP:21КиноStream
-rtmp://vkvsd264.okcdn.ru/playback/12064964881164?stkn=EdguVuv_oD3npktMB05kvtQWMdHypgBWthgzEvl9Kdvo930TTDK6gm1z9WFTLC7lxSTX0OWjv725&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:0,Л
 #EXTGRP:21КиноStream
 https://flussonic.mkpnet.ru/tv-7a5f996197077375/video.m3u8
@@ -2981,33 +2585,15 @@ http://tinyurl.com/%74%76%7A%61%74%61%6B20/ushba-films-qr/tracks-v1a1/mono.m3u8
 #EXTINF:0,Кинозалы 12
 #EXTGRP:21КиноStream
 http://tinyurl.com/%74%76%7A%61%74%61%6B20/ushba-films-i/tracks-v1a1/mono.m3u8
-#EXTINF:0,WelZeVooL
-#EXTGRP:21КиноStream
-https://liveplay.trovo.live/live/73846_116006950_116006950.flv?bizid=73846&txSecret=257c661528d9decf489e981838ffb44f&txTime=69e92102&_bmlj_t=ChwvekxIMnlmbXM1akYvUm9PSFVYYzNtdW9oRjQ9EiRjOGVmZWU0Ni0zMjg1LTRlMDUtYTliNi0wZGI4YzMxNDZlZWMaHjExNjAwNjk1MF8xMTYwMDY5NTBfMTc3NjI4MTIxOCC62YLPBiiP%2BMQ3Mhk3Mzg0Nl8xMTYwMDY5NTBfMTE2MDA2OTUwQg00Ni4xMzguMTQ3LjI4ShtsaXZlLXJlYWRlci1zdnJfR2V0TGl2ZUluZm9QBGACehI4MzcwMjgwNDQ4MjYwNDAyMDiQAQQ%3D&playScene=innerSite&pvid=837028044826040208&_f_=1776331967513
-#EXTINF:0,VK Кино и сериалы SD
-#EXTGRP:21КиноStream
-rtmp://vkvsd60.okcdn.ru/playback/12955145284352?stkn=O0XWDSVH_1eAW3FB4J1XY5ajlmuJdEQ8FlSbwJBNc_E8lV4j-92j_RZPeRz_NYqBI0mlss54qxM&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:0,ScripachTVᴴᴰ
 #EXTGRP:21КиноStream
 http://kinowalk.hopto.org/scripachtv_live
-#EXTINF:0,Kin0ZALL HD
-#EXTGRP:21КиноStream
-https://liveplay.trovo.live/live/73846_116058117_116058117.flv?bizid=73846&txSecret=5018db03ac0508edf13f9aa18bb6d2eb&txTime=695e209d&_bmlj_t=ChxMeU5LQWdrTzBqNGdCZExCdjR2elNUcGIwTDg9EiRlYTNkYTA4MC0wOTJlLTQzMjUtOTU1My1jM2QyMTkwZmUxNGUaHjExNjA1ODExN18xMTYwNTgxMTdfMTc2NzE3MTYxMyCT19TKBiiP%2BMQ3Mhk3Mzg0Nl8xMTYwNTgxMTdfMTE2MDU4MTE3Qg00Ni4xMzguMTQ4LjgyShtsaXZlLXJlYWRlci1zdnJfR2V0TGl2ZUluZm9QBGACehI4ODUwMTI2ODQ4MjUxMjIzMTmQAQQ%3D&playScene=innerSite&pvid=885012684825122319&_f_=1767189399211
-#EXTINF:0,Bolzak Martyn HD
-#EXTGRP:21КиноStream
-https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.ZWUFHr9opudq.m3u8
 #EXTINF:0,КлассикаКино
 #EXTGRP:21КиноStream
 https://dvrfl07.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
 #EXTINF:0,MKNEWS24.RU SD
 #EXTGRP:21КиноStream
 https://stream.mknews24.ru/hls/stream.m3u8?DVR
-#EXTINF:0,Просмотровый Зал HD
-#EXTGRP:21КиноStream
-https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.tVIEWpGIgfkW.m3u8
-#EXTINF:0,Кино FreeLive 1 HD
-#EXTGRP:21КиноStream
-rtmp://vkvsd236.okcdn.ru/playback/14167521176489?stkn=K63bC0mR_2_wJ1fDCuwIqPL3m5zAPcJqn1PUECXMnwmrAP5psa3RO4XhZHQN2jKSKYekmxuddknX&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:0,Queen of Sparta HD
 #EXTGRP:21КиноStream
 https://liveplay.trovo.live/live/73846_102135256_102135256.flv?bizid=73846&txSecret=941045226191f28b8175b59abbc2826e&txTime=6a0709e9&_bmlj_t=ChwvMEdKdEtvZi9sQjBKOHhCTkp2MVd4amJXK1E9EiRlYzAzYTAxOS01NTU5LTQ3ODQtYTZiNC05ODc0MDljYmI5YjkaHjEwMjEzNTI1Nl8xMDIxMzUyNTZfMTc3ODI0MTM4NSDRy%2FfPBiiP%2BMQ3Mhk3Mzg0Nl8xMDIxMzUyNTZfMTAyMTM1MjU2Qg00Ni4xMzguMTQ3LjI4ShtsaXZlLXJlYWRlci1zdnJfR2V0TGl2ZUluZm9QBGACehIyMjE4ODYwNTQ0MjYwNTA0MTGQAQQ%3D&playScene=innerSite&pvid=221886054426050411&_f_=1778247127405
@@ -3026,9 +2612,6 @@ http://kinowalk.hopto.org/kinowalk_live
 #EXTINF:0,VideoArsenal HD
 #EXTGRP:22Kinowalk
 http://kinowalk.hopto.org/videoarsenal_live
-#EXTINF:0,Всё ТВ HD
-#EXTGRP:22Kinowalk
-http://kinowalk.hopto.org/vsetv_live
 #EXTINF:0,Akudji SD
 #EXTGRP:22Kinowalk
 http://kinowalk.hopto.org/akudjitv_live
@@ -3455,84 +3038,6 @@ http://kinowalk.hopto.org/prizrak-oz_live
 #EXTINF:0,VKTV HD
 #EXTGRP:22Kinowalk
 http://kinowalk.hopto.org/vktv_hd_cinema_live
-#EXTINF:0,КиноАзия
-#EXTGRP:24City Eden
-https://v2.catcast.tv/content/34393/index.m3u8?token=4820860489c08aa659ffb33c92358a39
-#EXTINF:0,КиноАрт
-#EXTGRP:24City Eden
-https://v2.catcast.tv/content/38398/index.m3u8?token=4f43f1832ce7645999a99aa4670c4ba2
-#EXTINF:0,КиноДетектив
-#EXTGRP:24City Eden
-https://v2.catcast.tv/content/41327/index.m3u8?token=9dee1ad992f598e46ab870bb47bd31f7
-#EXTINF:0,КиноДрама
-#EXTGRP:24City Eden
-https://v2.catcast.tv/content/45269/index.m3u8
-#EXTINF:0,КиноКлассика
-#EXTGRP:24City Eden
-https://v2.catcast.tv/content/34185/index.m3u8
-#EXTINF:0,КиноКомедия
-#EXTGRP:24City Eden
-https://v2.catcast.tv/content/41331/index.m3u8?token=22d0b42156955624bde6b2e92120f392
-#EXTINF:0,КиноМистика
-#EXTGRP:24City Eden
-https://v2.catcast.tv/content/40783/index.m3u8?token=f63a7cb2c071fdd698891b0dce1d9fa3
-#EXTINF:0,ТелеНовелла
-#EXTGRP:24City Eden
-http://cityeden.catcast.tv/content/46209/index.m3u8
-#EXTINF:0,КиноСемья
-#EXTGRP:24City Eden
-https://v2.catcast.tv/content/38128/index.m3u8
-#EXTINF:0,КиноФантастика
-#EXTGRP:24City Eden
-https://v2.catcast.tv/content/45268/index.m3u8
-#EXTINF:0,КиноЭкшен
-#EXTGRP:24City Eden
-https://v2.catcast.tv/content/41333/index.m3u8
-#EXTINF:0,Сити Эдем ТВ
-#EXTGRP:24City Eden
-https://autopilot.catcast.tv/content/34246/index.m3u8?password=loganet
-#EXTINF:0,Рождественский
-#EXTGRP:24City Eden
-https://cityeden.catcast.tv/content/46503/index.m3u8?token=
-#EXTINF:0,КиноДок
-#EXTGRP:24City Eden
-http://cityeden.catcast.tv/content/38354/index.m3u8
-#EXTINF:0,Meditation Music
-#EXTGRP:24City Eden
-https://cityeden.catcast.tv/content/47410/index.m3u8
-#EXTINF:0,Classic Music
-#EXTGRP:24City Eden
-http://cityeden.catcast.tv/content/47400/index.m3u8
-#EXTINF:0,Сиртаки ТВ
-#EXTGRP:24City Eden
-https://autopilot.catcast.tv/content/46421/index.m3u8?password=loganet
-#EXTINF:0,Бирма Play
-#EXTGRP:24City Eden
-https://cityeden.catcast.tv/content/34364/index.m3u8
-#EXTINF:0,Сити Эдем Плей
-#EXTGRP:24City Eden
-https://autopilot.catcast.tv/content/34100/index.m3u8?password=
-#EXTINF:0,РецептыГурмана
-#EXTGRP:24City Eden
-https://autopilot.catcast.tv/content/47516/index.m3u8?password=loganet
-#EXTINF:0,Рецепты Гурмана
-#EXTGRP:24City Eden
-http://cityeden.catcast.tv/content/47516/index.m3u8
-#EXTINF:0,МедЗдрав
-#EXTGRP:24City Eden
-https://autopilot.catcast.tv/content/47519/index.m3u8?password=loganet
-#EXTINF:0,АвтоГид
-#EXTGRP:24City Eden
-https://autopilot.catcast.tv/content/47515/index.m3u8?password=loganet
-#EXTINF:0,КиноАзия SD*
-#EXTGRP:24City Eden
-https://autopilot.catcast.tv/content/34393/index.m3u8?password=loganet
-#EXTINF:0,ТелеНовелла SD
-#EXTGRP:24City Eden
-http://autopilot.catcast.tv/content/46209/index.m3u8?password=promolive
-#EXTINF:0,КиноАрт SD*
-#EXTGRP:24City Eden
-https://autopilot.catcast.tv/content/38398/index.m3u8?password=
 #EXTINF:0,КиноДетектив SD*
 #EXTGRP:24City Eden
 https://autopilot.catcast.tv/content/41327/index.m3u8?password=loganet
@@ -3716,9 +3221,6 @@ http://tinyurl.com/%74%76%7A%61%74%61%6B20/ushba-rfilrms-g/tracks-v1a1/mono.m3u8
 #EXTINF:0,Кинозалы 31
 #EXTGRP:24USBA TV
 http://tinyurl.com/%74%76%7A%61%74%61%6B20/ushba-rfilrms-i/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кинозалы 32
-#EXTGRP:24USBA TV
-http://tinyurl.com/%74%76%7A%61%74%61%6B20/ushba-rfilrms-k/index.m3u8
 #EXTINF:0,Кинозалы 33
 #EXTGRP:24USBA TV
 http://tinyurl.com/%74%76%7A%61%74%61%6B20/ushba-rfilrms-p/tracks-v1a1/mono.m3u8
@@ -3812,9 +3314,6 @@ http://tinyurl.com/%74%76%7A%61%74%61%6B20/ushba45/index.m3u8
 #EXTINF:0,АНЕКДОТЫ
 #EXTGRP:24USBA TV
 http://tinyurl.com/%74%76%7A%61%74%61%6B20/ushba81/tracks-v1a1a1/mono.m3u8
-#EXTINF:0,Танцуй
-#EXTGRP:24USBA TV
-http://158.160.149.81:8080/7081/index.m3u8
 #EXTINF:0,Шоу Бенни Хилла
 #EXTGRP:24USBA TV
 https://rpn3.bozztv.com/dvrfl07/ushba62/tracks-v1a1/mono.m3u8
@@ -3833,12 +3332,6 @@ http://mfe01.cliptv.az/dash/Animal_Planet_HD345wer.ism/playlist.mpd
 #EXTINF:0,Animal Planetᴴᴰ
 #EXTGRP:25ПРИРОДА
 http://46.32.176.50/AnimalPlanetHD/index.m3u8
-#EXTINF:0,Nat Geo Wild
-#EXTGRP:25ПРИРОДА
-http://77.245.98.18:8000/play/a00v
-#EXTINF:0,Nat Geo Wild FD
-#EXTGRP:25ПРИРОДА
-http://185.164.82.18:9010/ykMHqK_NatGeoWild
 #EXTINF:0,Nat Geo Wildᴴᴰ
 #EXTGRP:25ПРИРОДА
 http://46.32.176.50/NatGeoWildHD/index.m3u8
@@ -3851,9 +3344,6 @@ https://a3569457567-s70378.cdn.ngenix.net/viasat_nature/2/index.m3u8
 #EXTINF:0,viju Nature
 #EXTGRP:25ПРИРОДА
 http://93.84.115.174:10181/nature
-#EXTINF:0,viju Natureᴴᴰ
-#EXTGRP:25ПРИРОДА
-http://92.63.106.41/24hp/stream.php?id=3963
 #EXTINF:0,ZooПарк
 #EXTGRP:25ПРИРОДА
 http://176.96.241.40/ZooPark/index.m3u8
@@ -3887,9 +3377,6 @@ http://46.32.176.50/animalplanet/index.m3u8
 #EXTINF:0,Epic
 #EXTGRP:26ПУТЕШЕСТВИЯ
 http://193.25.8.59:8000/dtx
-#EXTINF:0,Big Planet
-#EXTGRP:26ПУТЕШЕСТВИЯ
-http://45.145.32.13:20440/bigplanet/index.m3u8?token=test
 #EXTINF:0,National Geographic
 #EXTGRP:26ПУТЕШЕСТВИЯ
 http://a3569457567-s70378.cdn.ngenix.net/national_geographic/1/index.m3u8
@@ -3905,15 +3392,9 @@ http://31.148.48.15:80/RTG_HD/index.m3u8
 #EXTINF:0,RTGᴴᴰ
 #EXTGRP:26ПУТЕШЕСТВИЯ
 http://193.25.8.59:8000/rtg
-#EXTINF:0,Travel+Adventure
-#EXTGRP:26ПУТЕШЕСТВИЯ
-http://tmptv.sunduk.tv/CH273/index.m3u8
 #EXTINF:0,Travel+Adventureᴴᴰ
 #EXTGRP:26ПУТЕШЕСТВИЯ
 http://77.232.131.211/TravelAdventureHD/index.m3u8
-#EXTINF:0,TravelXPᴴᴰ
-#EXTGRP:26ПУТЕШЕСТВИЯ
-http://77.245.98.18:8000/play/a00n
 #EXTINF:0,Terra
 #EXTGRP:26ПУТЕШЕСТВИЯ
 https://a3569457567-s70378.cdn.ngenix.net/terra/2/index.m3u8
@@ -3926,9 +3407,6 @@ http://178.124.153.123:44400/terra?|User-Agent=http-user-agent=Lavf/56.15.102
 #EXTINF:0,Терра Incognitaᴴᴰ
 #EXTGRP:26ПУТЕШЕСТВИЯ
 http://178.124.153.123:44400/terra
-#EXTINF:0,viju+ Planetᴴᴰ
-#EXTGRP:26ПУТЕШЕСТВИЯ
-http://92.63.106.41/24hp/stream.php?id=197
 #EXTINF:0,Большая Азия
 #EXTGRP:26ПУТЕШЕСТВИЯ
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v2a1/mono.m3u8
@@ -3977,9 +3455,6 @@ http://cdn.kubteltv.workers.dev/?ID=257
 #EXTINF:0,Точка.РФ SD
 #EXTGRP:26ПУТЕШЕСТВИЯ
 http://158.101.222.193:88/georgia_play.php?id=hdlife
-#EXTINF:0,Точка.РФᴴᴰ
-#EXTGRP:26ПУТЕШЕСТВИЯ
-http://92.63.106.41/24hp/stream.php?id=142
 #EXTINF:0,Точка Отрыва
 #EXTGRP:26ПУТЕШЕСТВИЯ
 http://cdn.kubteltv.workers.dev/?ID=231
@@ -4022,9 +3497,6 @@ https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXM
 #EXTINF:0,Docu Box
 #EXTGRP:27ПОЗНАВАТЕЛЬНЫЕ
 http://193.25.8.59:8000/24Doc
-#EXTINF:0,Discovery Channel
-#EXTGRP:27ПОЗНАВАТЕЛЬНЫЕ
-http://77.245.98.18:8000/play/a01j
 #EXTINF:0,Discovery Channel FD
 #EXTGRP:27ПОЗНАВАТЕЛЬНЫЕ
 http://s8.rafail1982.uz/1039/tracks-v1a1a1/mono.m3u8
@@ -4079,9 +3551,6 @@ http://46.32.176.50/viasatexplorer/index.m3u8
 #EXTINF:0,Viju Explore
 #EXTGRP:27ПОЗНАВАТЕЛЬНЫЕ
 http://tinyurl.com/TvZaTak65?id=viasatexp
-#EXTINF:0,viju Exploreᴴᴰ
-#EXTGRP:27ПОЗНАВАТЕЛЬНЫЕ
-http://92.63.106.41/24hp/stream.php?id=997
 #EXTINF:0,viju History
 #EXTGRP:27ПОЗНАВАТЕЛЬНЫЕ
 http://93.84.115.174:10181/history
@@ -4157,9 +3626,7 @@ https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=k9
 #EXTINF:0,Тайна FD
 #EXTGRP:27ПОЗНАВАТЕЛЬНЫЕ
 https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=V1-tEw5Cpojw6jhxNF9IMw&e=2066519764&scheme=https
-#EXTINF:0,Тайна SD
-#EXTGRP:27ПОЗНАВАТЕЛЬНЫЕ
-rtmp://vkvsd165.okcdn.ru/playback/3981627960275?stkn=plvuEUwM3gtjZlC1OIJCJS8WAhM93ZJhB2j73dGS23O-dUwdhOekc0200JNtlcVNy2XlcxuXWf0&uid=0&sp=uid,sp&sig=vlibqm4nyu
+
 #EXTINF:0,ЮУрГУ ТВ SD
 #EXTGRP:27ПОЗНАВАТЕЛЬНЫЕ
 http://tvrlive.susu.ru/1800k/playlist.m3u8
@@ -4226,21 +3693,6 @@ http://89.218.32.179:18000/play/a027
 #EXTINF:0,Диалоги о Рыбалке
 #EXTGRP:28ХОББИ И УВЛЕЧЕНИЯ
 http://hls.peers.tv/streaming/dialogi_o_rybalke/16/vh1w/playlist.m3u8?token=d680c0c502834299a358e0c1783e9f94&client=97
-#EXTINF:0,Дикая Охота
-#EXTGRP:28ХОББИ И УВЛЕЧЕНИЯ
-http://46.53.208.4/live/2325.m3u8
-#EXTINF:0,Дикая Охотаᴴᴰ
-#EXTGRP:28ХОББИ И УВЛЕЧЕНИЯ
-http://46.53.208.4:80/live/2325.m3u8
-#EXTINF:0,Дикая Охота HD
-#EXTGRP:28ХОББИ И УВЛЕЧЕНИЯ
-https://s1.merlive.am/dikayaoxota/index.m3u8
-#EXTINF:0,Дикая Рыбалка HD
-#EXTGRP:28ХОББИ И УВЛЕЧЕНИЯ
-https://s1.merlive.am/dikaiaribalka/index.m3u8
-#EXTINF:0,Дикая Рыбалкаᴴᴰ
-#EXTGRP:28ХОББИ И УВЛЕЧЕНИЯ
-http://46.53.208.4/live/2324.m3u8
 #EXTINF:0,Дикий
 #EXTGRP:28ХОББИ И УВЛЕЧЕНИЯ
 http://93.84.115.174:10181/diki
@@ -4256,9 +3708,6 @@ http://31.148.48.15/Doktor/index.m3u8
 #EXTINF:0,Драйв
 #EXTGRP:28ХОББИ И УВЛЕЧЕНИЯ
 http://93.84.115.174:10181/drive
-#EXTINF:0,Драйв HD
-#EXTGRP:28ХОББИ И УВЛЕЧЕНИЯ
-http://92.63.106.41/24hp/stream.php?id=8362
 #EXTINF:0,Живи!ᴴᴰ
 #EXTGRP:28ХОББИ И УВЛЕЧЕНИЯ
 http://31.148.48.15/Zhivi/index.m3u8
@@ -4268,9 +3717,6 @@ https://flussonic.mkpnet.ru/tv-fa810958620d77d8/video.m3u8?token=test
 #EXTINF:0,Загородный
 #EXTGRP:28ХОББИ И УВЛЕЧЕНИЯ
 http://cdn.kubteltv.workers.dev/?ID=256
-#EXTINF:0,Загородный Int.ᴴᴰ
-#EXTGRP:28ХОББИ И УВЛЕЧЕНИЯ
-http://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
 #EXTINF:0,Загородная Жизнь
 #EXTGRP:28ХОББИ И УВЛЕЧЕНИЯ
 http://185.57.68.33/40/mpegts
@@ -4304,9 +3750,6 @@ https://tinyurl.com/TvZaTak05/1413/tracks-v1a1/mono.m3u8
 #EXTINF:0,Охотник и Рыболовᴴᴰ
 #EXTGRP:28ХОББИ И УВЛЕЧЕНИЯ
 https://s06.watcher.uz/123/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
-#EXTINF:0,Первый Вегетарианский
-#EXTGRP:28ХОББИ И УВЛЕЧЕНИЯ
-http://46.53.208.4/live/973.m3u8
 #EXTINF:0,Психология
 #EXTGRP:28ХОББИ И УВЛЕЧЕНИЯ
 http://cdn.kubteltv.workers.dev/?ID=65
@@ -4316,9 +3759,6 @@ http://194.143.148.28:8080/Mir24/mpegts
 #EXTINF:0,Усадьба
 #EXTGRP:28ХОББИ И УВЛЕЧЕНИЯ
 http://93.84.115.174:10181/usadba
-#EXTINF:0,Усадьба HD
-#EXTGRP:28ХОББИ И УВЛЕЧЕНИЯ
-http://92.63.106.41/24hp/stream.php?id=8361
 #EXTINF:0,Успех
 #EXTGRP:28ХОББИ И УВЛЕЧЕНИЯ
 https://flussonic.mkpnet.ru/tv-324fe9acc597fbc1/video.m3u8
@@ -4340,9 +3780,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1426
 #EXTINF:0,555 SD
 #EXTGRP:29РАЗВЛЕКАТЕЛЬНЫЕ
 http://trk555.tv:8888/live
-#EXTINF:0,Alpha Funnyᴴᴰ
-#EXTGRP:29РАЗВЛЕКАТЕЛЬНЫЕ
-https://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
 #EXTINF:0,AMAZING SHOW SD
 #EXTGRP:29РАЗВЛЕКАТЕЛЬНЫЕ
 http://49.0.64.96:8007/AMAZING
@@ -4376,9 +3813,6 @@ http://89.104.114.24:8080/art/index.m3u8?token=test
 #EXTINF:0,Вопросы и Ответы
 #EXTGRP:29РАЗВЛЕКАТЕЛЬНЫЕ
 https://s04.watcher.uz/115/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
-#EXTINF:0,Вопросы Ответы FD
-#EXTGRP:29РАЗВЛЕКАТЕЛЬНЫЕ
-http://dmitry-tv.ddns.net/hls/blrus/voka/CH_VOPROSY_OTVETY.m3u8
 #EXTINF:0,ЕРАЛАШ
 #EXTGRP:29РАЗВЛЕКАТЕЛЬНЫЕ
 https://rpn3.bozztv.com/dvrfl07/ushba10/tracks-v1a1/mono.m3u8
@@ -4388,9 +3822,6 @@ https://a3569457567-s70378.cdn.ngenix.net/kvn_tv/1/index.m3u8
 #EXTINF:0,Калейдоскоп ТВ
 #EXTGRP:29РАЗВЛЕКАТЕЛЬНЫЕ
 http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMC8yMDI2IDc6NDk6NDcgUE0maGFzaF92YWx1ZT1qUlgvaDF3a2IvNkM1cWFnK3lqN2tBPT0mdmFsaWRtaW51dGVzPTQ4MA==
-#EXTINF:0,Ключᴴᴰ
-#EXTGRP:29РАЗВЛЕКАТЕЛЬНЫЕ
-http://92.63.106.41/ptv/voka/ch.php?id=4566cd28-3efc-4b32-9719-06436f3732c3
 #EXTINF:0,КИТАЙ TVᴴᴰ
 #EXTGRP:29РАЗВЛЕКАТЕЛЬНЫЕ
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
@@ -4439,9 +3870,6 @@ https://s05.watcher.uz/63/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.
 #EXTINF:0,Девятка ТВᴴᴰ
 #EXTGRP:29РАЗВЛЕКАТЕЛЬНЫЕ
 http://devyatka.iptv2022.com/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кварц ТВᴴᴰ
-#EXTGRP:29РАЗВЛЕКАТЕЛЬНЫЕ
-http://109.94.1.3:8080/25/index.m3u8
 #EXTINF:0,Classic Arts Showcase SD
 #EXTGRP:29РАЗВЛЕКАТЕЛЬНЫЕ
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8?checkedby:iptvcat.com
@@ -4541,9 +3969,6 @@ https://s07.watcher.uz/169/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9
 #EXTINF:0,TiJi
 #EXTGRP:30ДЕТСКИЕ
 https://live-3.otcnet.ru/Tiji/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0,В гостях у сказки
-#EXTGRP:30ДЕТСКИЕ
-http://45.145.32.13:20440/sony_turbo/index.m3u8?token=test
 #EXTINF:0,В гостях у сказкиᴴᴰ
 #EXTGRP:30ДЕТСКИЕ
 https://s06.watcher.uz/135/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
@@ -4556,9 +3981,6 @@ http://dmitry-tv.ddns.net/hls/CH_KAPITAN_FANTASTIKA.m3u8
 #EXTINF:0,Карусель
 #EXTGRP:30ДЕТСКИЕ
 http://93.84.115.174:10181/karusel
-#EXTINF:0,Карусель International
-#EXTGRP:30ДЕТСКИЕ
-http://87.246.54.249:8080/Karusel/mpegts
 #EXTINF:0,Карусель Int FD
 #EXTGRP:30ДЕТСКИЕ
 https://streaming.televizor-24-tochka.ru/live/232.m3u8
@@ -4568,9 +3990,6 @@ https://streaming.thestream.cyou/live/232-req_offset_28000000-req_window_0-1k_v5
 #EXTINF:0,Киномульт
 #EXTGRP:30ДЕТСКИЕ
 http://cdn.kubteltv.workers.dev/?ID=346
-#EXTINF:0,Мама
-#EXTGRP:30ДЕТСКИЕ
-http://tmptv.sunduk.tv/CH155/index.m3u8
 #EXTINF:0,Мульт
 #EXTGRP:30ДЕТСКИЕ
 http://93.84.115.174:10181/mult
@@ -4631,9 +4050,6 @@ http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 #EXTINF:0,Тоокуᴴᴰ
 #EXTGRP:30ДЕТСКИЕ
 http://live-saha.cdnvideo.ru/saha/tooky/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=7fccbb7bbabf781d2b97487b967e3663
-#EXTINF:0,Шаян
-#EXTGRP:30ДЕТСКИЕ
-http://%64m%69%74%72%79-%74%76.ddns.net/hls/region/CH_SHAYAN_KZN.m3u8
 #EXTINF:0,ШАЯН
 #EXTGRP:30ДЕТСКИЕ
 http://shayan.bonus-tv.ru:80/cdn/shayan/tracks-v3a1/mono.m3u8
@@ -4655,9 +4071,6 @@ http://31.148.48.15:80/English_club_TV_HD/index.m3u8
 #EXTINF:0,Sumiko HD
 #EXTGRP:30ДЕТСКИЕ
 http://cdn.kubteltv.workers.dev/?ID=343
-#EXTINF:0,Аниме ТВ SD
-#EXTGRP:30ДЕТСКИЕ
-http://92.63.106.41/24hp/stream.php?id=8854
 #EXTINF:0,Cartoon Network
 #EXTGRP:30ДЕТСКИЕ
 http://176.118.197.101/Cartoon_Network/index.m3u8
@@ -4676,15 +4089,6 @@ http://tinyurl.com/TvZaTak005/MamontRu/tracks-v1a1/mono.m3u8
 #EXTINF:0,Пингвин
 #EXTGRP:31МультStream
 http://tinyurl.com/TvZaTak005/PingvinRu/tracks-v1a1/mono.m3u8
-#EXTINF:0,VK Детский 0+ᴴᴰ
-#EXTGRP:31МультStream
-rtmp://vkvsd182.okcdn.ru/playback/9942884887405?stkn=9VVfByDOizlWlr_rfoRi8TpelV04alIYQ_0Jk3cI_HojytXGIOqVjegIFH3lVi14ozMs9MWxBP0&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:0,VK Детский 6+ᴴᴰ
-#EXTGRP:31МультStream
-rtmp://vkvsd21.okcdn.ru/playback/9707377929063?stkn=DFG1rqI3FgXeZ_htnEwsbN6VQTD1f94i2q76f9zRxAS8Cfi2DmoeIt6qPK7S1qCXEQaRA_Cy79E&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:0,VK Мульт Развивайкаᴴᴰ
-#EXTGRP:31МультStream
-rtmp://vkvsd69.okcdn.ru/playback/9617415285537?stkn=c3xFITyET9hWVhzOauNBmXkqvc4EmpLHuIPymPixanZ_ZCSdPyOzAThYxRBPDfoYbrZMsNN5P7M&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:0,Ключайкаᴴᴰ
 #EXTGRP:31МультStream
 https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=8hKIWF5Ng40B0-kW7qvWBA&e=2070122249&scheme=https
@@ -4712,12 +4116,6 @@ https://rpn3.bozztv.com/dvrfl07/ushba8/tracks-v1a1/mono.m3u8
 #EXTINF:0,Мультфильмы 24/7 SD
 #EXTGRP:31МультStream
 http://kinowalk.hopto.org/mezontrop_live
-#EXTINF:0,JETIX
-#EXTGRP:31МультStream
-http://foxkids-online.ru/hls/test.m3u8
-#EXTINF:0,Fox Kids
-#EXTGRP:31МультStream
-http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
 #EXTINF:0,FoxKids Remasteredᴴᴰ
 #EXTGRP:31МультStream
 http://kinowalk.hopto.org/foxkids_remastered_live
@@ -4733,51 +4131,12 @@ https://live.jtx-online.ru/memfs/e30ea533-4abf-4a88-91bc-73744ecfd06f.m3u8
 #EXTINF:0,Mr.Bean Cartoonᴴᴰ
 #EXTGRP:31МультStream
 https://bl.rutube.ru/livestream/0e9e44725d5d5ab7ee92c10b40215419/index.m3u8?s=dwMWI9TXbyv3GPsGlPCGiw&e=2071743859&scheme=https
-#EXTINF:0,Futurama
-#EXTGRP:31МультStream
-rtmp://vkvsd80.okcdn.ru/playback/9231228939170?stkn=uFv9-KNKZdHPR_25KX-aJxQWzQScl0lMDt7lIp3XdMBfKiZ_ef4ux87TNStrYusKJOqLIMnt3_w&uid=0&sp=uid,sp&sig=vlibqm4nyu
 #EXTINF:0,BIGS BUGS BUNNY
 #EXTGRP:31МультStream
 https://video1.getstreamhosting.com:1936/8006/8006/playlist.m3u8
-#EXTINF:0,ЮЖНЫЙ ПАРК SD
-#EXTGRP:31МультStream
-rtmp://vkvsd75.okcdn.ru/playback/8993430186980?stkn=hN4rGahMjAaq7g4ZVpd3E3465oyw-t1CYTdQPWM5khxh-VjqXjoDCUvA4pz3fgRSez8n77rydN0&uid=0&sp=uid,sp&sig=vlibqm4nyu
-#EXTINF:0,ГРИФФИНЫ SD
-#EXTGRP:31МультStream
-rtmp://vkvsd230.okcdn.ru/playback/8134416411520?stkn=2NGXWooIibYkQMyZvKLVJizfC-RjA4Q9-KGsN4Dzkm8wTkCZ5Z3J329VaVSBrsTpqctjj27WPNU&uid=0&sp=uid,sp&sig=vlibqm4nyu
-#EXTINF:0,РИК И МОРТИ SD
-#EXTGRP:31МультStream
-rtmp://vkvsd228.okcdn.ru/playback/10137229994917?stkn=uF-qcmEstFzJRTk2k_pZQ1gq2MmP1WidLMkrmdavGcLp34x9bzBxhFHTQgs1Xg12RcMkQlS8LY4&uid=0&sp=uid,sp&sig=vlibqm4nyu
-#EXTINF:0,АМЕРИКАНСКИЙ ПАПАША SD
-#EXTGRP:31МультStream
-rtmp://vkvsd231.okcdn.ru/playback/11465359305707?stkn=PIUE3dny2C4QQdgvRp723G_f32wBapMamWluh88g4eznQpqC_odKQvtAaQfbyQGzH5ahLjWN68yQ&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:0,MAKARSTRIM
 #EXTGRP:31МультStream
 http://kinowalk.hopto.org/makarstrim_live
-#EXTINF:0,Cartoon Head TV 1ᴴᴰ
-#EXTGRP:31МультStream
-rtmp://vkvsd199.okcdn.ru/playback/13508853902259?stkn=sCzWr7_00CelDfuiAhev9Uqe8WKfnXTOzDQ8Lgj6ARgwc6phRiz-pt6i-Yq1NpX8dGGiG28Nd3AA&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:0,Cartoon Head TV 2ᴴᴰ
-#EXTGRP:31МультStream
-rtmp://vkvsd60.okcdn.ru/playback/14060848557054?stkn=dPIS_1oqnIEuzshSCF2n-I2rHMWJtuaV8ynjujqQMHN_46y8TxiDA_05tyxY8AemFYcGW7XPvCBu&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:0,Cartoon Head TV 3
-#EXTGRP:31МультStream
-rtmp://vkvsd273.okcdn.ru/playback/14089189272383?stkn=FierR1aDJ6pcyhqVXA4WKVG_BqWJxBtMjpC3mM3sm9OwX5xhiGISnr92bFW_SHVWflKj1-UnZbEG&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:0,Cartoon Head TV 3ᴴᴰ
-#EXTGRP:31МультStream
-rtmp://vkvsd266.okcdn.ru/playback/14929384647507?stkn=KrTLNe1YP24yQvInxR0oSscqUzXuLFJJl9BGdr6DUH-5wu-4l8rBqkc85iK0BmljAPQUv55l9BWc&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:0,Cartoon Head TV 4
-#EXTGRP:31МультStream
-rtmp://vkvsd278.okcdn.ru/playback/13474169039795?stkn=teYFrlCUVUJIuLZBKQ1ImcQWv_fDnIhMXd5HG4rWpAxwu6JoihJenTZ1DOmwOyyp9gA3ALXtyP7K&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:0,Cartoon Head TV 5
-#EXTGRP:31МультStream
-rtmp://vkvsd254.okcdn.ru/playback/13579930184561?stkn=ZNzANBd1DgzBAnlORAm2BoUCCTtMVMrjyruaxwiXSoeOvZXk9ciYjkgomnoAjIshsv2j7U6rfJhC&uid=0&sp=uid,sp&sig=vlibqm4nyu
-#EXTINF:0,Cartoon Head TV 6ᴴᴰ
-#EXTGRP:31МультStream
-rtmp://vkvsd216.okcdn.ru/playback/14643073526732?stkn=8Z3zoYCi6eAwQHIui4O0TiR_yaQkdAjULmZMEFci0oIV9mntNdEiR7RXE2XOnt6T7KgUysDCWLAZ&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:0,Cartoon Head TV Полнометражкиᴴᴰ
-#EXTGRP:31МультStream
-rtmp://vkvsd62.okcdn.ru/playback/15605286185795?stkn=0BfhzaS79rBPIuIp3ITDJ69MiJyoRjR4EFbewyaQ3Mgc8XQQP1HrUXEHAegtQLK3Wqxjdr4ma7JT&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:0,Колобок
 #EXTGRP:31МультStream
 http://tinyurl.com/%74%76%7A%61%74%61%6B20/ushba80/tracks-v1a1a1/mono.m3u8
@@ -4820,15 +4179,9 @@ https://flussonic.mkpnet.ru/tv-9dda1dd9d740a9a4/video.m3u8
 #EXTINF:0,МАТЧ! АРЕНА SD
 #EXTGRP:32МАТЧ
 http://31.148.48.15:80/Match_Arena_HD/index.m3u8?token=test
-#EXTINF:0,МАТЧ! АРЕНАᴴᴰ
-#EXTGRP:32МАТЧ
-http://92.63.106.41/24hp/stream.php?id=146
 #EXTINF:0,МАТЧ! БОЕЦ
 #EXTGRP:32МАТЧ
 http://45.145.32.13:20440/match_boets/index.m3u8?token=test
-#EXTINF:0,Матч! Игра
-#EXTGRP:32МАТЧ
-http://tmptv.sunduk.tv/CH255/index.m3u8
 #EXTINF:0,МАТЧ! ИГРА
 #EXTGRP:32МАТЧ
 https://flussonic.mkpnet.ru/tv-1bfac9df3d938c1f/video.m3u8
@@ -4850,9 +4203,6 @@ https://bl.video.matchtv.ru/media/playlist/free_04fc20484b40a76bf33b537081ec7bf3
 #EXTINF:0,МАТЧ! ПРЕМЬЕР
 #EXTGRP:32МАТЧ
 https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
-#EXTINF:0,Матч! Премьер HD
-#EXTGRP:32МАТЧ
-http://92.63.106.41/24hp/stream.php?id=250
 #EXTINF:0,МАТЧ! СТРАНА
 #EXTGRP:32МАТЧ
 http://ua.online24.pm/play/134/350B326FB34F4B8/video.m3u8
@@ -4877,9 +4227,6 @@ http://31.148.48.15/Match_Futbol_2_HD/index.m3u8
 #EXTINF:0,МАТЧ! ФУТБОЛ 2 ᴴᴰ
 #EXTGRP:32МАТЧ
 http://45.145.32.13:20440/match_futbol_2_hd/index.m3u8?token=test
-#EXTINF:0,МАТЧ! ФУТБОЛ 2ᴴᴰ
-#EXTGRP:32МАТЧ
-http://188.191.160.238:7780/udp/239.195.3.17:1234
 #EXTINF:0,МАТЧ! ФУТБОЛ 3
 #EXTGRP:32МАТЧ
 http://185.57.68.33:80/110/index.m3u8
@@ -4922,18 +4269,6 @@ https://stream8.cinerama.uz/1439/tracks-v1a1/mono.m3u8
 #EXTINF:0,Eurosport 1 FD
 #EXTGRP:33ℂп𝕠𝕡т
 http://b63fa420.ucomist.net/iptv/7FH9M9TCK4LU2H/141/index.m3u8
-#EXTINF:0,Eurosport 1ᴴᴰ
-#EXTGRP:33ℂп𝕠𝕡т
-http://176.96.241.40/Eurosport1/tracks-v1a1/mono.m3u8
-#EXTINF:0,Eurosport 2ᴴᴰ
-#EXTGRP:33ℂп𝕠𝕡т
-http://188.225.31.197/bpk-tv/000002479/tve/index.m3u8?token=test
-#EXTINF:0,Extreme Sports
-#EXTGRP:33ℂп𝕠𝕡т
-http://45.145.32.13:20440/extreme_sports/index.m3u8?token=test
-#EXTINF:0,Extreme Sportsᴴᴰ
-#EXTGRP:33ℂп𝕠𝕡т
-http://46.53.208.4:80/live/3009.m3u8
 #EXTINF:0,FightBox
 #EXTGRP:33ℂп𝕠𝕡т
 http://185.98.211.8:81/fightbox/index.m3u8?token=test&21yo=0
@@ -4958,9 +4293,6 @@ http://93.84.115.174:10181/khl
 #EXTINF:0,MMA-TV
 #EXTGRP:33ℂп𝕠𝕡т
 https://s04.watcher.uz/19/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
-#EXTINF:0,MMA-TVᴴᴰ
-#EXTGRP:33ℂп𝕠𝕡т
-https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:0,Setanta Sports 1ᴴᴰ
 #EXTGRP:33ℂп𝕠𝕡т
 https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
@@ -4976,15 +4308,6 @@ https://tinyurl.com/TvZaTak05/1274/tracks-v1a1/mono.m3u8
 #EXTINF:0,Trace Sport Stars ᴴᴰ
 #EXTGRP:33ℂп𝕠𝕡т
 https://s06.watcher.uz/125/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
-#EXTINF:0,viju+ Sport
-#EXTGRP:33ℂп𝕠𝕡т
-http://tmptv.sunduk.tv/CH131/index.m3u8
-#EXTINF:0,viju+ Sport FD
-#EXTGRP:33ℂп𝕠𝕡т
-http://46.53.208.4:80/live/6005.m3u8
-#EXTINF:0,viju+ Sportᴴᴰ
-#EXTGRP:33ℂп𝕠𝕡т
-http://92.63.106.41/24hp/stream.php?id=198
 #EXTINF:0,Vital Drive SD
 #EXTGRP:33ℂп𝕠𝕡т
 http://autopilot.catcast.tv/content/37909/index.m3u8
@@ -5051,9 +4374,6 @@ http://85.88.175.48:2020/udp/239.4.10.79:2020
 #EXTINF:0,Спорт на Первомᴴᴰ
 #EXTGRP:33ℂп𝕠𝕡т
 https://cdn8.1internet.tv/dash-live3/streams/sport-1/sport-1.mpd
-#EXTINF:0,Russian Extreme
-#EXTGRP:33ℂп𝕠𝕡т
-http://tmptv.sunduk.tv/CH67/index.m3u8
 #EXTINF:0,SD REX
 #EXTGRP:33ℂп𝕠𝕡т
 http://31.148.48.15:80/Russkiy_Ekstrim/index.m3u8
@@ -5066,12 +4386,6 @@ https://live.teleradiocom.tj/8/3m.m3u8
 #EXTINF:0,Варзиш Sportᴴᴰ (TJ)
 #EXTGRP:33ℂп𝕠𝕡т
 https://live.teleradiocom.tj/5/3m.m3u8
-#EXTINF:0,ONLINE TVᴴᴰ
-#EXTGRP:33ℂп𝕠𝕡т
-http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
-#EXTINF:0,Окко.Прайм Спорт HD
-#EXTGRP:33ℂп𝕠𝕡т
-http://185.221.213.254:8080/Okko/index.m3u8
 #EXTINF:0,Eurosport 2
 #EXTGRP:33ℂп𝕠𝕡т
 http://46.32.176.50/eurosport2/index.m3u8
@@ -5294,21 +4608,9 @@ http://92.54.205.149:80/rtv/index.m3u8?token=test
 #EXTINF:0,Setanta Sports 1 GE SD
 #EXTGRP:35SPORT
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
-#EXTINF:0,Setanta Sports 2 GE HD
-#EXTGRP:35SPORT
-http://94.43.1.138:8081/setanta2/index.m3u8
-#EXTINF:0,Sky Sport Footballᴴᴰ
-#EXTGRP:35SPORT
-http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591247
 #EXTINF:0,SKY SPORTS GOLFᴴᴰ
 #EXTGRP:35SPORT
 http://fortv.cc:8080/sed8nurse@hotmail.com/0LzoNUu9jX/35240
-#EXTINF:0,SKY SPORTS RACINGᴴᴰ
-#EXTGRP:35SPORT
-http://fortv.cc:8080/sed8nurse@hotmail.com/0LzoNUu9jX/76842
-#EXTINF:0,Sky Sports Premier Leagueᴴᴰ
-#EXTGRP:35SPORT
-http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591248
 #EXTINF:0,SKY Sports News SD
 #EXTGRP:35SPORT
 http://fortv.cc:8080/sed8nurse@hotmail.com/0LzoNUu9jX/35243
@@ -5342,21 +4644,12 @@ http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15925.ts
 #EXTINF:0,Turkmenistan Sport 🇹🇲
 #EXTGRP:35SPORT
 http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
-#EXTINF:0,WIN+ Footballᴴᴰ
-#EXTGRP:35SPORT
-http://fortv.cc:8080/sed8nurse@hotmail.com/0LzoNUu9jX/78697
 #EXTINF:0,YES SD
 #EXTGRP:35SPORT
 http://fortv.cc:8080/sed8nurse@hotmail.com/0LzoNUu9jX/57972
 #EXTINF:0,Fun Roads SD
 #EXTGRP:35SPORT
 http://104.143.4.5:2080/funroads.m3u8
-#EXTINF:0,Super Slow Motion
-#EXTGRP:35SPORT
-https://fl1001.bozztv.com/ushba94/tracks-v1a1/mono.m3u8
-#EXTINF:0,SPOOPS HD
-#EXTGRP:35SPORT
-https://fl1001.bozztv.com/ushba46/tracks-v1a1/mono.m3u8
 #EXTINF:0,1 SPORT SD
 #EXTGRP:35SPORT
 http://185.132.134.159:80/sport1/index.m3u8
@@ -5375,9 +4668,6 @@ http://185.132.134.159:80/sport5/index.m3u8
 #EXTINF:0,6 SPORT SD
 #EXTGRP:35SPORT
 http://185.132.134.159:80/sport6/index.m3u8
-#EXTINF:0,ACI Sport SD
-#EXTGRP:35SPORT
-https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:0,Africa 24 Sportᴴᴰ
 #EXTGRP:35SPORT
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
@@ -5426,90 +4716,21 @@ http://94.236.201.122/INVIVO_EXTREME/index.m3u8
 #EXTINF:0,EKOL Sportsᴴᴰ
 #EXTGRP:35SPORT
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
-#EXTINF:0,Nova Sport
-#EXTGRP:35SPORT
-http://87.246.54.90:8080/NovaSport/tracks-v1a1/mono.m3u8
-#EXTINF:0,EuroSport 1
-#EXTGRP:35SPORT
-http://87.246.54.90:8080/Eurosport/tracks-v1a1/mono.m3u8
-#EXTINF:0,EuroSport 2
-#EXTGRP:35SPORT
-http://87.246.54.90:8080/Eurosport2/tracks-v1a1/mono.m3u8
-#EXTINF:0,Ring BG
-#EXTGRP:35SPORT
-http://87.246.54.90:8080/RING/tracks-v1a1/mono.m3u8
 #EXTINF:0,NHL Network HD
 #EXTGRP:35SPORT
 https://bl.rutube.ru/livestream/7a485ef5da9fe50ba939f36ca3e6ed96/index.m3u8?s=mqJJvJERrp08ZT3T4_xaTw&e=2072008772&scheme=https
-#EXTINF:0,beIN Sport 1 SD
-#EXTGRP:35SPORT
-http://yrtds0911.xyz:8080/turgay/turgay/334642
-#EXTINF:0,beIN Sports Max 1 HD
-#EXTGRP:35SPORT
-http://yrtds0911.xyz:8080/turgay/turgay/6099
-#EXTINF:0,Eurosport 1 HD tr
-#EXTGRP:35SPORT
-http://yrtds0911.xyz:8080/turgay/turgay/6106
-#EXTINF:0,Eurosport 2 HD tr
-#EXTGRP:35SPORT
-http://yrtds0911.xyz:8080/turgay/turgay/6107
-#EXTINF:0,S SPORT SD
-#EXTGRP:35SPORT
-http://yrtds0911.xyz:8080/turgay/turgay/115598
 #EXTINF:0,ACC Network SD
 #EXTGRP:35SPORT
 http://mains.services/live/0228902066/tc674KJ3du/dffda4d2-9ec5-4546-b0f5-a612b8890b62.m3u
-#EXTINF:0,ACI SportTV HD
-#EXTGRP:35SPORT
-http://87.246.54.249:8080/SportTV/index.m3u8
-#EXTINF:0,Diema Sport 1 HD
-#EXTGRP:35SPORT
-http://87.246.54.249:8080/DiemaSport/index.m3u8
-#EXTINF:0,Diema Sport 2 HD
-#EXTGRP:35SPORT
-http://87.246.54.249:8080/DiemaSport2/index.m3u8
-#EXTINF:0,Diema Sport 3 HD
-#EXTGRP:35SPORT
-http://87.246.54.249:8080/DiemaSport3/index.m3u8
 #EXTINF:0,DIGI Sport 1 HD
 #EXTGRP:35SPORT
 http://ua.online24.pm/play/11068/350B326FB34F4B8/video.m3u8
 #EXTINF:0,DIGI Sport 2 HD
 #EXTGRP:35SPORT
 http://ua.online24.pm/play/11069/350B326FB34F4B8/video.m3u8
-#EXTINF:0,Eurosport1
-#EXTGRP:35SPORT
-http://87.246.54.249:8080/Eurosport/index.m3u8
-#EXTINF:0,Eurosport2
-#EXTGRP:35SPORT
-http://87.246.54.249:8080/Eurosport2/index.m3u8
 #EXTINF:0,Jordan Sport HD
 #EXTGRP:35SPORT
 http://93.184.10.248/JordanSport/index.m3u8
-#EXTINF:0,MAX SPORT 1 HD
-#EXTGRP:35SPORT
-http://87.246.54.249:8080/MaxSport1/index.m3u8
-#EXTINF:0,MAX SPORT 2 HD
-#EXTGRP:35SPORT
-http://87.246.54.249:8080/MaxSport2/index.m3u8
-#EXTINF:0,MAX SPORT 3 HD
-#EXTGRP:35SPORT
-http://87.246.54.249:8080/MaxSport3/index.m3u8
-#EXTINF:0,MAX SPORT 4 HD
-#EXTGRP:35SPORT
-http://87.246.54.249:8080/MaxSport4/index.m3u8
-#EXTINF:0,Sport TV 1 [PT] HD
-#EXTGRP:35SPORT
-http://fortv.cc:8080/sed8nurse@hotmail.com/0LzoNUu9jX/167742
-#EXTINF:0,Sport TV 2 [PT] HD
-#EXTGRP:35SPORT
-http://fortv.cc:8080/sed8nurse@hotmail.com/0LzoNUu9jX/167743
-#EXTINF:0,Sport TV 3 [PT] HD
-#EXTGRP:35SPORT
-http://fortv.cc:8080/sed8nurse@hotmail.com/0LzoNUu9jX/167744
-#EXTINF:0,Sport TV 4 [PT] HD
-#EXTGRP:35SPORT
-http://fortv.cc:8080/sed8nurse@hotmail.com/0LzoNUu9jX/167745
 #EXTINF:0,Tennis TV SD
 #EXTGRP:35SPORT
 http://hubtv.ru/index.php?stream=aHR0cDovLzQ5LjAuNjQuOTY6ODAwNy9URU5OSVM=
@@ -5519,12 +4740,6 @@ http://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:0,Atlanta Footbal SD
 #EXTGRP:35SPORT
 https://rpn.bozztv.com/gusa/gusa-auftv/tracks-v1a1/index.m3u8
-#EXTINF:0,CANAL+ SPORT HD
-#EXTGRP:35SPORT
-http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591269
-#EXTINF:0,CANAL+ SPORT 2 HD
-#EXTGRP:35SPORT
-http://electusprs.pro:8080/nSxCFU7A/cdb1sfT/591268
 #EXTINF:0,Billiards +
 #EXTGRP:35SPORT
 http://streams2.sofast.tv:80/umaxx/v1/01971021d4521ea506ec20fcf0501e/01971022375a1eb4611d18040b4f59/billiards_plus_1000k.m3u8
@@ -5537,9 +4752,6 @@ http://181.205.130.194:4000/play/a07i
 #EXTINF:0,STAR SPORTS 1 HD
 #EXTGRP:35SPORT
 http://41.205.93.154/STARSPORTS1/index.m3u8
-#EXTINF:0,ACI Sport TV SD
-#EXTGRP:35SPORT
-http://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:0,Equidia HD
 #EXTGRP:35SPORT
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
@@ -5567,39 +4779,12 @@ https://andro.2385437.xyz/checklist/androstreamlivebs1.m3u8
 #EXTINF:0,BeIN Sports 3 (Turk)
 #EXTGRP:35SPORT
 https://andro.2385437.xyz/checklist/androstreamlivebs3.m3u8
-#EXTINF:0,SMART spor 1
-#EXTGRP:35SPORT
-http://yrtds0911.xyz:8080/turgay/turgay/121246
-#EXTINF:0,Beın Sport 4
-#EXTGRP:35SPORT
-http://yrtds0911.xyz:8080/turgay/turgay/195813
-#EXTINF:0,BEIN sport 3
-#EXTGRP:35SPORT
-http://yrtds0911.xyz:8080/turgay/turgay/195812
-#EXTINF:0,BEIN sport 5
-#EXTGRP:35SPORT
-http://yrtds0911.xyz:8080/turgay/turgay/125936
-#EXTINF:0,S Sport 2
-#EXTGRP:35SPORT
-http://yrtds0911.xyz:8080/turgay/turgay/6105
-#EXTINF:0,Smart spor 2
-#EXTGRP:35SPORT
-http://yrtds0911.xyz:8080/turgay/turgay/113272
-#EXTINF:0,Sony Sports Ten 2 HD
-#EXTGRP:35SPORT
-http://103.229.254.25:7001/play/a02t/index.m3u8
 #EXTINF:0,CBC Sport HD
 #EXTGRP:35SPORT
 http://ru2.tvtm.one/ch1534/mono.m3u8?token=ruslan35.v2_miwK0EHlFZmLT_fncXIx6CnH0jNk6QX3bztO4LawQfFbLih2uZJWid7KeDwCeGjbnKpRdKUfhhXVfA
 #EXTINF:0,TVR Sport FHD
 #EXTGRP:35SPORT
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8
-#EXTINF:0,NovaSport
-#EXTGRP:35SPORT
-http://87.246.54.249:8080/NovaSport/index.m3u8
-#EXTINF:0,RTVS Sport HD [SK]
-#EXTGRP:35SPORT
-https://100.free-iptvchannel.workers.dev/RTVS_Sport_SK/index.m3u8
 #EXTINF:0,Fight TV Plus SD
 #EXTGRP:35SPORT
 https://rpn.bozztv.com/gusa/gusa-fighttvplus/tracks-v1a1/mono.m3u8
@@ -5609,12 +4794,6 @@ https://59ec5453559f0.streamlock.net/cuaimap/_definst_/cuaimap/chunklist_w162016
 #EXTINF:0,UzSport HD
 #EXTGRP:35SPORT
 https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
-#EXTINF:0,RING
-#EXTGRP:35SPORT
-http://87.246.54.249:8080/RING/index.m3u8
-#EXTINF:0,MMA-TV international
-#EXTGRP:35SPORT
-https://tinyurl.com/deoyoleg/playlist.m3u8
 #EXTINF:0,DAZN 5
 #EXTGRP:35SPORT
 http://tinyurl.com/TvZaTak016/eleven5.m3u8
@@ -5645,15 +4824,6 @@ https://tinyurl.com/TvZaTak05/1010/tracks-v1a1/mono.m3u8
 #EXTINF:0,WIN SPORTS HD
 #EXTGRP:35SPORT
 http://138.121.12.126:9000/play/a02a/index.m3u8
-#EXTINF:0,M4 Sport
-#EXTGRP:35SPORT
-http://46.149.191.217:9010/play/a017
-#EXTINF:0,MATCH4 HD
-#EXTGRP:35SPORT
-http://46.149.191.217:9010/play/a019
-#EXTINF:0,Sport2 HD
-#EXTGRP:35SPORT
-http://46.149.191.217:9010/play/a015
 #EXTINF:0,Спорт⚽️ТВ
 #EXTGRP:35SPORT
 http://190.92.10.66:4000/play/a001/index.m3u8
@@ -5666,9 +4836,6 @@ http://line.team-tv.link:80/jLKLjOvdU/beAi6ilBrs/2073
 #EXTINF:0,TVA SD
 #EXTGRP:35SPORT
 http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
-#EXTINF:0,ACI Sport TV
-#EXTGRP:35SPORT
-https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8_output_0.m3u8
 #EXTINF:0,HBCU Gameday SD
 #EXTGRP:35SPORT
 https://rpn.bozztv.com/gusa/gusa-HBCU/tracks-v1a1/mono.m3u8
@@ -5690,24 +4857,9 @@ http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6
 #EXTINF:0,FASHION & LIFESTYLEᴴᴰ
 #EXTGRP:36МОДА И СТИЛЬ
 http://31.148.48.15:80/Fashion_One_HD/index.m3u8
-#EXTINF:0,FASHION CHANNEL SD
-#EXTGRP:36МОДА И СТИЛЬ
-https://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
-#EXTINF:0,Fashion TV Czech & Slovak
-#EXTGRP:36МОДА И СТИЛЬ
-http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
-#EXTINF:0,Fashion TV Czech&Slovak
-#EXTGRP:36МОДА И СТИЛЬ
-http://lb.streaming.sk/fashiontv/stream/playlist.m3u8?token=AnonymousTV
 #EXTINF:0,Fashion TV Paris L'Originalᴴᴰ
 #EXTGRP:36МОДА И СТИЛЬ
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
-#EXTINF:0,Fashion TVᴴᴰ
-#EXTGRP:36МОДА И СТИЛЬ
-http://91.247.68.229:8000/play/Fashion/index.m3u8
-#EXTINF:0,Fashion TVᴴᴰ ru
-#EXTGRP:36МОДА И СТИЛЬ
-http://fashion.mediacdn.ru/cdn/fashiontv/tracks-v1a1/mono.m3u8
 #EXTINF:0,World Fashion Channel SD ru
 #EXTGRP:36МОДА И СТИЛЬ
 http://cdn.wfc.tv/cdn/stream-rus-720p.m3u8
@@ -5720,9 +4872,6 @@ http://cdn.wfc.tv/cdn/stream-eng-720p.m3u8
 #EXTINF:0,World Fashion Channelᴴᴰ
 #EXTGRP:36МОДА И СТИЛЬ
 http://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
-#EXTINF:0,VISION MOVIES SD
-#EXTGRP:36МОДА И СТИЛЬ
-https://fl1001.bozztv.com/ushba-m9/tracks-v1a1/mono.m3u8
 #EXTINF:0,Miami TV Fashionᴴᴰ
 #EXTGRP:36МОДА И СТИЛЬ
 https://cd3ab99e1e2247709dfc4c19848e7915.mediatailor.us-east-2.amazonaws.com/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-fashion/1af4abed-c0b8-487a-a75e-da051be75fac/0.m3u8
@@ -5735,21 +4884,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:0,SHIFT TV SD
 #EXTGRP:36МОДА И СТИЛЬ
 https://tinyurl.com/TvZaTak09/ushba-t8/tracks-v1a1/mono.m3u8
-#EXTINF:0,МОДА 1 SD
-#EXTGRP:36МОДА И СТИЛЬ
-https://fl1001.bozztv.com/ushba-t8/tracks-v1a1/mono.m3u8
-#EXTINF:0,МОДА 2 SD
-#EXTGRP:36МОДА И СТИЛЬ
-https://fl1001.bozztv.com/ushba-m7/tracks-v1a1/mono.m3u8
-#EXTINF:0,МОДА 3 SD
-#EXTGRP:36МОДА И СТИЛЬ
-https://fl1001.bozztv.com/ushba-m6/tracks-v1a1/mono.m3u8
-#EXTINF:0,МОДА 4 SD
-#EXTGRP:36МОДА И СТИЛЬ
-https://fl1001.bozztv.com/ushba-m8/tracks-v1a1/mono.m3u8
-#EXTINF:0,МОДА 5 SD
-#EXTGRP:36МОДА И СТИЛЬ
-https://fl1001.bozztv.com/ushba-m1/tracks-v1a1/mono.m3u8
 #EXTINF:0,TV SHANS FASHION
 #EXTGRP:36МОДА И СТИЛЬ
 https://autopilot.catcast.tv/content/40721/index.m3u8
@@ -5801,15 +4935,9 @@ http://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
 #EXTINF:0,МАГНАТᴴᴰ
 #EXTGRP:37ТЕЛЕМАГАЗИН
 https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
-#EXTINF:0,МОЙ МИР
-#EXTGRP:37ТЕЛЕМАГАЗИН
-http://87.120.142.11:18000/RENTV
 #EXTINF:0,МОЙ МИР SD
 #EXTGRP:37ТЕЛЕМАГАЗИН
 https://moymir.ru/hls/onair.m3u8
-#EXTINF:0,МОЙ МИРᴴᴰ
-#EXTGRP:37ТЕЛЕМАГАЗИН
-http://river-1.rutube.ru/stream/genetta-312.m9.rutube.ru/_fN0uPzrny5UpfHknVgYfg/1772122078/0064bd09060c8b8469fef19f269e8a8a/1080p_stream.m3u8
 #EXTINF:0,ЮВЕЛИРОЧКАᴴᴰ
 #EXTGRP:37ТЕЛЕМАГАЗИН
 http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
@@ -5825,9 +4953,6 @@ https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playli
 #EXTINF:0,The Shopping Channel SD
 #EXTGRP:37ТЕЛЕМАГАЗИН
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
-#EXTINF:0,Shop Channel
-#EXTGRP:37ТЕЛЕМАГАЗИН
-http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 #EXTINF:0,W Shopping SD
 #EXTGRP:37ТЕЛЕМАГАЗИН
 https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
@@ -5870,9 +4995,6 @@ https://164475.gvideo.io/mpegts/164475_650646/master_mpegts.m3u8
 #EXTINF:0,TBN BALTIAᴴᴰ
 #EXTGRP:38РЕЛИГИЯ
 http://dc.tbnbaltia.eu:8088/dvr/tracks-v1a1/index.m3u8
-#EXTINF:0,БЛАГАЯ ВЕСТЬᴴᴰ
-#EXTGRP:38РЕЛИГИЯ
-http://95.47.156.60:8000/play/a012/index.m3u8
 #EXTINF:0,Бог Благ ТВᴴᴰ
 #EXTGRP:38РЕЛИГИЯ
 http://67.218.111.36/BogBlagTV/tracks-v1a1/mono.m3u8
@@ -5933,24 +5055,15 @@ http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8?c
 #EXTINF:0,Хузур ТВᴴᴰ
 #EXTGRP:38РЕЛИГИЯ
 http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
-#EXTINF:0,Nidae Al Islamᴴᴰ
-#EXTGRP:38РЕЛИГИЯ
-https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8
 #EXTINF:0,Makkah TV
 #EXTGRP:38РЕЛИГИЯ
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
-#EXTINF:0,MISA TV SD
-#EXTGRP:38РЕЛИГИЯ
-https://vidl.misatv.ro:5050/MSTV/hungarian/playlist.m3u8
 #EXTINF:0,ТБВ HD
 #EXTGRP:38РЕЛИГИЯ
 https://bl.rutube.ru/livestream/68b2533a29f7de163842baf1b9dfc17e/index.m3u8?s=QVPvtJzh4etbV2-GgF8gUw&e=2066519829&scheme=https
 #EXTINF:0,Хузур ТВ
 #EXTGRP:38РЕЛИГИЯ
 https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/tracks-v1a1a1/mono.m3u8
-#EXTINF:0,★✦★ SPECIAL BOXᴴᴰ ★✦★
-#EXTGRP:39RELAX
-http://boxserver.live:8080/@Qupa_Restream/w7RBFDbx2S4m/96513
 #EXTINF:0,DELUXE LOUNGE SD
 #EXTGRP:39RELAX
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ce7c5fb8-6fae-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=CH&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
@@ -5978,21 +5091,12 @@ https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
 #EXTINF:0,CLASSICAL HORMONYᴴᴰ
 #EXTGRP:39RELAX
 https://cdn2.invivo.bg/CLASSICAL_HARMONY_APPS/index.m3u8
-#EXTINF:0,Classic Musicᴴᴰ
-#EXTGRP:39RELAX
-https://autopilot.catcast.tv/content/47400/index.m3u8?password=loganet
-#EXTINF:0,Meditation Musicᴴᴰ
-#EXTGRP:39RELAX
-http://cityeden.catcast.tv/content/47410/index.m3u8
 #EXTINF:0,Midnight Lust Musicᴴᴰ
 #EXTGRP:39RELAX
 https://live20.bozztv.com/giatvplayout7/ushba-midnightlustmusic/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,NATURAL BEAT RECORD SD
 #EXTGRP:39RELAX
 http://rpn3.bozztv.com/dvrfl07/ushba63/tracks-v1a1/mono.m3u8
-#EXTINF:0,Travel Guide TV SD
-#EXTGRP:39RELAX
-http://cdn10.live-tv.od.ua:8081/leonovtv/test1/playlist.m3u8
 #EXTINF:0,VIP TVᴴᴰ
 #EXTGRP:39RELAX
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/vip.m3u8
@@ -6002,9 +5106,6 @@ https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
 #EXTINF:0,NATURE TV
 #EXTGRP:39RELAX
 https://tgn.bozztv.com/betterlife/betternature/betternature/playlist.m3u8
-#EXTINF:0,Живая Природа
-#EXTGRP:39RELAX
-http://77.245.98.18:8000/play/a00m
 #EXTINF:0,Живая Природа FD
 #EXTGRP:39RELAX
 https://tinyurl.com/TvZaTak05/1411/tracks-v1a1/mono.m3u8
@@ -6119,48 +5220,15 @@ http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:00:13:F8&stream=809424&ex
 #EXTINF:0,Ushba TV 4K
 #EXTGRP:41ULTRA HD 4K
 https://rpn3.bozztv.com/dvrfl07/ushba47/tracks-v1a1/mono.m3u8
-#EXTINF:0,BCU Ultra 4K
-#EXTGRP:41ULTRA HD 4K
-http://a.stroj-bt.com:89/play/YUFKFK7JI7_-b43EmM3TD3aSBk4xiPAbU0_UkucNxqxDikwpopg5PpfRsk20zQZF/ts
-#EXTINF:0,Киноᵁᴴᴰ
-#EXTGRP:41ULTRA HD 4K
-http://a.stroj-bt.com:89/play/YUFKFK7JI7_-b43EmM3TD0THl4M2RYTUGBPN6lHPAMdhfCWXuwbfn6Wh3vHF-wNg/ts
-#EXTINF:0,Cinemaᵁᴴᴰ
-#EXTGRP:41ULTRA HD 4K
-http://a.stroj-bt.com:89/play/YUFKFK7JI7_-b43EmM3TD7NZp5qMVN0yknCvIBG2CAUz_4vJkLE1OQkMDvMb45Lq/ts
-#EXTINF:0,ULTRA REXᵁᴴᴰ
-#EXTGRP:41ULTRA HD 4K
-http://a.stroj-bt.com:89/play/YUFKFK7JI7_-b43EmM3TD7zUJ7MfJHuOEXR5moApep_sGdWWDrWRz9PMMX36-ZJ8/ts
-#EXTINF:0,TravelXP 4K
-#EXTGRP:41ULTRA HD 4K
-http://a.stroj-bt.com:89/play/YUFKFK7JI7_-b43EmM3TD-N_SkCf7jHAn8LtVI1O7XVYIlmNyTaSdbHk3zCfQRr4/ts
-#EXTINF:0,Museum 4K
-#EXTGRP:41ULTRA HD 4K
-http://a.stroj-bt.com:89/play/YUFKFK7JI7_-b43EmM3TD1ljZTEiK1EYNk_1KLxj76UaJd7faWDBdDzzkf67iwP4/ts
 #EXTINF:0,Глазами туриста 4К
 #EXTGRP:41ULTRA HD 4K
 http://cdn.kubteltv.workers.dev/?ID=342
-#EXTINF:0,Наша Сибирь 4K
-#EXTGRP:41ULTRA HD 4K
-http://a.stroj-bt.com:89/play/YUFKFK7JI7_-b43EmM3TDy7SEp-IT6zN63md4t6gAJ4zbU8EiCxSRtHPZxG2mggA/ts
 #EXTINF:0,Home 4k
 #EXTGRP:41ULTRA HD 4K
 http://93.84.115.174:10181/home4k
 #EXTINF:0,Home 4К
 #EXTGRP:41ULTRA HD 4K
 http://cdn.kubteltv.workers.dev/?ID=344
-#EXTINF:0,Love Nature 4K
-#EXTGRP:41ULTRA HD 4K
-http://a.stroj-bt.com:89/play/YUFKFK7JI7_-b43EmM3TD3dhOsxxm58B5ihTKBo0CkEW6euxl0LLx-855polxMeX/ts
-#EXTINF:0,Eleven Sports 4K
-#EXTGRP:41ULTRA HD 4K
-http://a.stroj-bt.com:89/play/YUFKFK7JI7_-b43EmM3TD_ocg_ToQgwrmCsTqaQaTLRh3tI-d2MpGTXPQwCS4cgW/ts
-#EXTINF:0,TF1 4K
-#EXTGRP:41ULTRA HD 4K
-http://a.stroj-bt.com:89/play/YUFKFK7JI7_-b43EmM3TDwB_IGyOUeiVAe_VRz8Ji8B46enJl2DVRj8Ted7PCQqv/ts
-#EXTINF:0,Rai 4K
-#EXTGRP:41ULTRA HD 4K
-http://a.stroj-bt.com:89/play/YUFKFK7JI7_-b43EmM3TD7j04HnrQ19AC2n-bT29jmYVXqo8fTHE4ev0ICcFeMyy/ts
 #EXTINF:0,Радио Город FM (ЕКБ) HD
 #EXTGRP:42РАДИО ТВ
 http://www.gorodfm.ru/hls/test.m3u8
@@ -6170,9 +5238,6 @@ http://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v3a1/mono.ts.m3u8
 #EXTINF:0,ASTRAKHAN.RU LIVE HD
 #EXTGRP:42РАДИО ТВ
 https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8
-#EXTINF:0,ATEL TV (Рыбинск) HD
-#EXTGRP:42РАДИО ТВ
-https://iptv.atel.me/live/123/atel.m3u8
 #EXTINF:0,MCM (Иркутск) SD
 #EXTGRP:42РАДИО ТВ
 http://tv.streams.baikal-telecom.net/MCM/index.m3u8
@@ -6209,9 +5274,6 @@ http://89.251.159.37:8080/hls/kunelfm.m3u8
 #EXTINF:0,Радио Китап FM SD
 #EXTGRP:42РАДИО ТВ
 http://89.251.159.37:8080/hls/kitapfm.m3u8
-#EXTINF:0,Радио Тартип FM HD
-#EXTGRP:42РАДИО ТВ
-http://89.251.159.37:8080/hls/tartipfm.m3u8
 #EXTINF:0,Радио Краснодар HD
 #EXTGRP:42РАДИО ТВ
 http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar2/tvkrasnodarradio/playlist.m3u8
@@ -6236,9 +5298,6 @@ https://lifecam.sigma-ktv.ru/ctv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,СМОТРИ РАДИО
 #EXTGRP:42РАДИО ТВ
 http://lova.me/hls/hit.m3u8
-#EXTINF:0,СМОТРИ РАДИО SD
-#EXTGRP:42РАДИО ТВ
-http://hithd.camsh.orsk.ru/hls/hithd.m3u8
 #EXTINF:0,Радио Хит SD
 #EXTGRP:42РАДИО ТВ
 http://dmitry-tv.ddns.net/hls/CH_RADIOXITHD720_ORSK.m3u8
@@ -6254,9 +5313,6 @@ http://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015
 #EXTINF:0,Вести FM HD
 #EXTGRP:42РАДИО ТВ
 https://stream.smotrim.ru/hls2/vesti_fm/playlist_6.m3u8
-#EXTINF:0,Радио 1 SD
-#EXTGRP:42РАДИО ТВ
-http://cdn.radio1.news:1935/rtvp/live/playlist.m3u8
 #EXTINF:0,Радио Говорит Москва SD
 #EXTGRP:42РАДИО ТВ
 https://video.govoritmoskva.ru/rufm/tracks-v1a1/mono.m3u8
@@ -6305,15 +5361,9 @@ https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8
 #EXTINF:0,Dmitry-tvᴴᴰ
 #EXTGRP:43𝕄𝕦𝕤𝕚𝕔
 http://dmitry-tv.ddns.net:8000/his/CH_DMITRY-TVHD
-#EXTINF:0,AIVAᴴᴰ
-#EXTGRP:43𝕄𝕦𝕤𝕚𝕔
-http://92.63.106.41/24hp/stream.php?id=4309
 #EXTINF:0,1HD
 #EXTGRP:43𝕄𝕦𝕤𝕚𝕔
 http://176.118.197.101/1HD/index.m3u8
-#EXTINF:0,MIXMᴴᴰ
-#EXTGRP:43𝕄𝕦𝕤𝕚𝕔
-http://89.179.247.144/hls/mixm.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMC8yMDI2IDc6NDk6NDcgUE0maGFzaF92YWx1ZT1qUlgvaDF3a2IvNkM1cWFnK3lqN2tBPT0mdmFsaWRtaW51dGVzPTQ4MA==
 #EXTINF:0,ММТВᴴᴰ
 #EXTGRP:43𝕄𝕦𝕤𝕚𝕔
 https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=kRxjgUVuipEmNG9k_Ii59A&e=2069068473&scheme=https
@@ -6335,18 +5385,9 @@ https://s03.watcher.uz/53/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.
 #EXTINF:0,Муз ТВ FD
 #EXTGRP:43𝕄𝕦𝕤𝕚𝕔
 https://streaming.televizor-24-tochka.ru/live/618.m3u8
-#EXTINF:0,Муз ТВᴴᴰ
-#EXTGRP:43𝕄𝕦𝕤𝕚𝕔
-https://radio.tvs.by:8089/MuzTV/index.m3u8
 #EXTINF:0,Муз-ТВ FD (O'zbekiston)
 #EXTGRP:43𝕄𝕦𝕤𝕚𝕔
 http://s8.rafail1982.uz/1063/tracks-v1a1a1/mono.m3u8
-#EXTINF:0,Europa Plus TV
-#EXTGRP:43𝕄𝕦𝕤𝕚𝕔
-http://tmptv.sunduk.tv/CH267/index.m3u8
-#EXTINF:0,Europa Plus TVᴴᴰ
-#EXTGRP:43𝕄𝕦𝕤𝕚𝕔
-http://92.63.106.41/24hp/stream.php?id=3735
 #EXTINF:0,FON Music
 #EXTGRP:43𝕄𝕦𝕤𝕚𝕔
 https://flussonic.mkpnet.ru/tv-6683d71aa818d0a0/video.m3u8
@@ -6362,9 +5403,6 @@ http://uiptv.do.am/1ufc/603282189/playlist.m3u8
 #EXTINF:0,Жара ТВ
 #EXTGRP:43𝕄𝕦𝕤𝕚𝕔
 https://flussonic.mkpnet.ru/tv-3cdc33d3606ba23f/video.m3u8
-#EXTINF:0,Жара ТВᴴᴰ
-#EXTGRP:43𝕄𝕦𝕤𝕚𝕔
-http://92.63.106.41/24hp/stream.php?id=3734
 #EXTINF:0,О!2
 #EXTGRP:43𝕄𝕦𝕤𝕚𝕔
 http://tinyurl.com/8TvZaTak/O2TV/index.m3u8
@@ -6383,15 +5421,9 @@ https://songtv.hls.iptvdc.com/web-russia/hd/playlist.m3u8
 #EXTINF:0,Music Box Gold
 #EXTGRP:43𝕄𝕦𝕤𝕚𝕔
 http://77.106.252.178:4022/udp/233.33.210.70:5050
-#EXTINF:0,Russian MusicBoxᴴᴰ
-#EXTGRP:43𝕄𝕦𝕤𝕚𝕔
-http://92.63.106.41/ptv/trico/ch.php?id=534&token=freshtv
 #EXTINF:0,Музыка Первого
 #EXTGRP:43𝕄𝕦𝕤𝕚𝕔
 http://cdn.kubteltv.workers.dev/?ID=267
-#EXTINF:0,Музыка Первогоᴴᴰ
-#EXTGRP:43𝕄𝕦𝕤𝕚𝕔
-http://s06.wsbof.com:8090/s/9b6f8047/muzyka-pervogo-hd/video.m3u8
 #EXTINF:0,Страна FM SD
 #EXTGRP:43𝕄𝕦𝕤𝕚𝕔
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjUgMTo0OToyMyBQTSZoYXNoX3ZhbHVlPTVDZkpPbWo5L3dvM2tqNnQ5dDQvK3c9PSZ2YWxpZG1pbnV0ZXM9NDgw
@@ -6461,18 +5493,9 @@ https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
 #EXTINF:0,RADIOKIDS.FM SD
 #EXTGRP:43𝕄𝕦𝕤𝕚𝕔
 http://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8
-#EXTINF:0,DTR MUSIC 1 SD
-#EXTGRP:43𝕄𝕦𝕤𝕚𝕔
-https://kino-stream.online/hls/DTRMUSIC1.m3u8
 #EXTINF:0,Delta Musicᴴᴰ
 #EXTGRP:43𝕄𝕦𝕤𝕚𝕔
 http://185.177.104.228:8598/Delta-Music_HD(+0)/index.m3u8
-#EXTINF:0,Прибойᴴᴰ
-#EXTGRP:43𝕄𝕦𝕤𝕚𝕔
-https://vkvsd68.okcdn.ru/cmaf/8150265170479/sig/AOyV-02ib3w/srcIp/178.173.126.46/urls/185.226.52.95/expires/1776300965489/clientType/13/srcAg/CHROME/fromCache/1/mid/9663873952559/id/8150265170479/get/CK_WmN6gmQIQ6AcYBjIICgYIgA8QuAg6BAjE2AJaBggDEAIoF2ICCCAB7ypmTnk6VQ/track.m3u8
-#EXTINF:0,Телеканал народной музыкиᴴᴰ
-#EXTGRP:43𝕄𝕦𝕤𝕚𝕔
-http://92.63.106.41/24hp/stream.php?id=5534
 #EXTINF:0,Classic Music HD
 #EXTGRP:43𝕄𝕦𝕤𝕚𝕔
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/QVP3XYV8KEF4TL/14009/index.m3u8
