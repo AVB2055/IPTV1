@@ -1,10 +1,5 @@
 #EXTM3U
-#EXTINF:0,Т-БАНК 2200 7008 5931 7652
-#EXTGRP:Поддержи Проект
-https://streamcdnb4-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/chunklist_b3256000.m3u8
-#EXTINF:0,СБЕР 5336 6902 7449 1275
-#EXTGRP:Поддержи Проект
-http://streamcdnb4-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/chunklist_b3256000.m3u8
+
 #EXTINF:0,4 КАНАЛ FD
 #EXTGRP:1 ЕКБ
 https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
@@ -1418,9 +1413,6 @@ http://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8?checkedby:i
 #EXTINF:0,НТК (Нижнеудинск) 🇰🇿
 #EXTGRP:10КАЗАХСТАН
 http://hubtv.ru/index.php?stream=aHR0cDovLzE3MS4yMi4yMTIuMjUwL05USy90cmFja3MtdjFhMS9tb25vLm0zdTg=
-#EXTINF:0,Caspian News 🇰🇿
-#EXTGRP:10КАЗАХСТАН
-http://s.only4.tv/9129/index.m3u8?token=Uqxoga1IGq
 #EXTINF:0,Orken Live TVᴴᴰ 🇰🇿
 #EXTGRP:10КАЗАХСТАН
 https://orken-media.kz/live/tracks-v1a1/mono.m3u8
@@ -1508,15 +1500,6 @@ http://80.72.179.162:8086/index.m3u8
 #EXTINF:0,УТРК Таласᴴᴰ 🇰🇬
 #EXTGRP:11КЫРГЫЗСТАН
 http://34.92.173.115/utrk_talas/index.m3u8
-#EXTINF:0,УТРК Маданият 🇰🇬
-#EXTGRP:11КЫРГЫЗСТАН
-http://s.only4.tv/8377/mono.m3u8?token=Uqxoga1IGq
-#EXTINF:0,УТРКᴴᴰ 🇰🇬
-#EXTGRP:11КЫРГЫЗСТАН
-http://s.only4.tv/8376/mono.m3u8?token=Uqxoga1IGq
-#EXTINF:0,Спортᴴᴰ 🇰🇬
-#EXTGRP:11КЫРГЫЗСТАН
-http://s.only4.tv/8381/mono.m3u8?token=Uqxoga1IGq
 #EXTINF:0,7 канал SD 🇰🇬
 #EXTGRP:11КЫРГЫЗСТАН
 http://212.112.106.117:8086/0.m3u8
@@ -1532,18 +1515,6 @@ http://77.235.26.137:8086/0.m3u8
 #EXTINF:0,Nur TVᴴᴰ 🇰🇬
 #EXTGRP:11КЫРГЫЗСТАН
 http://146.120.213.172:8086/0.m3u8
-#EXTINF:0,Любимый SD 🇰🇬
-#EXTGRP:11КЫРГЫЗСТАН
-http://s.only4.tv/8378/mono.m3u8?token=Uqxoga1IGq
-#EXTINF:0,Семейный 🇰🇬
-#EXTGRP:11КЫРГЫЗСТАН
-http://s.only4.tv/8380/mono.m3u8?token=Uqxoga1IGq
-#EXTINF:0,Cinemax SD
-#EXTGRP:11КЫРГЫЗСТАН
-http://s.only4.tv/8382/mono.m3u8?token=Uqxoga1IGq
-#EXTINF:0,Asia TVᴴᴰ 🇰🇬
-#EXTGRP:11КЫРГЫЗСТАН
-http://s.only4.tv/8375/mono.m3u8?token=Uqxoga1IGq
 #EXTINF:0,Hybrid Rest HD
 #EXTGRP:12АРМЕНИЯ
 https://11.tvtm.one/ch2410/mono.m3u8?token=dvul.v2_YXqtdPP0DS2zOcCqka2bUQ9B_Y73mhxK36L_hn7OEFOHaQ7A6GuaHl8WG3IPz_9clFszt10
@@ -2429,9 +2400,6 @@ http://217.154.10.99:2020/channel/n7ae3dc73/index.m3u8?q=ac8328a8c05870646c45caa
 #EXTINF:0,Всё ТВᴴᴰ
 #EXTGRP:21КиноStream
 http://85.88.175.48:2020/udp/239.4.0.147:2020
-#EXTINF:0,Всё ТВ SD
-#EXTGRP:21КиноStream
-https://s.catcast.tv/content/43064/index.m3u8?token=12e9b4b3f3c1a94794e26197460d95c6
 #EXTINF:0,ScripachTV HD
 #EXTGRP:21КиноStream
 https://live20.bozztv.com/akamaissh101/ssh101/scripachmovie/playlist.m3u8
@@ -2480,9 +2448,6 @@ https://live20.bozztv.com/giatv/giatv-tvzovlivestream/tvzovlivestream/chunks.m3u
 #EXTINF:0,ЗОВ ТВ Red SD
 #EXTGRP:21КиноStream
 https://live20.bozztv.com/giatv/giatv-tvzov%20RED/tvzov%20RED/chunks.m3u8
-#EXTINF:0,ЗОВ ТВ Black SD
-#EXTGRP:21КиноStream
-https://live20.bozztv.com/giatv/giatv-tvzovBlackstream/tvzovBlackstream/chunks.m3u8
 #EXTINF:0,KINOSTREAM
 #EXTGRP:21КиноStream
 https://live20.bozztv.com/giatvplayout7/ushba102/tracks-v1a1/mono.ts.m3u8
@@ -3119,9 +3084,6 @@ http://tinyurl.com/%74%76%7A%61%74%61%6B20/ushba-rfilrms-e/tracks-v1a1/mono.m3u8
 #EXTINF:0,Кинозалы 3
 #EXTGRP:24USBA TV
 http://tinyurl.com/%74%76%7A%61%74%61%6B20/ushba24/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кинозалы 30
-#EXTGRP:24USBA TV
-http://tinyurl.com/%74%76%7A%61%74%61%6B20/ushba-rfilrms-g/tracks-v1a1/mono.m3u8
 #EXTINF:0,Кинозалы 31
 #EXTGRP:24USBA TV
 http://tinyurl.com/%74%76%7A%61%74%61%6B20/ushba-rfilrms-i/tracks-v1a1/mono.m3u8
@@ -3287,9 +3249,6 @@ http://31.148.48.15:80/RTG_HD/index.m3u8
 #EXTINF:0,RTGᴴᴰ
 #EXTGRP:26ПУТЕШЕСТВИЯ
 http://193.25.8.59:8000/rtg
-#EXTINF:0,Travel+Adventureᴴᴰ
-#EXTGRP:26ПУТЕШЕСТВИЯ
-http://77.232.131.211/TravelAdventureHD/index.m3u8
 #EXTINF:0,Terra
 #EXTGRP:26ПУТЕШЕСТВИЯ
 https://a3569457567-s70378.cdn.ngenix.net/terra/2/index.m3u8
@@ -3329,9 +3288,6 @@ https://tinyurl.com/45x3xrpm/chid210/mpegts
 #EXTINF:0,Наша Тема
 #EXTGRP:26ПУТЕШЕСТВИЯ
 https://flussonic.mkpnet.ru/tv-c922a9201f5073f8/video.m3u8?token=test
-#EXTINF:0,Наша Тема HD
-#EXTGRP:26ПУТЕШЕСТВИЯ
-http://live-3.otcnet.ru/nashatema/index.m3u8
 #EXTINF:0,Неизвестная Планетаᴴᴰ
 #EXTGRP:26ПУТЕШЕСТВИЯ
 http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDI2IDExOjQ5OjIxIFBNJmhhc2hfdmFsdWU9NzBLbWM5SUpMWitZVEplblVPVDFHUT09JnZhbGlkbWludXRlcz00ODA=
@@ -3449,9 +3405,6 @@ http://tinyurl.com/TvZaTak65?id=viasatexp
 #EXTINF:0,viju History
 #EXTGRP:27ПОЗНАВАТЕЛЬНЫЕ
 http://93.84.115.174:10181/history
-#EXTINF:0,viju Historyᴴᴰ
-#EXTGRP:27ПОЗНАВАТЕЛЬНЫЕ
-http://s8.rafail1982.uz/1046/tracks-v1a1a1/mono.m3u8
 #EXTINF:0,Байкал Универ ТВ SD
 #EXTGRP:27ПОЗНАВАТЕЛЬНЫЕ
 http://stream01.bgu.ru:8081/1/1/playlist.m3u8
@@ -4512,18 +4465,6 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 #EXTINF:0,The Grappling Networkᴴᴰ
 #EXTGRP:35SPORT
 https://d1vwakhda3vp6p.cloudfront.net/scheduler/scheduleMaster/236.m3u8
-#EXTINF:0,TSN 1ᴴᴰ
-#EXTGRP:35SPORT
-http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15929.ts
-#EXTINF:0,TSN 2ᴴᴰ
-#EXTGRP:35SPORT
-http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15928.ts
-#EXTINF:0,TSN 4ᴴᴰ
-#EXTGRP:35SPORT
-http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15926.ts
-#EXTINF:0,TSN 5ᴴᴰ
-#EXTGRP:35SPORT
-http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15925.ts
 #EXTINF:0,Turkmenistan Sport 🇹🇲
 #EXTGRP:35SPORT
 http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
@@ -4587,9 +4528,6 @@ http://mains.services/live/0228902066/tc674KJ3du/dffda4d2-9ec5-4546-b0f5-a612b88
 #EXTINF:0,DIGI Sport 1 HD
 #EXTGRP:35SPORT
 http://ua.online24.pm/play/11068/350B326FB34F4B8/video.m3u8
-#EXTINF:0,DIGI Sport 2 HD
-#EXTGRP:35SPORT
-http://ua.online24.pm/play/11069/350B326FB34F4B8/video.m3u8
 #EXTINF:0,Jordan Sport HD
 #EXTGRP:35SPORT
 http://93.184.10.248/JordanSport/index.m3u8
@@ -4692,9 +4630,6 @@ http://190.92.10.66:4000/play/a001/index.m3u8
 #EXTINF:0,Ovacion HD
 #EXTGRP:35SPORT
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:0,S SPORT HD
-#EXTGRP:35SPORT
-http://line.team-tv.link:80/jLKLjOvdU/beAi6ilBrs/2073
 #EXTINF:0,TVA SD
 #EXTGRP:35SPORT
 http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
@@ -5265,9 +5200,6 @@ http://uiptv.do.am/1ufc/603282189/playlist.m3u8
 #EXTINF:0,Жара ТВ
 #EXTGRP:43𝕄𝕦𝕤𝕚𝕔
 https://flussonic.mkpnet.ru/tv-3cdc33d3606ba23f/video.m3u8
-#EXTINF:0,О!2
-#EXTGRP:43𝕄𝕦𝕤𝕚𝕔
-http://tinyurl.com/8TvZaTak/O2TV/index.m3u8
 #EXTINF:0,O!2
 #EXTGRP:43𝕄𝕦𝕤𝕚𝕔
 http://31.148.48.15/O2_HD/index.m3u8
@@ -5469,9 +5401,6 @@ http://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m
 #EXTINF:0,Deluxe Rapᴴᴰ
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 http://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:0,Deluxe Schlager SD
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-http://013tv.com:8080/F13836/35b68aca/278321
 #EXTINF:0,Deluxe Deutshpop SD
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/95d6544c-4164-11ec-9c7c-2cf753b8a203/0/master.m3u8?country=DE&vendor=samsung
@@ -5583,9 +5512,6 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19
 #EXTINF:0,NTR 264 SD
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 https://primaset.servizistreaming.it/hls/streamingcanale2.m3u8
-#EXTINF:0,Óčko
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
 #EXTINF:0,Óčko Expresᴴᴰ
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 https://dash3.antik.sk/live/test_ocko_expres/playlist.m3u8
@@ -6015,15 +5941,9 @@ https://cloudvideo.servers10.com:8081/8030/index.m3u8
 #EXTINF:0,Atomic
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 http://atomic.streamnet.ro/atomictv.m3u8
-#EXTINF:0,GENERATION TV SD
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-http://edge13.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
 #EXTINF:0,Deejay TV HD
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 https://streamcdnm4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
-#EXTINF:0,Génération TV SD
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-https://edge11.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
 #EXTINF:0,Music Japan
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
@@ -6036,9 +5956,6 @@ http://edge20.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8
 #EXTINF:0,Hot Rock TV  HD
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 http://bozztv.com/gusa/gusa-hotrock/index.m3u8
-#EXTINF:0,Lobo TV
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
 #EXTINF:0,Ritmo Top Latino
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 https://5ff3d9babae13.streamlock.net/vzzfdajnnf/vzzfdajnnf/playlist.m3u8?PlaylistM3UCL
@@ -6132,9 +6049,6 @@ https://stmv8.samcast.com.br/arenajs/arenajs/playlist.m3u8
 #EXTINF:0,Maqui Señal Dos SD
 #EXTGRP:45DANCE TV
 https://live20.bozztv.com/akamaissh101/ssh101/maquitv2/chunks.m3u8
-#EXTINF:0,Fun Radio SD
-#EXTGRP:45DANCE TV
-https://edge20.vedge.infomaniak.com/livecast/ik:funradiovisionhd/chunklist_w1759423602_b1800720.m3u8
 #EXTINF:0,Fun Radioᴴᴰ
 #EXTGRP:45DANCE TV
 https://edge15.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
@@ -8325,87 +8239,6 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/13031/ind
 #EXTINF:0,MM Ситком HD
 #EXTGRP:Кинозал тест
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/13052/index.m3u8
-#EXTINF:0,Домашний HD (orig)
-#EXTGRP:wsbofcom
-http://s06.wsbof.com:8090/s/9b6f8047/domashnij-hd-orig.m3u8
-#EXTINF:0,СТС HD (orig)
-#EXTGRP:wsbofcom
-http://s06.wsbof.com:8090/s/9b6f8047/ctc-hd-orig.m3u8
-#EXTINF:0,ТВ-3 HD (orig)
-#EXTGRP:wsbofcom
-http://s06.wsbof.com:8090/s/9b6f8047/tv3-hd-orig.m3u8
-#EXTINF:0,ТНТ HD (orig)
-#EXTGRP:wsbofcom
-http://s06.wsbof.com:8090/s/9b6f8047/tnt-hd-orig.m3u8
-#EXTINF:0,ТНТ4 HD (orig)
-#EXTGRP:wsbofcom
-http://s06.wsbof.com:8090/s/9b6f8047/tnt4-hd-orig.m3u8
-#EXTINF:0,Пятница! HD (orig)
-#EXTGRP:wsbofcom
-http://s06.wsbof.com:8090/s/9b6f8047/piatnica-hd-orig.m3u8
-#EXTINF:0,Суббота! HD (orig)
-#EXTGRP:wsbofcom
-http://s06.wsbof.com:8090/s/9b6f8047/super-hd-orig.m3u8
-#EXTINF:0,Киносерия HD (orig)
-#EXTGRP:wsbofcom
-http://s06.wsbof.com:8090/s/9b6f8047/mnogo-tv-hd-orig.m3u8
-#EXTINF:0,Киносемья HD (orig)
-#EXTGRP:wsbofcom
-http://s06.wsbof.com:8090/s/9b6f8047/kinosemja-hd-orig.m3u8
-#EXTINF:0,Киносвидание HD (orig)
-#EXTGRP:wsbofcom
-http://s06.wsbof.com:8090/s/9b6f8047/kinosvidanije-hd-orig.m3u8
-#EXTINF:0,Кинокомедия HD (orig)
-#EXTGRP:wsbofcom
-http://s06.wsbof.com:8090/s/9b6f8047/kinokomedia-hd-orig.m3u8
-#EXTINF:0,Кинопремьера HD (orig)
-#EXTGRP:wsbofcom
-http://s06.wsbof.com:8090/s/9b6f8047/kinopremiera-hd-orig.m3u8
-#EXTINF:0,Киномикс HD (orig)
-#EXTGRP:wsbofcom
-http://s06.wsbof.com:8090/s/9b6f8047/kinomix-hd-orig.m3u8
-#EXTINF:0,Кинохит HD (orig)
-#EXTGRP:wsbofcom
-http://s06.wsbof.com:8090/s/9b6f8047/kinohit-hd-orig.m3u8
-#EXTINF:0,Мужское кино HD (orig)
-#EXTGRP:wsbofcom
-http://s06.wsbof.com:8090/s/9b6f8047/muzhskoe-kino-hd-orig.m3u8
-#EXTINF:0,Мосфильм. Золотая коллекция HD (orig)
-#EXTGRP:wsbofcom
-http://s06.wsbof.com:8090/s/9b6f8047/mosfilm-hd-orig.m3u8
-#EXTINF:0,Дом Кино Премиум HD (orig)
-#EXTGRP:wsbofcom
-http://s06.wsbof.com:8090/s/9b6f8047/dom-kino-premium-hd-orig.m3u8
-#EXTINF:0,День Победы HD (orig)
-#EXTGRP:wsbofcom
-http://s06.wsbof.com:8090/s/9b6f8047/den-pobedy-hd-orig.m3u8
-#EXTINF:0,Победа HD (orig)
-#EXTGRP:wsbofcom
-http://s06.wsbof.com:8090/s/9b6f8047/pobeda-hd-orig.m3u8
-#EXTINF:0,viju+ Serial HD (orig)
-#EXTGRP:wsbofcom
-http://s06.wsbof.com:8090/s/9b6f8047/vip-serial-hd-orig.m3u8
-#EXTINF:0,viju+ Premiere HD (orig)
-#EXTGRP:wsbofcom
-http://s06.wsbof.com:8090/s/9b6f8047/vip-premiere-hd-orig.m3u8
-#EXTINF:0,viju+ Megahit HD (orig)
-#EXTGRP:wsbofcom
-http://s06.wsbof.com:8090/s/9b6f8047/vip-megahit-hd-orig.m3u8
-#EXTINF:0,viju+ Comedy HD (orig)
-#EXTGRP:wsbofcom
-http://s06.wsbof.com:8090/s/9b6f8047/vip-comedy-hd-orig.m3u8
-#EXTINF:0,viju TV1000 Новелла HD (orig)
-#EXTGRP:wsbofcom
-http://s06.wsbof.com:8090/s/9b6f8047/viju-tv1000-nowella-hd-orig.m3u8
-#EXTINF:0,viju TV1000 Action HD (orig)
-#EXTGRP:wsbofcom
-http://s06.wsbof.com:8090/s/9b6f8047/tv1000-action-hd-orig.m3u8
-#EXTINF:0,viju TV1000 HD (orig)
-#EXTGRP:wsbofcom
-http://s06.wsbof.com:8090/s/9b6f8047/tv1000-hd-orig.m3u8
-#EXTINF:0,Матч! HD (orig)
-#EXTGRP:wsbofcom
-http://s06.wsbof.com:8090/s/9b6f8047/match-tv-hd-orig.m3u8
 #EXTINF:0,Комсомольцы
 #EXTGRP:Девяностые
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/198/551.mp4
@@ -9261,9 +9094,6 @@ http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2014.06.07
 #EXTINF:0,272 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2014.06.14..272..Chuzhoe.lico.v1a1.30.05.24.mp4
-#EXTINF:0,275 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2014.08.31..275..Vseh.ubyu,.odin.ostanus.v1a1.30.05.24.mp4
 #EXTINF:0,276 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2014.09.14..276..Po.prozvischu.Fitilek.v1a1.30.05.24.mp4
@@ -9891,9 +9721,6 @@ http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Sledstvie.
 #EXTINF:0,513 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data08-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Sledstvie.veli....s.Leonidom.Kanevskim.2021.Vypusk.513.-16.05.2021.v1a1.31.05.24.mp4
-#EXTINF:0,514 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Sledstvie.veli....s.Leonidom.Kanevskim.2021.Vypusk.51423.05.2021.v1a1.31.05.24.mp4
 #EXTINF:0,515 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Sledstvie.veli....s.Leonidom.Kanevskim.2021.Vypusk.51530.05.2021.v1a1.31.05.24.mp4
@@ -10896,9 +10723,6 @@ http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalna
 #EXTINF:0,270 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.270.24.11.2009[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,272 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.272.26.11.2009[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,273 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.273.30.11.2009[DVDrip].v1a1.10.02.23.mp4
@@ -11514,9 +11338,6 @@ https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/204/713.mp4
 #EXTINF:0,Виктор Проскурин. Бей первым!
 #EXTGRP:Советские артисты
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/197/281.mp4
-#EXTINF:0,Виталий Соломин. Я принадлежу сам себе...
-#EXTGRP:Советские артисты
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/149/697.mp4
 #EXTINF:0,Вия Артмане. Гениальная притворщица
 #EXTGRP:Советские артисты
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/206/300.mp4
