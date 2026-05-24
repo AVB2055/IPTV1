@@ -421,9 +421,6 @@ http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31714/index.m3u8
 #EXTINF:-1,Bcu premiere 2
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11016/index.m3u8
-#EXTINF:-1,ЗОВ ТВ Black
-#EXTGRP:🎦📺Фильмы 🔹 Сериалы
-https://live20.bozztv.com/giatv/giatv-tvzovBlackstream/tvzovBlackstream/chunks.m3u8
 #EXTINF:-1,ЗОВ ТВ RED
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 https://live20.bozztv.com/giatv/giatv-tvzov%20RED/tvzov%20RED/chunks.m3u8
