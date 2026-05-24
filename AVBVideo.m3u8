@@ -1106,18 +1106,12 @@ https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w_b
 #EXTINF:0,БЕЛАРУСЬ 1 SD
 #EXTGRP:8БЕЛАРУСЬ
 https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w_b1460000_sleng.m3u8
-#EXTINF:0,БЕЛАРУСЬ 1ᴴᴰ
-#EXTGRP:8БЕЛАРУСЬ
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
 #EXTINF:0,БЕЛАРУСЬ 2
 #EXTGRP:8БЕЛАРУСЬ
 https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus2.smil/chunklist_w_b1010000_sleng.m3u8
 #EXTINF:0,БЕЛАРУСЬ 2 SD
 #EXTGRP:8БЕЛАРУСЬ
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus2.smil/chunklist_w684715497_b1460000_sleng.m3u8
-#EXTINF:0,БЕЛАРУСЬ 2ᴴᴰ
-#EXTGRP:8БЕЛАРУСЬ
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 #EXTINF:0,БЕЛАРУСЬ 3
 #EXTGRP:8БЕЛАРУСЬ
 https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w_b1010000_sleng.m3u8
@@ -1676,9 +1670,6 @@ http://93.84.115.174:10181/foxlifehd
 #EXTINF:0,Cinema
 #EXTGRP:13𝕂иℍ𝕠
 http://83.217.12.157:81/udp/239.1.1.97:1234
-#EXTINF:0,Cinemaᴴᴰ
-#EXTGRP:13𝕂иℍ𝕠
-http://176.96.241.40/Cinema/index.m3u8
 #EXTINF:0,Cinema HD
 #EXTGRP:13𝕂иℍ𝕠
 http://cdn.kubteltv.workers.dev/?ID=352
@@ -1823,9 +1814,6 @@ http://93.84.115.174:10181/tv1000action
 #EXTINF:0,viju+ Comedyᴴᴰ
 #EXTGRP:14VIJUКИНО
 https://flussonic.mkpnet.ru/tv-c385ec3bab3a3605/video.m3u8?token=test
-#EXTINF:0,viju+ Megahitᴴᴰ
-#EXTGRP:14VIJUКИНО
-http://46.53.208.4:80/live/6002.m3u8
 #EXTINF:0,viju+ Premiereᴴᴰ
 #EXTGRP:14VIJUКИНО
 https://flussonic.mkpnet.ru/tv-e107d21a90cb808f/video.m3u8?token=test
@@ -1943,9 +1931,6 @@ http://46.32.176.50/kinoseria/index.m3u8
 #EXTINF:0,Кинопремьера
 #EXTGRP:14VIJUКИНО
 https://s04.watcher.uz/5/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
-#EXTINF:0,viju TV1000 action
-#EXTGRP:14VIJUКИНО
-http://37.192.119.31:81/udp/239.1.21.33:1234
 #EXTINF:0,Viju TV1000 Русское FD
 #EXTGRP:14VIJUКИНО
 http://46.32.176.50/tv1000ruskoekino/index.m3u8
@@ -2003,9 +1988,6 @@ http://cdn.kubteltv.workers.dev/?ID=371
 #EXTINF:0,Дорама
 #EXTGRP:15СЕРИАЛЫ
 https://s06.watcher.uz/132/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
-#EXTINF:0,Дорамаᴴᴰ
-#EXTGRP:15СЕРИАЛЫ
-http://176.96.241.40/Dorama/index.m3u8
 #EXTINF:0,Индия
 #EXTGRP:15СЕРИАЛЫ
 https://a3569457567-s70378.cdn.ngenix.net/zee_tv/2/index.m3u8
@@ -3038,84 +3020,6 @@ http://kinowalk.hopto.org/prizrak-oz_live
 #EXTINF:0,VKTV HD
 #EXTGRP:22Kinowalk
 http://kinowalk.hopto.org/vktv_hd_cinema_live
-#EXTINF:0,КиноДетектив SD*
-#EXTGRP:24City Eden
-https://autopilot.catcast.tv/content/41327/index.m3u8?password=loganet
-#EXTINF:0,Кино Детектив
-#EXTGRP:24City Eden
-https://v2.catcast.tv/content/41327/index.m3u8
-#EXTINF:0,КиноДрама SD*
-#EXTGRP:24City Eden
-https://autopilot.catcast.tv/content/45269/index.m3u8?password=loganet
-#EXTINF:0,КиноКлассика HD
-#EXTGRP:24City Eden
-http://cityeden.catcast.tv/content/34185/index.m3u8
-#EXTINF:0,КиноКлассика SD
-#EXTGRP:24City Eden
-https://autopilot.catcast.tv/content/34185/index.m3u8
-#EXTINF:0,КиноКомедия SD*
-#EXTGRP:24City Eden
-https://autopilot.catcast.tv/content/41331/index.m3u8
-#EXTINF:0,КиноМистика*
-#EXTGRP:24City Eden
-https://autopilot.catcast.tv/content/40783/index.m3u8?password=loganet
-#EXTINF:0,КиноСемья*
-#EXTGRP:24City Eden
-https://autopilot.catcast.tv/content/41333/index.m3u8?password=promolive
-#EXTINF:0,КиноФантастика SD*
-#EXTGRP:24City Eden
-https://autopilot.catcast.tv/content/45268/index.m3u8?password=loganet
-#EXTINF:0,КиноЭкшен SD*
-#EXTGRP:24City Eden
-https://autopilot.catcast.tv/content/41333/index.m3u8
-#EXTINF:0,City Eden Play HD
-#EXTGRP:24City Eden
-http://cityeden.catcast.tv/content/34100/index.m3u8
-#EXTINF:0,БирмаПлей
-#EXTGRP:24City Eden
-https://autopilot.catcast.tv/content/34364/index.m3u8?password=loganet
-#EXTINF:0,Бирма Play HD*
-#EXTGRP:24City Eden
-https://autopilot.catcast.tv/content/34364/index.m3u8?password=
-#EXTINF:0,СиртакиТВ SD*
-#EXTGRP:24City Eden
-https://autopilot.catcast.tv/content/46421/index.m3u8?password=
-#EXTINF:0,Sirtaki SD
-#EXTGRP:24City Eden
-http://cityeden.catcast.tv/content/46421/index.m3u8
-#EXTINF:0,Classic Music SD*
-#EXTGRP:24City Eden
-https://cityeden.catcast.tv/content/47400/index.m3u8
-#EXTINF:0,Meditation Music SD*
-#EXTGRP:24City Eden
-https://autopilot.catcast.tv/content/47410/index.m3u8?password=loganet
-#EXTINF:0,КиноДок SD*
-#EXTGRP:24City Eden
-https://autopilot.catcast.tv/content/38354/index.m3u8?password=promolive
-#EXTINF:0,КиноДок SD
-#EXTGRP:24City Eden
-https://autopilot.catcast.tv/content/38354/index.m3u8
-#EXTINF:0,Сити Эдем ТВ SD
-#EXTGRP:24City Eden
-https://autopilot.catcast.tv/content/34246/index.m3u8?token=f8bbfeb3fa5cc915d9973fee341f72a9
-#EXTINF:0,МедЗдрав SD*
-#EXTGRP:24City Eden
-http://cityeden.catcast.tv/content/47519/index.m3u8
-#EXTINF:0,АвтоГид SD
-#EXTGRP:24City Eden
-https://autopilot.catcast.tv/content/47515/index.m3u8?password=
-#EXTINF:0,СИТИ ЭДЕМ Киноновелла SD
-#EXTGRP:24City Eden
-https://autopilot.catcast.tv/content/46209/index.m3u8?password=promolive
-#EXTINF:0,СИТИ ЭДЕМ Киноэкшен SD
-#EXTGRP:24City Eden
-http://autopilot.catcast.tv/content/41333/index.m3u8
-#EXTINF:0,Сити Эдем - КиноФантастика
-#EXTGRP:24City Eden
-https://autopilot.catcast.tv/content/45268/index.m3u8
-#EXTINF:0,Сити Эдем - КиноАрт
-#EXTGRP:24City Eden
-https://autopilot.catcast.tv/content/38398/index.m3u8
 #EXTINF:0,Gameplay
 #EXTGRP:24USBA TV
 http://tinyurl.com/TvZaTak20/ushba31/tracks-v1a1/mono.m3u8
@@ -3335,18 +3239,12 @@ http://46.32.176.50/AnimalPlanetHD/index.m3u8
 #EXTINF:0,Nat Geo Wildᴴᴰ
 #EXTGRP:25ПРИРОДА
 http://46.32.176.50/NatGeoWildHD/index.m3u8
-#EXTINF:0,National Geographic Wildᴴᴰ
-#EXTGRP:25ПРИРОДА
-http://176.96.241.40/NatGeoWildHD/index.m3u8
 #EXTINF:0,Viasat Nature
 #EXTGRP:25ПРИРОДА
 https://a3569457567-s70378.cdn.ngenix.net/viasat_nature/2/index.m3u8
 #EXTINF:0,viju Nature
 #EXTGRP:25ПРИРОДА
 http://93.84.115.174:10181/nature
-#EXTINF:0,ZooПарк
-#EXTGRP:25ПРИРОДА
-http://176.96.241.40/ZooPark/index.m3u8
 #EXTINF:0,Аква ТВᴴᴰ
 #EXTGRP:25ПРИРОДА
 http://stitch.teletarget.ru/vintera/aquatv/index.m3u8
@@ -3365,9 +3263,6 @@ http://cdn.kubteltv.workers.dev/?ID=258
 #EXTINF:0,Океан
 #EXTGRP:25ПРИРОДА
 http://93.84.115.174:10181/oceantv
-#EXTINF:0,Oceanᴴᴰ
-#EXTGRP:25ПРИРОДА
-http://176.96.241.40/Ocean/index.m3u8
 #EXTINF:0,Love Natureᴴᴰ
 #EXTGRP:25ПРИРОДА
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
@@ -3572,9 +3467,6 @@ https://dl.dropbox.com/scl/fi/38oxgltllynkx89dkh43q/YASNAe_HD.m3u8?rlkey=fkekh8k
 #EXTINF:0,История
 #EXTGRP:27ПОЗНАВАТЕЛЬНЫЕ
 http://cdn.kubteltv.workers.dev/?ID=365
-#EXTINF:0,Историяᴴᴰ
-#EXTGRP:27ПОЗНАВАТЕЛЬНЫЕ
-http://176.96.241.40/History/index.m3u8
 #EXTINF:0,Китай ТВᴴᴰ
 #EXTGRP:27ПОЗНАВАТЕЛЬНЫЕ
 http://77.106.252.178:4022/udp/233.33.210.38:5050
@@ -3599,9 +3491,6 @@ http://158.101.222.193:88/georgia_play.php?id=ktoestkto
 #EXTINF:0,МосОбрТВ SD
 #EXTGRP:27ПОЗНАВАТЕЛЬНЫЕ
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8
-#EXTINF:0,МосОбр ТВ SD
-#EXTGRP:27ПОЗНАВАТЕЛЬНЫЕ
-https://retrtb.educom.ru/mosobrtv/tv2/index.m3u8
 #EXTINF:0,Наука
 #EXTGRP:27ПОЗНАВАТЕЛЬНЫЕ
 http://93.84.115.174:10181/nauka
@@ -3690,9 +3579,6 @@ http://93.84.115.174:10181/bober
 #EXTINF:0,Вкус
 #EXTGRP:28ХОББИ И УВЛЕЧЕНИЯ
 http://89.218.32.179:18000/play/a027
-#EXTINF:0,Диалоги о Рыбалке
-#EXTGRP:28ХОББИ И УВЛЕЧЕНИЯ
-http://hls.peers.tv/streaming/dialogi_o_rybalke/16/vh1w/playlist.m3u8?token=d680c0c502834299a358e0c1783e9f94&client=97
 #EXTINF:0,Дикий
 #EXTGRP:28ХОББИ И УВЛЕЧЕНИЯ
 http://93.84.115.174:10181/diki
@@ -4581,9 +4467,6 @@ http://technologycloud.eu:80/play/live.php?mac=00:1A:79:F5:32:D6&stream=174876&e
 #EXTINF:0,Nesn LIVEᴴᴰ
 #EXTGRP:35SPORT
 http://fortv.cc:8080/sed8nurse@hotmail.com/0LzoNUu9jX/161451
-#EXTINF:0,ONE2 ᴴᴰ
-#EXTGRP:35SPORT
-http://185.132.134.159:80/one2/index.m3u8
 #EXTINF:0,Red Bull TV
 #EXTGRP:35SPORT
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:iptvcat.com
@@ -4644,30 +4527,9 @@ http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15925.ts
 #EXTINF:0,Turkmenistan Sport 🇹🇲
 #EXTGRP:35SPORT
 http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
-#EXTINF:0,YES SD
-#EXTGRP:35SPORT
-http://fortv.cc:8080/sed8nurse@hotmail.com/0LzoNUu9jX/57972
 #EXTINF:0,Fun Roads SD
 #EXTGRP:35SPORT
 http://104.143.4.5:2080/funroads.m3u8
-#EXTINF:0,1 SPORT SD
-#EXTGRP:35SPORT
-http://185.132.134.159:80/sport1/index.m3u8
-#EXTINF:0,2 SPORT SD
-#EXTGRP:35SPORT
-http://185.132.134.159:80/sport2/index.m3u8
-#EXTINF:0,3 SPORT SD
-#EXTGRP:35SPORT
-http://185.132.134.159:80/sport3/index.m3u8
-#EXTINF:0,4 SPORT SD
-#EXTGRP:35SPORT
-http://185.132.134.159:80/sport4/index.m3u8
-#EXTINF:0,5 SPORT HD
-#EXTGRP:35SPORT
-http://185.132.134.159:80/sport5/index.m3u8
-#EXTINF:0,6 SPORT SD
-#EXTGRP:35SPORT
-http://185.132.134.159:80/sport6/index.m3u8
 #EXTINF:0,Africa 24 Sportᴴᴰ
 #EXTGRP:35SPORT
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
@@ -5541,18 +5403,12 @@ https://atomic.streamnet.ro/atomictv.m3u8
 #EXTINF:0,ATOMIC ACADEMY
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 https://atomic.streamnet.ro/academia.m3u8
-#EXTINF:0,ATV Hayᴴᴰ
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-http://109.68.122.117:8899/hay_tv
 #EXTINF:0,BALLE BALLE SD
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 https://mcncdndigital.com/balleballetv/index.m3u8
 #EXTINF:0,Bella Radio TV SD
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 http://server.bellaradio.it:1935/live/bellaradiotv/playlist.m3u8
-#EXTINF:0,Bblack! Africaᴴᴰ
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-http://edge21.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8
 #EXTINF:0,Bblack! Caribbeanᴴᴰ
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 http://edge20.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
@@ -5703,15 +5559,9 @@ http://cm1.portaltv.info:777/5R0Tqhz7bC/8biAnmNHif/262
 #EXTINF:0,MUZANGALAᴴᴰ
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
-#EXTINF:0,Music Channel
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-http://exm3u.extraott.com:80/0451933520/0364224542/3174
 #EXTINF:0,Music India
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 https://cdn-2.pishow.tv/live/226/master.m3u8
-#EXTINF:0,My Music
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-http://blackiptv.net:8080/Resulgonul/4YkXmwCGOo/838
 #EXTINF:0,NM Television SD
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 https://tv.a21network.ru/stream/40650/index.m3u8
@@ -5733,9 +5583,6 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19
 #EXTINF:0,NTR 264 SD
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 https://primaset.servizistreaming.it/hls/streamingcanale2.m3u8
-#EXTINF:0,NUTA TV
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-http://vipbxcass.top:8080/VIP0155171189492262/f94cf6816286/979
 #EXTINF:0,Óčko
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
@@ -5775,9 +5622,6 @@ https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 #EXTINF:0,PULSE ROCKᴴᴰ
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 https://dotfvxkfj90ca.cloudfront.net/programming/pulserocknew/chunklist.m3u8?token=27be3ad2-9e96-4704-9d1c-a14e39190f47&streamSessionId=e06bc853-bdf6-40a7-bd8b-1297e2edbf85&code=TELEATLANTIC&expires=1728345600000&playUrl=true&ctrl=34324b5f8f340cefa3c1da57608b92edc43a0146cfea4ec23f598d0f1d5425a88be9fc02fab522f5318ca0074bf2cb1eac38938bed55763bd6bc0a24854a140d
-#EXTINF:0,Radio 538
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-http://lemon.catchmeifyo.com:8000/decoderbox8624753/pass7675947/16340
 #EXTINF:0,Radio Aktualᴴᴰ
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 http://radio.serv.si/AktualTV/tracks-v1a1/mono.m3u8
@@ -5805,9 +5649,6 @@ http://78.130.250.2:8023/play/a05x/index.m3u8
 #EXTINF:0,Radio Italia Liveᴴᴰ
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 http://78.130.250.2:8023/play/a05z/index.m3u8
-#EXTINF:0,RADIO MONTE CARLO SD
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-http://77.73.68.200:8080/gladia/corciaSA/152297
 #EXTINF:0,RADIOS TV POP&ROCK SD
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 https://sradio.ipradio.rs/sradio/radiostv/chunklist_w799893154.m3u8
@@ -5850,9 +5691,6 @@ https://rst2.saiuzwebnetwork.it:8081/saiuz-2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,San Francisco 1ᴴᴰ
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 http://204.199.3.2/.m3u8?PlaylistM3UCL
-#EXTINF:0,SONG TV Armenia SD
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-http://hls.peers.tv/streaming/songtv_armenia/126/copy/playlist.m3u8?token=f63a5b54a83b4901974ea44c70f1078c&client=97
 #EXTINF:0,Song TV Armenia HD
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 https://songtv.hls.iptvdc.com/web-armenia/hd/playlist.m3u8
@@ -5904,9 +5742,6 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.
 #EXTINF:0,TotalMusic 00sᴴᴰ
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:0,Trimedio TVᴴᴰ
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-https://stream.streaming4u.hu/TriMedioTV/index.m3u8
 #EXTINF:0,Tropical SD
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 https://59a564764e2b6.streamlock.net/vallenato/tropical/chunklist_w1278555747.m3u8
@@ -5955,24 +5790,9 @@ http://91.228.35.249:8001/1:0:1:428F:2BC0:13E:820000:0:0:0:
 #EXTINF:0,4Fun TV
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 http://91.228.35.249:8001/1:0:1:428D:2BC0:13E:820000:0:0:0:
-#EXTINF:0,Eska TV Extra SD
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-http://a.stroj-bt.com:89/play/YUFKFK7JI7_-b43EmM3TD_xLY7vLKzVpiy7KgOxIZMA/ts
-#EXTINF:0,Eska TV HD
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-http://a.stroj-bt.com:89/play/YUFKFK7JI7_-b43EmM3TD01JCdPLyUHW5wfDvoKZeZE/ts
 #EXTINF:0,Polsat Music HD
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 http://91.228.35.249:8001/1:0:1:4293:2BC0:13E:820000:0:0:0:
-#EXTINF:0,Vox Music TV SD
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-http://a.stroj-bt.com:89/play/YUFKFK7JI7_-b43EmM3TD_lS1y40vY6n2uK6di3lYc1xKrxCcLmrZ_DAK01ZZgtq/ts
-#EXTINF:0,Stars. TV HD
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-http://a.stroj-bt.com:89/play/YUFKFK7JI7_-b43EmM3TD393rpogiGHvXO3xz_E3Cpc/ts
-#EXTINF:0,100%NL SD
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-http://live.iptvtotaal.com:8000/mvhengeliptv/d6BDiLr3VT/16589
 #EXTINF:0,Arm Music SD
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 http://livestream.usatv.com/hls/m3u8/ArmMusicHD.m3u8
@@ -5985,12 +5805,6 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 #EXTINF:0,HAYAT MUSIC BOX HD
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 http://cm1.portaltv.info:777/5R0Tqhz7bC/8biAnmNHif/2866
-#EXTINF:0,Klan Music HD
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-http://cm1.portaltv.info:777/Imersopa/Cf6jcJJ8im/4970
-#EXTINF:0,MCM Top
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-http://tmptv.sunduk.tv/CH77/index.m3u8
 #EXTINF:0,KralPop TV SD
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
@@ -6000,18 +5814,12 @@ https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 #EXTINF:0,TVUNO
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
-#EXTINF:0,Trimendio TV HD
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-https://stream.streaming4u.hu/TriMedioTV/tracks-v1a1/mono.m3u8
 #EXTINF:0,Adinkra HD
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 https://59d39900ebfb8.streamlock.net/adinkratvny/adinkratvny/.m3u8
 #EXTINF:0,Mezzo Live HD
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 http://crystalott.net:80/OUY8PRYHZB/IKGDVBTBDF/13029
-#EXTINF:0,Red 24 HD
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-https://inliveserver.com:1936/11012/11012/.m3u8
 #EXTINF:0,TRACE TOCA
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 http://line01.serveuser.com/QIWQ3GPOEZ/GCOULCY30Q/8056
@@ -6021,12 +5829,6 @@ http://tinyurl.com/TvZaTak01/a05x/index.m3u8?|User-Agent=http-user-agent=Lavf/56
 #EXTINF:0,TVONE
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8?|User-Agent=http-user-agent=Mozilla/5.0 iPhone; CPU iPhone OS 18_6 like Mac OS X AppleWebKit/605.1.15 KHTML, like Gecko CriOS/139.0.7258.76 Mobile/15E148 Safari/604.1
-#EXTINF:0,TURKISH POP HD
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-http://boxserver.live:8080/@Qupa_Restream/w7RBFDbx2S4m/96668
-#EXTINF:0,City Eden Birma Play HD
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-http://cityeden.catcast.tv/content/34364/index.m3u8
 #EXTINF:0,RADIO ZETA HD
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 http://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/chunklist.m3u8
@@ -6054,18 +5856,6 @@ https://media.velcom.it:8081/RadioImmagineTV/index.fmp4.m3u8
 #EXTINF:0,TRT Müzik HD
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 http://ru2.tvtm.one/ch1415/mono.m3u8?token=ruslan35.v2_c5ebdZ43EIaEeCH947HyjsnjtKnGvKk3OHpuVwAd0sAqtgPon9F7i3-1scpLUrpUPxnW0ROa6V8cMw
-#EXTINF:0,Jazz Jazz HD
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-http://92.63.106.41/24hp/stream.php?id=8701
-#EXTINF:0,Kino Polska Muzyka
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-http://91.228.35.249:8001/1:0:1:3d60:2c88:13e:820000:0:0:0:
-#EXTINF:0,Live Music Channel HD
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-http://92.63.106.41/ptv/voka/ch.php?id=7a65e6b3-7586-48a2-9f0e-02cdd76fff3c
-#EXTINF:0,Stingray iConcerts HD
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-http://92.63.106.41/24hp/stream.php?id=399
 #EXTINF:0,ZU TV HD
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/QVP3XYV8KEF4TL/7034/index.m3u8
@@ -6111,9 +5901,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/maquidos/chunks.m3u8
 #EXTINF:0,Montones TV SD
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 https://live20.bozztv.com/akamaissh101/ssh101/montonestv1/chunks.m3u8
-#EXTINF:0,Onda Metro HD
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-https://live20.bozztv.com/akamaissh101/ssh101/ciudadreal/chunks.m3u8
 #EXTINF:0,Telemedellin SD
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 https://live20.bozztv.com/akamaissh101/ssh101/telemed2/chunks.m3u8
@@ -6141,51 +5928,21 @@ http://mains.services/live/0228902066/tc674KJ3du/ec21b706-56e2-4fb9-a014-7997ea5
 #EXTINF:0,ITV Music HD
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 https://iptv.itv.uz/hls/live/t/iR8iDnzqJIQrEetuXnP3iA/e/1799038327/4001/index.m3u8
-#EXTINF:0,4FUN DANCE
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-http://vipbxcass.top:8080/VIP0155171189492262/f94cf6816286/890
-#EXTINF:0,9XMᴴᴰ
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
 #EXTINF:0,A2I MUSIC
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 https://stream.sen-gt.com/A2iMusic/myStream/chunklist.m3u8
 #EXTINF:0,AFROBEATSᴴᴰ
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
-#EXTINF:0,Arabica SD
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-http://45.84.58.144:88/UMXXPGB3MZEVYZD5/ZFGTYZQZZ8FKSNX/7211
-#EXTINF:0,BG MUSIC CHANNEL
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-http://eu.germanydns.org:8080/kapla0202abdu/RYMwELMBt7Ka/118349
 #EXTINF:0,DeeJay SD
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 https://streamcdnb4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/chunklist_b2428000.m3u8
-#EXTINF:0,DM SAT FD
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-http://tv.nova-iptv.com/Miroslava_Pop/tRWzyLSM1V/406
-#EXTINF:0,ESKA TV EXTRAᴴᴰ
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-http://vipbxcass.top:8080/VIP0155171189492262/f94cf6816286/939
-#EXTINF:0,ESKA ROCK TVᴴᴰ
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-http://vipbxcass.top:8080/VIP0155171189492262/f94cf6816286/940
 #EXTINF:0,Fiessta TVᴴᴰ
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 https://www.cloudscriptdog.cl:19360/fiesta-video-01/fiesta-video-01.m3u8
-#EXTINF:0,Jukeboxᴴᴰ
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-http://eu.germanydns.org:8080/kapla0202abdu/RYMwELMBt7Ka/115006
 #EXTINF:0,GexTVᴴᴰ
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/chunks.m3u8
-#EXTINF:0,Hit Mix Music
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-http://eu.germanydns.org:8080/kapla0202abdu/RYMwELMBt7Ka/118401
-#EXTINF:0,Hit Music
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-http://srv.igsuae.xyz/zrjcS9G83aDU/cpHgZXz5G1G1/751727
 #EXTINF:0,Hit FM SD
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8
@@ -6201,18 +5958,12 @@ https://tvradiozap.eu/958
 #EXTINF:0,Kalac TV HD
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 https://edge13.vedge.infomaniak.com/livecast/ik:kalactv/chunklist_w280736538.m3u8
-#EXTINF:0,KINO POLSKA MUZYKA FD
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-http://imediatv666.store:7777/2cVauKYCZ5UC/EvzAt53VmduV/153770
 #EXTINF:0,Kissᴴᴰ
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 http://livestream.siliconweb.com:80/live/kissfm/index.m3u8
 #EXTINF:0,Kral Pop TV SD
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 https://dogus.daioncdn.net/kralpoptv/kralpoptv.m3u8?app=f38a38b4-ce55-4040-8676-9826937d6128
-#EXTINF:0,KurdMax Music SD
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-https://6476e46b58f91.streamlock.net/music/MUSIC2402/playlist.m3u8
 #EXTINF:0,La Nuestra
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/ln/ln.smil/playlist.m3u8?PlaylistM3UCL
@@ -6225,9 +5976,6 @@ http://cootv.cootel.com.ni:8075/channel22/playlist.m3u8
 #EXTINF:0,La Top 107.7ᴴᴰ
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8
-#EXTINF:0,La Voz Multiplataforma SD
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-https://live21.bozztv.com/akamaissh101/ssh101/lavozmulti2/chunks.m3u8
 #EXTINF:0,Live SS SD
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 https://live20.bozztv.com/akamaissh101/ssh101/livess/chunks.m3u8
@@ -6237,63 +5985,15 @@ https://live20.bozztv.com/akamaissh101/ssh101/melodietvlive/chunks.m3u8
 #EXTINF:0,MERU TV SD
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 https://goliveafrica.media:9998/live/628e5c1991061/index.m3u8
-#EXTINF:0,MIMusica Hits
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-https://e1.viginet.vectormax.com:5210/quickstart/114-10106-64/index.m3u8
-#EXTINF:0,MIMusica Reggaeton
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-https://e1.viginet.vectormax.com:5210/quickstart/114-4413-62/index.m3u8
-#EXTINF:0,MIMusica Romantica SD
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-https://e1.viginet.vectormax.com:5210/quickstart/114-5263-65/index.m3u8
-#EXTINF:0,Music Box Brazilᴴᴰ
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-http://imediatv666.store:7777/2cVauKYCZ5UC/EvzAt53VmduV/151200
-#EXTINF:0,Music VOX TVᴴᴰ
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111071
-#EXTINF:0,On Sortir SD
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-https://live21.bozztv.com/akamaissh101/ssh101/onsortirtv/chunks.m3u8
 #EXTINF:0,Ondambiental TV
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
 #EXTINF:0,PLANETᴴᴰ
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8
-#EXTINF:0,Play TV GR
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-http://eu.germanydns.org:8080/kapla0202abdu/RYMwELMBt7Ka/108072
-#EXTINF:0,Pink BRAVO
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-http://sonymax.org:8080/live/Kydabk9PvE/68opSnk7re/520792.m3u8
-#EXTINF:0,Pink Music 2
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-http://g-med.xyz:25461/live/Namka@viber@412/ND6bEusrJPbJ/272.ts
-#EXTINF:0,POLO TVᴴᴰ
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-http://vipbxcass.top:8080/VIP0155171189492262/f94cf6816286/983
-#EXTINF:0,POLSAT MUSICᴴᴰ
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-http://www.mitvpro.online:88/BcNOztZBZkc7vCE/vvsvmBOLrcEzKYX/94911
-#EXTINF:0,Radio City Trieste SD
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-https://cloudtv.azotosolutions.com:9553/radiocity/radiocity/playlist.m3u8
-#EXTINF:0,RITMO-X SD
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-https://live20.bozztv.com/akamaissh101/ssh101/cedacopa16/chunks.m3u8
-#EXTINF:0,Rotana Clip
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-http://eu.germanydns.org:8080/kapla0202abdu/RYMwELMBt7Ka/108483
 #EXTINF:0,Ruidos TV SD
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 https://tv1.ruidosfm.cl/ruidostv/stream.m3u8
-#EXTINF:0,Shant Musicᴴᴰ
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-http://www.mitvpro.online:88/BcNOztZBZkc7vCE/vvsvmBOLrcEzKYX/100412
-#EXTINF:0,Slager TV
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-http://www.mitvpro.online:88/BcNOztZBZkc7vCE/vvsvmBOLrcEzKYX/694455
 #EXTINF:0,Space TV
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
@@ -6306,18 +6006,6 @@ https://live.thaichaiyo.tv/tcy/live-transmux.m3u8
 #EXTINF:0,TotalMusic Concertsᴴᴰ
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:0,TRACE LATINA SD
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-https://d3b13j525hja2q.cloudfront.net/23073/Latina/encrypted/4/prog_index.m3u8
-#EXTINF:0,TRACE URBANᴴᴰ
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-http://imediatv666.store:7777/2cVauKYCZ5UC/EvzAt53VmduV/150312
-#EXTINF:0,TV SHARRI SD
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-http://srv.igsuae.xyz/zrjcS9G83aDU/cpHgZXz5G1G1/698109
-#EXTINF:0,Video Touringᴴᴰ
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-https://streamingvideo.auranex.cloud/memfs/70baacad-47c6-41a6-aee0-86530c31e080.m3u8
 #EXTINF:0,NM TELEVISION SD
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 https://autopilot.catcast.tv/content/40650/index.m3u8
@@ -6372,9 +6060,6 @@ http://mn-nl.mncdn.com/amusictv/amusicsrt.stream/playlist.m3u8
 #EXTINF:0,Afrobeats TV
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 https://stream.ecable.tv/afrobeats/tracks-v1a1a1/mono.m3u8
-#EXTINF:0,SLAM! FD
-#EXTGRP:44𝕄𝕦𝕤𝕚𝕔
-http://live.iptvtotaal.com:8000/mvhengeliptv/d6BDiLr3VT/16806
 #EXTINF:0,SLAM!ᴴᴰ
 #EXTGRP:44𝕄𝕦𝕤𝕚𝕔
 http://mains.services/live/0228902066/tc674KJ3du/28d8827c-43dc-424d-84c5-d8092329f6a1.m3u
@@ -6384,27 +6069,18 @@ http://live.teleradiocom.tj/9/3m.m3u8
 #EXTINF:0,SweetTVᴴᴰ
 #EXTGRP:45DANCE TV
 http://s.only4.tv/9425/video.m3u8?token=fWKpoaHaSj
-#EXTINF:0,VIVA RUSSIAᴴᴰ
-#EXTGRP:45DANCE TV
-http://92.63.106.41/24hp/stream.php?id=5038
 #EXTINF:0,VIVA Russiaᴴᴰ
 #EXTGRP:45DANCE TV
 https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=pRANv_eCd-xFpvmUuDFGsQ&e=2074727495&scheme=https
 #EXTINF:0,TMF RUSᴴᴰ
 #EXTGRP:45DANCE TV
 https://live20.bozztv.com/akamaissh101/ssh101/tmfrus/playlist.m3u8
-#EXTINF:0,Clubbing TVᴴᴰ
-#EXTGRP:45DANCE TV
-http://92.63.106.41/24hp/stream.php?id=3972
 #EXTINF:0,Dance TVᴴᴰ
 #EXTGRP:45DANCE TV
 https://eu-nl-012.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8
 #EXTINF:0,Dance TV HouseFloor SD
 #EXTGRP:45DANCE TV
 https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
-#EXTINF:0,Dance TV MelodicTech SD
-#EXTGRP:45DANCE TV
-https://mbit1.worldcast.tv/dancetelevisionnine/multibit.m3u8
 #EXTINF:0,Dance TV MNMLᴴᴰ
 #EXTGRP:45DANCE TV
 https://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8
@@ -6420,9 +6096,6 @@ https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8
 #EXTINF:0,Dance TV TechHouse Terrace SD
 #EXTGRP:45DANCE TV
 https://m2b2.worldcast.tv:7443/dancetelevisionfour/2/dancetelevisionfour.m3u8
-#EXTINF:0,Dance TV ChillAF SD
-#EXTGRP:45DANCE TV
-https://mbit1.worldcast.tv/dancetelevisioneight/stream_0.m3u8
 #EXTINF:0,Dance TV Mainstageᴴᴰ
 #EXTGRP:45DANCE TV
 https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
@@ -6471,9 +6144,6 @@ http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2aa
 #EXTINF:0,POWER DANCEᴴᴰ
 #EXTGRP:45DANCE TV
 https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-#EXTINF:0,Clubland
-#EXTGRP:45DANCE TV
-http://212.32.241.201:8000/play/a01g
 #EXTINF:0,RELOAD SD
 #EXTGRP:45DANCE TV
 http://mains.services/live/0228902066/tc674KJ3du/12c3bc14-2bfc-4c2c-91ba-7ef8c1583b97.m3u
@@ -6522,15 +6192,9 @@ https://fl1003.bozztv.com/ushba-t2/tracks-v1a1/mono.m3u8
 #EXTINF:0,Music SD
 #EXTGRP:45DANCE TV
 http://tinyurl.com/%74%76%7A%61%74%61%6B20/ushba-t3/tracks-v1a1/mono.m3u8
-#EXTINF:0,RAP MUZIC MIXᴴᴰ
-#EXTGRP:45DANCE TV
-http://boxserver.live:8080/@Qupa_Restream/w7RBFDbx2S4m/96518
 #EXTINF:0,Radio Kids SD
 #EXTGRP:45DANCE TV
 https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8
-#EXTINF:0,TV12 MAFI2A SD
-#EXTGRP:45DANCE TV
-rtmp://vkvsd9.okcdn.ru/playback/6258783562721?stkn=N3xfa3AL0s7vzNZiMgySPj-J8BmVghZEWO4c-mE2EBtYXjsEjNKovwO0KsBt3USZXsGsS0-SXUo&uid=0&sp=uid,sp&sig=vlibqm4nyu
 #EXTINF:0,DVJ BAZUKA VIDEO
 #EXTGRP:45DANCE TV
 https://video1.tizam.cc/old_films/BAZUKA23.mp4
@@ -6576,9 +6240,6 @@ https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
 #EXTINF:0,Magic TV SD
 #EXTGRP:46RETRO MUSIC
 https://bss1.neterra.tv/magictv/magictv.m3u8
-#EXTINF:0,MENT POP
-#EXTGRP:46RETRO MUSIC
-http://lemon.catchmeifyo.com:8000/decoderbox8624753/pass7675947/16857
 #EXTINF:0,Memorias Classic
 #EXTGRP:46RETRO MUSIC
 https://video.xtrematv.com:3576/live/memoriasclassiclive.m3u8
@@ -6612,9 +6273,6 @@ http://tinyurl.com/TvZaTak01/a03q/index.m3u8
 #EXTINF:0,Oldies Hits
 #EXTGRP:46RETRO MUSIC
 http://video07.logicahost.com.br/oldieshits/oldieshits/chunklist.m3u8
-#EXTINF:0,Pink N Roll FD
-#EXTGRP:46RETRO MUSIC
-http://013tv.com:8080/F13836/35b68aca/20247
 #EXTINF:0,PLANETATVᴴᴰ
 #EXTGRP:46RETRO MUSIC
 https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8
@@ -6636,36 +6294,18 @@ https://scl.edge.grupoz.cl/retroplustvuno/live/chunklist_w1152211616.m3u8
 #EXTINF:0,Retro Plus Senal DOS SD
 #EXTGRP:46RETRO MUSIC
 https://scl.edge.grupoz.cl/retroplustvdos/live/chunklist_w2073570202.m3u8
-#EXTINF:0,RETROMUSIC TV SD
-#EXTGRP:46RETRO MUSIC
-https://live21.bozztv.com/akamaissh101/ssh101/506retromusictv/chunks.m3u8
-#EXTINF:0,RetroClub SD
-#EXTGRP:46RETRO MUSIC
-https://live20.bozztv.com/akamaissh101/ssh101/retroclub1/chunks.m3u8
 #EXTINF:0,RFM TVᴴᴰ
 #EXTGRP:46RETRO MUSIC
 http://mains.services/live/0228902066/tc674KJ3du/b17e4a68-9ec0-4292-a26d-d1dfb25ddfa7.m3u
 #EXTINF:0,SOYᴴᴰ
 #EXTGRP:46RETRO MUSIC
 http://tinyurl.com/TvZaTak014/s6
-#EXTINF:0,Tele7music SD
-#EXTGRP:46RETRO MUSIC
-https://live.tele7music.ro/hls/stream/index.m3u8
 #EXTINF:0,Televallo FD
 #EXTGRP:46RETRO MUSIC
 https://live20.bozztv.com/akamaissh101/ssh101/televallo/chunks.m3u8
 #EXTINF:0,TotalMusic 80sᴴᴰ
 #EXTGRP:46RETRO MUSIC
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:0,That`s 80sᴴᴰ
-#EXTGRP:46RETRO MUSIC
-http://lemon.catchmeifyo.com:8000/decoderbox8624753/pass7675947/139173
-#EXTINF:0,that`s 80s FD
-#EXTGRP:46RETRO MUSIC
-http://013tv.com:8080/F13836/35b68aca/4738
-#EXTINF:0,that`s 70s SD
-#EXTGRP:46RETRO MUSIC
-http://013tv.com:8080/F13836/35b68aca/65074
 #EXTINF:0,That`s ROCKᴴᴰ
 #EXTGRP:46RETRO MUSIC
 https://bl.rutube.ru/livestream/047ba54d846ee185b4209a797a2ae138/index.m3u8?s=9y8pI3-2W9o4RDnn5o_lkw&e=2070450960&scheme=https
@@ -6711,9 +6351,6 @@ https://stream8.cinerama.uz/1290/tracks-v1a1/mono.m3u8
 #EXTINF:0,Gold TV
 #EXTGRP:46RETRO MUSIC
 https://stream8.cinerama.uz/4007/tracks-v1a1/mono.m3u8
-#EXTINF:0,Play-x Муз Music 80s
-#EXTGRP:46RETRO MUSIC
-http://ottlinks.club/hls/v6rf4syijn/2256.m3u8
 #EXTINF:0,Play-x Муз Golden Hits 90s
 #EXTGRP:46RETRO MUSIC
 http://ottlinks.club/hls/v6rf4syijn/2255.m3u8
@@ -6723,30 +6360,12 @@ http://ottlinks.club/hls/v6rf4syijn/2257.m3u8
 #EXTINF:0,Littoral TV SD
 #EXTGRP:46RETRO MUSIC
 http://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
-#EXTINF:0,NOW 70S
-#EXTGRP:46RETRO MUSIC
-http://161.123.116.21:8080/Clarence/Clarence1/402778
-#EXTINF:0,NOW 80s
-#EXTGRP:46RETRO MUSIC
-http://161.123.116.21:8080/Clarence/Clarence1/1676766
-#EXTINF:0,Now 80'sᴴᴰ
-#EXTGRP:46RETRO MUSIC
-http://161.123.116.21:8080/Clarence/Clarence1/1741841
-#EXTINF:0,NOW 90S
-#EXTGRP:46RETRO MUSIC
-http://161.123.116.21:8080/Clarence/Clarence1/402780
 #EXTINF:0,NOW 00s
 #EXTGRP:46RETRO MUSIC
 http://bd.x-black.xyz:8080/live/osman.yanik/05.02@2022/336738.ts
 #EXTINF:0,Retro Plus 3 HD
 #EXTGRP:46RETRO MUSIC
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
-#EXTINF:0,STARS TVᴴᴰ
-#EXTGRP:46RETRO MUSIC
-http://vipbxcass.top:8080/VIP0155171189492262/f94cf6816286/1003
-#EXTINF:0,STARS TV HD
-#EXTGRP:46RETRO MUSIC
-http://45.84.58.144:88/UMXXPGB3MZEVYZD5/ZFGTYZQZZ8FKSNX/94909
 #EXTINF:0,Record Супердискотека 90хᴴᴰ
 #EXTGRP:46RETRO MUSIC
 https://bl.rutube.ru/livestream/351f0e84a7db69a73658bbf61debcf62/index.m3u8?s=2lVW7rd4NnMzoinDPYJG7w&e=2069068474&scheme=https
@@ -6756,9 +6375,6 @@ https://streamcdng2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OE
 #EXTINF:0,Bridge
 #EXTGRP:47BRIDGE TV
 http://cdn.kubteltv.workers.dev/?ID=67
-#EXTINF:0,Bridge Deluxeᴴᴰ
-#EXTGRP:47BRIDGE TV
-http://92.63.106.41/24hp/stream.php?id=154
 #EXTINF:0,Bridge Classic
 #EXTGRP:47BRIDGE TV
 http://cdn.kubteltv.workers.dev/?ID=92
@@ -6774,9 +6390,6 @@ http://89.218.32.179:18000/play/a02h
 #EXTINF:0,Bridge Rock
 #EXTGRP:47BRIDGE TV
 http://89.218.32.179:18000/play/a02i
-#EXTINF:0,Bridge Rock HD
-#EXTGRP:47BRIDGE TV
-http://92.63.106.41/24hp/stream.php?id=7364
 #EXTINF:0,Bridge Этно
 #EXTGRP:47BRIDGE TV
 http://89.218.32.179:18000/play/a02n
@@ -6804,15 +6417,6 @@ https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:0,XITE Celebratesᴴᴰ
 #EXTGRP:48XITEVEVO
 https://dt1s4l2cmiyit.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fcwpee1h7t5cs/XITE_Celebrates.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD350003932
-#EXTINF:0,XITE Country`s Finest
-#EXTGRP:48XITEVEVO
-https://d2tcgvmxn0otsl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vxf3mwifay8co/XITE_Countrys_Finest.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
-#EXTINF:0,XITE Country Today
-#EXTGRP:48XITEVEVO
-https://d18gddrg3q1rlq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l4hn4yums84y5/XITE_Country_Today.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300006O3
-#EXTINF:0,XITE Country Today HD
-#EXTGRP:48XITEVEVO
-https://d18gddrg3q1rlq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l4hn4yums84y5/XITE_Country_Today.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
 #EXTINF:0,XITE Just Chill
 #EXTGRP:48XITEVEVO
 https://dvnftgdlbnemm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dh48uzd9o895t/XITE_Just_Chill.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
@@ -6828,18 +6432,9 @@ https://d198ro05q94rc4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:0,XITE Rock x Metal
 #EXTGRP:48XITEVEVO
 https://d198ro05q94rc4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c5xdq9qwilrd2/XITE_Rock_On.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
-#EXTINF:0,XITE R&B Classic Jams
-#EXTGRP:48XITEVEVO
-https://d163j5tlekse0h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-133wbycdrwhvy/XITE_RnB_Classic_Jams.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
-#EXTINF:0,XITE R&B Classic Jamsᴴᴰ
-#EXTGRP:48XITEVEVO
-https://d163j5tlekse0h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-133wbycdrwhvy/XITE_RnB_Classic_Jams.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD330000948
 #EXTINF:0,XITE Siempre Latinoᴴᴰ
 #EXTGRP:48XITEVEVO
 https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300010L9
-#EXTINF:0,XITE Classic Country
-#EXTGRP:48XITEVEVO
-https://d2tcgvmxn0otsl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vxf3mwifay8co/XITE_Countrys_Finest.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300011UT
 #EXTINF:0,Vevo '70s & '80s HD
 #EXTGRP:48XITEVEVO
 https://jmp2.uk/stvp-GBBD1900009UD
@@ -6900,18 +6495,12 @@ http://jmp2.uk/stvp-GBBD1900009UD
 #EXTINF:0,Vevo Rock
 #EXTGRP:48XITEVEVO
 http://jmp2.uk/stvp-USBD3000145P
-#EXTINF:0,MTV Classic
-#EXTGRP:49MTV
-http://185.160.192.64:80/patjos/7787/328856
 #EXTINF:0,MTV U
 #EXTGRP:49MTV
 http://mains.services/live/0228902066/tc674KJ3du/47b72d50-9050-439c-b4c7-81b3564973cb.m3u
 #EXTINF:0,MTV Liveᴴᴰ
 #EXTGRP:49MTV
 http://mains.services/live/0228902066/tc674KJ3du/64f9c049-a2b1-41bf-9cf6-706aaaa89221.m3u
-#EXTINF:0,MTV India
-#EXTGRP:49MTV
-http://lunar.pm:8080/o59Lu8kZbb/J20KRhskrY/120358
 #EXTINF:0,MTV France SD
 #EXTGRP:49MTV
 http://mains.services/live/0228902066/tc674KJ3du/410d8740-8490-4fbc-931e-269e693559e7.m3u
@@ -6927,18 +6516,6 @@ http://mains.services/live/0228902066/tc674KJ3du/7c8a21ba-0a83-4c00-8666-b7012aa
 #EXTINF:0,MTV Pluto TV SD
 #EXTGRP:49MTV
 http://mains.services/live/0228902066/tc674KJ3du/f6a02b0d-b8d6-49d6-b873-c6004dfad8b6.m3u
-#EXTINF:0,MTV Live
-#EXTGRP:49MTV
-http://185.160.192.64:80/patjos/7787/328855
-#EXTINF:0,MTV UK FD
-#EXTGRP:49MTV
-http://161.123.116.21:8080/Clarence/Clarence1/402779
-#EXTINF:0,MTV Polskaᴴᴰ
-#EXTGRP:49MTV
-http://iptv.tvzatak.uk/Ac7wZfXS/WKg6PW6Vw/weyJ1cmwiOiJodHRwOi8vbWVkb3R2Lm5sOjgwMDAvUkFNQk9mb3VuZGVkb25pbnRlcm5ldHNvSWNoYW5nZWRUaGVGdWNraW5ndVNFUk5BTWVsb2wxMjMvNWNhVTljTjVqRmpaLzExMTA3MCIsImlkIjoxNjc3fQ%3D%3D/fast
-#EXTINF:0,MTV DEᴴᴰ
-#EXTGRP:49MTV
-http://mains.services/live/0228902066/tc674KJ3du/7198c95c-a508-4aa8-8d76-6f1afc5d2852.m3u
 #EXTINF:0,Record Megamix SD
 #EXTGRP:50RECORD DANCE TV
 https://bl.rutube.ru/livestream/60b73481dcc9880850f22690142c8d17/index.m3u8?s=A6TrQmZyPv2n8X6TnDy-AA&e=2068506969&scheme=https
@@ -7665,9 +7242,6 @@ https://bl.rutube.ru/livestream/39c5bfe012402990e6402eded8bdc761/index.m3u8?s=c9
 #EXTINF:0,Сангат HD
 #EXTGRP:53RUTUBE
 https://bl.rutube.ru/livestream/dce1080977de5e89dcbd1dd24d014b4e/index.m3u8?s=aDXE4IuicI80dwoSa598dg&e=2066519774&scheme=https
-#EXTINF:0,25 регион (Владивосток)
-#EXTGRP:53RUTUBE
-https://bl.rutube.ru/livestream/c3a00280a36a173641f422a7bf832c4f/index.m3u8?s=tq3Sl7jLodmRD5ZLmApkWA&e=2066519775&scheme=https
 #EXTINF:0,Сургут 86 HD
 #EXTGRP:53RUTUBE
 https://bl.rutube.ru/livestream/813dc0c5a944559e7e52b840d09a84f6/index.m3u8?s=rRbhtLKvofXI0NqDJZvoyw&e=2066519776&scheme=https
@@ -7821,15 +7395,9 @@ https://bl.rutube.ru/livestream/45b30eef1b89857182b03db2c25631d9/index.m3u8?s=k1
 #EXTINF:0,Unbeaten HD
 #EXTGRP:53RUTUBE
 https://bl.rutube.ru/livestream/efc2833169ec20a3ea61197714bea6ab/index.m3u8?s=JJ1LT-dHls975qnnen4uqA&e=2066519933&scheme=https
-#EXTINF:0,Sky Sports F1 HD
-#EXTGRP:53RUTUBE
-https://bl.rutube.ru/livestream/e5df6984021365a58b3ba22dab2f670a/index.m3u8?s=DWjexY_20xq_JLc_xPOgUg&e=2066519930&scheme=https
 #EXTINF:0,Sky Sports Tennis SD
 #EXTGRP:53RUTUBE
 https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=q1hKYo31V3o7J2bvt5hUqQ&e=2066519930&scheme=https
-#EXTINF:0,Sky Sports Main Event SD
-#EXTGRP:53RUTUBE
-https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=n0iLdWKeEdSsaodxVwDf9Q&e=2066519931&scheme=https
 #EXTINF:0,beIN SPORTS XTRA (Español) HD
 #EXTGRP:53RUTUBE
 https://bl.rutube.ru/livestream/05550e441b09aeec53e60de66b6c47bf/index.m3u8?s=-wzNcUB108DYEAES0EO4qw&e=2066519928&scheme=https
@@ -7908,9 +7476,6 @@ https://stream8.cinerama.uz/1039/tracks-v1a1/mono.m3u8
 #EXTINF:0,Арсенал
 #EXTGRP:𝕋𝕧ℤ𝕒𝕋𝕒𝕜
 https://tinyurl.com/TvZaTak05/1414/tracks-v1a1/mono.m3u8
-#EXTINF:0,TV1000 Русское Кино HD
-#EXTGRP:𝕋𝕧ℤ𝕒𝕋𝕒𝕜
-https://tinyurl.com/TvZaTak05/1059/tracks-v1a1/mono.m3u8
 #EXTINF:0,TV1000 ACTION HD
 #EXTGRP:𝕋𝕧ℤ𝕒𝕋𝕒𝕜
 https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
@@ -8115,9 +7680,6 @@ https://a3569457567-s70378.cdn.ngenix.net/nicktoons/1/index.m3u8
 #EXTINF:0,Малыш
 #EXTGRP:ССТ
 https://a3569457567-s70378.cdn.ngenix.net/malish/1/index.m3u8
-#EXTINF:0,Da Vinci
-#EXTGRP:ССТ
-http://tmptv.sunduk.tv/CH205/index.m3u8
 #EXTINF:0,Детский мир
 #EXTGRP:ССТ
 https://s04.watcher.uz/24/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
@@ -8130,18 +7692,12 @@ https://a3569457567-s70378.cdn.ngenix.net/ufc/2/index.m3u8
 #EXTINF:0,Shant Music
 #EXTGRP:ССТ
 https://a3569457567-s70378.cdn.ngenix.net/shant_music/2/index.m3u8
-#EXTINF:0,НТВ Право
-#EXTGRP:ССТ
-http://cdn.kubteltv.workers.dev/?ID=331
 #EXTINF:0,НТВ Сериал
 #EXTGRP:ССТ
 https://kino.zunotv.workers.dev/ntv_serial_hd/index.m3u8
 #EXTINF:0,FashionBox
 #EXTGRP:ССТ
 https://a3569457567-s70378.cdn.ngenix.net/fashion_box/1/index.m3u8
-#EXTINF:0,Flixsnip
-#EXTGRP:ССТ
-https://a3569457567-s70378.cdn.ngenix.net/flixsnip/1/index.m3u8
 #EXTINF:0,Dar 21
 #EXTGRP:ССТ
 https://a3569457567-s70378.cdn.ngenix.net/dar21/1/index.m3u8
@@ -8166,9 +7722,6 @@ https://a3569457567-s70378.cdn.ngenix.net/bazmoc/1/index.m3u8
 #EXTINF:0,Че!
 #EXTGRP:Internet42 LLC
 http://cdn.kubteltv.workers.dev/?ID=24
-#EXTINF:0,Fenix Comedy HD
-#EXTGRP:Internet42 LLC
-https://free-tv.me/iptv/catcats/40088
 #EXTINF:0,Россия K
 #EXTGRP:Max TV
 https://s05.watcher.uz/40/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
@@ -8265,24 +7818,6 @@ https://kino.zunotv.workers.dev/nash_kinopokaz_hd/index.m3u8
 #EXTINF:0,Русский иллюзион
 #EXTGRP:TELLURI
 http://83.217.12.157:81/udp/239.1.1.203:1234
-#EXTINF:0,Остросюжетное HD
-#EXTGRP:TELLURI
-http://tmptv.sunduk.tv/CH547/index.m3u8
-#EXTINF:0,Премиальное HD
-#EXTGRP:TELLURI
-http://tmptv.sunduk.tv/CH545/index.m3u8
-#EXTINF:0,Шокирующее HD
-#EXTGRP:TELLURI
-http://tmptv.sunduk.tv/CH229/index.m3u8
-#EXTINF:0,Комедийное HD
-#EXTGRP:TELLURI
-http://tmptv.sunduk.tv/CH231/index.m3u8
-#EXTINF:0,VHS-ка HD
-#EXTGRP:TELLURI
-http://tmptv.sunduk.tv/CH5505/index.m3u8
-#EXTINF:0,ЛЮБИМОЕ HD
-#EXTGRP:TELLURI
-http://tmptv.sunduk.tv/CH717/index.m3u8
 #EXTINF:0,FAN HD
 #EXTGRP:KubtelTV
 http://cdn.kubteltv.workers.dev/?ID=354
@@ -8454,18 +7989,6 @@ http://cdn.kubteltv.workers.dev/?ID=105
 #EXTINF:0,Shopping Live
 #EXTGRP:KubtelTV
 http://cdn.kubteltv.workers.dev/?ID=454
-#EXTINF:0,СТС Kids HD
-#EXTGRP:Sunduk TV
-http://tmptv.sunduk.tv/CH729/index.m3u8
-#EXTINF:0,MusicBox Gold
-#EXTGRP:Sunduk TV
-http://tmptv.sunduk.tv/CH81/index.m3u8
-#EXTINF:0,Bridge Deluxe HD
-#EXTGRP:Sunduk TV
-http://tmptv.sunduk.tv/CH257/index.m3u8
-#EXTINF:0,Матч! Боец
-#EXTGRP:Sunduk TV
-http://tmptv.sunduk.tv/CH51/index.m3u8
 #EXTINF:0,Евроновости
 #EXTGRP:Sarkor TV
 https://s04.watcher.uz/16/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
@@ -8610,9 +8133,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=5485
 #EXTINF:0,Kanal Muz
 #EXTGRP:Stream-us-east
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1273
-#EXTINF:0,Muz Kanal SD
-#EXTGRP:Stream-us-east
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=5116
 #EXTINF:0,CMV
 #EXTGRP:Stream-us-east
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1275
@@ -8751,9 +8271,6 @@ http://95.47.155.244:8001/play/a020
 #EXTINF:0,21 Сибирь 24
 #EXTGRP:RU 4
 http://95.47.155.244:8001/play/a021
-#EXTINF:0,BELSAT
-#EXTGRP:unsorted
-http://45.87.35.12:7196/stream
 #EXTINF:0,Amedia 1 HD
 #EXTGRP:Test UDP
 http://213.141.224.226:4022/udp/238.1.1.244:1234
@@ -8892,30 +8409,18 @@ http://s06.wsbof.com:8090/s/9b6f8047/match-tv-hd-orig.m3u8
 #EXTINF:0,Комсомольцы
 #EXTGRP:Девяностые
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/198/551.mp4
-#EXTINF:0,Фанера
-#EXTGRP:Девяностые
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/242/160.mp4
 #EXTINF:0,Чёрный юмор
 #EXTGRP:Девяностые
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/224/469.mp4
-#EXTINF:0,Предсказания для Кремля и народа
-#EXTGRP:Девяностые
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/241/243.mp4
 #EXTINF:0,Профессия – киллер
 #EXTGRP:Девяностые
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/207/469.mp4
-#EXTINF:0,Путаны и тараканы
-#EXTGRP:Девяностые
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/239/355.mp4
 #EXTINF:0,Лебединая песня
 #EXTGRP:Девяностые
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/227/322.mp4
 #EXTINF:0,Наркота
 #EXTGRP:Девяностые
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/141/824.mp4
-#EXTINF:0,Во всём виноват Чубайс!
-#EXTGRP:Девяностые
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/186/619.mp4
 #EXTINF:0,Звёзды из "ящика"
 #EXTGRP:Девяностые
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/205/579.mp4
@@ -8931,12 +8436,6 @@ https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/178/169.mp4
 #EXTINF:0,Заказные убийства
 #EXTGRP:Девяностые
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/170/809.mp4
-#EXTINF:0,Кремлёвская кухня
-#EXTGRP:Девяностые
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/223/535.mp4
-#EXTINF:0,Прощай страна!
-#EXTGRP:Девяностые
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/192/472.mp4
 #EXTINF:0,Ликвидация шайтанов
 #EXTGRP:Девяностые
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/110/293.mp4
@@ -8952,15 +8451,6 @@ https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/235/109.mp4
 #EXTINF:0,Звёздное достоинство
 #EXTGRP:Девяностые
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/164/764.mp4
-#EXTINF:0,Бандитский Екатеринбург
-#EXTGRP:Девяностые
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/210/496.mp4
-#EXTINF:0,Компромат
-#EXTGRP:Девяностые
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/216/574.mp4
-#EXTINF:0,Пауки в банках
-#EXTGRP:Девяностые
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/232/654.mp4
 #EXTINF:0,Охрана тела и денег
 #EXTGRP:Девяностые
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/231/887.mp4
@@ -8976,15 +8466,9 @@ https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/230/126.mp4
 #EXTINF:0,Сумасшедший бизнес
 #EXTGRP:Девяностые
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/146/502.mp4
-#EXTINF:0,Бандитское кино
-#EXTGRP:Девяностые
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/211/385.mp4
 #EXTINF:0,Золото партии
 #EXTGRP:Девяностые
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/127/262.mp4
-#EXTINF:0,Замуж за иностранца
-#EXTGRP:Девяностые
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/228/562.mp4
 #EXTINF:0,Безработные звёзды
 #EXTGRP:Девяностые
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/227/453.mp4
@@ -8994,19 +8478,13 @@ https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/227/594.mp4
 #EXTINF:0,В шумном зале ресторана
 #EXTGRP:Девяностые
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/151/510.mp4
-#EXTINF:0,Голые Золушки
-#EXTGRP:Девяностые
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/227/689.mp4
 #EXTINF:0,Мобила
 #EXTGRP:Девяностые
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/208/724.mp4
 #EXTINF:0,Бог простит?
 #EXTGRP:Девяностые
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/227/154.mp4
-#EXTINF:0,Залётные звёзды
-#EXTGRP:Девяностые
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/177/432.mp4
-#EXTINF:0,"Лужа" и "Черкизон"
+#EXTINF:0,Лужа и Черкизон
 #EXTGRP:Девяностые
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/208/576.mp4
 #EXTINF:0,Водка
@@ -9021,18 +8499,12 @@ https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/226/685.mp4
 #EXTINF:0,Граждане барыги
 #EXTGRP:Девяностые
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/128/636.mp4
-#EXTINF:0,Королевы красоты
-#EXTGRP:Девяностые
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/206/395.mp4
 #EXTINF:0,Горько!
 #EXTGRP:Девяностые
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/141/488.mp4
 #EXTINF:0,Малиновый пиджак
 #EXTGRP:Девяностые
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/121/373.mp4
-#EXTINF:0,Криминальные жёны
-#EXTGRP:Девяностые
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/224/343.mp4
 #EXTINF:0,Квартирный вопрос
 #EXTGRP:Девяностые
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/194/336.mp4
@@ -9048,24 +8520,15 @@ https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/194/409.mp4
 #EXTINF:0,Кровавый Тольятти
 #EXTGRP:Девяностые
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/109/387.mp4
-#EXTINF:0,Тур для дур
-#EXTGRP:Девяностые
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/220/195.mp4
 #EXTINF:0,Голосуй или проиграешь!
 #EXTGRP:Девяностые
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/185/549.mp4
 #EXTINF:0,Губернатор на верблюде
 #EXTGRP:Девяностые
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/193/493.mp4
-#EXTINF:0,Ночная жизнь
-#EXTGRP:Девяностые
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/204/557.mp4
 #EXTINF:0,Сердце Ельцина
 #EXTGRP:Девяностые
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/214/818.mp4
-#EXTINF:0,Выпить и закусить
-#EXTGRP:Девяностые
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/135/860.mp4
 #EXTINF:0,БАБ начало конца
 #EXTGRP:Девяностые
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/133/693.mp4
@@ -9081,9 +8544,6 @@ https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/188/041.mp4
 #EXTINF:0,Чумак против Кашпировского
 #EXTGRP:Девяностые
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/198/000.mp4
-#EXTINF:0,Шуба
-#EXTGRP:Девяностые
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/196/057.mp4
 #EXTINF:0,Пудель с мандатом
 #EXTGRP:Девяностые
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/141/100.mp4
@@ -9126,24 +8586,15 @@ http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2006.03.24
 #EXTINF:0,9 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2006.03.31..009..Kapkan.dlya.inturista.v1a1.30.05.24.mp4
-#EXTINF:0,10 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2006.04.07..010..Chernaya.koshka.v1a1.30.05.24.mp4
 #EXTINF:0,11 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2006.04.14..011..Znamya.Adolfa.Gitlera.v1a1.30.05.24.mp4
 #EXTINF:0,12 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2006.04.21..012..Gaulyayter.Leningrada.v1a1.30.05.24.mp4
-#EXTINF:0,13 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2006.05.19..013..Ohotniki.za.brilliantami..Chast.1.v1a1.30.05.24.mp4
 #EXTINF:0,14 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2006.05.26..014..Ohotniki.za.brilliantami..Chast.2.v1a1.30.05.24.mp4
-#EXTINF:0,15 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2006.06.02..015..Odnazhdy.v.SSSR.v1a1.30.05.24.mp4
 #EXTINF:0,16 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2006.06.09..016..Vladyka.Kubanskiy.v1a1.30.05.24.mp4
@@ -9153,36 +8604,21 @@ http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2006.06.23
 #EXTINF:0,18 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2006.06.30..018..Velikiy.Mongol.v1a1.30.05.24.mp4
-#EXTINF:0,19 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2006.09.15..019..Schipach.v1a1.30.05.24.mp4
 #EXTINF:0,20 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2006.09.22..020..Devushka-palach.v1a1.30.05.24.mp4
 #EXTINF:0,21 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data08-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2006.09.29..021..Lyubov.pod.kremlevskimi.zvezdami.v1a1.30.05.24.mp4
-#EXTINF:0,22 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2006.10.06..022..Otkroyte,.MOSGAZ.v1a1.30.05.24.mp4
-#EXTINF:0,23 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2006.10.13..023..Krasnaya.brigada.v1a1.30.05.24.mp4
 #EXTINF:0,24 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2006.10.20..024..Chernyy.kapitan.v1a1.30.05.24.mp4
-#EXTINF:0,25 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2006.10.27..025..Suhoy.zakon.v1a1.30.05.24.mp4
 #EXTINF:0,26 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2006.11.03..026..Vozvraschenie.Svyatogo.Luki.v1a1.30.05.24.mp4
 #EXTINF:0,27 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2006.11.17..027..Ubit.reformatora.v1a1.30.05.24.mp4
-#EXTINF:0,28 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2006.11.24..028..Vor.i.aktrisa.v1a1.30.05.24.mp4
 #EXTINF:0,29 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2006.12.08..029..Delo.Alena.Delona.v1a1.30.05.24.mp4
@@ -9228,9 +8664,6 @@ http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2007.03.30
 #EXTINF:0,43 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2007.04.06..043..Banditskaya.koroleva.v1a1.30.05.24.mp4
-#EXTINF:0,44 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2007.04.13..044..Ischite.zhenschinu.v1a1.30.05.24.mp4
 #EXTINF:0,45 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2007.04.20..045..Korol.medvezhatnikov.v1a1.30.05.24.mp4
@@ -9285,18 +8718,12 @@ http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2007.11.09
 #EXTINF:0,62 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2007.11.16..062..Chernye.vsadniki.v1a1.30.05.24.mp4
-#EXTINF:0,63 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2007.11.23..063..ChP.soyuznogo.masshtaba.v1a1.30.05.24.mp4
 #EXTINF:0,64 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2007.11.30..064..Delo.o.klubnichke.v1a1.30.05.24.mp4
 #EXTINF:0,65 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2007.12.07..065..Banda.neulovimyh.v1a1.30.05.24.mp4
-#EXTINF:0,66 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2007.12.14..066..Gospodin.otravitel.v1a1.30.05.24.mp4
 #EXTINF:0,67 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2007.12.21..067..Velikiy.kombinator.v1a1.30.05.24.mp4
@@ -9324,30 +8751,15 @@ http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2008.02.22
 #EXTINF:0,75 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data08-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2008.03.07..075..Opasnye.gastroli.v1a1.30.05.24.mp4
-#EXTINF:0,76 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2008.03.21..076..Chernaya.vdova.v1a1.30.05.24.mp4
 #EXTINF:0,77 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2008.03.28..077..Ubiystvo.v.stile.Zastoy.v1a1.30.05.24.mp4
 #EXTINF:0,78 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2008.04.04..078..Zhazhda.smerti.v1a1.30.05.24.mp4
-#EXTINF:0,79 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2008.04.11..079..Chudovische.s.Nevskogo.v1a1.30.05.24.mp4
 #EXTINF:0,80 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2008.04.18..080..Satana.v1a1.30.05.24.mp4
-#EXTINF:0,81 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2008.04.25..081..Volchya.staya.v1a1.30.05.24.mp4
-#EXTINF:0,82 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2008.05.16..082..Neulovimyy.v1a1.30.05.24.mp4
-#EXTINF:0,83 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2008.05.23..083..Adskoe.zele.v1a1.30.05.24.mp4
 #EXTINF:0,84 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2008.05.30..084..Vzorvannyy.gorod.v1a1.30.05.24.mp4
@@ -9384,9 +8796,6 @@ http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2008.11.11
 #EXTINF:0,95 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2008.11.18..095..Spasite.detey.v1a1.30.05.24.mp4
-#EXTINF:0,96 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2008.11.25..096..Nochnaya.tvar.v1a1.30.05.24.mp4
 #EXTINF:0,97 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2008.12.02..097..Odnazhdy.v.Suhumi.v1a1.30.05.24.mp4
@@ -9456,9 +8865,6 @@ http://data08-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2009.09.18
 #EXTINF:0,119 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data08-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2009.09.25..119..Poymay.menya,.esli.smozhesh.v1a1.30.05.24.mp4
-#EXTINF:0,120 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2009.10.09..120..Ohotnik.na.nimfetok.v1a1.30.05.24.mp4
 #EXTINF:0,121 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2009.10.16..121..Dzhentlmen.udachi.v1a1.30.05.24.mp4
@@ -9471,12 +8877,6 @@ http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2009.11.13
 #EXTINF:0,124 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2009.11.20..124..Pobeg.v1a1.30.05.24.mp4
-#EXTINF:0,125 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2009.12.18..125..Materinskiy.instinkt.v1a1.30.05.24.mp4
-#EXTINF:0,126 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2009.12.25..126..Tryukachi.v1a1.30.05.24.mp4
 #EXTINF:0,127 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2010.01.22..127..Kungurskiy.monstr.v1a1.30.05.24.mp4
@@ -9501,33 +8901,21 @@ http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2010.04.02
 #EXTINF:0,134 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2010.04.09..134..Brigada.v1a1.30.05.24.mp4
-#EXTINF:0,135 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2010.04.16..135..Vrag.gosudarstva.v1a1.30.05.24.mp4
 #EXTINF:0,136 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2010.04.23..136..Chelyusti.v1a1.30.05.24.mp4
 #EXTINF:0,137 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2010.04.30..137..Skopcy.v1a1.30.05.24.mp4
-#EXTINF:0,138 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2010.05.21..138..Proklyatyy.dom.v1a1.30.05.24.mp4
 #EXTINF:0,139 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2010.05.28..139..Vosstavshiy.iz.ada.v1a1.30.05.24.mp4
 #EXTINF:0,140 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2010.06.04..140..Obolstitel.v1a1.30.05.24.mp4
-#EXTINF:0,141 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2010.06.11..141..Semeynye.tayny.v1a1.30.05.24.mp4
 #EXTINF:0,142 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2010.06.25..142..Beshenogo.unichtozhit.v1a1.30.05.24.mp4
-#EXTINF:0,143 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2010.07.02..143..Ukradennye.deti.v1a1.30.05.24.mp4
 #EXTINF:0,144 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2010.08.27..144..Shershe.lya.fam.v1a1.30.05.24.mp4
@@ -9573,9 +8961,6 @@ http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2010.12.10
 #EXTINF:0,158 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2010.12.24..158..Dzhentlmeny.neudachi.v1a1.30.05.24.mp4
-#EXTINF:0,159 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2011.01.22..159..Shag.iz.okna.v1a1.30.05.24.mp4
 #EXTINF:0,160 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data08-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2011.02.04..160..Ya-ubiyca.v1a1.30.05.24.mp4
@@ -9600,9 +8985,6 @@ http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2011.04.08
 #EXTINF:0,167 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data08-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2011.04.22..167..Moy.laskovyy.ubiyca.v1a1.30.05.24.mp4
-#EXTINF:0,168 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2011.05.13..168..Absolyutnoe.zlo.v1a1.30.05.24.mp4
 #EXTINF:0,169 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2011.05.20..169..Semeynye.palachi.v1a1.30.05.24.mp4
@@ -9633,9 +9015,6 @@ http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2011.09.18
 #EXTINF:0,178 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2011.09.25..178..Nekromant.v1a1.30.05.24.mp4
-#EXTINF:0,179 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2011.10.02..179..Chernyy.sentyabr.v1a1.30.05.24.mp4
 #EXTINF:0,180 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2011.10.09..180..Soyuz.chetyreh.v1a1.30.05.24.mp4
@@ -9654,12 +9033,6 @@ http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2011.11.20
 #EXTINF:0,185 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data08-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2011.11.27..185..Golova.v.portfele.v1a1.30.05.24.mp4
-#EXTINF:0,186 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2011.12.11..186..Delo.osoboy.vazhnosti.v1a1.30.05.24.mp4
-#EXTINF:0,187 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2011.12.18..187..Sinyaya.roza.v1a1.30.05.24.mp4
 #EXTINF:0,188 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2011.12.25..188..Zamorskaya.nevesta.v1a1.30.05.24.mp4
@@ -9711,9 +9084,6 @@ http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2012.06.02
 #EXTINF:0,204 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2012.06.10..204..Chernyy.polkovnik.v1a1.30.05.24.mp4
-#EXTINF:0,205 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2012.06.16..205..Yadovitaya.shkola.v1a1.30.05.24.mp4
 #EXTINF:0,206 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2012.06.23..206..Pustaya.kolyaska.v1a1.30.05.24.mp4
@@ -9744,15 +9114,9 @@ http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2012.10.13
 #EXTINF:0,215 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data08-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2012.10.20..215..Lozhnyy.diagnoz.v1a1.30.05.24.mp4
-#EXTINF:0,216 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2012.10.27..216..Osenniy.marafon.ili.lyubov.na.chetveryh.v1a1.30.05.24.mp4
 #EXTINF:0,217 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2012.11.10..217..Smertelnoe.Sportloto.v1a1.30.05.24.mp4
-#EXTINF:0,218 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2012.11.17..218..Ohotnik.na.nevest.v1a1.30.05.24.mp4
 #EXTINF:0,219 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2012.11.24..219..Serdce.materi.v1a1.30.05.24.mp4
@@ -9774,12 +9138,6 @@ http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2013.01.19
 #EXTINF:0,225 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2013.02.02..225..Sbezhavshaya.nevesta.v1a1.30.05.24.mp4
-#EXTINF:0,226 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2013.02.09..226..Otrode.v1a1.30.05.24.mp4
-#EXTINF:0,227 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2013.02.16..227..Idealnoe.ubiystvo.v1a1.30.05.24.mp4
 #EXTINF:0,228 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data08-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2013.03.02..228..Znak.zverya.v1a1.30.05.24.mp4
@@ -9792,9 +9150,6 @@ http://data08-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2013.03.23
 #EXTINF:0,231 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2013.03.30..231..Krov.za.krov.v1a1.30.05.24.mp4
-#EXTINF:0,232 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2013.04.06..232..Lifter.v1a1.30.05.24.mp4
 #EXTINF:0,233 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data08-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2013.04.13..233..Beshenoe.zoloto.v1a1.30.05.24.mp4
@@ -9855,9 +9210,6 @@ http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2013.11.09
 #EXTINF:0,252 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2013.11.16..252..Lev.krovozhadnyy.v1a1.30.05.24.mp4
-#EXTINF:0,253 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2013.11.23..253..Skorpion.v1a1.30.05.24.mp4
 #EXTINF:0,254 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2013.11.30..254..Delo.gumanoidov.v1a1.30.05.24.mp4
@@ -9879,9 +9231,6 @@ http://data08-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2014.02.08
 #EXTINF:0,260 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2014.02.15..260..Ubiyca.iz.proshlogo.v1a1.30.05.24.mp4
-#EXTINF:0,261 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2014.03.01..261..Krovavye.detki.v1a1.30.05.24.mp4
 #EXTINF:0,262 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2014.03.15..262..Zhenih.iz.Parizha.v1a1.30.05.24.mp4
@@ -9900,9 +9249,6 @@ http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2014.04.13
 #EXTINF:0,267 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2014.04.27..267..Bilet.v.preispodnyuyu.v1a1.30.05.24.mp4
-#EXTINF:0,268 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2014.05.18..268..Maska.smerti.v1a1.30.05.24.mp4
 #EXTINF:0,269 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2014.05.24..269..Slishkom.gorko.v1a1.30.05.24.mp4
@@ -9915,12 +9261,6 @@ http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2014.06.07
 #EXTINF:0,272 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2014.06.14..272..Chuzhoe.lico.v1a1.30.05.24.mp4
-#EXTINF:0,273 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2014.06.21..273..Ee.posledniy.portret.v1a1.30.05.24.mp4
-#EXTINF:0,274 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2014.06.28..274..Izuvery.v1a1.30.05.24.mp4
 #EXTINF:0,275 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2014.08.31..275..Vseh.ubyu,.odin.ostanus.v1a1.30.05.24.mp4
@@ -9942,9 +9282,6 @@ http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2014.10.18
 #EXTINF:0,281 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2014.10.25..281..Bumerang.v1a1.30.05.24.mp4
-#EXTINF:0,282 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2014.11.01..282..Hozyain.goroda.v1a1.30.05.24.mp4
 #EXTINF:0,283 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2014.11.08..283..Pravdorub.v1a1.30.05.24.mp4
@@ -9978,21 +9315,12 @@ http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2015.02.07
 #EXTINF:0,293 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2015.02.14..293..Hochu.rebenka.v1a1.30.05.24.mp4
-#EXTINF:0,294 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2015.02.21..294..Chernyy.geniy.v1a1.30.05.24.mp4
 #EXTINF:0,295 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data08-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2015.02.28..295..Hozyain.zhizni.v1a1.30.05.24.mp4
 #EXTINF:0,296 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2015.03.14..296..Krasnye.chernila.v1a1.30.05.24.mp4
-#EXTINF:0,297 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2015.03.21..297..Myasnaya.mafiya.v1a1.30.05.24.mp4
-#EXTINF:0,298 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2015.03.28..298..Hirurg.v1a1.30.05.24.mp4
 #EXTINF:0,299 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2015.04.04..299..Prigovorennye.v1a1.30.05.24.mp4
@@ -10011,9 +9339,6 @@ http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2015.05.16
 #EXTINF:0,304 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2015.05.23..304..Volchica.v1a1.30.05.24.mp4
-#EXTINF:0,305 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2015.05.30..305..Lico.s.oblozhki.v1a1.30.05.24.mp4
 #EXTINF:0,306 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data08-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2015.06.06..306..Poklonnik.v1a1.30.05.24.mp4
@@ -10023,9 +9348,6 @@ http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2015.06.20
 #EXTINF:0,308 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data08-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2015.06.27..308..Delo.o.Vedme.v1a1.30.05.24.mp4
-#EXTINF:0,309 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2015.09.05..309..Zimnyaya.vishnya.v1a1.30.05.24.mp4
 #EXTINF:0,310 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2015.09.12..310..Lgunya.v1a1.30.05.24.mp4
@@ -10083,9 +9405,6 @@ http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2016.02.13
 #EXTINF:0,328 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2016.02.27..328..Chernyy.platok.v1a1.30.05.24.mp4
-#EXTINF:0,329 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2016.03.05..329..Zolotaya.kletka.v1a1.30.05.24.mp4
 #EXTINF:0,330 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2016.03.12..330..Porochnoe.zachatie.v1a1.30.05.24.mp4
@@ -10098,9 +9417,6 @@ http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2016.03.26
 #EXTINF:0,333 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2016.04.02..333..Kriminalnyy.garem.v1a1.30.05.24.mp4
-#EXTINF:0,334 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2016.04.09..334..Otcovskaya.lyubov.v1a1.30.05.24.mp4
 #EXTINF:0,335 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2016.04.16..335..Malenkiy.naslednik.v1a1.30.05.24.mp4
@@ -10146,9 +9462,6 @@ http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2016.10.08
 #EXTINF:0,349 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2016.10.15..349..Dvoynik.Lyudmily.Gurchenko.v1a1.30.05.24.mp4
-#EXTINF:0,350 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2016.10.22..350..Lyubimchik.i.gorbun.v1a1.30.05.24.mp4
 #EXTINF:0,351 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2016.10.29..351..Sluzhebnyy.roman.v1a1.30.05.24.mp4
@@ -10161,18 +9474,9 @@ http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2016.11.20
 #EXTINF:0,354 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2016.11.27..354..Vkusnaya.smert.v1a1.30.05.24.mp4
-#EXTINF:0,355 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2016.12.04..355..Narodnyy.palach.v1a1.30.05.24.mp4
 #EXTINF:0,356 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2016.12.11..356..Osobo.zarazen.v1a1.30.05.24.mp4
-#EXTINF:0,357 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2016.12.18..357..Ubiystvo.v.roddome.v1a1.30.05.24.mp4
-#EXTINF:0,358 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2016.12.25..358..Ironiya.sudby.v1a1.30.05.24.mp4
 #EXTINF:0,359 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2017.01.29..359..Ubiyca.iz.Lengaza.v1a1.30.05.24.mp4
@@ -10197,12 +9501,6 @@ http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2017.03.12
 #EXTINF:0,366 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2017.03.19..366..Muzhiki.v1a1.30.05.24.mp4
-#EXTINF:0,367 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2017.03.26..367..Luchshiy.papa.v1a1.30.05.24.mp4
-#EXTINF:0,368 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2017.04.02..368..Kogda.cveli.sady.v1a1.30.05.24.mp4
 #EXTINF:0,369 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2017.04.09..369..Duel.v1a1.30.05.24.mp4
@@ -10305,9 +9603,6 @@ http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2018.04.08
 #EXTINF:0,402 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2018.04.15..402..Po.tonkomu.ldu.v1a1.30.05.24.mp4
-#EXTINF:0,403 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2018.04.22..403..Krasnaya.shapochka.v1a1.30.05.24.mp4
 #EXTINF:0,404 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2018.04.29..404..Primeta.ubiycy.v1a1.30.05.24.mp4
@@ -10323,18 +9618,12 @@ http://data08-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2018.05.20
 #EXTINF:0,408 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2018.05.27..408..Manyak.iz.10-go.B.v1a1.30.05.24.mp4
-#EXTINF:0,409 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2018.06.03..409..Tufelka.na.obochine.v1a1.30.05.24.mp4
 #EXTINF:0,410 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2018.06.10..410..Smertelnyy.otpusk.v1a1.30.05.24.mp4
 #EXTINF:0,411 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2018.06.17..411..Zhestokiy.romans.v1a1.30.05.24.mp4
-#EXTINF:0,412 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2018.06.24..412..Chuzhak.v1a1.30.05.24.mp4
 #EXTINF:0,413 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2018.09.02..413..Pyshka.v1a1.30.05.24.mp4
@@ -10362,9 +9651,6 @@ http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2018.10.21
 #EXTINF:0,421 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2018.10.28..421..Zvezdnoe.delo.v1a1.30.05.24.mp4
-#EXTINF:0,422 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2018.11.04..422..Boysya.svoih.zhelaniy.v1a1.30.05.24.mp4
 #EXTINF:0,423 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2018.11.11..423..Zharkiy.muzhchina.v1a1.30.05.24.mp4
@@ -10383,9 +9669,6 @@ http://data08-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2018.12.09
 #EXTINF:0,428 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2018.12.16..428..S.menya.hvatit.v1a1.30.05.24.mp4
-#EXTINF:0,429 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2018.12.23..429..Boroda.iz.vaty.v1a1.30.05.24.mp4
 #EXTINF:0,430 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2019.02.03..430..Zhenschina.v.krasnom.v1a1.30.05.24.mp4
@@ -10398,9 +9681,6 @@ http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2019.02.17
 #EXTINF:0,433 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2019.02.24..433..Samaya.obayatelnaya.i.privlekatelnaya.v1a1.30.05.24.mp4
-#EXTINF:0,434 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2019.03.03..434..Vsadnik.bez.golovy.v1a1.30.05.24.mp4
 #EXTINF:0,435 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2019.03.10..435..Ruka.na.snegu.v1a1.30.05.24.mp4
@@ -10410,15 +9690,9 @@ http://data08-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2019.03.17
 #EXTINF:0,437 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2019.03.24..437..Krovnye.ubiycy.v1a1.30.05.24.mp4
-#EXTINF:0,438 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2019.03.31..438..Budte.moey....lyubovnicey.v1a1.30.05.24.mp4
 #EXTINF:0,439 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2019.04.07..439..Myshelovka.v1a1.30.05.24.mp4
-#EXTINF:0,440 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2019.04.21..440..Ten.v.pereulke.v1a1.30.05.24.mp4
 #EXTINF:0,441 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2019.04.28..441..Zolotaya.pautina.v1a1.30.05.24.mp4
@@ -10476,15 +9750,9 @@ http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2019.11.03
 #EXTINF:0,459 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2019.11.10..459..Gen.sadizma.v1a1.30.05.24.mp4
-#EXTINF:0,460 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2019.11.17..460..Kloun.v1a1.30.05.24.mp4
 #EXTINF:0,461 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2019.11.24..461..Razrushitel.v1a1.30.05.24.mp4
-#EXTINF:0,462 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2019.12.08..462..Ubit.nelzya.pomilovat.v1a1.30.05.24.mp4
 #EXTINF:0,463 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2019.12.15..463..Delo.o.shmotkah.v1a1.30.05.24.mp4
@@ -10494,18 +9762,12 @@ http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2019.12.22
 #EXTINF:0,465 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2019.12.29..465..Karnavalnaya.nochka.v1a1.30.05.24.mp4
-#EXTINF:0,466 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2020.02.02..466..Prestupnaya.svyaz.v1a1.30.05.24.mp4
 #EXTINF:0,467 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2020.02.09..467..Markiz.s.bolshoy.dorogi.v1a1.30.05.24.mp4
 #EXTINF:0,468 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2020.02.16..468..Vzorvat.bolnicu.v1a1.30.05.24.mp4
-#EXTINF:0,469 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2020.02.23..469..Ne.mogu.skazat.Proschay.v1a1.30.05.24.mp4
 #EXTINF:0,470 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2020.03.01..470..Semeynaya.zhizn.manyaka.v1a1.30.05.24.mp4
@@ -10539,9 +9801,6 @@ http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2020.05.31
 #EXTINF:0,480 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2020.06.07..480..Kapkan.dlya.pionera.v1a1.30.05.24.mp4
-#EXTINF:0,481 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2020.06.14..481..Bescennyy.muzhchina.v1a1.30.05.24.mp4
 #EXTINF:0,482 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2020.06.21..482..Malenkiy.plennik.v1a1.30.05.24.mp4
@@ -10623,15 +9882,9 @@ http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Sledstvie.
 #EXTINF:0,508 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Sledstvie.veli....s.Leonidom.Kanevskim.2021.Vypusk.50803.04.2021.v1a1.31.05.24.mp4
-#EXTINF:0,509 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Sledstvie.veli....s.Leonidom.Kanevskim.2021.Vypusk.50910.04.2021.v1a1.31.05.24.mp4
 #EXTINF:0,510 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Sledstvie.veli....s.Leonidom.Kanevskim.2021.Vypusk.51017.04.2021.v1a1.31.05.24.mp4
-#EXTINF:0,511 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Sledstvie.veli....s.Leonidom.Kanevskim.2021.Vypusk.51124.04.2021.v1a1.31.05.24.mp4
 #EXTINF:0,512 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Sledstvie.veli....s.Leonidom.Kanevskim.2021.Vypusk.51202.05.2021.v1a1.31.05.24.mp4
@@ -10650,9 +9903,6 @@ http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Sledstvie.
 #EXTINF:0,517 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Sledstvie.veli....s.Leonidom.Kanevskim.2021.Vypusk.51713.06.2021.v1a1.31.05.24.mp4
-#EXTINF:0,518 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Sledstvie.veli....s.Leonidom.Kanevskim.2021.Vypusk.51820.06.2021.v1a1.31.05.24.mp4
 #EXTINF:0,519 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Sledstvie.veli....s.Leonidom.Kanevskim.2021.Vypusk.519,27.06.2021.v1a1.31.05.24.mp4
@@ -10731,9 +9981,6 @@ http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Sledstvie.
 #EXTINF:0,544 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Sledstvie.veli....s.Leonidom.Kanevskim.2022.Vypusk.54413.03.2022.v1a1.31.05.24.mp4
-#EXTINF:0,545 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Sledstvie.veli....s.Leonidom.Kanevskim.2022.Vypusk.54520.03.2022.v1a1.31.05.24.mp4
 #EXTINF:0,546 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Sledstvie.veli....s.Leonidom.Kanevskim.2022.Vypusk.54626.03.2022.v1a1.31.05.24.mp4
@@ -10767,9 +10014,6 @@ http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Sledstvie.
 #EXTINF:0,556 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Sledstvie.veli....s.Leonidom.Kanevskim.2022.Vypusk.55618.06.2022.v1a1.31.05.24.mp4
-#EXTINF:0,557 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Sledstvie.veli....s.Leonidom.Kanevskim.2022.Vypusk.55704.09.2022.v1a1.31.05.24.mp4
 #EXTINF:0,558 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data08-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Sledstvie.veli....s.Leonidom.Kanevskim.2022.Vypusk.55804.09.2022.v1a1.31.05.24.mp4
@@ -10812,9 +10056,6 @@ http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Sledstvie.
 #EXTINF:0,571 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Sledstvie.veli....s.Leonidom.Kanevskim.2022.Vypusk.57110.12.2022.v1a1.31.05.24.mp4
-#EXTINF:0,572 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Sledstvie.veli....s.Leonidom.Kanevskim.2022.Vypusk.57217.12.2022.v1a1.31.05.24.mp4
 #EXTINF:0,573 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Sledstvie.veli....s.Leonidom.Kanevskim.2022.Vypusk.57324.12.2022.v1a1.31.05.24.mp4
@@ -10836,9 +10077,6 @@ http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Sledstvie.
 #EXTINF:0,579 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Sledstvie.veli....s.Leonidom.Kanevskim.2023.Vypusk.579.Troe.v.posteli,.ne.schitaya.muzha.05.03.2023.v1a1.31.05.24.mp4
-#EXTINF:0,580 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Sledstvie.veli....s.Leonidom.Kanevskim.2023.Vypusk.580.Kadril.na.kostyah.12.03.2023.v1a1.31.05.24.mp4
 #EXTINF:0,581 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Sledstvie.veli....s.Leonidom.Kanevskim.2023.Vypusk.581.Odnazhdy.35.let.spustya.19.03.2023.v1a1.31.05.24.mp4
@@ -10869,9 +10107,6 @@ http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Sledstvie.
 #EXTINF:0,590 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Sledstvie.veli....s.Leonidom.Kanevskim.2023.Vypusk.590.Spasite.ubiycu.04.06.2023.v1a1.31.05.24.mp4
-#EXTINF:0,591 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Sledstvie.veli....s.Leonidom.Kanevskim.2023.Vypusk.591.Ruka.dyavola.11.06.2023.v1a1.31.05.24.mp4
 #EXTINF:0,592 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Sledstvie.veli....s.Leonidom.Kanevskim.2023.Vypusk.592.Yantarnoe.more.18.06.2023.v1a1.31.05.24.mp4
@@ -10884,9 +10119,6 @@ http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Sledstvie.
 #EXTINF:0,595 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Sledstvie.veli....s.Leonidom.Kanevskim.2023.Vypusk.595.Topor.i.kosmos.17.09.2023.v1a1.31.05.24.mp4
-#EXTINF:0,596 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Sledstvie.veli....s.Leonidom.Kanevskim.2023.Vypusk.596.Delo.gluhih.23.09.2023.v1a1.31.05.24.mp4
 #EXTINF:0,597 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Sledstvie.veli....s.Leonidom.Kanevskim.2023.Vypusk.597.Goryachiy.finskiy.paren.01.10.2023.v1a1.31.05.24.mp4
@@ -10902,18 +10134,12 @@ http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Sledstvie.
 #EXTINF:0,601 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Sledstvie.veli....s.Leonidom.Kanevskim.2023.Vypusk.601.Ne.rodis.krasivoy.29.10.2023.v1a1.31.05.24.mp4
-#EXTINF:0,602 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Sledstvie.veli....s.Leonidom.Kanevskim.2023.Vypusk.602.Chernoe.lico.04.11.2023.v1a1.31.05.24.mp4
 #EXTINF:0,603 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data08-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Sledstvie.veli....s.Leonidom.Kanevskim.2023.Vypusk.603.Semeyka.monstrov.11.11.2023.v1a1.31.05.24.mp4
 #EXTINF:0,604 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Sledstvie.veli....s.Leonidom.Kanevskim.2023.Vypusk.604.Pogrebalnye.kostry.19.11.2023.v1a1.31.05.24.mp4
-#EXTINF:0,605 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Sledstvie.veli....s.Leonidom.Kanevskim.2023.Vypusk.605.Zatravlennaya.mest.26.11.2023.v1a1.31.05.24.mp4
 #EXTINF:0,606 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data08-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Sledstvie.veli....s.Leonidom.Kanevskim.2023.Vypusk.606.Moya.prekrasnaya.gospozha.03.12.2023.v1a1.31.05.24.mp4
@@ -10944,9 +10170,6 @@ http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Sledstvie.
 #EXTINF:0,615 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Sledstvie.veli....s.Leonidom.Kanevskim.2024.Vypusk.615.Proklyatyy.syn.03.03.2024.v1a1.31.05.24.mp4
-#EXTINF:0,616 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Sledstvie.veli....s.Leonidom.Kanevskim.2024.Vypusk.616.V.moey.smerti.proshu.vinit....17.03.2024.v1a1.31.05.24.mp4
 #EXTINF:0,617 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Sledstvie.veli....s.Leonidom.Kanevskim.2024.Vypusk.617.Atamansha.24.03.2024.v1a1.31.05.24.mp4
@@ -10968,9 +10191,6 @@ http://data08-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Sledstvie.
 #EXTINF:0,623 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Sledstvie.veli....s.Leonidom.Kanevskim.2024.Vypusk.623.Million.i.lyubovnyy.maraton.12.05.2024.v1a1.31.05.24.mp4
-#EXTINF:0,624 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Sledstvie.veli....s.Leonidom.Kanevskim.2024.Vypusk.624.Chernye.maski.19.05.2024.v1a1.31.05.24.mp4
 #EXTINF:0,625 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data08-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_625..Strashnye.nahodki.26.05.2024.v1a1.31.05.24.mp4
@@ -10986,27 +10206,12 @@ http://data08-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Vypusk.628
 #EXTINF:0,629 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data08-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Vypusk.629.Dama.v.shlyape.01.09.2024.v1a1.02.09.24.mp4
-#EXTINF:0,630 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data08-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_630..Vernye.druzya.08.09.2024.v1a1.08.09.24.mp4
-#EXTINF:0,631 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_SV15.sentyabrya.2024.v1a1.29.09.24.mp4
 #EXTINF:0,632 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_SV22.sentyabrya.2024.v1a1.29.09.24.mp4
 #EXTINF:0,633 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Mertvye.dushi..Film.iz.cikla.Sledstvie.veli.s.Leonidom.Kanevskim.v1a1.06.10.24.mp4
-#EXTINF:0,634 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Sledstvie.veli.s.Leonidom.Kanevskim.6.oktyabrya.2024.v1a1.11.10.24.mp4
-#EXTINF:0,635 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Zlobnyy.vorobey13.oktyabrya.v1a1.28.10.24.mp4
-#EXTINF:0,636 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Dva.Aleshi.20.oktyabrya.2024.v1a1.28.10.24.mp4
 #EXTINF:0,637 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Ohota.na.lyudey27.v1a1.28.10.24.mp4
@@ -11034,15 +10239,6 @@ http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Shosse.V.N
 #EXTINF:0,645 Серия Следствие вели... с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Obruchalnoe.kolcokanevskiy..v1a1.30.12.24.mp4
-#EXTINF:0,646 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Vypusk.646.Krovavye.schety.2025.02.01.v1a1.03.02.25.mp4
-#EXTINF:0,647 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Sledstvie.veli..Hudozhnik,.chto.risuet.smert.v1a1.10.02.25.mp4
-#EXTINF:0,648 Серия Следствие вели... с Леонидом Каневским
-#EXTGRP:Следствие вели
-http://temp-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Usatiy-volosatiy.15-02-2025.v1a1.16.02.25.mp4
 #EXTINF:0,1 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.001..24.06.1995[DVDrip].v1a1.10.02.23.mp4
@@ -11055,9 +10251,6 @@ http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalna
 #EXTINF:0,4 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data08-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.004..26.10.1995[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,5 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.005..29.10.1995[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,6 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.006..05.11.1995[DVDrip].v1a1.10.02.23.mp4
@@ -11082,9 +10275,6 @@ http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalna
 #EXTINF:0,13 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.013.23.12.1995[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,14 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.014.12.01.1997[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,15 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.015..118.01.1997[DVDrip].v1a1.10.02.23.mp4
@@ -11103,12 +10293,6 @@ http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalna
 #EXTINF:0,20 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data08-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.020..08.02.1997[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,21 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.021.15.03.1998[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,22 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.022.22.03.1998[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,23 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.023.29.03.1998[DVDrip].v1a1.10.02.23.mp4
@@ -11121,9 +10305,6 @@ http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalna
 #EXTINF:0,26 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.026.19.04.1998[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,27 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.027.26.04.1998[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,28 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data08-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.028.03.05.1998[DVDrip].v1a1.10.02.23.mp4
@@ -11136,9 +10317,6 @@ http://data08-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalna
 #EXTINF:0,31 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.031.24.05.1998[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,32 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.032.27.09.1998[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,33 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.033.04.10.1998[DVDrip].v1a1.10.02.23.mp4
@@ -11163,27 +10341,18 @@ http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalna
 #EXTINF:0,40 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.040.05.02.1999[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,41 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.041.12.02.1999[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,42 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.042.19.02.1999[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,43 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.043.26.02.1999[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,44 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.044..105.03.1999[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,45 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.045..212.03.1999[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,46 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.046..119.03.1999[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,47 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.047..226.03.1999[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,48 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data08-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.048..102.04.1999[DVDrip].v1a1.10.02.23.mp4
@@ -11202,9 +10371,6 @@ http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalna
 #EXTINF:0,53 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data08-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.053..110.09.1999[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,54 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.054..217.09.1999[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,55 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.055.24.09.1999[DVDrip].v1a1.10.02.23.mp4
@@ -11214,24 +10380,15 @@ http://data08-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalna
 #EXTINF:0,57 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.057...110.10.1999[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,58 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.058...210.10.1999[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,59 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.059.22.10.1999[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,60 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data08-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.060.29.10.1999[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,61 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.061.05.11.1999[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,62 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.062..112.11.1999[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,63 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.063..219.11.1999[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,64 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.064..126.11.1999[DVDrip].v1a1.10.02.23.mp4
@@ -11274,9 +10431,6 @@ http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalna
 #EXTINF:0,77 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.077.31.03.2000[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,78 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.078.07.04.2000[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,79 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.079..124.04.2000[DVDrip].v1a1.10.02.23.mp4
@@ -11328,9 +10482,6 @@ http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalna
 #EXTINF:0,95 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.095..213.02.2001[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,96 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.096..128.09.2001[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,97 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.097..205.10.2001[DVDrip].v1a1.10.02.23.mp4
@@ -11358,9 +10509,6 @@ http://data08-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalna
 #EXTINF:0,105 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.105..207.12.2001[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,106 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.106..114.12.2001[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,107 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.107..221.12.2001[DVDrip].v1a1.10.02.23.mp4
@@ -11370,9 +10518,6 @@ http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalna
 #EXTINF:0,109 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.109..118.01.2002[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,110 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.110..225.01.2002[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,111 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data08-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.111.01.02.2002[DVDrip].v1a1.10.02.23.mp4
@@ -11394,9 +10539,6 @@ http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalna
 #EXTINF:0,117 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.117..122.03.2002[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,118 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.118..229.03.2002[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,119 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.119..305.04.2002[DVDrip].v1a1.10.02.23.mp4
@@ -11415,12 +10557,6 @@ http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalna
 #EXTINF:0,124 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.124..131.05.2002[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,125 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.125..207.06.2002[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,126 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.126..106.10.2002[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,127 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data08-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.127..206.10.2002[DVDrip].v1a1.10.02.23.mp4
@@ -11442,15 +10578,9 @@ http://data08-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalna
 #EXTINF:0,133 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.133..117.11.2002[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,134 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.134..224.11.2002[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,135 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.135..101.12.2002[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,136 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.136..208.12.2002[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,137 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.137..122.12.2002[DVDrip].v1a1.10.02.23.mp4
@@ -11469,15 +10599,9 @@ http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalna
 #EXTINF:0,142 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.142..109.02.2003[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,143 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.143..216.02.2003[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,144 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.144..123.02.2003[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,145 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.145..202.03.2003[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,146 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.146..109.03.2003[DVDrip].v1a1.10.02.23.mp4
@@ -11508,21 +10632,12 @@ http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalna
 #EXTINF:0,155 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.155.15.09.2003[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,156 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.156..103.11.2003[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,157 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.157..210.11.2003[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,158 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.158..117.11.2003[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,159 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.159..224.11.2003[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,160 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.160.-.101.12.2003[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,161 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.161.-.208.12.2003[DVDrip].v1a1.10.02.23.mp4
@@ -11532,9 +10647,6 @@ http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalna
 #EXTINF:0,163 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.163..219.01.2004[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,164 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data00-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.164.26.01.2004[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,165 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.165..102.02.2004[DVDrip].v1a1.10.02.23.mp4
@@ -11556,9 +10668,6 @@ http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalna
 #EXTINF:0,171 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.171..117.05.2004[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,172 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.172..224.05.2004[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,173 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.173..119.07.2004[DVDrip].v1a1.10.02.23.mp4
@@ -11568,42 +10677,24 @@ http://data08-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalna
 #EXTINF:0,175 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.175..123.10.2004[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,176 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data00-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.176..230.10.2004[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,177 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.177..120.11.2004[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,178 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.178..227.11.2004[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,179 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.179.25.12.2004[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,180 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.180..124.01.2005[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,181 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.181..225.01.2005[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,182 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.182..111.02.2005[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,183 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.183..218.02.2005[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,184 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.184.-.128.03.2005[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,185 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.185.-.228.03.2005[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,186 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.186..105.04.2005[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,187 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.187..205.04.2005[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,188 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.188..119.04.2005[DVDrip].v1a1.10.02.23.mp4
@@ -11619,18 +10710,12 @@ http://data08-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalna
 #EXTINF:0,192 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.192..103.05.2005[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,193 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.193..203.05.2005[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,194 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.194..123.05.2005[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,195 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.195..223.05.2005[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,196 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data00-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.196.24.06.2005[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,197 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.197.,.130.06.2005[DVDrip].v1a1.10.02.23.mp4
@@ -11649,18 +10734,9 @@ http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalna
 #EXTINF:0,202 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.202..201.08.2005[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,203 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.203..130.01.2006[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,204 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.204..231.01.2006[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,205 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.205..301.02.2006[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,206 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data00-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.206..402.02.2006[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,207 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.207..106.02.2006[DVDrip].v1a1.10.02.23.mp4
@@ -11691,9 +10767,6 @@ http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalna
 #EXTINF:0,216 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.216..122.02.2006[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,217 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.217..227.02.2006[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,218 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.218..103.05.2006[DVDrip].v1a1.10.02.23.mp4
@@ -11736,9 +10809,6 @@ http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalna
 #EXTINF:0,231 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.231..208.08.2006[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,232 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.232..114.08.2006[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,233 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.233..215.08.2006[DVDrip].v1a1.10.02.23.mp4
@@ -11754,27 +10824,15 @@ http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalna
 #EXTINF:0,237 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.237..431.08.2006[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,238 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data00-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.238..111.09.2006[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,239 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data00-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.239..218.09.2006[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,240 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.240..125.09.2006[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,241 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.241..202.10.2006[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,242 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.242..109.10.2006[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,243 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.243..216.10.2006[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,244 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.244..123.10.2006[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,245 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.245..220.11.2006[DVDrip].v1a1.10.02.23.mp4
@@ -11793,9 +10851,6 @@ http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalna
 #EXTINF:0,250 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.250..115.01.2007[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,251 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.251..222.01.2007[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,252 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.252..109.04.2007[DVDrip].v1a1.10.02.23.mp4
@@ -11808,15 +10863,6 @@ http://data08-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalna
 #EXTINF:0,255 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.255..424.04.2007[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,256 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.256..107.05.2007[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,257 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.257..214.05.2007[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,258 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.258.21.05.2007[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,259 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.259..128.05.2007[DVDrip].v1a1.10.02.23.mp4
@@ -11829,9 +10875,6 @@ http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalna
 #EXTINF:0,262 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.262..118.06.2007[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,263 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.263..225.06.2007[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,264 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data00-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.264.16.11.2009[DVDrip].v1a1.10.02.23.mp4
@@ -11853,18 +10896,12 @@ http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalna
 #EXTINF:0,270 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.270.24.11.2009[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,271 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.271.25.11.2009[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,272 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.272.26.11.2009[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,273 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.273.30.11.2009[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,274 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.274..101.12.2009[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,275 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data08-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.275..202.12.2009[DVDrip].v1a1.10.02.23.mp4
@@ -11883,18 +10920,12 @@ http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalna
 #EXTINF:0,280 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.280.10.12.2009[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,281 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.281.14.12.2009[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,282 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.282..115.12.2009[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,283 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.283..216.12.2009[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,284 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.284..117.12.2009[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,285 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.285..221.12.2009[DVDrip].v1a1.10.02.23.mp4
@@ -11913,9 +10944,6 @@ http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalna
 #EXTINF:0,290 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.290..229.12.2009[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,291 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.291.19.02.2010[SATRrip].v1a1.10.02.23.mp4
 #EXTINF:0,292 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.292.27.02.2010[DVDrip].v1a1.10.02.23.mp4
@@ -11940,9 +10968,6 @@ http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalna
 #EXTINF:0,299 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data00-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.299.14.03.2012[SATRrip].v1a1.10.02.23.mp4
-#EXTINF:0,300 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.300.15.03.2012[SATRrip].v1a1.10.02.23.mp4
 #EXTINF:0,301 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.301.16.03.2012[SATRrip].v1a1.10.02.23.mp4
@@ -11955,24 +10980,15 @@ http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalna
 #EXTINF:0,304 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.304.21.03.2012[SATRrip].v1a1.10.02.23.mp4
-#EXTINF:0,305 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.305.22.03.2012[SATRrip].v1a1.10.02.23.mp4
 #EXTINF:0,306 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.306.23.03.2012[SATRrip].v1a1.10.02.23.mp4
 #EXTINF:0,307 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data00-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.307..126.03.2012[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,308 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.308..227.03.2012[DVDrip].v1a1.10.02.23.mp4
 #EXTINF:0,309 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data08-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.309.28.03.2012[SATRrip].v1a1.10.02.23.mp4
-#EXTINF:0,310 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.310.29.03.2012[SATRrip].v1a1.10.02.23.mp4
 #EXTINF:0,311 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data08-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.311.30.03.2012[SATRrip].v1a1.10.02.23.mp4
@@ -11997,9 +11013,6 @@ http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalna
 #EXTINF:0,318 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.318..210.04.2012[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,319 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.319.11.04.2012[SATRrip].v1a1.10.02.23.mp4
 #EXTINF:0,320 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data08-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.320.12.04.2012[SATRrip].v1a1.10.02.23.mp4
@@ -12009,69 +11022,12 @@ http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalna
 #EXTINF:0,322 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.322..116.04.2012[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,323 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.323..217.04.2012[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,324 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.324.18.04.2012[SATRrip].v1a1.10.02.23.mp4
-#EXTINF:0,325 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.325.19.04.2012[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,326 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.326.20.04.2012[SATRrip].v1a1.10.02.23.mp4
-#EXTINF:0,327 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.327.23.04.2012[SATRrip].v1a1.10.02.23.mp4
-#EXTINF:0,328 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.328.24.04.2012[SATRrip].v1a1.10.02.23.mp4
-#EXTINF:0,329 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.329.25.04.2012[SATRrip].v1a1.10.02.23.mp4
 #EXTINF:0,330 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data00-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.330.26.04.2012[SATRrip].v1a1.10.02.23.mp4
 #EXTINF:0,331 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.331.27.04.2012[SATRrip].v1a1.10.02.23.mp4
-#EXTINF:0,332 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data08-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.332.28.04.2012[SATRrip].v1a1.10.02.23.mp4
-#EXTINF:0,333 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.333.02.05.2012[SATRrip].v1a1.10.02.23.mp4
-#EXTINF:0,334 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.334.03.05.2012[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,335 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.335.04.05.2012[SATRrip].v1a1.10.02.23.mp4
-#EXTINF:0,336 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.336.10.05.2012[SATRrip].v1a1.10.02.23.mp4
-#EXTINF:0,337 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.337.11.05.2012[SATRrip].v1a1.10.02.23.mp4
-#EXTINF:0,338 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data08-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.338.12.05.2012[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,339 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.339.[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,340 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data02-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.340.[DVDrip].v1a1.10.02.23.mp4
-#EXTINF:0,341 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.341.201303.04.2014[SATRrip].v1a1.10.02.23.mp4
-#EXTINF:0,342 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.342.201310.04.2014[SATRrip].v1a1.10.02.23.mp4
-#EXTINF:0,343 Серия Криминальная Россия
-#EXTGRP:Криминальная Россия
-http://data08-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.343.201417.04.2014[SATRrip].v1a1.10.02.23.mp4
 #EXTINF:0,344 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.344.201324.04.2014[SATRrip].v1a1.10.02.23.mp4
@@ -12450,18 +11406,12 @@ https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/221/482.mp4
 #EXTINF:0,Александр Ширвиндт. Взвесимся на брудершафт!
 #EXTGRP:Советские артисты
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/219/757.mp4
-#EXTINF:0,Александра Завьялова. Затворница
-#EXTGRP:Советские артисты
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/209/071.mp4
 #EXTINF:0,Александра Яковлева. Женщина без комплексов
 #EXTGRP:Советские артисты
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/185/888.mp4
 #EXTINF:0,Алексей Баталов. Ради неё я всё отдам...
 #EXTGRP:Советские артисты
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/195/139.mp4
-#EXTINF:0,Алексей Баталов. Человек без недостатков
-#EXTGRP:Советские артисты
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/full-hd/242/627.mp4
 #EXTINF:0,Алексей Жарков. Эффект бабочки
 #EXTGRP:Советские артисты
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/173/625.mp4
@@ -12483,9 +11433,6 @@ https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/full-hd/218/080.mp4
 #EXTINF:0,Андрей Миронов. Баловень судьбы
 #EXTGRP:Советские артисты
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/081/403.mp4
-#EXTINF:0,Андрей Миронов. Клянусь моя песня не спета
-#EXTGRP:Советские артисты
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/236/527.mp4
 #EXTINF:0,Андрей Миронов. Цена аплодисментов
 #EXTGRP:Советские артисты
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/192/471.mp4
@@ -12510,9 +11457,6 @@ https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/full-hd/216/442.mp4
 #EXTINF:0,Борис Андреев. Богатырь союзного значения
 #EXTGRP:Советские артисты
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/186/823.mp4
-#EXTINF:0,Борис Андреев. Я хотел играть любовь
-#EXTGRP:Советские артисты
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/176/931.mp4
 #EXTINF:0,Борис Токарев. Тайна двух капитанов
 #EXTGRP:Советские артисты
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high/067/436.mp4
@@ -12570,9 +11514,6 @@ https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/204/713.mp4
 #EXTINF:0,Виктор Проскурин. Бей первым!
 #EXTGRP:Советские артисты
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/197/281.mp4
-#EXTINF:0,Виктор Цой. Вот такое "Кино"
-#EXTGRP:Советские артисты
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/078/661.mp4
 #EXTINF:0,Виталий Соломин. Я принадлежу сам себе...
 #EXTGRP:Советские артисты
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/149/697.mp4
@@ -12606,7 +11547,7 @@ https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/168/341.mp4
 #EXTINF:0,Владислав Дворжецкий. Роковое везение
 #EXTGRP:Советские артисты
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/192/876.mp4
-#EXTINF:0,Владислав Листьев. Убийственный "Взгляд"
+#EXTINF:0,Владислав Листьев. Убийственный Взгляд
 #EXTGRP:Советские артисты
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/210/419.mp4
 #EXTINF:0,Всеволод Санаев. Оптимистическая трагедия
@@ -12792,9 +11733,6 @@ https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/181/743.mp4
 #EXTINF:0,Михаил Ульянов. Вечный самосуд
 #EXTGRP:Советские артисты
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/160/131.mp4
-#EXTINF:0,Михаил Ульянов. Горькая исповедь
-#EXTGRP:Советские артисты
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/242/125.mp4
 #EXTINF:0,Михай Волонтир. Цыганское несчастье
 #EXTGRP:Советские артисты
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/180/776.mp4
@@ -12978,9 +11916,6 @@ https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/182/613.mp4
 #EXTINF:0,Элина Быстрицкая. Свою жизнь я придумала сама
 #EXTGRP:Советские артисты
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/224/881.mp4
-#EXTINF:0,Эльдар Рязанов. Я ничего не понимаю в музыке
-#EXTGRP:Советские артисты
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/181/104.mp4
 #EXTINF:0,Юлия Борисова. Молчание Турандот
 #EXTGRP:Советские артисты
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/124/334.mp4
@@ -13026,12 +11961,9 @@ https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/162/178.mp4
 #EXTINF:0,Сергей Шакуров. Плохой хороший человек
 #EXTGRP:Советские артисты
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/221/924.mp4
-#EXTINF:0,Сергей Филиппов. "Люди  ау!"
+#EXTINF:0,Сергей Филиппов. Люди  ау!
 #EXTGRP:Советские артисты
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high/057/953.mp4
-#EXTINF:0,Сергей Филиппов. Есть ли жизнь на Марсе...
-#EXTGRP:Советские артисты
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/209/241.mp4
 #EXTINF:0,Сергей Никоненко. О  счастливчик!
 #EXTGRP:Советские артисты
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/091/352.mp4
@@ -13044,7 +11976,7 @@ https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/087/573.mp4
 #EXTINF:0,Светлана Савёлова. Исчезнувшая
 #EXTGRP:Советские артисты
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/full-hd/221/110.mp4
-#EXTINF:0,Светлана Крючкова. Никогда не говори "никогда"
+#EXTINF:0,Светлана Крючкова. Никогда не говори никогда
 #EXTGRP:Советские артисты
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/125/002.mp4
 #EXTINF:0,Сам себе Джигарханян
@@ -13053,9 +11985,6 @@ https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/081/767.mp4
 #EXTINF:0,Савелий Крамаров. Рецепт ранней смерти
 #EXTGRP:Советские артисты
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/172/682.mp4
-#EXTINF:0,Ростислав Плятт. Интеллигентный хулиган
-#EXTGRP:Советские артисты
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/185/725.mp4
 #EXTINF:0,Ролан Быков. Вот такой я человек!
 #EXTGRP:Советские артисты
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/191/117.mp4
@@ -13083,33 +12012,6 @@ https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/147/284.mp4
 #EXTINF:0,Пётр Алейников. Жестокая  любовь
 #EXTGRP:Советские артисты
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/088/646.mp4
-#EXTINF:0,Ольга Аросева. Расплата за успех
-#EXTGRP:Советские артисты
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/183/305.mp4
-#EXTINF:0,Олег Стриженов. Никаких компромиссов
-#EXTGRP:Советские артисты
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/236/279.mp4
-#EXTINF:0,Олег Ефремов. Последнее признание
-#EXTGRP:Советские артисты
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/228/725.mp4
-#EXTINF:0,Нонна Мордюкова. Право на одиночество
-#EXTGRP:Советские артисты
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/226/560.mp4
-#EXTINF:0,Нина Сазонова. Основной инстинкт
-#EXTGRP:Советские артисты
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/136/925.mp4
-#EXTINF:0,Матлюба Алимова. Чужая среди своих
-#EXTGRP:Советские артисты
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/full-hd/230/335.mp4
-#EXTINF:0,Марк Бернес. Я жизнь учил не по учебникам
-#EXTGRP:Советские артисты
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/193/495.mp4
-#EXTINF:0,Людмила Касаткина. Укрощение строптивой
-#EXTGRP:Советские артисты
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/202/367.mp4
-#EXTINF:0,Леонид Броневой. А вас я попрошу остаться
-#EXTGRP:Советские артисты
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/137/351.mp4
 #EXTINF:0,Кирилл Лавров. Рыцарь петербургского образа
 #EXTGRP:Советские артисты
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/089/853.mp4
@@ -13152,16 +12054,9 @@ https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/090/641.mp4
 #EXTINF:0,Игорь Кваша. Против течения
 #EXTGRP:Советские артисты
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high/058/086.mp4
-#EXTINF:0,Игорь Тальков. Последний аккорд
-#EXTGRP:Советские артисты
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/195/337.mp4
 #EXTINF:0,Игорь Старыгин. Ледяное сердце
 #EXTGRP:Советские артисты
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/full-hd/208/076.mp4
-#EXTINF:0,Игорь Старыгин. Последняя дуэль
-#EXTGRP:Советские артисты
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/186/577.mp4
-#EXTINF:0,Игорь Скляр. Под страхом славы
 #EXTGRP:Советские артисты
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/120/860.mp4
 #EXTINF:0,Игорь Костолевский. Расставаясь с иллюзиями
@@ -13176,18 +12071,12 @@ https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/105/487.mp4
 #EXTINF:0,Михаил Шолохов
 #EXTGRP:Прощание
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/146/036.mp4
-#EXTINF:0,Людмила Зыкина
-#EXTGRP:Прощание
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/073/491.mp4
 #EXTINF:0,Евгений Моргунов
 #EXTGRP:Прощание
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/161/026.mp4
 #EXTINF:0,Евгений Евстигнеев и Ирина Цывина
 #EXTGRP:Прощание
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/152/340.mp4
-#EXTINF:0,Нонна Мордюкова
-#EXTGRP:Прощание
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/171/930.mp4
 #EXTINF:0,Георгий Юнгвальд-Хилькевич
 #EXTGRP:Прощание
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/246/595.mp4
@@ -13212,9 +12101,6 @@ https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/155/578.mp4
 #EXTINF:0,Михаил Кокшенов
 #EXTGRP:Прощание
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/175/068.mp4
-#EXTINF:0,Виктория и Галина Брежневы
-#EXTGRP:Прощание
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/116/313.mp4
 #EXTINF:0,Михаил Козаков
 #EXTGRP:Прощание
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/143/957.mp4
@@ -13227,9 +12113,6 @@ https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/105/489.mp4
 #EXTINF:0,Александр и Ирина Пороховщиковы
 #EXTGRP:Прощание
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/084/578.mp4
-#EXTINF:0,Василий Шукшин
-#EXTGRP:Прощание
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/181/477.mp4
 #EXTINF:0,Евгений Осин
 #EXTGRP:Прощание
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/139/508.mp4
@@ -13263,13 +12146,13 @@ https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/179/332.mp4
 #EXTINF:0,Надежда Крупская
 #EXTGRP:Прощание
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/196/693.mp4
-#EXTINF:0,"Пятилетка похорон"
+#EXTINF:0,Пятилетка похорон
 #EXTGRP:Прощание
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/199/903.mp4
 #EXTINF:0,Япончик
 #EXTGRP:Прощание
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/105/875.mp4
-#EXTINF:0,"Трус  Балбес и Бывалый"
+#EXTINF:0,Трус  Балбес и Бывалый
 #EXTGRP:Прощание
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/201/239.mp4
 #EXTINF:0,Иосиф Кобзон
@@ -13290,10 +12173,10 @@ https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/175/446.mp4
 #EXTINF:0,Фрунзик Мкртчян
 #EXTGRP:Прощание
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/197/919.mp4
-#EXTINF:0,"Вторая волна"
+#EXTINF:0,Вторая волна
 #EXTGRP:Прощание
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/206/442.mp4
-#EXTINF:0,"Вторая волна  2"
+#EXTINF:0,Вторая волна  2
 #EXTGRP:Прощание
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/206/893.mp4
 #EXTINF:0,Леонид Филатов
@@ -13308,13 +12191,10 @@ https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/210/432.mp4
 #EXTINF:0,Сергей Доренко
 #EXTGRP:Прощание
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/173/968.mp4
-#EXTINF:0,Александр Барыкин
-#EXTGRP:Прощание
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/165/924.mp4
 #EXTINF:0,Виктор Черномырдин
 #EXTGRP:Прощание
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/153/631.mp4
-#EXTINF:0,"Им не будет 40"
+#EXTINF:0,Им не будет 40
 #EXTGRP:Прощание
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/178/243.mp4
 #EXTINF:0,Алан Чумак
@@ -13338,27 +12218,15 @@ https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/117/344.mp4
 #EXTINF:0,Борислав Брондуков
 #EXTGRP:Прощание
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/209/101.mp4
-#EXTINF:0,Валентина Малявина
-#EXTGRP:Прощание
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/207/165.mp4
-#EXTINF:0,Алексей Булдаков
-#EXTGRP:Прощание
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/203/643.mp4
 #EXTINF:0,Любовь Орлова
 #EXTGRP:Прощание
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/178/861.mp4
-#EXTINF:0,Владимир Мигуля
-#EXTGRP:Прощание
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/217/467.mp4
 #EXTINF:0,Александра Яковлева
 #EXTGRP:Прощание
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/217/904.mp4
 #EXTINF:0,Крис Кельми
 #EXTGRP:Прощание
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/184/631.mp4
-#EXTINF:0,Виктор Мережко
-#EXTGRP:Прощание
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/219/614.mp4
 #EXTINF:0,Владимир Сошальский
 #EXTGRP:Прощание
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/200/948.mp4
@@ -13371,9 +12239,6 @@ https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/201/114.mp4
 #EXTINF:0,Семён Фарада
 #EXTGRP:Прощание
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/221/161.mp4
-#EXTINF:0,Александр Градский
-#EXTGRP:Прощание
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/207/703.mp4
 #EXTINF:0,Аркадий Райкин
 #EXTGRP:Прощание
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/144/282.mp4
@@ -13389,9 +12254,6 @@ https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/224/936.mp4
 #EXTINF:0,Сергей Кузнецов
 #EXTGRP:Прощание
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/225/419.mp4
-#EXTINF:0,Валентина Легкоступова
-#EXTGRP:Прощание
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/225/799.mp4
 #EXTINF:0,Александр Белявский
 #EXTGRP:Прощание
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/226/555.mp4
@@ -13428,9 +12290,6 @@ https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/194/128.mp4
 #EXTINF:0,Владимир Этуш
 #EXTGRP:Прощание
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/154/404.mp4
-#EXTINF:0,Ян Арлазоров
-#EXTGRP:Прощание
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/139/248.mp4
 #EXTINF:0,Наталья Гундарева
 #EXTGRP:Прощание
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/136/349.mp4
@@ -13452,12 +12311,6 @@ https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/172/756.mp4
 #EXTINF:0,Лаврентий Берия
 #EXTGRP:Прощание
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/170/948.mp4
-#EXTINF:0,Валерий Золотухин
-#EXTGRP:Прощание
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/115/954.mp4
-#EXTINF:0,Ия Саввина
-#EXTGRP:Прощание
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/234/022.mp4
 #EXTINF:0,Сталин и Прокофьев
 #EXTGRP:Прощание
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/234/542.mp4
@@ -13476,9 +12329,6 @@ https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/204/101.mp4
 #EXTINF:0,Борис Моисеев
 #EXTGRP:Прощание
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/221/989.mp4
-#EXTINF:0,Михаил Горбачёв
-#EXTGRP:Прощание
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/227/601.mp4
 #EXTINF:0,Звёздные жертвы пандемии
 #EXTGRP:Прощание
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/180/487.mp4
@@ -13491,21 +12341,12 @@ https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/237/334.mp4
 #EXTINF:0,Николай Губенко
 #EXTGRP:Прощание
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/237/505.mp4
-#EXTINF:0,Юрий Шатунов
-#EXTGRP:Прощание
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/218/799.mp4
 #EXTINF:0,Любовь Полищук
 #EXTGRP:Прощание
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/201/298.mp4
 #EXTINF:0,Сергей Филиппов
 #EXTGRP:Прощание
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/197/519.mp4
-#EXTINF:0,Валерий Ободзинский
-#EXTGRP:Прощание
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/174/625.mp4
-#EXTINF:0,Ирина Мирошниченко
-#EXTGRP:Прощание
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/239/840.mp4
 #EXTINF:0,Олег Видов
 #EXTGRP:Прощание
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/241/728.mp4
