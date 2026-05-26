@@ -889,132 +889,6 @@ http://93.84.115.174:10181/belarus5hd
 #EXTINF:0,Новое Радио (BY) HD
 #EXTGRP:БЕЛАРУСЬ
 http://live.novoeradio.by:8081/live/novoeradio_1080p/chunks.m3u8
-#EXTINF:0,Радио Рацыя [BY]
-#EXTGRP:БЕЛАРУСЬ
-http://air.racyja.com:8000/racja128
-#EXTINF:0,FreeДом
-#EXTGRP:УКРАИНА
-https://dash2.antik.sk/live/test_uatv/playlist.m3u8
-#EXTINF:0,2+2ᴴᴰ
-#EXTGRP:УКРАИНА
-http://ihkk.shott.top/p/6d0933336cd692f52a2b3b9505e5e47d/2990
-#EXTINF:0,ОЦЕᴴᴰ
-#EXTGRP:УКРАИНА
-http://212.42.117.34:8080/hls/OshTV.m3u8
-#EXTINF:0,ITV (Рівне)
-#EXTGRP:УКРАИНА
-https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8
-#EXTINF:0,Рiвне 1 SD
-#EXTGRP:УКРАИНА
-https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8
-#EXTINF:0,Сфера ТВ (Рiвне)
-#EXTGRP:УКРАИНА
-https://cdn10.live-tv.cloud/sferarv/sferarv-abr/playlist.m3u8
-#EXTINF:0,Перший Закарпатьский
-#EXTGRP:УКРАИНА
-http://91.226.35.134:8081/PK
-#EXTINF:0,Перший міський (Одеса)
-#EXTGRP:УКРАИНА
-http://91.194.79.46:8081/stream2/channel2/playlist.m3u8
-#EXTINF:0,Перший міськийᴴᴰ (Одеса)
-#EXTGRP:УКРАИНА
-http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
-#EXTINF:0,ГLAS PLUS
-#EXTGRP:УКРАИНА
-http://85.238.112.69:8811/hls_sec/239.0.58.39-.m3u8
-#EXTINF:0,Украiна 1 SD
-#EXTGRP:УКРАИНА
-https://fl1004.bozztv.com/ushba12/tracks-v1a1/mono.m3u8
-#EXTINF:0,Україна 1 SD
-#EXTGRP:УКРАИНА
-https://rpn3.bozztv.com/dvrfl07/ushba12/tracks-v1a1/mono.m3u8
-#EXTINF:0,УКРАЇНА 1 SD
-#EXTGRP:УКРАИНА
-https://rpn3.bozztv.com/dvrfl07/ushba12/index.m3u8
-#EXTINF:0,Україна 2 SD
-#EXTGRP:УКРАИНА
-https://rpn3.bozztv.com/dvrfl07/ushba5/tracks-v1a1/mono.m3u8
-#EXTINF:0,AMC
-#EXTGRP:УКРАИНА
-http://tet3dgnk.russtv.net/iptv/QGP3QXDP95UFB4/31792/index.m3u8
-#EXTINF:0,Наше улюблене кіноᴴᴰ
-#EXTGRP:УКРАИНА
-http://tet3dgnk.russtv.net/iptv/QGP3QXDP95UFB4/15007/index.m3u8
-#EXTINF:0,Масон ТВᴴᴰ
-#EXTGRP:УКРАИНА
-http://195.189.60.253/mason_tv_hd/video.m3u8
-#EXTINF:0,Закон ТВᴴᴰ
-#EXTGRP:УКРАИНА
-http://195.189.60.253/zakon_tv_hd/video.m3u8
-#EXTINF:0,М1
-#EXTGRP:УКРАИНА
-http://tinyurl.com/TvZaTak65?id=m1
-#EXTINF:0,M1
-#EXTGRP:УКРАИНА
-http://158.101.222.193:88/georgia_play.php?id=m1
-#EXTINF:0,TRANCE IS STAR RADIO SD
-#EXTGRP:УКРАИНА
-https://myradio24.org/tisradio_video.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
-#EXTINF:0,Bossa Nova FM 🇺🇦
-#EXTGRP:УКРАИНА
-https://stream.skymedia.ee/live/NRJ
-#EXTINF:0,Army FM 🇺🇦
-#EXTGRP:УКРАИНА
-http://212.26.132.129:8000/ArmyFM
-#EXTINF:0,Hope FM 🇺🇦
-#EXTGRP:УКРАИНА
-http://185.168.128.79:7777/hope.fm/256
-#EXTINF:0,Радiо НВ FM 🇺🇦
-#EXTGRP:УКРАИНА
-http://91.218.212.84:8000/radionv.mp3
-#EXTINF:0,Радіо Gora FM 🇺🇦
-#EXTGRP:УКРАИНА
-http://listen.radiogora.ru:8000/hiphop128
-#EXTINF:0,Тіса FM 🇺🇦
-#EXTGRP:УКРАИНА
-http://radio.nrcu.gov.ua:8000/tysafm-mp3
-#EXTINF:0,100% News
-#EXTGRP:УКРАИНА
-http://85.238.112.40:8810/hls_sec/online/list-100.m3u8
-#EXTINF:0,Renome
-#EXTGRP:УКРАИНА
-http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
-#EXTINF:0,О.Н.Т
-#EXTGRP:УКРАИНА
-http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
-#EXTINF:0,Гордон Live
-#EXTGRP:УКРАИНА
-http://91.228.35.249:8001/1:0:16:67:2FA8:13E:820000:0:0:0
-#EXTINF:0,NTS Moldova
-#EXTGRP:УКРАИНА
-http://5.56.77.9:50000
-#EXTINF:0,Первый канал Евразия
-#EXTGRP:КАЗАХСТАН
-http://91.228.35.249:8001/1:0:1:1C92:332C:13E:820000:0:0:0
-#EXTINF:0,МИР 🇰🇿
-#EXTGRP:КАЗАХСТАН
-https://tvcdn01.oktv.kz/tv/mir/index.m3u8
-#EXTINF:0,24KZ 🇰🇿
-#EXTGRP:КАЗАХСТАН
-https://stream8.cinerama.uz/1408/tracks-v1a1/mono.m3u8
-#EXTINF:0,Abai TV 🇰🇿
-#EXTGRP:КАЗАХСТАН
-https://abaitv-stream.qazcdn.com/abaitv/abaitv/tracks-v2a1/mono.ts.m3u8
-#EXTINF:0,Abai TVᴴᴰ 🇰🇿
-#EXTGRP:КАЗАХСТАН
-http://abaitv-stream.qazcdn.com/abaitv/abaitv/tracks-v4a1/mono.m3u8
-#EXTINF:0,Алау ТВᴴᴰ 🇰🇿
-#EXTGRP:КАЗАХСТАН
-https://fs.uplink.kz/alau/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:0,Balapanᴴᴰ 🇰🇿
-#EXTGRP:КАЗАХСТАН
-https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
-#EXTINF:0,Balapan Internationalᴴᴰ 🇰🇿
-#EXTGRP:КАЗАХСТАН
-https://qazaqstantv-stream.qazcdn.com/international/balapan/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0,Qasaqstan Inter 🇰🇿
-#EXTGRP:КАЗАХСТАН
-https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8
 #EXTINF:0,QAZAQSTAN Internationalᴴᴰ 🇰🇿
 #EXTGRP:КАЗАХСТАН
 https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
@@ -1039,48 +913,9 @@ https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/chunklist.m3u8
 #EXTINF:0,Новое SD 🇰🇿
 #EXTGRP:КАЗАХСТАН
 http://live.zhanafm.kz:8080/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b_output_0.m3u8
-#EXTINF:0,ТВОЁ ТВ (Темиртау) 🇰🇿
-#EXTGRP:КАЗАХСТАН
-http://smarty.oktv.kz/tvmiddleware/api/channel/url/?cid=21&device=android_stb&client_id=1&authkey=fceb15e8f73be3fd883c2ec490e8d0d69d989dd0b5a284e5c107902b9d2960465923bc93581ef74040c44e3a93d108388f1b8b9d6b89e2f39ea29efee8b72897&timezone=0
-#EXTINF:0,TDK42 (Уральск) SD 🇰🇿
-#EXTGRP:КАЗАХСТАН
-https://live-tdk42kz.cdnvideo.ru/tdk42kz/tdk42kz_720.smil/playlist.m3u8
-#EXTINF:0,РИКА ТВ (Актобе) SD 🇰🇿
-#EXTGRP:КАЗАХСТАН
-http://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,НТК (Нижнеудинск) 🇰🇿
-#EXTGRP:КАЗАХСТАН
-http://hubtv.ru/index.php?stream=aHR0cDovLzE3MS4yMi4yMTIuMjUwL05USy90cmFja3MtdjFhMS9tb25vLm0zdTg=
 #EXTINF:0,Orken Live TVᴴᴰ 🇰🇿
 #EXTGRP:КАЗАХСТАН
 https://orken-media.kz/live/tracks-v1a1/mono.m3u8
-#EXTINF:0,Ассамблея ТВ 🇰🇿
-#EXTGRP:КАЗАХСТАН
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/QVP3XYV8KEF4TL/15004/index.m3u8
-#EXTINF:0,MuzzOne 🇰🇿
-#EXTGRP:КАЗАХСТАН
-https://streams.adapto.kz/hls/live/muzzone/main_stream.m3u8
-#EXTINF:0,Sport+ 🇰🇿
-#EXTGRP:КАЗАХСТАН
-http://37.46.49.14:18010/play/a056/index.m3u8
-#EXTINF:0,Qazsportᴴᴰ 🇰🇿
-#EXTGRP:КАЗАХСТАН
-http://37.46.49.14:18010/play/a04c/index.m3u8
-#EXTINF:0,TV Line (Лисаковск) KZ
-#EXTGRP:КАЗАХСТАН
-https://otv.wotom.net/tvline/stream.m3u8
-#EXTINF:0,Radio Jibek Jolyᴴᴰ 🇰🇿
-#EXTGRP:КАЗАХСТАН
-https://stream.qazcdn.net/ex6r514/D0Ik7bYjFJq/tracks-v3a1/mono.ts.m3u8
-#EXTINF:0,Qazaqstan Music SD 🇰🇿
-#EXTGRP:КАЗАХСТАН
-https://stream.qaztv.kz/live/stream3/index.m3u8
-#EXTINF:0,Astana TV
-#EXTGRP:КАЗАХСТАН
-http://smarty.oktv.kz/tvmiddleware/api/channel/url/?cid=9&device=android_stb&client_id=1&authkey=fceb15e8f73be3fd883c2ec490e8d0d69d989dd0b5a284e5c107902b9d2960465923bc93581ef74040c44e3a93d108388f1b8b9d6b89e2f39ea29efee8b72897&timezone=0
-#EXTINF:0,QAZAQSTAN
-#EXTGRP:КАЗАХСТАН
-http://smarty.oktv.kz/tvmiddleware/api/channel/url/?cid=1&device=android_stb&client_id=1&authkey=fceb15e8f73be3fd883c2ec490e8d0d69d989dd0b5a284e5c107902b9d2960465923bc93581ef74040c44e3a93d108388f1b8b9d6b89e2f39ea29efee8b72897&timezone=0
 #EXTINF:0,КТК SD
 #EXTGRP:КАЗАХСТАН
 http://wz-kt.ktk.kz/ktklive/live.hq/playlist.m3u8
@@ -1093,15 +928,6 @@ https://live.zhanafm.kz:8181/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b.m3u8
 #EXTINF:0,7 канал
 #EXTGRP:КАЗАХСТАН
 http://smarty.oktv.kz/tvmiddleware/api/channel/url/?cid=4&device=android_stb&client_id=1&authkey=fceb15e8f73be3fd883c2ec490e8d0d69d989dd0b5a284e5c107902b9d2960465923bc93581ef74040c44e3a93d108388f1b8b9d6b89e2f39ea29efee8b72897&timezone=0
-#EXTINF:0,Abai TV HD
-#EXTGRP:КАЗАХСТАН
-https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
-#EXTINF:0,Balapan HD
-#EXTGRP:КАЗАХСТАН
-http://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
-#EXTINF:0,QAZAQSTAN HD
-#EXTGRP:КАЗАХСТАН
-https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
 #EXTINF:0,Qazsport HD
 #EXTGRP:КАЗАХСТАН
 http://217.154.10.99:2020/channel/2b15f108/index.m3u8?q=ac8328a8c05870646c45caa253710a85
@@ -1111,45 +937,12 @@ https://stream.qazcdn.net/ex6r514/silkwaycinema/mono.ts.m3u8
 #EXTINF:0,Silk Way HD
 #EXTGRP:КАЗАХСТАН
 http://91.228.35.249:8001/1:0:1:2340:2328:13E:820000:0:0:0
-#EXTINF:0,Qostanai
-#EXTGRP:КАЗАХСТАН
-https://fs.uplink.kz/qostanai/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:0,312 Кино 🇰🇬
 #EXTGRP:КЫРГЫЗСТАН
 http://176.126.166.43:1935/live/312kino/chunklist_w164832369.m3u8
-#EXTINF:0,312 Сериал 🇰🇬
-#EXTGRP:КЫРГЫЗСТАН
-http://176.126.166.43:1935/live/312musik/chunklist_w1516016500.m3u8
-#EXTINF:0,TV15ᴴᴰ 🇰🇬
-#EXTGRP:КЫРГЫЗСТАН
-http://213.109.64.248:8086/0.m3u8
-#EXTINF:0,Regionᴴᴰ 🇰🇬
-#EXTGRP:КЫРГЫЗСТАН
-http://31.192.249.68:8080/0.m3u8
 #EXTINF:0,TMedia SD 🇰🇬
 #EXTGRP:КЫРГЫЗСТАН
 http://92.62.68.29:8086/0.ts
-#EXTINF:0,МАНАС SD 🇰🇬
-#EXTGRP:КЫРГЫЗСТАН
-http://212.42.111.152:8080/hls/manas.m3u8
-#EXTINF:0,УТРК Жалал-Абад 🇰🇬
-#EXTGRP:КЫРГЫЗСТАН
-http://80.72.179.162:8086/index.m3u8
-#EXTINF:0,УТРК Таласᴴᴰ 🇰🇬
-#EXTGRP:КЫРГЫЗСТАН
-http://34.92.173.115/utrk_talas/index.m3u8
-#EXTINF:0,7 канал SD 🇰🇬
-#EXTGRP:КЫРГЫЗСТАН
-http://212.112.106.117:8086/0.m3u8
-#EXTINF:0,8 каналᴴᴰ 🇰🇬
-#EXTGRP:КЫРГЫЗСТАН
-http://77.235.31.197:8080/0.m3u8
-#EXTINF:0,MTV Liveᴴᴰ 🇰🇬
-#EXTGRP:КЫРГЫЗСТАН
-http://77.235.31.197:8082/0.m3u8
-#EXTINF:0,Marva TV SD 🇰🇬
-#EXTGRP:КЫРГЫЗСТАН
-http://77.235.26.137:8086/0.m3u8
 #EXTINF:0,Nur TVᴴᴰ 🇰🇬
 #EXTGRP:КЫРГЫЗСТАН
 http://146.120.213.172:8086/0.m3u8
@@ -1165,7 +958,6 @@ http://93.84.115.174:10181/foxlifehd
 #EXTINF:0,Cinema
 #EXTGRP:КИНО
 http://83.217.12.157:81/udp/239.1.1.97:1234
-
 #EXTINF:0,FANᴴᴰ
 #EXTGRP:КИНО
 http://31.148.48.15/Fan/index.m3u8
@@ -1226,7 +1018,6 @@ http://31148.rafail1982.uz/Kinopokaz/index.m3u8
 #EXTINF:0,КИНОСАТ
 #EXTGRP:КИНО
 http://31.148.48.15/Kineko/index.m3u8
-
 #EXTINF:0,Т24
 #EXTGRP:КИНО
 http://83.217.12.157:81/udp/239.1.1.158:1234
@@ -1435,7 +1226,6 @@ http://46.175.123.164:4022/udp/239.195.65.56:1234
 #EXTINF:0,START World
 #EXTGRP:СЕРИАЛЫ
 https://kino.zunotv.workers.dev/start_world_hd/index.m3u8
-
 #EXTINF:0,Кинеко
 #EXTGRP:СЕРИАЛЫ
 http://46.32.176.50/foxrussia/index.m3u8
@@ -1647,14 +1437,12 @@ http://178.134.1.158:8081/mosfilm/index.m3u8
 #EXTINF:0,Мосфильм.Золотая Коллекцияᴴᴰ
 #EXTGRP:КИНО
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/mosfilm_zolotaya_kollektsiya_hd/16/playlist.m3u8
-
 #EXTINF:0,Мосфильм.Золотая Коллекция (+2)
 #EXTGRP:КИНО
 http://83.217.12.157:81/udp/239.1.1.206:1234
 #EXTINF:0,Мосфильм.Золотая Коллекция (+4)
 #EXTGRP:КИНО
 http://193.25.8.59:8000/tnv
-
 #EXTINF:0,Победа
 #EXTGRP:КИНО
 http://93.84.115.174:10181/pobeda
@@ -2100,8 +1888,6 @@ https://s06.watcher.uz/118/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9
 #EXTINF:0,Лапки Live
 #EXTGRP:ПРИРОДА
 http://45.145.32.13:20440/unikum/index.m3u8?token=test
-
-
 #EXTINF:0,Океан
 #EXTGRP:ПРИРОДА
 http://93.84.115.174:10181/oceantv
@@ -2117,7 +1903,6 @@ http://193.25.8.59:8000/dtx
 #EXTINF:0,National Geographicᴴᴰ
 #EXTGRP:ПУТЕШЕСТВИЯ
 http://46.32.176.50/NationalGeographicHD/index.m3u8
-
 #EXTINF:0,RTG SD
 #EXTGRP:ПУТЕШЕСТВИЯ
 http://31.148.48.15:80/RTG_HD/index.m3u8
@@ -2163,7 +1948,6 @@ http://91.186.196.185/hls/hotels/stream.m3u8
 #EXTINF:0,Точка.РФ SD
 #EXTGRP:ПУТЕШЕСТВИЯ
 http://158.101.222.193:88/georgia_play.php?id=hdlife
-
 #EXTINF:0,Travel TV
 #EXTGRP:ПУТЕШЕСТВИЯ
 https://streamer103.neterra.tv/travel/live.m3u8
@@ -2260,7 +2044,6 @@ http://45.145.32.13:20440/zvezdaplus/index.m3u8?token=test
 #EXTINF:0,Звезда Плюсᴴᴰ
 #EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
 https://dl.dropbox.com/scl/fi/38oxgltllynkx89dkh43q/YASNAe_HD.m3u8?rlkey=fkekh8kzpa3hl6q3xi28fk230
-
 #EXTINF:0,Китай ТВᴴᴰ
 #EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
 http://77.106.252.178:4022/udp/233.33.210.38:5050
@@ -2384,7 +2167,6 @@ http://31.148.48.15/Zhivi/index.m3u8
 #EXTINF:0,Живи Активноᴴᴰ
 #EXTGRP:ХОББИ И УВЛЕЧЕНИЯ
 https://flussonic.mkpnet.ru/tv-fa810958620d77d8/video.m3u8?token=test
-
 #EXTINF:0,Загородная Жизнь
 #EXTGRP:ХОББИ И УВЛЕЧЕНИЯ
 http://185.57.68.33/40/mpegts
@@ -2993,14 +2775,12 @@ http://flussonic.powernet.com.ru/volplus/tracks-v1a1/index.m3u8
 #EXTINF:0,ДАНЦЕР ТВ Лангепас HD
 #EXTGRP:РАДИО ТВ
 https://st-stream.danpro.ru/LG_DantserTV/index.m3u8
-
 #EXTINF:0,ДАНЦЕР ТВ Стрежевой
 #EXTGRP:РАДИО ТВ
 https://st-stream.danpro.ru/ST_DantserTV/index.m3u8
 #EXTINF:0,Евразия SD
 #EXTGRP:РАДИО ТВ
 https://bl.rutube.ru/livestream/ce34005d3db841e15eecb7e31749adf6/index.m3u8?s=WLfj0Tnw1AXoMgJkXmxX-w&e=2066519816&scheme=https
-
 #EXTINF:0,Радио Краснодар HD
 #EXTGRP:РАДИО ТВ
 http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar2/tvkrasnodarradio/playlist.m3u8
@@ -3136,7 +2916,6 @@ https://songtv.hls.iptvdc.com/web-russia/hd/playlist.m3u8
 #EXTINF:0,Music Box Gold
 #EXTGRP:МУЗЫКА
 http://77.106.252.178:4022/udp/233.33.210.70:5050
-
 #EXTINF:0,Страна FM SD
 #EXTGRP:МУЗЫКА
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjUgMTo0OToyMyBQTSZoYXNoX3ZhbHVlPTVDZkpPbWo5L3dvM2tqNnQ5dDQvK3c9PSZ2YWxpZG1pbnV0ZXM9NDgw
@@ -3221,7 +3000,6 @@ http://songtvam.ru:8060/hd/playlist.m3u8
 #EXTINF:0,ММТВ
 #EXTGRP:МУЗЫКА
 https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=wSeIJIsBx3y-tmApWp-xqw&e=2068506967&scheme=https
-
 #EXTINF:0,Күңел ТВ HD
 #EXTGRP:МУЗЫКА
 http://217.154.10.99:2020/channel/n499c27fe/index.m3u8?q=ac8328a8c05870646c45caa253710a85
@@ -3856,130 +3634,130 @@ http://mains.services/live/0228902066/tc674KJ3du/28d8827c-43dc-424d-84c5-d809232
 #EXTGRP:МУЗЫКА
 http://live.teleradiocom.tj/9/3m.m3u8
 #EXTINF:0,SweetTVᴴᴰ
-#EXTGRP:DANCE TV
+#EXTGRP:МУЗЫКА
 http://s.only4.tv/9425/video.m3u8?token=fWKpoaHaSj
 #EXTINF:0,VIVA Russiaᴴᴰ
-#EXTGRP:DANCE TV
+#EXTGRP:МУЗЫКА
 https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=pRANv_eCd-xFpvmUuDFGsQ&e=2074727495&scheme=https
 #EXTINF:0,TMF RUSᴴᴰ
-#EXTGRP:DANCE TV
+#EXTGRP:МУЗЫКА
 https://live20.bozztv.com/akamaissh101/ssh101/tmfrus/playlist.m3u8
 #EXTINF:0,Dance TVᴴᴰ
-#EXTGRP:DANCE TV
+#EXTGRP:МУЗЫКА
 https://eu-nl-012.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8
 #EXTINF:0,Dance TV HouseFloor SD
-#EXTGRP:DANCE TV
+#EXTGRP:МУЗЫКА
 https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
 #EXTINF:0,Dance TV MNMLᴴᴰ
-#EXTGRP:DANCE TV
+#EXTGRP:МУЗЫКА
 https://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8
 #EXTINF:0,Dance TV TechHouse Trance SD
-#EXTGRP:DANCE TV
+#EXTGRP:МУЗЫКА
 https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8
 #EXTINF:0,Dance TV TechHouseTrance  SD
-#EXTGRP:DANCE TV
+#EXTGRP:МУЗЫКА
 https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
 #EXTINF:0,Dance TV TechHouseTerrace   SD
-#EXTGRP:DANCE TV
+#EXTGRP:МУЗЫКА
 https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8
 #EXTINF:0,Dance TV TechHouse Terrace SD
-#EXTGRP:DANCE TV
+#EXTGRP:МУЗЫКА
 https://m2b2.worldcast.tv:7443/dancetelevisionfour/2/dancetelevisionfour.m3u8
 #EXTINF:0,Dance TV Mainstageᴴᴰ
-#EXTGRP:DANCE TV
+#EXTGRP:МУЗЫКА
 https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
 #EXTINF:0,Dance TV DeepHouseDistrict SD
-#EXTGRP:DANCE TV
+#EXTGRP:МУЗЫКА
 https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 #EXTINF:0,Dance Live FM SD
-#EXTGRP:DANCE TV
+#EXTGRP:МУЗЫКА
 https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/chunklist_w411613476.m3u8
 #EXTINF:0,DEEP Music SD
-#EXTGRP:DANCE TV
+#EXTGRP:МУЗЫКА
 https://glb.bozztv.com/glb/ushba66/index.m3u8
 #EXTINF:0,MR.DJ MONJ SD
-#EXTGRP:DANCE TV
+#EXTGRP:МУЗЫКА
 http://tinyurl.com/%74%76%7A%61%74%61%6B20/ushba-monj/tracks-v1a1/mono.m3u8
 #EXTINF:0,Miami TV Musicᴴᴰ
-#EXTGRP:DANCE TV
+#EXTGRP:МУЗЫКА
 https://59ec5453559f0.streamlock.net/miamitvmusic/_definst_/smil:22596/chunklist_w1738820734_b5096000.m3u8
 #EXTINF:0,Miami TV DJᴴᴰ
-#EXTGRP:DANCE TV
+#EXTGRP:МУЗЫКА
 https://11c1368ec8294a8d8c7c079248909db4.mediatailor.us-east-2.amazonaws.com/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-dj/f4b5bb2a-2416-43ba-9e5a-3492f862328b/0.m3u8
 #EXTINF:0,Energy TV Musicᴴᴰ
-#EXTGRP:DANCE TV
+#EXTGRP:МУЗЫКА
 https://59ec5453559f0.streamlock.net/energytvmusic/smil:VIVALIVETV/chunklist_w2089520607_b1896000.m3u8
 #EXTINF:0,Energy TV DJᴴᴰ
-#EXTGRP:DANCE TV
+#EXTGRP:МУЗЫКА
 https://59ec5453559f0.streamlock.net/energytvDJ/smil:VIVALIVETV/chunklist_w850439264_b1896000.m3u8
 #EXTINF:0,PROMO DJ
-#EXTGRP:DANCE TV
+#EXTGRP:МУЗЫКА
 http://217.79.184.52/Nostalgia/index.m3u8
 #EXTINF:0,Arena Djs Web SD
-#EXTGRP:DANCE TV
+#EXTGRP:МУЗЫКА
 https://stmv8.samcast.com.br/arenajs/arenajs/playlist.m3u8
 #EXTINF:0,Maqui Señal Dos SD
-#EXTGRP:DANCE TV
+#EXTGRP:МУЗЫКА
 https://live20.bozztv.com/akamaissh101/ssh101/maquitv2/chunks.m3u8
 #EXTINF:0,Fun Radioᴴᴰ
-#EXTGRP:DANCE TV
+#EXTGRP:МУЗЫКА
 https://edge15.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
 #EXTINF:0,NR1 DANCE SD
-#EXTGRP:DANCE TV
+#EXTGRP:МУЗЫКА
 http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2aa89e721.smil/playlist.m3u8
 #EXTINF:0,POWER DANCEᴴᴰ
-#EXTGRP:DANCE TV
+#EXTGRP:МУЗЫКА
 https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:0,RELOAD SD
-#EXTGRP:DANCE TV
+#EXTGRP:МУЗЫКА
 http://mains.services/live/0228902066/tc674KJ3du/12c3bc14-2bfc-4c2c-91ba-7ef8c1583b97.m3u
 #EXTINF:0,Oxygen Musicᴴᴰ
-#EXTGRP:DANCE TV
+#EXTGRP:МУЗЫКА
 https://oxygenmusic.hu:2443/hls/oxygenmusic_5000.m3u8
 #EXTINF:0,OXYGEN MUSICᴴᴰ
-#EXTGRP:DANCE TV
+#EXTGRP:МУЗЫКА
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 #EXTINF:0,360 TuneBox SD
-#EXTGRP:DANCE TV
+#EXTGRP:МУЗЫКА
 https://dash2.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
 #EXTINF:0,360 Tunebox SD
-#EXTGRP:DANCE TV
+#EXTGRP:МУЗЫКА
 https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
 #EXTINF:0,Pride TVᴴᴰ
-#EXTGRP:DANCE TV
+#EXTGRP:МУЗЫКА
 https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:0,DASDINGᴴᴰ
-#EXTGRP:DANCE TV
+#EXTGRP:МУЗЫКА
 https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
 #EXTINF:0,IDJ TV FD
-#EXTGRP:DANCE TV
+#EXTGRP:МУЗЫКА
 https://best-str.umn.cdn.united.cloud/stream?stream=hp1400&sp=idjtv&u=idjtv&p=In$trum300na765ta&channel=idjhd
 #EXTINF:0,V2BEAT SD
-#EXTGRP:DANCE TV
+#EXTGRP:МУЗЫКА
 http://hubtv.ru/index.php?stream=aHR0cHM6Ly9hYnIuZGUxc2UwMS52MmJlYXQubGl2ZS9saXZlL2xpdmU2L2NodW5rcy5tM3U4
 #EXTINF:0,M2O FD
-#EXTGRP:DANCE TV
+#EXTGRP:МУЗЫКА
 http://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1728000.m3u8
 #EXTINF:0,M2Oᴴᴰ
-#EXTGRP:DANCE TV
+#EXTGRP:МУЗЫКА
 http://streamcdnm5-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/index.m3u8
 #EXTINF:0,Music PUQ SD
-#EXTGRP:DANCE TV
+#EXTGRP:МУЗЫКА
 https://vdochile.com:3131/live/redupxprlive.m3u8?PlaylistM3UCL
 #EXTINF:0,Mafi2a Music SD
-#EXTGRP:DANCE TV
+#EXTGRP:МУЗЫКА
 https://live20.bozztv.com/giatvplayout7/ushba-mafia/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,INFINITY SD
-#EXTGRP:DANCE TV
+#EXTGRP:МУЗЫКА
 https://fl1003.bozztv.com/ushba-t2/tracks-v1a1/mono.m3u8
 #EXTINF:0,Music SD
-#EXTGRP:DANCE TV
+#EXTGRP:МУЗЫКА
 http://tinyurl.com/%74%76%7A%61%74%61%6B20/ushba-t3/tracks-v1a1/mono.m3u8
 #EXTINF:0,Radio Kids SD
-#EXTGRP:DANCE TV
+#EXTGRP:МУЗЫКА
 https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8
 #EXTINF:0,DVJ BAZUKA VIDEO
-#EXTGRP:DANCE TV
+#EXTGRP:МУЗЫКА
 https://video1.tizam.cc/old_films/BAZUKA23.mp4
 #EXTINF:0,192 TV FD
 #EXTGRP:МУЗЫКА
@@ -4155,12 +3933,9 @@ https://bl.rutube.ru/livestream/351f0e84a7db69a73658bbf61debcf62/index.m3u8?s=2l
 #EXTINF:0,RTL 102.5 Best HD
 #EXTGRP:МУЗЫКА
 https://streamcdng2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/chunklist_b3256000.m3u8
-
-
 #EXTINF:0,Bridge Hits
 #EXTGRP:МУЗЫКА
 http://tinyurl.com/TvZaTak007/bridge_hits/tracks-v1a1/mono.m3u8
-
 #EXTINF:0,Bridge Шлягер
 #EXTGRP:МУЗЫКА
 http://89.218.32.179:18000/play/a02h
