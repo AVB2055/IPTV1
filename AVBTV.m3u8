@@ -78,12 +78,6 @@ https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
 #EXTINF:-1,РБК
 #EXTGRP:👁‍Новостные
 http://e8-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8
-#EXTINF:-1,Радио Вести FM [1920x1080]
-#EXTGRP:👁‍Новостные
-https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015173
-#EXTINF:-1,Радио Говорит Москва [1920x1080]
-#EXTGRP:👁‍Новостные
-https://video.govoritmoskva.ru/rufm/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ТАСС
 #EXTGRP:👁‍Новостные
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
@@ -99,6 +93,18 @@ https://streaming.televizor-24-tochka.ru/live/25-req_offset_28000000-req_window_
 #EXTINF:-1,Москва 24
 #EXTGRP:👁‍Новостные
 https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
+#EXTINF:-1,Радио Вести FM [1920x1080]
+#EXTGRP:👁‍Новостные
+https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015173
+#EXTINF:-1,Радио Говорит Москва [1920x1080]
+#EXTGRP:👁‍Новостные
+https://video.govoritmoskva.ru/rufm/tracks-v1a1/mono.m3u8
+#EXTINF:0,Радио Спутник SD
+#EXTGRP:👁‍Новостные
+https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
+#EXTINF:0,Радио России HD
+#EXTGRP:👁‍Новостные
+http://player.smotrim.ru/iframe/stream/live_id/39ebf09f-bf74-4040-83e6-94b770ba77c4.m3u8
 #EXTINF:-1,RTVi [СМИ иноагент]
 #EXTGRP:👁‍Новостные
 https://a3569457567-s70378.cdn.ngenix.net/rtvi/1/index.m3u8
