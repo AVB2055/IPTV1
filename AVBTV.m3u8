@@ -104,10 +104,13 @@ https://video.govoritmoskva.ru/rufm/tracks-v1a1/mono.m3u8
 https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
 #EXTINF:0,Радио России HD
 #EXTGRP:👁‍Новостные
-http://player.smotrim.ru/iframe/stream/live_id/39ebf09f-bf74-4040-83e6-94b770ba77c4.m3u8
+https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8
 #EXTINF:-1,RTVi [СМИ иноагент]
 #EXTGRP:👁‍Новостные
-https://a3569457567-s70378.cdn.ngenix.net/rtvi/1/index.m3u8
+http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/2086/index.m3u8
+#EXTINF:-1,RTVi orig [СМИ иноагент]
+#EXTGRP:👁‍Новостные
+http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/9102/index.m3u8
 #EXTINF:-1,EuroNews [СМИ иноагент]
 #EXTGRP:👁‍Новостные
 https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8
