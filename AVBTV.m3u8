@@ -300,9 +300,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv
 #EXTINF:-1,Волейбол
 #EXTGRP:⛹🏿Спортивные
 https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=RP3Gdy1OZbXnpfKul6ZHLw&e=2070450972&scheme=https
-#EXTINF:-1,Матч!
-#EXTGRP:⛹🏿Спортивные
-http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:-1,Спортивный
 #EXTGRP:⛹🏿Спортивные
 http://live-3.otcnet.ru/sportivny/index.m3u8
@@ -321,12 +318,37 @@ https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1 ,Eurosport 2
 #EXTGRP:⛹🏿Спортивные
 http://46.32.176.50/eurosport2/index.m3u8
-#EXTINF:0,МАТЧ! ПЛАНЕТА FD
+#EXTINF:0,МАТЧ!ᴴᴰ
+#EXTGRP:⛹🏿Спортивные
+http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+#EXTINF:0,МАТЧ! АРЕНА
+#EXTGRP:⛹🏿Спортивные
+http://31.148.48.15:80/Match_Arena_HD/index.m3u8?token=test
+#EXTINF:0,МАТЧ! БОЕЦ
+#EXTGRP:⛹🏿Спортивные
+http://45.145.32.13:20440/match_boets/index.m3u8?token=test
+#EXTINF:0,МАТЧ! ИГРА 
+#EXTGRP:⛹🏿Спортивные
+http://45.145.32.13:20440/match_igra_hd/index.m3u8?token=test
+#EXTINF:0,МАТЧ! ПЛАНЕТА 
 #EXTGRP:⛹🏿Спортивные
 https://bl.video.matchtv.ru/media/playlist/free_04fc20484b40a76bf33b537081ec7bf3/17_72438189/1080/6863fd17014b627e6f0027d538646428/2208978000.m3u8
+#EXTINF:0,МАТЧ! ПРЕМЬЕР
+#EXTGRP:⛹🏿Спортивные
+https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
 #EXTINF:0,МАТЧ! СТРАНАᴴᴰ
 #EXTGRP:⛹🏿Спортивные
 https://bl.video.matchtv.ru/media/playlist/free_d10054e3245839377104585927f08479/17_72477605/1080/e59fd6ff6bcd963c255273eb25e5c38f/2208978000.m3u8
+#EXTINF:0,МАТЧ! ФУТБОЛ 1 ᴴᴰ
+#EXTGRP:⛹🏿Спортивные
+http://45.145.32.13:20440/match_futbol_1_hd/index.m3u8?token=test
+#EXTINF:0,МАТЧ! ФУТБОЛ 2 ᴴᴰ
+#EXTGRP:⛹🏿Спортивные
+http://45.145.32.13:20440/match_futbol_2_hd/index.m3u8?token=test
+#EXTINF:0,МАТЧ! ФУТБОЛ 3 ᴴᴰ
+#EXTGRP:⛹🏿Спортивные
+http://45.145.32.13:20440/match_futbol_3_hd/index.m3u8?token=test
+
 
 #EXTINF:-1,Mr.Bean Cartoon
 #EXTGRP:🧒Детские
@@ -364,6 +386,22 @@ https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/tracks-v
 #EXTINF:-1,Том и Джерри
 #EXTGRP:🧒Детские
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:0,Мамонтёнок
+#EXTGRP:🧒Детские
+http://tinyurl.com/TvZaTak005/MamontRu/tracks-v1a1/mono.m3u8
+#EXTINF:0,Пингвин
+#EXTGRP:🧒Детские
+http://tinyurl.com/TvZaTak005/PingvinRu/tracks-v1a1/mono.m3u8
+#EXTINF:0,Советские Мультфильмы
+#EXTGRP:🧒Детские
+https://tinyurl.com/aleks-u-romki-47/18135/index.m3u8
+#EXTINF:0,Смешарики
+#EXTGRP:🧒Детские
+https://tinyurl.com/aleks-u-romki-47/18136/index.m3u8
+#EXTINF:0,Мультимания (576p)
+#EXTGRP:🧒Детские
+https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,80s
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13002/index.m3u8
@@ -436,6 +474,33 @@ http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11016/index.m3u8
 #EXTINF:-1,ЗОВ ТВ RED
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 https://live20.bozztv.com/giatv/giatv-tvzov%20RED/tvzov%20RED/chunks.m3u8
+#EXTINF:0,RIVISION TV SD
+#EXTGRP:🎦📺Фильмы 🔹 Сериалы
+https://dvrfl07.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0,FilmON SD
+#EXTGRP:🎦📺Фильмы 🔹 Сериалы
+https://rpn3.bozztv.com/dvrfl07/ushba64/index.m3u8
+#EXTINF:0,Кинозал SD
+#EXTGRP:🎦📺Фильмы 🔹 Сериалы
+http://185.57.68.33/237/index.m3u8?WithCaption
+#EXTINF:0,Мои сериалы SD
+#EXTGRP:🎦📺Фильмы 🔹 Сериалы
+https://live20.bozztv.com/giatvplayout7/ushba5/index.m3u8
+#EXTINF:0,Л
+#EXTGRP:🎦📺Фильмы 🔹 Сериалы
+https://flussonic.mkpnet.ru/tv-7a5f996197077375/video.m3u8
+#EXTINF:0,Rvision
+#EXTGRP:🎦📺Фильмы 🔹 Сериалы
+https://fl1003.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
+#EXTINF:0,LAV-KINO SD
+#EXTGRP:🎦📺Фильмы 🔹 Сериалы
+https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
+#EXTINF:0,Классика Кино
+#EXTGRP:🎦📺Фильмы 🔹 Сериалы
+https://dvrfl07.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
+#EXTINF:0,MKNEWS24.RU SD
+#EXTGRP:🎦📺Фильмы 🔹 Сериалы
+https://stream.mknews24.ru/hls/stream.m3u8?DVR
 #EXTINF:-1,НТВ Сериал
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
