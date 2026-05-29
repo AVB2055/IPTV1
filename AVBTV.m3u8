@@ -23,7 +23,7 @@ http://185.78.112.47:8077/rossia_k/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
 #EXTINF:-1,Карусель
 #EXTGRP:🇷🇺Федеральные
-https://stream8.cinerama.uz/1034/tracks-v1a1/mono.m3u8
+https://flussonic.mkpnet.ru/tv-132f51b35b47b897/video.m3u8
 #EXTINF:-1,ОТР
 #EXTGRP:🇷🇺Федеральные
 https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=YrdmvbJf25rNxX1md7Kdjw&e=2079393918&scheme=https
@@ -56,10 +56,10 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1,ТНТ
 #EXTGRP:🇷🇺Федеральные
-http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/237/index.m3u8
+https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=W_D5PUIkSURgGbNd_f4cwQ&e=2079393896&scheme=https
 #EXTINF:-1,Муз ТВ
 #EXTGRP:🇷🇺Федеральные
-https://streaming.televizor-24-tochka.ru/live/618.m3u8
+https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=JTAW4J-xV9JKMAUbJmgmIQ&e=2068506966&scheme=https
 #EXTINF:-1,360 Новости
 #EXTGRP:👁‍Новостные
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
@@ -89,16 +89,16 @@ https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852ca
 https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=UQvVhXcvnPn0tDMqg2zDYg&e=2068506958&scheme=https
 #EXTINF:-1,За!ТВ FD
 #EXTGRP:👁‍Новостные
-https://streaming.televizor-24-tochka.ru/live/25-req_offset_28000000-req_window_0-1k_v5.m3u8
+https://streaming.televizor-24-tochka.ru/live/25.m3u8
 #EXTINF:-1,Москва 24
 #EXTGRP:👁‍Новостные
 https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
-#EXTINF:-1,Радио Вести FM [1920x1080]
+#EXTINF:-1,Радио Вести FM
 #EXTGRP:👁‍Новостные
 https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015173
-#EXTINF:-1,Радио Говорит Москва [1920x1080]
+#EXTINF:-1,Радио Говорит Москва
 #EXTGRP:👁‍Новостные
-https://video.govoritmoskva.ru/rufm/tracks-v1a1/mono.m3u8
+https://video.govoritmoskva.ru/rufm/index.m3u8
 #EXTINF:0,Радио Спутник SD
 #EXTGRP:👁‍Новостные
 https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
@@ -119,7 +119,7 @@ http://ru2.tvtm.one/ch1533/mono.m3u8?token=ruslan35.v2__9NT6yMkoq_xb-essMfa-s_rM
 http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/2086/index.m3u8
 #EXTINF:-1,EuroNews [СМИ иноагент]
 #EXTGRP:👁‍Новостные
-https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8
+http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/828/index.m3u8
 #EXTINF:-1,DW Russia [СМИ иноагент]
 #EXTGRP:👁‍Новостные
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
@@ -166,6 +166,9 @@ http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 #EXTINF:-1,World Fashion
 #EXTGRP:🔎‍Познавательные
 http://cdn.wfc.tv/cdn/stream-rus-720p.m3u8
+#EXTINF:-1,Большая азия
+#EXTGRP:🔎‍Познавательные
+https://bl.rutube.ru/livestream/495ab964b755baa2c9fc7481a2e40f7d/index.m3u8?s=H445j62z1yjihZAL6z3YlA&e=2069285052&scheme=https
 #EXTINF:-1,Вместе РФ
 #EXTGRP:🔎‍Познавательные
 http://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
@@ -211,6 +214,9 @@ http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 #EXTINF:-1,Саратов 24
 #EXTGRP:🔎‍Познавательные
 http://109.248.11.19:8081/web/c24/playlist.m3u8
+#EXTINF:-1,Союзный
+#EXTGRP:🔎‍Познавательные
+https://bl.rutube.ru/livestream/46c03b7f1a7255326900f4a60a9b44e0/index.m3u8?s=VHiYqSicSMcfMQP30ve9QA&e=2066519782&scheme=https
 #EXTINF:-1,Тайна
 #EXTGRP:🔎‍Познавательные
 https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=GmFSizHee8DpOJI6J0bwMA&e=2067815807&scheme=https
@@ -246,13 +252,13 @@ http://tvoetv.space:8080/tvoetv/tracks-v1a1/mono.m3u8
 http://tvoetv.space:8080/tvoetv_humor/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Че!
 #EXTGRP:🤣Развлекательные
-http://uiptv.do.am/1ufc/109121273/playlist.m3u8
+http://193.25.8.59:8000/perec
 #EXTINF:-1,Ю
 #EXTGRP:🤣Развлекательные
 http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Сарафан
 #EXTGRP:🤣Развлекательные
-https://stream8.cinerama.uz/1249/tracks-v1a1/mono.m3u8
+http://185.78.112.47:8077/sarafan/index.m3u8
 #EXTINF:-1,КВН ТВ
 #EXTGRP:🤣Развлекательные
 http://31.148.48.15/KVN_TV/index.m3u8
@@ -263,6 +269,9 @@ http://185.78.112.47:8077/kvn_tv/index.m3u8
 #EXTINF:-1,67
 #EXTGRP:🎶Музыкальные
 https://fl1004.bozztv.com/ushba67/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Activa TV
+#EXTGRP:🎶Музыкальные
+https://bl.rutube.ru/livestream/8e9da41366fcb497aaeade579f0d715f/index.m3u8?s=ZOZa2aks9WUX89NRUSjHlA&e=2069285076&scheme=https
 #EXTINF:-1,Fonbet Music
 #EXTGRP:🎶Музыкальные
 http://uiptv.do.am/1ufc/603282189/playlist.m3u8
@@ -278,6 +287,9 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1,Kiss FM
 #EXTGRP:🎶Музыкальные
 https://kisstv.siliconweb.com/kissfm/kisstv/chunks.m3u8
+#EXTINF:-1,NOW: Rock
+#EXTGRP:🎶Музыкальные
+https://bl.rutube.ru/livestream/047ba54d846ee185b4209a797a2ae138/index.m3u8?s=_zuuh0E6oXRXXKcD1dNi_g&e=2069285077&scheme=https
 #EXTINF:-1,radio m2o
 #EXTGRP:🎶Музыкальные
 http://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1728000.m3u8
@@ -287,6 +299,9 @@ https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=DM
 #EXTINF:-1,Мафия Музыка
 #EXTGRP:🎶Музыкальные
 https://live20.bozztv.com/giatvplayout7/ushba-mafia/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,ММТВ
+#EXTGRP:🎶Музыкальные
+https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=swZ9QnHMT4hcnaukDHRdtw&e=2069285077&scheme=https
 #EXTINF:-1,Сан Франциско
 #EXTGRP:🎶Музыкальные
 http://204.199.3.2/.m3u8
@@ -379,15 +394,15 @@ https://live.jtx-online.ru/memfs/e30ea533-4abf-4a88-91bc-73744ecfd06f.m3u8
 #EXTINF:-1,Ключайка
 #EXTGRP:🧒Детские
 https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=QltsCpJv4zS2J2PXJe5VOg&e=2070450958&scheme=https
-#EXTINF:-1,Смайлик ТВ
-#EXTGRP:🧒Детские
-https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1,Солнце
 #EXTGRP:🧒Детские
 https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 #EXTINF:-1,СоюзМультфильм
 #EXTGRP:🧒Детские
 http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:-1,Смайлик ТВ
+#EXTGRP:🧒Детские
+https://bl.rutube.ru/livestream/2f052691c75d72b3ed7f3c33ea956a41/index.m3u8?s=MOCY2JvPXriCsyJWQK1Lag&e=2069285075&scheme=https
 #EXTINF:-1,Суббота
 #EXTGRP:🧒Детские
 https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=fGF8IP-Az_cZHwwgk-of9w&e=2067815805&scheme=https
