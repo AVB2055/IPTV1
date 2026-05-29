@@ -72,9 +72,6 @@ http://91.210.192.13:1000/russia-24
 #EXTINF:0,РОССИЯ 24 FD
 #EXTGRP:НОВОСТИ
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/velikiy-novgorod/russia24-sd/index.m3u8
-#EXTINF:0,РОССИЯ 24 SD
-#EXTGRP:НОВОСТИ
-http://85.192.10.131/hls/ortrum9/playlist.m3u8
 #EXTINF:0,РОССИЯ 24ᴴᴰ
 #EXTGRP:НОВОСТИ
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
@@ -540,16 +537,10 @@ http://93.84.115.174:10181/belarus5hd
 #EXTINF:0,Новое Радио (BY) HD
 #EXTGRP:БЕЛАРУСЬ
 http://live.novoeradio.by:8081/live/novoeradio_1080p/chunks.m3u8
-
-#EXTINF:0,Silk Way Cinemaᴴᴰ 🇰🇿
-#EXTGRP:КАЗАХСТАН
-https://stream.qazcdn.net/ex6r514/silkwaycinema/tracks-v3a1/mono.ts.m3u8
 #EXTINF:0,Silk Wayᴴᴰ 🇰🇿
 #EXTGRP:КАЗАХСТАН
 https://hlspackager.akamaized.net/live/DB/SILKWAY/SILKWAY/SILKWAY.m3u8
-#EXTINF:0,Jibek Jolyᴴᴰ 🇰🇿
-#EXTGRP:КАЗАХСТАН
-https://stream.qazcdn.net/ex6r514/jjtv/tracks-v3a1/mono.ts.m3u8
+
 #EXTINF:0,КТК 🇰🇿
 #EXTGRP:КАЗАХСТАН
 http://wz-kt.ktk.kz/ktklive/live.lq/playlist.m3u8
@@ -559,9 +550,6 @@ http://89.218.30.37/ktklive/live.hq/playlist.m3u8
 #EXTINF:0,КТКᴴᴰ 🇰🇿
 #EXTGRP:КАЗАХСТАН
 https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/chunklist.m3u8
-#EXTINF:0,Новое SD 🇰🇿
-#EXTGRP:КАЗАХСТАН
-http://live.zhanafm.kz:8080/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b_output_0.m3u8
 #EXTINF:0,Orken Live TVᴴᴰ 🇰🇿
 #EXTGRP:КАЗАХСТАН
 https://orken-media.kz/live/tracks-v1a1/mono.m3u8
@@ -571,32 +559,15 @@ http://wz-kt.ktk.kz/ktklive/live.hq/playlist.m3u8
 #EXTINF:0,КТКᴴᴰ
 #EXTGRP:КАЗАХСТАН
 http://wz-kt.ktk.kz/ktklive/live.hd/playlist.m3u8
-#EXTINF:0,Новое телевидение SD
-#EXTGRP:КАЗАХСТАН
-https://live.zhanafm.kz:8181/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b.m3u8
-#EXTINF:0,7 канал
-#EXTGRP:КАЗАХСТАН
-http://smarty.oktv.kz/tvmiddleware/api/channel/url/?cid=4&device=android_stb&client_id=1&authkey=fceb15e8f73be3fd883c2ec490e8d0d69d989dd0b5a284e5c107902b9d2960465923bc93581ef74040c44e3a93d108388f1b8b9d6b89e2f39ea29efee8b72897&timezone=0
-#EXTINF:0,Qazsport HD
-#EXTGRP:КАЗАХСТАН
-http://217.154.10.99:2020/channel/2b15f108/index.m3u8?q=ac8328a8c05870646c45caa253710a85
-#EXTINF:0,Silk Way Cinema HD
-#EXTGRP:КАЗАХСТАН
-https://stream.qazcdn.net/ex6r514/silkwaycinema/mono.ts.m3u8
 #EXTINF:0,Silk Way HD
 #EXTGRP:КАЗАХСТАН
 http://91.228.35.249:8001/1:0:1:2340:2328:13E:820000:0:0:0
-#EXTINF:0,312 Кино 🇰🇬
-#EXTGRP:КЫРГЫЗСТАН
-http://176.126.166.43:1935/live/312kino/chunklist_w164832369.m3u8
 #EXTINF:0,TMedia SD 🇰🇬
 #EXTGRP:КЫРГЫЗСТАН
 http://92.62.68.29:8086/0.ts
 #EXTINF:0,Nur TVᴴᴰ 🇰🇬
 #EXTGRP:КЫРГЫЗСТАН
 http://146.120.213.172:8086/0.m3u8
-
-
 #EXTINF:0,viju TV1000
 #EXTGRP:VIJUКИНО
 http://93.84.115.174:10181/tv1000
@@ -769,9 +740,6 @@ https://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:0,КИНО ТВ SD
 #EXTGRP:КИНО
 http://31.148.48.15:80/Kino_TV_HD/video.m3u8
-#EXTINF:0,Кино Без Границ SD
-#EXTGRP:КИНО
-http://185.57.68.33:8091/237/playlist.m3u8
 #EXTINF:0,Кино и Жизнь HD
 #EXTGRP:КИНО
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=ix0NUYiM353oJ7eEIovyVA&e=2066519843&scheme=https
@@ -790,9 +758,6 @@ http://31.148.48.15/TV_XXI/index.m3u8?token=test
 #EXTINF:0,Классика Кино SD
 #EXTGRP:КИНО
 http://stitch.teletarget.ru/vintera/movieclassic/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDI2IDExOjQ5OjIxIFBNJmhhc2hfdmFsdWU9NzBLbWM5SUpMWitZVEplblVPVDFHUT09JnZhbGlkbWludXRlcz00ODA=
-#EXTINF:0,ATV Cineman SD
-#EXTGRP:КИНО
-http://185.57.68.33:8091/255/index.m3u8
 #EXTINF:0,Иллюзион + HD
 #EXTGRP:КИНО
 http://46.32.176.50/illuzion/index.m3u8
@@ -952,9 +917,6 @@ http://sochinskayatrk.ru/hdtv/hls/CTPK_400/playlist.m3u8
 #EXTINF:0,Alpha Moretimeᴴᴰ
 #EXTGRP:КиноStream
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
-#EXTINF:0,Arpinet SD
-#EXTGRP:КиноStream
-http://185.57.68.33:80/237/playlist.m3u8
 #EXTINF:0,Lenta Kino
 #EXTGRP:КиноStream
 http://tinyurl.com/TvZaTak20/ushba-films-w/tracks-v1a1/mono.m3u8
@@ -1015,9 +977,6 @@ http://tinyurl.com/%74%76%7A%61%74%61%6B20/ushba-films-w/tracks-v1a1/mono.m3u8
 #EXTINF:0,KinoMag
 #EXTGRP:КиноStream
 http://tinyurl.com/%74%76%7A%61%74%61%6B20/ushba-films-t/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кинозал SD
-#EXTGRP:КиноStream
-http://185.57.68.33/237/index.m3u8?WithCaption
 #EXTINF:0,Мои сериалы SD
 #EXTGRP:КиноStream
 https://live20.bozztv.com/giatvplayout7/ushba5/index.m3u8
@@ -1504,9 +1463,6 @@ http://tinyurl.com/%74%76%7A%61%74%61%6B20/ushba77/tracks-v1a1a1/mono.m3u8
 #EXTINF:0,Кинозал2
 #EXTGRP:USBA TV
 http://tinyurl.com/%74%76%7A%61%74%61%6B20/ushba82/tracks-v1a1a1/mono.m3u8
-#EXTINF:0,Animal Planet
-#EXTGRP:ПРИРОДА
-http://mfe01.cliptv.az/dash/Animal_Planet_HD345wer.ism/playlist.mpd
 #EXTINF:0,Animal Planetᴴᴰ
 #EXTGRP:ПРИРОДА
 http://46.32.176.50/AnimalPlanetHD/index.m3u8
