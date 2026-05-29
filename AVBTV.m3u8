@@ -222,7 +222,7 @@ https://cdn-dvr.ntv.ru/svoya_igra/tracks-v1a1/rewind-240.ts.m3u8
 https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 ,Перец
 #EXTGRP:🤣Развлекательные
-http://158.101.222.193:88/georgia_play.php?id=perec
+http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/15227/index.m3u8
 #EXTINF:-1,ТНТ4
 #EXTGRP:🤣Развлекательные
 https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=uwhizdZPB-2J2x80Ov49_A&e=2067815802&scheme=https
@@ -461,9 +461,6 @@ http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/9091/index.m3u8
 #EXTINF:-1,Кинопремьера
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/9020/index.m3u8
-#EXTINF:-1,Кино Без Границ 
-#EXTGRP:🎦📺Фильмы 🔹 Сериалы
-http://185.57.68.33:8091/237/playlist.m3u8
 #EXTINF:-1,Кинолаффка
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=SHsCMnRorfwMcPrJz9yoGg&e=2070104027&scheme=https
@@ -476,9 +473,6 @@ https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=8z
 #EXTINF:-1,ATV Armenia Premium 6
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 http://timeshift.arpinet.am/255/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Arpinet
-#EXTGRP:🎦📺Фильмы 🔹 Сериалы
-http://timeshift.arpinet.am/237/index.m3u8
 #EXTINF:-1,Кинодром
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31714/index.m3u8
@@ -491,12 +485,6 @@ https://live20.bozztv.com/giatv/giatv-tvzov%20RED/tvzov%20RED/chunks.m3u8
 #EXTINF:0,RIVISION TV SD
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 https://dvrfl07.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0,Кинозал SD
-#EXTGRP:🎦📺Фильмы 🔹 Сериалы
-http://185.57.68.33/237/index.m3u8?WithCaption
-#EXTINF:0,Мои сериалы SD
-#EXTGRP:🎦📺Фильмы 🔹 Сериалы
-https://live20.bozztv.com/giatvplayout7/ushba5/index.m3u8
 #EXTINF:0,Л
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 https://flussonic.mkpnet.ru/tv-7a5f996197077375/video.m3u8
@@ -515,9 +503,6 @@ http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1,NikNik-TV
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 https://hostrec.ru/live/wic2AtEFCLwsZcUkAgtZcjlYgjc.m3u8
-#EXTINF:0,Смотрим Кино и сериалыᴴᴰ
-#EXTGRP:🎦📺Фильмы 🔹 Сериалы
-http://dmitry-tv.ddns.net/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
 #EXTINF:0,Новый Русскийᴴᴰ
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8
