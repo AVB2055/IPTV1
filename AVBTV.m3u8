@@ -29,16 +29,16 @@ https://flussonic.mkpnet.ru/tv-132f51b35b47b897/video.m3u8
 https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=YrdmvbJf25rNxX1md7Kdjw&e=2079393918&scheme=https
 #EXTINF:-1,ТВЦ
 #EXTGRP:🇷🇺Федеральные
-http://stitch.teletarget.ru/vintera/tvcsd/index.m3u8
+http://46.32.176.50/tvc/index.m3u8
 #EXTINF:-1,Рен ТВ
 #EXTGRP:🇷🇺Федеральные
-http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/2024/index.m3u8
+http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/2024/index.m3u8
 #EXTINF:-1,СПАС
 #EXTGRP:🇷🇺Федеральные
 https://bl.rutube.ru/livestream/2bbfa9ebf9d79ade480d7281fcef1008/index.m3u8?s=Dh7uOoGZBCslhSfLLkxvAg&e=2068506963&scheme=https
 #EXTINF:-1,СТС
 #EXTGRP:🇷🇺Федеральные
-http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/6303/index.m3u8
+http://hloz2vpa.megogo.xyz/iptv/9TTYCNMYYQTHS6/6303/index.m3u8
 #EXTINF:-1,Домашний
 #EXTGRP:🇷🇺Федеральные
 http://45.145.32.13:20440/domashnij/index.m3u8?token=test
@@ -53,7 +53,7 @@ https://bl.rutube.ru/livestream/d90aa86cc5b1d4a7b310c85debcee474/index.m3u8?s=N_
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1,Мир
 #EXTGRP:🇷🇺Федеральные
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+https://bl.rutube.ru/livestream/afef67d151b5a607dee1ef0aa299a52c/index.m3u8?s=mDyveoQbng2S0kuPX84FbQ&e=2066519809&scheme=https
 #EXTINF:-1,ТНТ
 #EXTGRP:🇷🇺Федеральные
 https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=W_D5PUIkSURgGbNd_f4cwQ&e=2079393896&scheme=https
@@ -108,12 +108,6 @@ https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8
 #EXTINF:-1,Беларусь 24 HD
 #EXTGRP:👁‍Новостные
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/playlist.m3u8
-#EXTINF:-1,CBC (AZ)
-#EXTGRP:👁‍Новостные
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/cbc.m3u8
-#EXTINF:-1,CBC HD
-#EXTGRP:👁‍Новостные
-http://ru2.tvtm.one/ch1533/mono.m3u8?token=ruslan35.v2__9NT6yMkoq_xb-essMfa-s_rMjh31qyJRBcugBSjqXc2717QRNqYdUR5dOie_r5XHkMi4T7cuezW0g
 #EXTINF:-1,RTVi [СМИ иноагент]
 #EXTGRP:👁‍Новостные
 http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/2086/index.m3u8
