@@ -105,6 +105,15 @@ https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
 #EXTINF:0,Радио России HD
 #EXTGRP:👁‍Новостные
 https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8
+#EXTINF:-1,Беларусь 24 HD
+#EXTGRP:👁‍Новостные
+https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/playlist.m3u8
+#EXTINF:-1,CBC (AZ)
+#EXTGRP:👁‍Новостные
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/cbc.m3u8
+#EXTINF:-1,CBC HD
+#EXTGRP:👁‍Новостные
+http://ru2.tvtm.one/ch1533/mono.m3u8?token=ruslan35.v2__9NT6yMkoq_xb-essMfa-s_rMjh31qyJRBcugBSjqXc2717QRNqYdUR5dOie_r5XHkMi4T7cuezW0g
 #EXTINF:-1,RTVi [СМИ иноагент]
 #EXTGRP:👁‍Новостные
 http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/2086/index.m3u8
@@ -138,6 +147,9 @@ http://91.228.35.249:8001/1:0:16:66:2fa8:13e:820000:0:0:0:
 #EXTINF:-1,Svoboda+ [СМИ иногент]
 #EXTGRP:👁‍Новостные
 http://91.228.35.249:8001/1:0:16:69:2fa8:13e:820000:0:0:0:
+#EXTINF:-1,Ost24West [СМИ иногент]
+#EXTGRP:👁‍Новостные
+http://91.228.35.249:8001/1:0:16:6F:2FA8:13E:820000:0:0:0:
 
 #EXTINF:-1,360
 #EXTGRP:🔎‍Познавательные
@@ -412,6 +424,9 @@ https://tinyurl.com/aleks-u-romki-47/18135/index.m3u8
 #EXTINF:0,Смешарики
 #EXTGRP:🧒Детские
 https://tinyurl.com/aleks-u-romki-47/18136/index.m3u8
+#EXTINF:0,Мультимания (576p)
+#EXTGRP:🧒Детские
+https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,80s
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
