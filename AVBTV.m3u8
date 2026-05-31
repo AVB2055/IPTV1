@@ -527,9 +527,6 @@ https://hostrec.ru/live/wic2AtEFCLwsZcUkAgtZcjlYgjc.m3u8
 #EXTINF:0,Новый Русскийᴴᴰ
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8
-#EXTINF:0,Детективы КД SD
-#EXTGRP:🎦📺Фильмы 🔹 Сериалы
-https://bl.rutube.ru/livestream/e05401be60a9cc719fa7075b6e77b86d/index.m3u8?s=wbVW8VM26OpdW5kxFYEmSQ&e=2069694293&scheme=https
 #EXTINF:-1,Смотрим Честный детектив
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
@@ -614,7 +611,7 @@ http://kinowalk.hopto.org/topmomentlive_live
 http://kinowalk.hopto.org/cinematime_live
 #EXTINF:-1 group-title="🎞️Kinowalk TV", Play 4 Fun 🧒-️🟢
 http://kinowalk.hopto.org/play4fun_live
-#EXTINF:-1 group-title="🎞️Kinowalk TV",FoxKids-Remastered 🧒-🟢
+#EXTINF:-1 group-title="🎞️Kinowalk TV",FoxKids-Remastered 🧒-🟢🟡
 http://kinowalk.hopto.org/foxkids_remastered_live
 #EXTINF:-1 group-title="🎞️Kinowalk TV", Kycman 🧒-🟢
 http://kinowalk.hopto.org/kycman_live
@@ -650,7 +647,7 @@ http://kinowalk.hopto.org/zumibox_live
 http://kinowalk.hopto.org/vhs-forever_live
 #EXTINF:-1 group-title="🎞️Kinowalk TV", Wfliq 🧒-️🟢
 http://kinowalk.hopto.org/wfliq_live
-#EXTINF:-1 group-title="🎞️Kinowalk TV", 3JIou TaTapuH 🎦📺-️🟢
+#EXTINF:-1 group-title="🎞️Kinowalk TV", 3JIou TaTapuH 🎦📺-️🟢🟡
 http://kinowalk.hopto.org/3jiou_tatapuh_live
 #EXTINF:-1 group-title="🎞️Kinowalk TV", Тоха Киноман 🎦🧒-🟢
 http://kinowalk.hopto.org/kinomania_stream_live
@@ -691,7 +688,7 @@ http://kinowalk.hopto.org/ambergate_live
 #EXTINF:0,KLI MEDIA НОВИНКИ 🎦-🟢
 #EXTGRP:🎞️Kinowalk TV
 http://kinowalk.hopto.org/klimedia_live
-#EXTINF:0,SVAmixTV 🎦-🟢
+#EXTINF:0,SVAmixTV 🎦-🟢🔴
 #EXTGRP:🎞️Kinowalk TV
 http://kinowalk.hopto.org/svamix_live
 #EXTINF:0,Kinowalk TV SD 🎦-🟢
@@ -764,17 +761,17 @@ http://kinowalk.hopto.org/kinojam_live
 http://kinowalk.hopto.org/filmvibes_live
 #EXTINF:-1 group-title="🎞️Kinowalk TV",Димитрон фильм 🎦🧒-🟢🟡
 http://kinowalk.hopto.org/dondimitron_live
-#EXTINF:-1 group-title="🎞️Kinowalk TV",КИНО05 🎦-🟢🟡
+#EXTINF:-1 group-title="🎞️Kinowalk TV",КИНО05 🎦♣︎-🟢🟡
 http://kinowalk.hopto.org/kino05_live
 #EXTINF:-1 group-title="🎞️Kinowalk TV",Кинохунос 🎦📺-🟢🟡
 http://kinowalk.hopto.org/kinokunos_live
-#EXTINF:-1 group-title="🎞️Kinowalk TV", AASS 📺-🟢🟡
+#EXTINF:-1 group-title="🎞️Kinowalk TV", AASS 🎦📺-🟢🟡
 http://kinowalk.hopto.org/aaasss_live
 #EXTINF:-1 group-title="🎞️Kinowalk TV",seriavaleria 📺-️🟢🟡
 http://kinowalk.hopto.org/seriavaleria_live
 #EXTINF:-1 group-title="🎞️Kinowalk TV" tvg-logo="https://images.live.vkvideo.ru/user/19223927/avatar?change_time=1753304099&croped=1&mh=140&mw=140",Akudji 🎦-🟢🟡
 http://kinowalk.hopto.org/akudjitv_live
-#EXTINF:-1 group-title="🎞️Kinowalk TV" tvg-logo="https://i.imgur.com/FOhNoZe.png",Legion tv 🎦📺🧒🤣-🟢🟡
+#EXTINF:-1 group-title="🎞️Kinowalk TV" tvg-logo="https://i.imgur.com/FOhNoZe.png",Legion tv 🎦📺🧒🤣🔎-🟢🟡
 https://kinowalk.hopto.org/legion-tv_live
 #EXTINF:-1 group-title="🎞️Kinowalk TV",KrotFa 🎦📺-🟢🟡
 http://kinowalk.hopto.org/krotfa_live
@@ -790,7 +787,7 @@ http://kinowalk.hopto.org/zhekos_live
 #EXTINF:0,Tоny 🎦-🟢🟡
 #EXTGRP:🎞️Kinowalk TV
 http://kinowalk.hopto.org/ordinary_people_live
-#EXTINF:0,Space Wanderer HD 🎦-🟢🟡
+#EXTINF:0,Space Wanderer HD 🎦♣︎-🟢🟡
 #EXTGRP:🎞️Kinowalk TV
 http://kinowalk.hopto.org/space_wanderer_live
 #EXTINF:0,Jon Ricci SD 🎦-🟢🟡
@@ -835,9 +832,6 @@ http://kinowalk.hopto.org/wihail_live
 #EXTINF:0,Кинотека 🎦📺-🟡
 #EXTGRP:🎞️Kinowalk TV
 http://kinowalk.hopto.org/kinoteka_full_hd_top_live
-#EXTINF:0,Legion tv 🎦📺-🟡
-#EXTGRP:🎞️Kinowalk TV
-http://kinowalk.hopto.org/legion-tv_live
 #EXTINF:0,Ёжик в тумане FHD 🧒-🟡
 #EXTGRP:🎞️Kinowalk TV
 http://kinowalk.hopto.org/hurumburumum_live
@@ -847,16 +841,16 @@ http://kinowalk.hopto.org/portal_v_kino_live
 #EXTINF:0,ДиТи FHD ◻️-🟡
 #EXTGRP:🎞️Kinowalk TV
 http://kinowalk.hopto.org/mychennal12345_live
-#EXTINF:0,Malleus Maleficarum ◻️-🟡
+#EXTINF:0,Malleus Maleficarum 🎦️-🟢🟡
 #EXTGRP:🎞️Kinowalk TV
 http://kinowalk.hopto.org/exorcist_live
-#EXTINF:0,Priest Kod HD ◻️-🟡
+#EXTINF:0,Priest Kod HD 🎦️-🟢🟡
 #EXTGRP:🎞️Kinowalk TV
 http://kinowalk.hopto.org/priest_kod_live
 #EXTINF:0,КИНОПРОЕКТОР SD ◻️-🟡
 #EXTGRP:🎞️Kinowalk TV
 http://kinowalk.hopto.org/kinokjkh_live
-#EXTINF:0,AlexVira ◻️-🟡
+#EXTINF:0,AlexVira 📺️-🟢🟡
 #EXTGRP:🎞️Kinowalk TV
 http://kinowalk.hopto.org/alexvira_live
 #EXTINF:0,ДОМ Z ◻️-🟡
@@ -868,7 +862,7 @@ http://kinowalk.hopto.org/alexisassa_live
 #EXTINF:0,Сериалы & Кино HD 🎦📺-🟡
 #EXTGRP:🎞️Kinowalk TV
 http://kinowalk.hopto.org/aleksej26_live
-#EXTINF:0,Katerina_nice ◻️-🟡
+#EXTINF:0,Katerina_nice ♣︎-🟢🟡
 #EXTGRP:🎞️Kinowalk TV
 http://kinowalk.hopto.org/katerina_nikolai_live
 #EXTINF:0,VKTV HD ◻️-🟡
