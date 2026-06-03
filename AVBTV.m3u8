@@ -83,7 +83,7 @@ http://e8-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 #EXTINF:-1,Соловьев.Live
 #EXTGRP:👁‍Новостные
-https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
+https://stream.smotrim.ru/hls/solovievlive/playlist_6.m3u8
 #EXTINF:-1,Царьград
 #EXTGRP:👁‍Новостные
 https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=UQvVhXcvnPn0tDMqg2zDYg&e=2068506958&scheme=https
@@ -92,7 +92,7 @@ https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=UQ
 https://streaming.televizor-24-tochka.ru/live/25.m3u8
 #EXTINF:-1,Москва 24
 #EXTGRP:👁‍Новостные
-https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
+https://bl.rutube.ru/livestream/ca70d39eba2e8771358bbcb4bfbad860/index.m3u8?s=PTyMrsgo3vLGBHIMTjsR3w&e=2079393897&scheme=https
 #EXTINF:-1,Радио Вести FM
 #EXTGRP:👁‍Новостные
 https://stream.smotrim.ru/hls2/vesti_fm/playlist_6.m3u8
@@ -289,7 +289,7 @@ https://bl.rutube.ru/livestream/047ba54d846ee185b4209a797a2ae138/index.m3u8?s=_z
 http://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1728000.m3u8
 #EXTINF:-1,Viva Russia
 #EXTGRP:🎶Музыкальные
-https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=DMmpli1WIQUocDbjCe_9Cg&e=2070450963&scheme=https
+https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=huO81WRGvesnVMCCPmNTRQ&e=2068506970&scheme=https
 #EXTINF:-1,Мафия Музыка
 #EXTGRP:🎶Музыкальные
 https://live20.bozztv.com/giatvplayout7/ushba-mafia/tracks-v1a1/mono.ts.m3u8
@@ -303,12 +303,6 @@ http://204.199.3.2/.m3u8
 https://tntm.mediacdn.ru/cdn/tntmusic/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  group-title="🎶Музыкальные",Afrobeats TV
 http://edge11.vedge.infomaniak.com/livecast/ik:bblackafrica/chunklist.m3u8
-#EXTINF:-1  group-title="🎶Музыкальные",Power Dance
-https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-#EXTINF:-1  group-title="🎶Музыкальные",POWER LOVE
-http://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
-#EXTINF:-1  group-title="🎶Музыкальные",POWER TV
-http://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
 #EXTINF:-1  group-title="🎶Музыкальные",Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 
@@ -336,12 +330,6 @@ https://a787201481-s80718.cdn.ngenix.net/hls/CH_UDARHD/video_1920x1080_avc1/play
 #EXTINF:-1 ,Беларусь 5
 #EXTGRP:⛹🏿Спортивные
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1 ,Eurosport 1
-#EXTGRP:⛹🏿Спортивные
-http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/228/index.m3u8
-#EXTINF:-1 ,Eurosport 2
-#EXTGRP:⛹🏿Спортивные
-http://2723bf0c.kazaktelekom.com/iptv/5HQER29A3PRBRQ/234/index.m3u8
 #EXTINF:-1  group-title="⛹🏿Спортивные",Eurosport 1
 http://46.32.176.50/eurosport/index.m3u8
 #EXTINF:-1 ,Eurosport 2
@@ -403,9 +391,6 @@ https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=fG
 #EXTINF:-1,Чип и Дейл
 #EXTGRP:🧒Детские
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
-#EXTINF:-1,Ключайка (МультStream)
-#EXTGRP:🧒Детские
-https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=8hKIWF5Ng40B0-kW7qvWBA&e=2070122249&scheme=https
 #EXTINF:-1,IPTVPLAY МультСказки (МультStream)
 #EXTGRP:🧒Детские
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
@@ -415,18 +400,12 @@ https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/tracks-v
 #EXTINF:-1,Том и Джерри
 #EXTGRP:🧒Детские
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-#EXTINF:0,Мамонтёнок
-#EXTGRP:🧒Детские
-http://tinyurl.com/TvZaTak005/MamontRu/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🧒Детские",Мамонтёнок ТВ 
+#EXTINF:-1 group-title="🧒Детские",Мамонтёнок 
 http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🧒Детские",Мультимания 
 http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🧒Детские",Пингвин Лоло 
 http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
-#EXTINF:0,Пингвин
-#EXTGRP:🧒Детские
-http://tinyurl.com/TvZaTak005/PingvinRu/tracks-v1a1/mono.m3u8
 #EXTINF:0,Советские Мультфильмы
 #EXTGRP:🧒Детские
 https://tinyurl.com/aleks-u-romki-47/18135/index.m3u8
@@ -494,16 +473,13 @@ https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=8z
 #EXTINF:-1,ATV Armenia Premium 6
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 http://timeshift.arpinet.am/255/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Кинодром
-#EXTGRP:🎦📺Фильмы 🔹 Сериалы
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/31714/index.m3u8
 #EXTINF:-1,Bcu premiere 2
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11016/index.m3u8
 #EXTINF:-1,ЗОВ ТВ RED
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 https://live20.bozztv.com/giatv/giatv-tvzov%20RED/tvzov%20RED/chunks.m3u8
-#EXTINF:0,RIVISION TV SD
+#EXTINF:0,RIVISION TV
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 https://dvrfl07.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,Л
@@ -548,9 +524,6 @@ https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
 #EXTINF:-1,Смотрим 100% Мужское
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
-#EXTINF:0,Смотрим 100% Классикаᴴᴰ
-#EXTGRP:🎦📺Фильмы 🔹 Сериалы
-http://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338.m3u8
 #EXTINF:-1,НТВ Сериал
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
