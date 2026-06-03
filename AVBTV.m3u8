@@ -87,7 +87,7 @@ https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852ca
 #EXTINF:-1,Царьград
 #EXTGRP:👁‍Новостные
 https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=UQvVhXcvnPn0tDMqg2zDYg&e=2068506958&scheme=https
-#EXTINF:-1,За!ТВ FD
+#EXTINF:-1,За!ТВ
 #EXTGRP:👁‍Новостные
 https://streaming.televizor-24-tochka.ru/live/25.m3u8
 #EXTINF:-1,Москва 24
@@ -99,13 +99,13 @@ https://stream.smotrim.ru/hls2/vesti_fm/playlist_6.m3u8
 #EXTINF:-1,Радио Говорит Москва
 #EXTGRP:👁‍Новостные
 https://video.govoritmoskva.ru/rufm/index.m3u8
-#EXTINF:0,Радио Спутник SD
+#EXTINF:0,Радио Спутник
 #EXTGRP:👁‍Новостные
 https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
-#EXTINF:0,Радио России HD
+#EXTINF:0,Радио России
 #EXTGRP:👁‍Новостные
 https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8
-#EXTINF:-1,Беларусь 24 HD
+#EXTINF:-1,Беларусь 24
 #EXTGRP:👁‍Новостные
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/playlist.m3u8
 #EXTINF:-1,RTVi [СМИ иноагент]
@@ -126,7 +126,7 @@ http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/20083/index.m3u8
 #EXTINF:-1,FreeДом [СМИ иногент]
 #EXTGRP:👁‍Новостные
 https://dash2.antik.sk/live/test_uatv/playlist.m3u8
-#EXTINF:-1,RTN FD [СМИ иногент]
+#EXTINF:-1,RTN [СМИ иногент]
 #EXTGRP:👁‍Новостные
 http://4.59.210.197:8815/udp/127.0.0.1:6002
 #EXTINF:-1,Russia's Future [СМИ иногент]
@@ -317,7 +317,7 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 http://tv.a21network.ru/stream/37909/index.m3u8
 #EXTINF:-1,Red Bull
 #EXTGRP:⛹🏿Спортивные
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
+https://bl.rutube.ru/livestream/45b30eef1b89857182b03db2c25631d9/index.m3u8?s=wi1eEWgvSgLws-Rul5254A&e=2079393930&scheme=https
 #EXTINF:-1,Волейбол
 #EXTGRP:⛹🏿Спортивные
 https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=RP3Gdy1OZbXnpfKul6ZHLw&e=2070450972&scheme=https
@@ -509,10 +509,10 @@ https://dvrfl07.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,Л
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 https://flussonic.mkpnet.ru/tv-7a5f996197077375/video.m3u8
-#EXTINF:0,LAV-KINO SD
+#EXTINF:0,LAV-KINO
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
-#EXTINF:0,MKNEWS24.RU SD
+#EXTINF:0,MKNEWS24.RU
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 https://stream.mknews24.ru/hls/stream.m3u8?DVR
 #EXTINF:-1,Детективы КД
@@ -532,22 +532,22 @@ https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1,Смотрим 100% Любовь
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
-https://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248
+https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8
 #EXTINF:-1,Смотрим 100% Классика
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
-https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338
+https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
 #EXTINF:-1,Смотрим 100% Детское
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
-https://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab089
+https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
 #EXTINF:-1,Смотрим 100% Факты
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
-https://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f
+https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
 #EXTINF:-1,Смотрим 100% Праздник
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
-https://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564
+https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
 #EXTINF:-1,Смотрим 100% Мужское
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
-https://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d
+https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
 #EXTINF:0,Смотрим 100% Классикаᴴᴰ
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 http://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338.m3u8
