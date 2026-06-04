@@ -575,9 +575,6 @@ https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1,НТВ Сериалы Пять минут тишины
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:0,ОТС HD
-#EXTGRP:🎦📺Фильмы 🔹 Сериалы
-https://bl.rutube.ru/livestream/39c5bfe012402990e6402eded8bdc761/index.m3u8?s=c9q62gBoFEddan05egItTQ&e=2066519773&scheme=https
 
 #EXTINF:-1 group-title="🎞️Kinowalk TV", Blockbusters Time 🎦-🟢
 https://kinowalk.hopto.org/blockbusterstime_live
