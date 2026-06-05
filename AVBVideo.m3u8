@@ -45,33 +45,31 @@ https://s04.watcher.uz/5/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.e
 #EXTINF:0,Кинопремьера
 #EXTGRP:VIJUКИНО
 https://s04.watcher.uz/5/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
-#EXTINF:0,Viju TV1000 Русское FD
-#EXTGRP:VIJUКИНО
-http://46.32.176.50/tv1000ruskoekino/index.m3u8
 
-EXTINF:-1 group-title="Кино",Bollywood HD
+
+#EXTINF:-1 group-title="Кино",Bollywood HD
 http://176.118.197.101/Bollywood_HD/mono.m3u8
-EXTINF:-1 group-title="Кино",Dom kino
+#EXTINF:-1 group-title="Кино",Dom kino
 http://176.118.197.101/Dom_kino/mono.m3u8
-EXTINF:-1 group-title="Кино",HCT
+#EXTINF:-1 group-title="Кино",HCT
 http://176.118.197.101/HCT/mono.m3u8
-EXTINF:-1 group-title="Кино",Kinokomediya
+#EXTINF:-1 group-title="Кино",Kinokomediya
 http://176.118.197.101/Kinokomediya/mono.m3u8
-EXTINF:-1 group-title="Кино",Kinomix
+#EXTINF:-1 group-title="Кино",Kinomix
 http://176.118.197.101/Kinomix/mono.m3u8
-EXTINF:-1 group-title="Кино",Kinoseria
+#EXTINF:-1 group-title="Кино",Kinoseria
 http://176.118.197.101/Kinoseria/mono.m3u8
-EXTINF:-1 group-title="Кино",Komediya
+#EXTINF:-1 group-title="Кино",Komediya
 http://176.118.197.101/Komediya/mono.m3u8
-EXTINF:-1 group-title="Кино",Retro
+#EXTINF:-1 group-title="Кино",Retro
 http://176.118.197.101/Retro/mono.m3u8
-EXTINF:-1 group-title="Детские",2x2
+#EXTINF:-1 group-title="Детские",2x2
 http://176.118.197.101/2x2/mono.m3u8
-EXTINF:-1 group-title="Спорт",KHL
+#EXTINF:-1 group-title="Спорт",KHL
 http://176.118.197.101/KHL/mono.m3u8
-EXTINF:-1 group-title="Кино",Cinema
+#EXTINF:-1 group-title="Кино",Cinema
 http://176.118.197.101/Cinema/mono.m3u8
-EXTINF:-1 group-title="Кино",Evrokino
+#EXTINF:-1 group-title="Кино",Evrokino
 http://176.118.197.101/Evrokino/mono.m3u8
 
 #EXTINF:-1 group-title="📡 t.me/MaxTVNew",RU Первый канал
@@ -566,7 +564,7 @@ http://176.118.197.101/Kinopokaz/index.m3u8
 http://176.118.197.101/Komediya/index.m3u8
 
 
-#EXTM3U
+
 #EXTINF:-1 group-title="MaxTV Kino",TV 1000
 http://46.32.176.50/tv1000/index.m3u8
 #EXTINF:-1 group-title="MaxTV Kino",TV 1000 Action
@@ -1283,11 +1281,6 @@ http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 tvg-logo="http://1lot.tv/ch/9415.png" group-title="▶️ IPTV-Play",TVPLAY MORTAL KOMBATᴴᴰ
 http://5.188.158.65:4040/IPTVPLAYTEST.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTM3U playlist-name="super puper iptv co." url-tvg="http://de1.plist.link/plepg/epg.63815.xml" playlist-logo="http://de1.plist.link/plepg/img/pl.logos/playlist.logo.png"
-
-
-
-
 
 #EXTINF:-1 group-title="Музыкальные 🎼",Vostok TV
 http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/1054/index.m3u8
