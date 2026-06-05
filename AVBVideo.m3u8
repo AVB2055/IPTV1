@@ -1724,9 +1724,7 @@ http://stitch.teletarget.ru/vintera/movieseason/index.m3u8
 #EXTINF:0,Кинопанорама
 #EXTGRP:КИНО
 https://tinyurl.com/TvZaTak09/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
-#EXTINF:0,IPTVPLAY PROMOᴴᴰ
-#EXTGRP:КИНОЗАЛ
-http://5.188.158.65:4040/IPTVPLAYPromo.tv/video.m3u8?token=lqRGka5-YwwqF0
+
 #EXTINF:0,Viasat Kino Comedyᴴᴰ
 #EXTGRP:КИНОЗАЛ
 http://ukr2.ukrainske.tv/493/video.m3u8
@@ -1879,101 +1877,100 @@ http://93.84.115.174:10181/telekafe
 #EXTGRP:СЕРИАЛЫ
 http://fl1004.bozztv.com/ushba5/tracks-v1a1/mono.m3u8
 #EXTINF:0,НТВ Хит
-#EXTGRP:СЕРИАЛЫ 2
+#EXTGRP:СЕРИАЛЫ
 http://cdn.kubteltv.workers.dev/?ID=329
 #EXTINF:0,НТВ Балаболᴴᴰ
-#EXTGRP:СЕРИАЛЫ 2
+#EXTGRP:СЕРИАЛЫ
 https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,НТВ Сериалы.Балаболᴴᴰ
-#EXTGRP:СЕРИАЛЫ 2
+#EXTGRP:СЕРИАЛЫ
 https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:0,НТВ Невскийᴴᴰ
-#EXTGRP:СЕРИАЛЫ 2
+#EXTGRP:СЕРИАЛЫ
 https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,НТВ Сериалы.Невскийᴴᴰ
-#EXTGRP:СЕРИАЛЫ 2
+#EXTGRP:СЕРИАЛЫ
 https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:0,НТВ Первый отделᴴᴰ
-#EXTGRP:СЕРИАЛЫ 2
+#EXTGRP:СЕРИАЛЫ
 http://cdn.iptvcinema.ru/lb1/perviyotdel.m3u8?/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
 #EXTINF:0,НТВ Первый Отделᴴᴰ
-#EXTGRP:СЕРИАЛЫ 2
+#EXTGRP:СЕРИАЛЫ
 https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,НТВ Сериалы.Первый отделᴴᴰ
-#EXTGRP:СЕРИАЛЫ 2
+#EXTGRP:СЕРИАЛЫ
 https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:0,НТВ Пёсᴴᴰ
-#EXTGRP:СЕРИАЛЫ 2
+#EXTGRP:СЕРИАЛЫ
 https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,НТВ Сериалы. Пёсᴴᴰ
-#EXTGRP:СЕРИАЛЫ 2
+#EXTGRP:СЕРИАЛЫ
 https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:0,НТВ Скорая помощьᴴᴰ
-#EXTGRP:СЕРИАЛЫ 2
+#EXTGRP:СЕРИАЛЫ
 http://cdn.iptvcinema.ru/lb1/skorayapomosh.m3u8?/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
 #EXTINF:0,НТВ Скорая Помощьᴴᴰ
-#EXTGRP:СЕРИАЛЫ 2
+#EXTGRP:СЕРИАЛЫ
 https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,НТВ Сериалы.Скорая помощьᴴᴰ
-#EXTGRP:СЕРИАЛЫ 2
+#EXTGRP:СЕРИАЛЫ
 https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:0,НТВ Шефᴴᴰ
-#EXTGRP:СЕРИАЛЫ 2
+#EXTGRP:СЕРИАЛЫ
 https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,НТВ Сериалы.Шефᴴᴰ
-#EXTGRP:СЕРИАЛЫ 2
+#EXTGRP:СЕРИАЛЫ
 https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:0,НТВ Пять минут тишиныᴴᴰ
-#EXTGRP:СЕРИАЛЫ 2
+#EXTGRP:СЕРИАЛЫ
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,НТВ Сериалы.Пять минут тишиныᴴᴰ
-#EXTGRP:СЕРИАЛЫ 2
+#EXTGRP:СЕРИАЛЫ
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:0,НТВ Следствие велиᴴᴰ
-#EXTGRP:СЕРИАЛЫ 2
+#EXTGRP:СЕРИАЛЫ
 https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,НТВ Сериалы.Следствие велиᴴᴰ
-#EXTGRP:СЕРИАЛЫ 2
+#EXTGRP:СЕРИАЛЫ
 https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:0,НТВ Ты Супер!ᴴᴰ
-#EXTGRP:СЕРИАЛЫ 2
+#EXTGRP:СЕРИАЛЫ
 https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:0,НТВ Своя Играᴴᴰ
-#EXTGRP:СЕРИАЛЫ 2
+#EXTGRP:СЕРИАЛЫ
 https://cdn-dvr.ntv.ru/svoya_igra/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:0,Смотрим 100% Классикаᴴᴰ
-#EXTGRP:СЕРИАЛЫ 2
+#EXTGRP:СЕРИАЛЫ
 http://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338.m3u8
 #EXTINF:0,Смотрим 100% Мужскоеᴴᴰ
-#EXTGRP:СЕРИАЛЫ 2
+#EXTGRP:СЕРИАЛЫ
 https://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d/playlist.m3u8
 #EXTINF:0,Смотрим 100% Любовьᴴᴰ
-#EXTGRP:СЕРИАЛЫ 2
+#EXTGRP:СЕРИАЛЫ
 https://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248/playlist.m3u8
 #EXTINF:0,Смотрим 100% Детскоеᴴᴰ
-#EXTGRP:СЕРИАЛЫ 2
+#EXTGRP:СЕРИАЛЫ
 https://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab089/playlist.m3u8
 #EXTINF:0,Смотрим 100% Праздникᴴᴰ
-#EXTGRP:СЕРИАЛЫ 2
+#EXTGRP:СЕРИАЛЫ
 https://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564/playlist.m3u8
 #EXTINF:0,Смотрим 100% Фактыᴴᴰ
-#EXTGRP:СЕРИАЛЫ 2
+#EXTGRP:СЕРИАЛЫ
 https://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f
-
 #EXTINF:0,Смотрим Честный детективᴴᴰ
-#EXTGRP:СЕРИАЛЫ 2
+#EXTGRP:СЕРИАЛЫ
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 #EXTINF:0,Смотрим Кино и сериалы FD
-#EXTGRP:СЕРИАЛЫ 2
+#EXTGRP:СЕРИАЛЫ
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v3a1/mono.m3u8
 #EXTINF:0,Смотрим Кино и сериалы SD
-#EXTGRP:СЕРИАЛЫ 2
+#EXTGRP:СЕРИАЛЫ
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 #EXTINF:0,Новый Русскийᴴᴰ
-#EXTGRP:СЕРИАЛЫ 2
+#EXTGRP:СЕРИАЛЫ
 https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8
 #EXTINF:0,Детективы КД SD
-#EXTGRP:СЕРИАЛЫ 2
+#EXTGRP:СЕРИАЛЫ
 https://bl.rutube.ru/livestream/e05401be60a9cc719fa7075b6e77b86d/index.m3u8?s=wbVW8VM26OpdW5kxFYEmSQ&e=2069694293&scheme=https
 
 #EXTINF:0,Animal Planetᴴᴰ
