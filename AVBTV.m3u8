@@ -229,6 +229,13 @@ http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1,Толк ТВ
 #EXTGRP:🔎‍Познавательные
 https://live-tolknews.cdnvideo.ru/tolknews/stream/tracks-v1a1/mono.m3u8
+#EXTINF:0,Animal Planet
+#EXTGRP:🔎‍Познавательные
+http://46.32.176.50/AnimalPlanetHD/index.m3u8
+#EXTINF:0,Nat Geo Wild
+#EXTGRP:🔎‍Познавательные
+http://46.32.176.50/NatGeoWildHD/index.m3u8
+
 #EXTINF:-1,2x2
 #EXTGRP:🤣Развлекательные
 https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=hwyoufQp4n4DEevoTh79AQ&e=2068506934&scheme=https
@@ -318,6 +325,9 @@ https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=RP
 #EXTINF:-1,Спортивный
 #EXTGRP:⛹🏿Спортивные
 http://live-3.otcnet.ru/sportivny/index.m3u8
+#EXTINF:0,Старт
+#EXTGRP:⛹🏿Спортивные
+https://bl.webcaster.pro/media/playlist/api_free_fd14ed34164a52d1090e4cb9db93683f/4_79276517/1080p/d33bbf3e6ac7c41524eae5d1c3d9258d/4873167902.m3u8?live=15&ref=https://tvstart.ru/channels/tv-start/
 #EXTINF:-1,Старт Баскетбол
 #EXTGRP:⛹🏿Спортивные
 https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?
@@ -362,7 +372,6 @@ http://45.145.32.13:20440/match_futbol_2_hd/index.m3u8?token=test
 #EXTINF:0,МАТЧ! ФУТБОЛ 3 ᴴᴰ
 #EXTGRP:⛹🏿Спортивные
 http://45.145.32.13:20440/match_futbol_3_hd/index.m3u8?token=test
-
 
 #EXTINF:-1,Mr.Bean Cartoon
 #EXTGRP:🧒Детские
@@ -548,6 +557,12 @@ https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1,НТВ Сериалы Пять минут тишины
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1,.red HD
+#EXTGRP:🎦📺Фильмы 🔹 Сериалы
+http://193.25.8.59:8000/set
+#EXTINF:-1,.red HD
+#EXTGRP:🎦📺Фильмы 🔹 Сериалы
+http://93.84.115.174:10181/sonyhd
 
 #EXTINF:-1 group-title="🎞️Kinowalk TV", Blockbusters Time 🎦-🟢
 https://kinowalk.hopto.org/blockbusterstime_live
@@ -917,21 +932,9 @@ http://46.32.176.50/tv1000/index.m3u8
 http://46.32.176.50/tv1000action/index.m3u8
 #EXTINF:-1 group-title="MaxTV Kino",TV 1000 Русское
 http://46.32.176.50/tv1000ruskoekino/index.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",Русский Детектив
-http://46.32.176.50/russkiydetektiv/index.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",Русский Роман
-http://46.32.176.50/russkiyroman/index.m3u8
 #EXTINF:-1 group-title="MaxTV Kino",Иллюзион+
 http://46.32.176.50/illuzion/index.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",Русский Иллюзион
-http://46.32.176.50/russkiyiluzion/index.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",Родное MaxTV Kino
-http://46.32.176.50/rodnoekino/index.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",Время
-http://46.32.176.50/Vremya/index.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",Мир сериала
-http://46.32.176.50/mirseriala/index.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",Мужское MaxTV Kino HD
+#EXTINF:-1 group-title="MaxTV Kino",Мужское Кино HD
 http://46.32.176.50/MujskoeKinoHD/index.m3u8
 #EXTINF:-1 group-title="MaxTV Kino",Hollywood HD
 http://46.32.176.50/HollywoodHD/index.m3u8
@@ -943,129 +946,15 @@ http://46.32.176.50/VIPPremiereHD/index.m3u8
 http://46.32.176.50/VIPComedyHD/index.m3u8
 #EXTINF:-1 group-title="MaxTV Kino",VIP Serial HD
 http://46.32.176.50/ViasatSportHD/index.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",Romance
-http://46.32.176.50/worldfashion/index.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",Дом MaxTV Kino
-http://46.32.176.50/domkino/index.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",Дом MaxTV Kino Премиум HD
+#EXTINF:-1 group-title="MaxTV Kino",Дом Кино Премиум HD
 http://46.32.176.50/DomKinoPremiumHD/index.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",НСТ
-http://46.32.176.50/nst/index.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",MaxTV Kinoсвидание
-http://46.32.176.50/kinosvidanie/index.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",MaxTV Kinoхит
+#EXTINF:-1 group-title="MaxTV Kino",Kinoхит
 http://46.32.176.50/kinoxit/index.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",MaxTV Kinoсерия HD
+#EXTINF:-1 group-title="MaxTV Kino",Kinoсерия HD
 http://46.32.176.50/kinoseria/index.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",MaxTV Kinoмикс HD
+#EXTINF:-1 group-title="MaxTV Kino",Kinoмикс HD
 http://46.32.176.50/kinomiks/index.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",MaxTV Kinoсемья HD
+#EXTINF:-1 group-title="MaxTV Kino",Kinoсемья HD
 http://46.32.176.50/kinosemya/index.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",MaxTV Kinoкомедия
-http://46.32.176.50/kinokomedia/index.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",Любимое MaxTV Kino
-http://46.32.176.50/lubimoekino/index.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",.Black
-http://46.32.176.50/sonyturbo/index.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",.Sci-Fi
-http://46.32.176.50/sonyscifi/index.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",TV XXI
-http://46.32.176.50/tv21/index.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",Plan B
-http://46.32.176.50/paramountchannel/index.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",Индийское MaxTV Kino
-http://46.32.176.50/indiskoekino/index.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",Zee-TV
-http://158.101.222.193:88/georgia_play.php?id=zeetv
-#EXTINF:-1 group-title="MaxTV Kino",ЕвроMaxTV Kino
-http://46.32.176.50/eurokino/index.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",Amedia 1
-http://46.32.176.50/amedia1/index.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",Amedia 2
-http://46.32.176.50/amedia2/index.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",Amedia Hit
-http://46.32.176.50/amediahit/index.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",Amedia Premium
-http://46.32.176.50/AmediaPremium/index.m3u8
 #EXTINF:-1 group-title="MaxTV Kino",Amedia Premium HD
 http://46.32.176.50/AmediaPremiumHD/index.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",Сапфир
-http://46.32.176.50/foxlife/index.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",Кинеко
-http://46.32.176.50/foxrussia/index.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",312
-http://176.126.166.43:1935/live/312musik/playlist.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",312 MaxTV Kino
-http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",Телекафе
-http://46.32.176.50/telekafe/index.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",Т24
-http://46.32.176.50/24texno/index.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",Патриот
-http://185.46.48.18:80/asvtv/index.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",Назад в СССР
-http://kinowalk.hopto.org/backtotheussr_live
-#EXTINF:-1 group-title="MaxTV Kino",Наше новое MaxTV Kino
-http://158.101.222.193:88/georgia_play.php?id=nashanovoekino
-#EXTINF:-1 group-title="MaxTV Kino",У КРАЯ БЕЗДНЫ 24/7
-http://kinowalk.hopto.org/ddator_live
-
-#EXTINF:0,Animal Planetᴴᴰ
-#EXTGRP:ПРИРОДА
-http://46.32.176.50/AnimalPlanetHD/index.m3u8
-#EXTINF:0,Nat Geo Wildᴴᴰ
-#EXTGRP:ПРИРОДА
-http://46.32.176.50/NatGeoWildHD/index.m3u8
-#EXTINF:0,Большая Азия
-#EXTGRP:ПУТЕШЕСТВИЯ
-https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v2a1/mono.m3u8
-#EXTINF:0,viju Explore
-#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
-http://46.32.176.50/viasatexplorer/index.m3u8
-
-#EXTINF:0,Старт
-#EXTGRP:СПОРТ
-https://bl.webcaster.pro/media/playlist/api_free_fd14ed34164a52d1090e4cb9db93683f/4_79276517/480p/d33bbf3e6ac7c41524eae5d1c3d9258d/4873167902.m3u8?live=15&ref=https://tvstart.ru/channels/tv-start/
-#EXTINF:0,Старт SD
-#EXTGRP:СПОРТ
-https://bl.webcaster.pro/media/playlist/api_free_fd14ed34164a52d1090e4cb9db93683f/4_79276517/1080p/d33bbf3e6ac7c41524eae5d1c3d9258d/4873167902.m3u8?live=15&ref=https://tvstart.ru/channels/tv-start/
-#EXTINF:0,Старт Баскет
-#EXTGRP:СПОРТ
-https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/480p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?live=15&ref=https://tvstart.ru/channels/start-basket-test/
-#EXTINF:0,Старт Баскет SD
-#EXTGRP:СПОРТ
-https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8
-#EXTINF:0,Старт Триумф
-#EXTGRP:СПОРТ
-https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd/33_85479982/480p/4eaec8986e2012fb936478856fbf3b4b/4818731006.m3u8?live=15&ref=https://tvstart.ru/ru/pages/start-triumph/
-
-#EXTINF:0,Кинозалы 4 SD
-#EXTGRP:КИНО
-http://162.212.179.43/ushba26/tracks-v1a1/mono.m3u8
-#EXTINF:0,Film Box
-#EXTGRP:КИНО
-http://193.25.8.59:8000/FilmBOX
-#EXTINF:0,Romance
-#EXTGRP:КИНО
-http://193.25.8.59:8000/tlc
-#EXTINF:0,Мосфильм.Золотая Коллекция (+4)
-#EXTGRP:КИНО
-http://193.25.8.59:8000/tnv
-#EXTINF:0,.redᴴᴰ
-#EXTGRP:СЕРИАЛЫ
-http://193.25.8.59:8000/set
-#EXTINF:0,.red HD
-#EXTGRP:СЕРИАЛЫ
-http://93.84.115.174:10181/sonyhd
-#EXTINF:0,Epic
-#EXTGRP:ПУТЕШЕСТВИЯ
-http://193.25.8.59:8000/dtx
-#EXTINF:0,Мужской
-#EXTGRP:ХОББИ И УВЛЕЧЕНИЯ
-http://193.25.8.59:8000/muzhskoy
-#EXTINF:0,МАТЧ! ФУТБОЛ 1
-#EXTGRP:МАТЧ
-http://193.25.8.59:8000/fut
-
-
-
