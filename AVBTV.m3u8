@@ -306,9 +306,6 @@ https://live20.bozztv.com/giatvplayout7/ushba-mafia/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,ММТВ
 #EXTGRP:🎶Музыкальные
 https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=swZ9QnHMT4hcnaukDHRdtw&e=2069285077&scheme=https
-#EXTINF:-1,Сан Франциско
-#EXTGRP:🎶Музыкальные
-http://204.199.3.2/.m3u8
 #EXTINF:-1  group-title="🎶Музыкальные",ТНТ Music
 https://tntm.mediacdn.ru/cdn/tntmusic/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  group-title="🎶Музыкальные",Afrobeats TV
@@ -316,9 +313,6 @@ http://edge11.vedge.infomaniak.com/livecast/ik:bblackafrica/chunklist.m3u8
 #EXTINF:-1  group-title="🎶Музыкальные",Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 
-#EXTINF:-1,A21 Network
-#EXTGRP:⛹🏿Спортивные
-http://tv.a21network.ru/stream/37909/index.m3u8
 #EXTINF:-1,Волейбол
 #EXTGRP:⛹🏿Спортивные
 https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=RP3Gdy1OZbXnpfKul6ZHLw&e=2070450972&scheme=https
