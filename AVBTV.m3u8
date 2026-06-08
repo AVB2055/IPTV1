@@ -336,7 +336,7 @@ http://46.32.176.50/eurosport/index.m3u8
 #EXTINF:-1 ,Eurosport 2
 #EXTGRP:⛹🏿Спортивные
 http://46.32.176.50/eurosport2/index.m3u8
-#EXTINF:0,МАТЧ!ᴴᴰ
+#EXTINF:0,МАТЧ!
 #EXTGRP:⛹🏿Спортивные
 http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:0,МАТЧ! АРЕНА
@@ -354,16 +354,16 @@ https://bl.video.matchtv.ru/media/playlist/free_04fc20484b40a76bf33b537081ec7bf3
 #EXTINF:0,МАТЧ! ПРЕМЬЕР
 #EXTGRP:⛹🏿Спортивные
 https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
-#EXTINF:0,МАТЧ! СТРАНАᴴᴰ
+#EXTINF:0,МАТЧ! СТРАНА
 #EXTGRP:⛹🏿Спортивные
 https://bl.video.matchtv.ru/media/playlist/free_d10054e3245839377104585927f08479/17_72477605/1080/e59fd6ff6bcd963c255273eb25e5c38f/2208978000.m3u8
-#EXTINF:0,МАТЧ! ФУТБОЛ 1 ᴴᴰ
+#EXTINF:0,МАТЧ! ФУТБОЛ 1
 #EXTGRP:⛹🏿Спортивные
 http://45.145.32.13:20440/match_futbol_1_hd/index.m3u8?token=test
-#EXTINF:0,МАТЧ! ФУТБОЛ 2 ᴴᴰ
+#EXTINF:0,МАТЧ! ФУТБОЛ 2
 #EXTGRP:⛹🏿Спортивные
 http://45.145.32.13:20440/match_futbol_2_hd/index.m3u8?token=test
-#EXTINF:0,МАТЧ! ФУТБОЛ 3 ᴴᴰ
+#EXTINF:0,МАТЧ! ФУТБОЛ 3
 #EXTGRP:⛹🏿Спортивные
 http://45.145.32.13:20440/match_futbol_3_hd/index.m3u8?token=test
 
