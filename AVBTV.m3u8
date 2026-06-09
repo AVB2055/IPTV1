@@ -108,9 +108,6 @@ https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8
 #EXTINF:-1,Беларусь 24
 #EXTGRP:👁‍Новостные
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/playlist.m3u8
-#EXTINF:0,ОНТ HD
-#EXTGRP:👁‍Новостные
-http://93.84.115.174:10181/ont_hd
 #EXTINF:-1,RTVi [СМИ иноагент]
 #EXTGRP:👁‍Новостные
 http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/2086/index.m3u8
