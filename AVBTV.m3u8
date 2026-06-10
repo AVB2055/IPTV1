@@ -673,11 +673,6 @@ https://kinowalk.hopto.org/partizanka_tv_live
 #EXTINF:0,KinoFilm SD 🎦📝-🟢🟡
 #EXTGRP:🚫 Kinowalk TV 
 https://kinowalk.hopto.org/poe2proxodim_live
-#EXTINF:0,Dimpon TV 🎦📝-🟢🟡
-#EXTGRP:🚫 Kinowalk TV 
-https://kinowalk.hopto.org/dimpon_live
-#EXTINF:-1 group-title="🚫 Kinowalk TV" ,Snoochies Boochies🎦📺🧒♣︎-🟢🟡
-https://kinowalk.hopto.org/sinema_live
 #EXTINF:-1 group-title="🚫 Kinowalk TV" ,ChowAmigo 🎦-🟢🟡
 https://kinowalk.hopto.org/chowamigo_live
 #EXTINF:-1 group-title="🚫 Kinowalk TV"  tvg-logo="https://avatars.mds.yandex.net/i?id=d8bb932a618b126fd382904f1cde2371_sr-5429110-images-thumbs&n=13",Maksim Films 🎦-🟢🟡
@@ -797,6 +792,11 @@ https://kinowalk.hopto.org/svamix_live
 #EXTINF:0,MAKARSTRIM ♣︎-🟢🟡
 #EXTGRP:🚫 Kinowalk TV 
 https://kinowalk.hopto.org/makarstrim_live
+#EXTINF:0,Dimpon TV 🎦📝-🟡🟢
+#EXTGRP:🚫 Kinowalk TV 
+https://kinowalk.hopto.org/dimpon_live
+#EXTINF:-1 group-title="🚫 Kinowalk TV" ,Snoochies Boochies🎦📺🧒♣︎-🟡🟢
+https://kinowalk.hopto.org/sinema_live
 #EXTINF:0,VKTV HD 📺-🟡🟢
 #EXTGRP:🚫 Kinowalk TV 
 https://kinowalk.hopto.org/vktv_hd_cinema_live
