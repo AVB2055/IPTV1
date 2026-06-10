@@ -569,8 +569,6 @@ https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
 
-
-#EXTM3U
 #EXTINF:-1  group-title="🚫 Kinowalk TV",Blockbusters Time 🎦-🟢
 https://kinowalk.hopto.org/blockbusterstime_live
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/XvHKrWXQ/1.jpg" group-title="🚫 Kinowalk TV",KinoMix Юрич 🎦-🟢
@@ -635,8 +633,6 @@ https://kinowalk.hopto.org/vhs-forever_live
 https://kinowalk.hopto.org/wfliq_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",Тоха Киноман 🎦🧒-🟢
 https://kinowalk.hopto.org/kinomania_stream_live
-#EXTINF:-1  tvg-logo="https://kino-stream.online/logo/scripach.png" group-title="🚫 Kinowalk TV",ScripachTV 🎦-🟡🟢
-https://kinowalk.hopto.org/scripachtv_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",TimeToHorror 🎦-🟢
 https://kinowalk.hopto.org/timetohorror_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",ФИЛЬМЫ & СЕРИАЛЫ SD 🎦📺-🟢
@@ -717,6 +713,8 @@ https://kinowalk.hopto.org/katerina_nikolai_live
 https://kinowalk.hopto.org/svamix_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",MAKARSTRIM ♣︎-🟢🟡
 https://kinowalk.hopto.org/makarstrim_live
+#EXTINF:-1  tvg-logo="https://kino-stream.online/logo/scripach.png" group-title="🚫 Kinowalk TV",ScripachTV 🎦-🟡🟢
+https://kinowalk.hopto.org/scripachtv_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",Dimpon TV 🎦📝-🟡🟢
 https://kinowalk.hopto.org/dimpon_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",Snoochies Boochies🎦📺🧒♣︎-🟡🟢
