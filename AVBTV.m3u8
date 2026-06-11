@@ -1223,7 +1223,7 @@ https://kinowalk.hopto.org/vampiro1965_live
 https://kinowalk.hopto.org/equilibrium_live
 #EXTINF:-1  tvg-logo="https://images.live.vkvideo.ru/user/20428041/avatar?change_time=1766171277&croped=1&mh=140&mw=140" group-title="🚫 Kinowalk TV",Kinowalk_tv 🎦-🟢🟡
 https://kinowalk.hopto.org/kinowalk_live
-#EXTINF:-1  group-title="🚫 Kinowalk TV",3JIou TaTapuH 🎦📺-️🟢🟡
+#EXTINF:-1  group-title="🚫 Kinowalk TV",3JIou TaTapuH 🎦📺-️🟡🟢
 https://kinowalk.hopto.org/3jiou_tatapuh_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",PartizaNka tv 🎦🧒🎶♣︎-️🟢🟡
 https://kinowalk.hopto.org/partizanka_tv_live
@@ -1239,10 +1239,8 @@ https://kinowalk.hopto.org/igrocomp_live
 https://kinowalk.hopto.org/aleksey_24rus_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",Коновал ТВ 🎦📺🤣-🟢🟡
 https://kinowalk.hopto.org/www.konoval_tv_live
-#EXTINF:-1  tvg-logo="https://images.live.vkvideo.ru/user/19397267/avatar?change_time=1763534733&croped=1&mh=140&mw=140" group-title="🚫 Kinowalk TV",Alex.Films 🎦📺-️🟢🟡
+#EXTINF:-1  tvg-logo="https://images.live.vkvideo.ru/user/19397267/avatar?change_time=1763534733&croped=1&mh=140&mw=140" group-title="🚫 Kinowalk TV",Alex.Films 🎦📺-️🟡🟢
 https://kinowalk.hopto.org/alex.films_live
-#EXTINF:-1  group-title="🚫 Kinowalk TV",Airatos Plays HD 🎦♣︎-🟢🟡
-https://kinowalk.hopto.org/airat1992_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",RedFох HD 🎦🎶-🟢🟡
 https://kinowalk.hopto.org/redfoxs_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",VidFok SD 🎶-🟢🟡
@@ -1253,10 +1251,6 @@ https://kinowalk.hopto.org/shurentiy_live_live
 https://kinowalk.hopto.org/krotfa_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",InMuNa Live 📺-🟢🟡
 https://kinowalk.hopto.org/inmuna_live
-#EXTINF:-1  group-title="🚫 Kinowalk TV",LifeZ SD 📺♣︎-🟢🟡
-https://kinowalk.hopto.org/zhekos_live
-#EXTINF:-1  group-title="🚫 Kinowalk TV",Space Wanderer HD 🎦♣︎-🟢🟡
-https://kinowalk.hopto.org/space_wanderer_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",VHS Power 🎦📺🧒🎶-️🟢🟡
 https://kinowalk.hopto.org/noir_live
 #EXTINF:-1  tvg-logo="https://images.contactout.com/companies/49ed994c26cb4d0d32669a350c721e43" group-title="🚫 Kinowalk TV",Serial Productions 📺-🟢🟡
@@ -1265,52 +1259,67 @@ https://kinowalk.hopto.org/swat2k_live
 https://kinowalk.hopto.org/kinojam_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",Cinema Time FHD 🎦🧒-🟢🔴
 https://kinowalk.hopto.org/cinematime_live
-#EXTINF:-1  group-title="🚫 Kinowalk TV",ДиТи FHD 🤣-🟢🟡
-https://kinowalk.hopto.org/mychennal12345_live
-#EXTINF:-1  group-title="🚫 Kinowalk TV",Malleus Maleficarum 🎦️🧒-🟢🟡
-https://kinowalk.hopto.org/exorcist_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",Priest Kod HD 🎦️-🟢🟡
 https://kinowalk.hopto.org/priest_kod_live
-#EXTINF:-1  group-title="🚫 Kinowalk TV",AlexVira 📺🧒️-🟢🟡
-https://kinowalk.hopto.org/alexvira_live
+
+#EXTINF:-1  group-title="🚫 Kinowalk TV",Airatos Plays HD 🎦♣︎-🟡🟢
+https://kinowalk.hopto.org/airat1992_live
+#EXTINF:-1  group-title="🚫 Kinowalk TV",LifeZ SD 📺♣︎-🟡🟢
+https://kinowalk.hopto.org/zhekos_live
+#EXTINF:-1  group-title="🚫 Kinowalk TV",Space Wanderer HD 🎦♣︎-🟡🟢
+https://kinowalk.hopto.org/space_wanderer_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",Katerina_nice ♣︎-🟢🟡
 https://kinowalk.hopto.org/katerina_nikolai_live
-#EXTINF:-1  group-title="🚫 Kinowalk TV",SVAmixTV 🎦-🟢🟡🔴
+#EXTINF:-1  group-title="🚫 Kinowalk TV",SVAmixTV 🎦-🔴🟢🟡
 https://kinowalk.hopto.org/svamix_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",MAKARSTRIM ♣︎-🟢🟡
 https://kinowalk.hopto.org/makarstrim_live
+#EXTINF:-1  group-title="🚫 Kinowalk TV",Snoochies Boochies🎦📺🧒♣︎-🟢🟡
+https://kinowalk.hopto.org/sinema_live
+#EXTINF:-1  group-title="🚫 Kinowalk TV",MAX LIVЕ 📺-🟢🟡
+https://kinowalk.hopto.org/maximum_live
+#EXTINF:-1  group-title="🚫 Kinowalk TV",FoxKids-Remastered 🧒-🟢🟡
+https://kinowalk.hopto.org/foxkids_remastered_live
+#EXTINF:-1  tvg-logo="https://images.live.vkvideo.ru/user/20292590/avatar?change_time=1746735412&croped=1&mh=140&mw=140" group-title="🚫 Kinowalk TV",ROMEO Video 🎦🧒🤣♣︎-🟢🟡
+https://kinowalk.hopto.org/romantic_live
+#EXTINF:-1  group-title="🚫 Kinowalk TV",АPRICUS 🎦📺-🟢🟡
+https://kinowalk.hopto.org/apricus_live
+#EXTINF:-1  tvg-logo="https://images.live.vkvideo.ru/user/19940394/avatar?change_time=1734982742&croped=1&mh=140&mw=140" group-title="🚫 Kinowalk TV",Фильмы сериалы 🎦📺-🟢🟡
+https://kinowalk.hopto.org/dfsfsdg_live
+#EXTINF:-1  group-title="🚫 Kinowalk TV",AASS 🎦📺-🟢🟡🔴
+https://kinowalk.hopto.org/aaasss_live
+#EXTINF:-1  group-title="🚫 Kinowalk TV",Паранормальный архив HD 🧒🔎-🟢🔴
+https://kinowalk.hopto.org/paranormal404_live
+#EXTINF:-1  group-title="🚫 Kinowalk TV",Амбергейт FHD ♣︎-🟢🔴🟡
+https://kinowalk.hopto.org/ambergate_live
+
+
+#EXTINF:-1  group-title="🚫 Kinowalk TV",ДиТи FHD 🤣-🟡🟢
+https://kinowalk.hopto.org/mychennal12345_live
+#EXTINF:-1  group-title="🚫 Kinowalk TV",Malleus Maleficarum 🎦️🧒-🟡🟢
+https://kinowalk.hopto.org/exorcist_live
+#EXTINF:-1  group-title="🚫 Kinowalk TV",AlexVira 📺🧒️-🟡🟢
+https://kinowalk.hopto.org/alexvira_live
 #EXTINF:-1  tvg-logo="https://kino-stream.online/logo/scripach.png" group-title="🚫 Kinowalk TV",ScripachTV 🎦-🟡🟢
 https://kinowalk.hopto.org/scripachtv_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",Dimpon TV 🎦📝-🟡🟢
 https://kinowalk.hopto.org/dimpon_live
-#EXTINF:-1  group-title="🚫 Kinowalk TV",Snoochies Boochies🎦📺🧒♣︎-🟡🟢
-https://kinowalk.hopto.org/sinema_live
-#EXTINF:-1  group-title="🚫 Kinowalk TV",MAX LIVЕ 📺-🟡🟢
-https://kinowalk.hopto.org/maximum_live
-#EXTINF:-1  group-title="🚫 Kinowalk TV",Игрун 1997 📺🧒-️🟡🟢
-https://kinowalk.hopto.org/igrun1997_live
 #EXTINF:-1  tvg-logo="https://images.live.vkvideo.ru/user/19638295/avatar?change_time=1758747161&croped=1&mh=140&mw=140" group-title="🚫 Kinowalk TV",ReanimatoR_VHS 🎦📺-🟡🟢
 https://kinowalk.hopto.org/reanimator_vhs_live
-#EXTINF:-1  group-title="🚫 Kinowalk TV",FoxKids-Remastered 🧒-🟡🟢
-https://kinowalk.hopto.org/foxkids_remastered_live
+#EXTINF:-1  group-title="🚫 Kinowalk TV",Игрун 1997 📺🧒-️🟡🟢
+https://kinowalk.hopto.org/igrun1997_live
 #EXTINF:-1  tvg-logo="https://images.live.vkvideo.ru/user/20655827/avatar?change_time=1752925345&croped=1&mh=140&mw=140" group-title="🚫 Kinowalk TV",Kinofon 🎦📺🧒🤣-🟡🟢
 https://kinowalk.hopto.org/kinofon_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",Эра VHS 🎦♣︎-🟡🟢
 https://kinowalk.hopto.org/era_vhs_live
-#EXTINF:-1  tvg-logo="https://images.live.vkvideo.ru/user/20292590/avatar?change_time=1746735412&croped=1&mh=140&mw=140" group-title="🚫 Kinowalk TV",ROMEO Video 🎦🧒🤣♣︎-🟡🟢
-https://kinowalk.hopto.org/romantic_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",не Кино 🎦🧒-🟡🟢
 https://kinowalk.hopto.org/notnotes_live
-#EXTINF:-1  group-title="🚫 Kinowalk TV",АPRICUS 🎦📺-🟡🟢
-https://kinowalk.hopto.org/apricus_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",BOH 🎦📺🔎⛹🏿🎶♣︎-🟡🟢
 https://kinowalk.hopto.org/boh_music_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",КИНОУЖАС HD 🎦-🟡🟢
 https://kinowalk.hopto.org/kinouzhas_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",VideoVk 🎦-🟡🟢
 https://kinowalk.hopto.org/videovk_live
-#EXTINF:-1  tvg-logo="https://images.live.vkvideo.ru/user/19940394/avatar?change_time=1734982742&croped=1&mh=140&mw=140" group-title="🚫 Kinowalk TV",Фильмы сериалы 🎦📺-🟡🟢
-https://kinowalk.hopto.org/dfsfsdg_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",33 квадратных метра 🤣-🟡🟢
 https://kinowalk.hopto.org/33metra_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",FilmVibes 🧒-🟡🟢
@@ -1337,19 +1346,14 @@ https://kinowalk.hopto.org/milah_live
 https://kinowalk.hopto.org/kinoteka_full_hd_top_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",VKTV HD 📺-🟡🟢
 https://kinowalk.hopto.org/vktv_hd_cinema_live
-#EXTINF:-1  group-title="🚫 Kinowalk TV",AASS 🎦📺-🟡🟢🔴
-https://kinowalk.hopto.org/aaasss_live
 #EXTINF:-1  tvg-logo="https://images.live.vkvideo.ru/user/18824582/avatar?change_time=1714643599&croped=1&mh=140&mw=140" group-title="🚫 Kinowalk TV",ZubrilomFilm 🎦-🟡🟢🔴
 https://kinowalk.hopto.org/zubrilomfilm_live
-#EXTINF:-1  group-title="🚫 Kinowalk TV",KINO-TV 🎦🎶♣︎-🟡🟢🔴
+#EXTINF:-1  group-title="🚫 Kinowalk TV",KINO-TV 🎦🎶♣︎-🔴🟡🟢
 https://kinowalk.hopto.org/strannik1177_live
 
-#EXTINF:-1  group-title="🚫 Kinowalk TV",Паранормальный архив HD 🧒🔎-🔴🟢
-https://kinowalk.hopto.org/paranormal404_live
+
 #EXTINF:-1  group-title="🚫 Kinowalk TV",Кинохунос 🎦📺-🔴🟡🟢
 https://kinowalk.hopto.org/kinokunos_live
-#EXTINF:-1  group-title="🚫 Kinowalk TV",Амбергейт FHD ♣︎-🔴🟢🟡
-https://kinowalk.hopto.org/ambergate_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",Дикарка HD 🎦-🔴🟢🟡
 https://kinowalk.hopto.org/dikarka_liv
 #EXTINF:-1  group-title="🚫 Kinowalk TV",SеVаNz 🎦📺-🔴🟢🟡
@@ -1378,9 +1382,9 @@ https://kinowalk.hopto.org/devchata_live
 https://kinowalk.hopto.org/argo_13_live
 #EXTINF:-1  tvg-logo="https://lastfm.freetls.fastly.net/i/u/300x300/e6ac114abd700e4d57b230a703187a26.jpg" group-title="🚫 Kinowalk TV",KINOPRO 🎦🧒-🔴🟢
 https://kinowalk.hopto.org/kinopro_live
-#EXTINF:-1  group-title="🚫 Kinowalk TV",Disney Channel SD ◻️-🔴
+#EXTINF:-1  group-title="🚫 Kinowalk TV",Disney Channel SD ◻️-🟡🔴
 https://kinowalk.hopto.org/kanaldisneyonline_live
-#EXTINF:-1  group-title="🚫 Kinowalk TV",Disney XD 🧒-🔴
+#EXTINF:-1  group-title="🚫 Kinowalk TV",Disney XD 🧒-🟡🔴
 https://kinowalk.hopto.org/disneyxd_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",HyBteX 📺-🔴
 https://kinowalk.hopto.org/hybtex_live
