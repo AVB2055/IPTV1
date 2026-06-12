@@ -324,7 +324,7 @@ https://bl.webcaster.pro/media/playlist/free_fe8dc1b768a84b8b0333db826471f17e_hd
 https://a787201481-s80718.cdn.ngenix.net/hls/CH_UDARHD/video_1920x1080_avc1/playlist.m3u8
 #EXTINF:0,МАТЧ!
 #EXTGRP:⛹🏿Спортивные
-http://dijital.rafail1982.uz/hls/matchtvrum9/playlist.m3u8
+http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:0,МАТЧ! АРЕНА
 #EXTGRP:⛹🏿Спортивные
 http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/528/index.m3u8
@@ -945,8 +945,6 @@ https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=gM
 https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=k9bDH53DPY73h1vlbcNhzQ&e=2071743709&scheme=https
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" group-title="🚫Кинозалы" ,Киносезон
 http://stitch.teletarget.ru/vintera/movieseason/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hrJnvY6/image-15.png" tvg-id="" group-title="🚫Кинозалы", SeleCaoTV 1
-https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/playlist.m3u8
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.ibb.co/Xr6Ngptx/image-32.png" group-title="🚫Кинозалы", Твоё ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.ibb.co/gFHCVrTw/image-33.png" group-title="🚫Кинозалы",Твоё ТВ HD Юмор
