@@ -251,76 +251,21 @@ http://185.46.16.239:8000/Disney_Channel
 http://185.46.16.239:8000/Ani
 
 
-#EXTINF:-1  group-title="💎 Max кино"  tvg-id="vip-megahit" ,Viju+ Megahit
-https://kino.zunotv.workers.dev/viju_plus_megahit_hd/index.m3u8
-#EXTINF:-1  group-title="💎 Max кино"  tvg-id="vip-premiere" ,Viju+ Premiere
-https://kino.zunotv.workers.dev/viju_plus_premiere_hd/index.m3u8
-#EXTINF:-1  group-title="💎 Max кино"  tvg-id="vip-comedy" ,Viju+ Comedy
-https://kino.zunotv.workers.dev/viju_plus_comedy_hd/index.m3u8
-#EXTINF:-1  group-title="💎 Max кино"  tvg-id="vip-serial" ,Viju+ Serial
-https://kino.zunotv.workers.dev/viju_plus_serial_hd/index.m3u8
-#EXTINF:-1  group-title="💎 Max кино"  tvg-id="tv1000" ,Viju TV1000
-https://kino.zunotv.workers.dev/viju_tv1000_hd/index.m3u8
-#EXTINF:-1  group-title="💎 Max кино"  tvg-id="tv1000-action" ,Viju TV1000 Action
-https://kino.zunotv.workers.dev/viju_tv1000_action_hd/index.m3u8
-#EXTINF:-1  group-title="💎 Max кино"  tvg-id="viju-tv1000-novella" ,Viju TV1000 Новелла
-https://kino.zunotv.workers.dev/viju_tv1000_novella_hd/index.m3u8
-#EXTINF:-1  group-title="💎 Max кино"  tvg-id="tv1000-russkoe-kino" ,Viju TV1000 Русское HD
-https://kino.zunotv.workers.dev/viju_tv1000_russkoe_hd/index.m3u8
-#EXTINF:-1  group-title="💎 Max кино"  tvg-id="nst" ,НСТ
-https://kino.zunotv.workers.dev/nst/index.m3u8
-#EXTINF:-1  group-title="💎 Max кино" ,ТВ 21
-https://kino.zunotv.workers.dev/tv_21/index.m3u8
-#EXTINF:-1  group-title="💎 Max кино"  tvg-id="start-world" ,START World
-https://kino.zunotv.workers.dev/start_world_hd/index.m3u8
-#EXTINF:-1  group-title="💎 Max кино"  tvg-id="start-air" ,START Air
-https://kino.zunotv.workers.dev/start_air_hd/index.m3u8
-#EXTINF:-1  group-title="💎 Max кино"  tvg-id="sony-tv" ,.red 
-https://kino.zunotv.workers.dev/red_hd/index.m3u8
-#EXTINF:-1  group-title="💎 Max кино"  tvg-id="sony-turbo" ,.black
-https://kino.zunotv.workers.dev/black_hd/index.m3u8
-#EXTINF:-1  group-title="💎 Max кино"  tvg-id="evrokino" ,Еврокино
-https://kino.zunotv.workers.dev/evrokino/index.m3u8
-#EXTINF:-1  group-title="💎 Max кино"  tvg-id="russky-illuzion" ,Русский иллюзион
-https://kino.zunotv.workers.dev/russkiy_illyuzion/index.m3u8
 #EXTINF:-1  group-title="💎 Max кино"  tvg-id="russkaya-komedia" ,Русская Комедия
 http://176.118.197.101/Komediya/mono.m3u8
 #EXTINF:-1  group-title="💎 Max кино"  tvg-id="domkino" ,Дом Кино
 http://176.118.197.101/Dom_kino/index.m3u8
-#EXTINF:-1  group-title="💎 Max кино"  tvg-id="nash-kinopokaz" ,Наш Кинопоказ 
-https://kino.zunotv.workers.dev/nash_kinopokaz_hd/index.m3u8
-#EXTINF:-1  group-title="💎 Max кино"  tvg-id="retro-tv" ,Ретро
-https://kino.zunotv.workers.dev/retro/index.m3u8
-#EXTINF:-1  group-title="💎 Max кино"  tvg-id="ntv-serial" ,НТВ Сериал
-https://kino.zunotv.workers.dev/ntv_serial_hd/index.m3u8
-#EXTINF:-1  group-title="💎 Max кино"  tvg-id="novellatv" ,Novella TV
-https://kino.zunotv.workers.dev/novella_tv_hd/index.m3u8
-#EXTINF:-1  group-title="💎 Max кино"  tvg-id="illuzion-plus" ,Иллюзион+
-https://kino.zunotv.workers.dev/illyuzion_plus_hd/index.m3u8
-#EXTINF:-1  group-title="💎 Max кино"  tvg-id="kinomiks" ,Киномикс
-http://cdn.kubteltv.workers.dev/?ID=105
+
 #EXTINF:-1  group-title="💎 Max кино"  tvg-id="kinouzhas" ,Киноужас
 http://cdn.kubteltv.workers.dev/?ID=200
 #EXTINF:-1  group-title="💎 Max кино"  tvg-id="kinoseria" ,Киносерия
 http://cdn.kubteltv.workers.dev/?ID=316
 #EXTINF:-1  group-title="💎 Max кино"  tvg-id="kinokomedia" ,Кинокомедия
 http://cdn.kubteltv.workers.dev/?ID=328
-#EXTINF:-1  group-title="💎 Max кино"  tvg-id="kinoxit" ,Кинохит
-https://kino.zunotv.workers.dev/kinohit_hd/index.m3u8
-#EXTINF:-1  group-title="💎 Max кино"  tvg-id="kinosvidanie" ,Киносвидание 
-https://kino.zunotv.workers.dev/kinosvidanie_hd/index.m3u8
-#EXTINF:-1  group-title="💎 Max кино"  tvg-id="kinosemiya" ,Киносемья
-https://kino.zunotv.workers.dev/kinosemya_hd/index.m3u8
-#EXTINF:-1  group-title="💎 Max кино"  tvg-id="kinopremiera-hd" ,Кинопремьера
-https://kino.zunotv.workers.dev/kinopremera_hd/index.m3u8
-#EXTINF:-1  group-title="💎 Max кино"  tvg-id="nashe-novoe-kino" ,Наше Новое Кино
-https://kino.zunotv.workers.dev/nashe_novoe_kino_hd/index.m3u8
 #EXTINF:-1  group-title="💎 Max кино"  tvg-id="rodnoe-kino" ,Родное Кино
 http://176.118.197.101/RodnoeKino/index.m3u8
 #EXTINF:-1  group-title="💎 Max кино"  tvg-id="blokbaster" ,Блокбастер
 http://cdn.kubteltv.workers.dev/?ID=219
-#EXTINF:-1  group-title="💎 Max кино"  tvg-id="khit" ,Хит
-http://cdn.kubteltv.workers.dev/?ID=255
 #EXTINF:-1  group-title="💎 Max кино"  tvg-id="kinojam1" ,KinoJam 1
 http://cdn.kubteltv.workers.dev/?ID=297
 #EXTINF:-1  group-title="💎 Max кино"  tvg-id="kinojam2" ,KinoJam 2
@@ -331,32 +276,10 @@ http://cdn.kubteltv.workers.dev/?ID=299
 http://cdn.kubteltv.workers.dev/?ID=352
 #EXTINF:-1  group-title="💎 Max кино"  tvg-id="fanhd" ,FAN
 http://cdn.kubteltv.workers.dev/?ID=354
-#EXTINF:-1  group-title="💎 Max кино"  tvg-id="amedia1" ,Amedia 1
-https://kino.zunotv.workers.dev/amedia_1_hd/index.m3u8
-#EXTINF:-1  group-title="💎 Max кино"  tvg-id="amedia2" ,Amedia 2
-https://kino.zunotv.workers.dev/amedia_2_hd/index.m3u8
-#EXTINF:-1  group-title="💎 Max кино"  tvg-id="amedia-hit" ,Amedia Hit
-https://kino.zunotv.workers.dev/amedia_hit_hd/index.m3u8
-#EXTINF:-1  group-title="💎 Max кино"  tvg-id="amedia-premium" ,Amedia Premium
-https://kino.zunotv.workers.dev/amedia_premium_hd/index.m3u8
-#EXTINF:-1  group-title="💎 Max кино"  tvg-id="hollywood-hd" ,Hollywood HD
-https://kino.zunotv.workers.dev/hollywood_hd/index.m3u8
 #EXTINF:-1  group-title="💎 Max кино"  tvg-id="kinopokaz" ,Кинопоказ
 http://176.118.197.101/Kinopokaz/mono.m3u8
 #EXTINF:-1  group-title="💎 Max кино"  tvg-id="lubimoe-kino" ,Любимое Кино
 http://176.118.197.101/LubimoeKino/mono.m3u8
-#EXTINF:-1  group-title="💎 Max кино"  tvg-id="kinokult" ,КиноКульт 
-https://kino.zunotv.workers.dev/kinokult_hd/index.m3u8
-#EXTINF:-1  group-title="💎 Max кино"  tvg-id="horrortv" ,Horror TV 
-https://kino.zunotv.workers.dev/horror_hd/index.m3u8
-#EXTINF:-1  group-title="💎 Max кино"  tvg-id="suspense" ,Suspense 
-https://kino.zunotv.workers.dev/suspense_hd/index.m3u8
-#EXTINF:-1  group-title="💎 Max кино"  tvg-id="vhska-serial" ,VHS-ка Сериал 
-https://kino.zunotv.workers.dev/vhs_serial_hd/index.m3u8
-#EXTINF:-1  group-title="💎 Max кино" ,VHS-ка Русское кино 
-https://kino.zunotv.workers.dev/russkoe_kino_4k/index.m3u8
-#EXTINF:-1  group-title="💎 Max кино"  tvg-id="sony-scifi" ,.sci-fi
-https://kino.zunotv.workers.dev/sci_fi_hd/index.m3u8
 #EXTINF:-1  group-title="💎 Max кино"  tvg-id="tv1000-russkoe-kino" ,viju TV1000 русское
 http://109.70.186.82:9090/udp/239.185.1.2:1234
 #EXTINF:-1  group-title="💎 Max кино"  tvg-id="vip-premiere" ,viju+ Premiere
@@ -421,9 +344,6 @@ https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
 #EXTINF:-1  tvg-id="smotrim-100-prazdnik" ,Смотрим 100% Праздник
 #EXTGRP:💎 Max кино
 https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
-#EXTINF:-1  tvg-id="kino-24" ,Kino 24
-#EXTGRP:💎 Max кино
-https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 ,💎 Max кино
 #EXTGRP:💎 Max кино
 https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1_output_0.m3u8
@@ -454,7 +374,7 @@ http://176.118.197.101/Illuzion+/index.m3u8
 #EXTINF:-1 ,HCT
 #EXTGRP:💎 Max кино
 http://176.118.197.101/HCT/mono.m3u8
-#EXTINF:-1  💎 Max кино HD
+#EXTINF:-1 ,Bollywood_HD
 #EXTGRP:💎 Max кино
 http://176.118.197.101/Bollywood_HD/index.m3u8
 #EXTINF:-1 ,Dom kino
@@ -641,8 +561,6 @@ https://stream.ushba.tv/akamaiushba/ushba64/tracks-v1a1/mono.m3u8
 https://stream.ushba.tv/akamaiushba/ushba65/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="MaxTV Kino",Logovo Films
 https://stream.ushba.tv/akamaiushba/ushba-films-a/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",MaxTV Kinoрейс
-https://stream.ushba.tv/akamaiushba/ushba82/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="MaxTV Kino",Film Visit
 https://fl1003.bozztv.com/ushba-films-l/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="MaxTV Kino",Cinemator
@@ -1259,14 +1177,8 @@ https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u
 https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="Музыкальные 🎼" ,Stingray Smooth Jazz
 https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" ,Stingray Soul Storm
-https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="Музыкальные 🎼" ,Stingray Today's KPOP
 https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" ,Stingray Today's Latin Pop
-https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" ,Stingray Urban Beat
-https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 channel-id="SamsungTVPlus-USBB320000647" tvg-name="XITE 80s Flashback" tvg-id="USBB320000647" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20240702T044851SQUARE.png" group-title="Музыкальные 🎼" tvg-chno="4313",XITE 80s Flashback
 https://d1n314cytqn9r3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bklagqy82v0pr/XITE_80s_Flashback.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB320000647
 #EXTINF:-1 channel-id="SamsungTVPlus-USBB3200007AK" tvg-name="XITE 90s Throwback" tvg-id="USBB3200007AK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20240702T044853SQUARE.png" group-title="Музыкальные 🎼" tvg-chno="4318",XITE 90s Throwback
@@ -1297,14 +1209,10 @@ https://jmp2.uk/stvp-ITBC2100001G9
 https://jmp2.uk/stvp-USBD3300010L9
 #EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2300001C0_20250107T030829SQUARE.png",Vevo Hip Hop & R&B
 https://jmp2.uk/stvp-GBBD2300001C0
-#EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000133M_20251013T235735SQUARE.png",Vevo '90s
-https://jmp2.uk/stvp-USBD3000133M
 #EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900009UD_20250107T030827SQUARE.png",Vevo '70s & '80s
 https://jmp2.uk/stvp-GBBD1900009UD
 #EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC210000200_20241022T043924SQUARE.png",Vevo '90s & '00s
 https://jmp2.uk/stvp-ITBC210000200
-#EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120002431_20251013T235738SQUARE.png",Vevo 2010s
-https://jmp2.uk/stvp-USBD120002431
 #EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/NOW_70s.png/200px-NOW_70s.png",Now 70's
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные 🎼" ,Now 80's
@@ -1390,40 +1298,22 @@ https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
 #EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://www.dancetv.net/img/DTlogo.png",Minimal / Deep Tech
 https://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8
 
-#EXTINF:0,viju TV1000
-#EXTGRP:КИНО
-http://93.84.115.174:10181/tv1000
-#EXTINF:0,viju TV1000 Русское
-#EXTGRP:КИНО
-http://93.84.115.174:10181/tv1000ru
-#EXTINF:0,viju TV1000 Action
-#EXTGRP:КИНО
-http://93.84.115.174:10181/tv1000action
-#EXTINF:0,viju+ Serial SD
+#EXTINF:0,viju+ Serial 
 #EXTGRP:КИНО
 http://mfe02.cliptv.az/dash/MGM_HDqwervbyu78.ism/playlist.mpd
 #EXTINF:0,Кинокомедияᴴᴰ
 #EXTGRP:КИНО
 https://stream8.cinerama.uz/1232/tracks-v2a1/mono.m3u8
-#EXTINF:0,Кинопремьера SD
+#EXTINF:0,Кинопремьера 
 #EXTGRP:КИНО
 http://158.101.222.193:88/georgia_play.php?id=kinopremyerahd
-#EXTINF:0,Киносемья
-#EXTGRP:КИНО
-http://93.84.115.174:10181/kinosemya
-#EXTINF:0,Кинохит
-#EXTGRP:КИНО
-http://93.84.115.174:10181/kinohit
 #EXTINF:0,Мужское Кино
-#EXTGRP:КИНО
-http://185.161.224.211/dash/Mujskoye_Kino_SDpoiu876.ism/playlist.mpd
-#EXTINF:0,Мужское Киноᴴᴰ
 #EXTGRP:КИНО
 https://stream8.cinerama.uz/1237/tracks-v2a1/mono.m3u8
 #EXTINF:0,Наше Новое Кино
 #EXTGRP:КИНО
 http://93.84.115.174:10181/nashenovoekino
-#EXTINF:0,Наше Новое Киноᴴᴰ
+#EXTINF:0,Наше Новое Кино
 #EXTGRP:КИНО
 http://93.113.203.165/iptv/F5BM9GXMAPYBDK/19231/index.m3u8
 #EXTINF:0,Индийское кино
@@ -1461,10 +1351,7 @@ https://s07.watcher.uz/167/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9
 #EXTINF:0,Bollywoodᴴᴰ
 #EXTGRP:КИНО
 http://45.145.32.13:20440/bollywood_hd/index.m3u8?token=test
-#EXTINF:0,Bollywood HD
-#EXTGRP:КИНО
-http://93.84.115.174:10181/foxlifehd
-#EXTINF:0,FANᴴᴰ
+#EXTINF:0,FAN
 #EXTGRP:КИНО
 http://31.148.48.15/Fan/index.m3u8
 #EXTINF:0,Film Box
@@ -1506,15 +1393,6 @@ http://31.148.48.15/TV_XXI/index.m3u8?token=test
 #EXTINF:0,Классика Кино SD
 #EXTGRP:КИНО
 http://stitch.teletarget.ru/vintera/movieclassic/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDI2IDExOjQ5OjIxIFBNJmhhc2hfdmFsdWU9NzBLbWM5SUpMWitZVEplblVPVDFHUT09JnZhbGlkbWludXRlcz00ODA=
-#EXTINF:0,Еврокино
-#EXTGRP:КИНО
-http://93.84.115.174:10181/eurokino
-#EXTINF:0,HOLLYWOOD
-#EXTGRP:КИНО
-http://dmi3y-tv6.ru/hls/CH_HOLLYWOOD.m3u8
-#EXTINF:0,BollywooD
-#EXTGRP:КИНО
-http://dmi3y-tv6.ru/hls/CH_BOLLYWOOD.m3u8
 #EXTINF:0,Trash HD
 #EXTGRP:КИНО
 https://woobl.ru/platform24.php?id=4830&p=index.m3u8
@@ -1536,9 +1414,6 @@ http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/mosfilm_z
 #EXTINF:0,Мосфильм.Золотая Коллекция (+4)
 #EXTGRP:КИНО
 http://193.25.8.59:8000/tnv
-#EXTINF:0,Победа
-#EXTGRP:КИНО
-http://93.84.115.174:10181/pobeda
 #EXTINF:0,Победа FD
 #EXTGRP:КИНО
 https://streaming.televizor-24-tochka.ru/live/43.m3u8
@@ -1649,9 +1524,6 @@ https://stream.mknews24.ru/hls/stream.m3u8?DVR
 #EXTINF:0,.redᴴᴰ
 #EXTGRP:СЕРИАЛЫ
 http://193.25.8.59:8000/set
-#EXTINF:0,.red HD
-#EXTGRP:СЕРИАЛЫ
-http://93.84.115.174:10181/sonyhd
 #EXTINF:0,Amedia Hit SD
 #EXTGRP:СЕРИАЛЫ
 http://31.148.48.15:80/Amedia_HIT_HD/index.m3u8
@@ -1676,9 +1548,6 @@ https://bl.rutube.ru/livestream/ff5c11c9a51750f5d33427762abc315c/index.m3u8?s=IB
 #EXTINF:0,Сапфир SD
 #EXTGRP:СЕРИАЛЫ
 http://31.148.48.15/Sapfir_HD/index.m3u8
-#EXTINF:0,Amedia Premium HD
-#EXTGRP:СЕРИАЛЫ
-http://93.84.115.174:10181/amediapremiumhd
 #EXTINF:0,Epic Media
 #EXTGRP:СЕРИАЛЫ
 http://fl1004.bozztv.com/ushba77/tracks-v1a1/mono.m3u8
@@ -1691,118 +1560,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
 #EXTINF:0,Арсеналᴴᴰ
 #EXTGRP:СЕРИАЛЫ
 https://s06.watcher.uz/120/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
-#EXTINF:0,Мир Сериала
-#EXTGRP:СЕРИАЛЫ
-http://93.84.115.174:10181/mir_seriala
 #EXTINF:0,Мир Сериалаᴴᴰ
 #EXTGRP:СЕРИАЛЫ
 http://45.145.32.13:20440/ctc_kids_hd/index.m3u8?token=test
 #EXTINF:0,Русский Романᴴᴰ
 #EXTGRP:СЕРИАЛЫ
 http://31.148.48.15:80/Russkiy_Roman_HD/index.m3u8
-#EXTINF:0,Телекафе
-#EXTGRP:СЕРИАЛЫ
-http://93.84.115.174:10181/telekafe
-#EXTINF:0,Сериал SD
-#EXTGRP:СЕРИАЛЫ
-http://fl1004.bozztv.com/ushba5/tracks-v1a1/mono.m3u8
-#EXTINF:0,НТВ Хит
-#EXTGRP:СЕРИАЛЫ
-http://cdn.kubteltv.workers.dev/?ID=329
-#EXTINF:0,НТВ Балаболᴴᴰ
-#EXTGRP:СЕРИАЛЫ
-https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0,НТВ Сериалы.Балаболᴴᴰ
-#EXTGRP:СЕРИАЛЫ
-https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:0,НТВ Невскийᴴᴰ
-#EXTGRP:СЕРИАЛЫ
-https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0,НТВ Сериалы.Невскийᴴᴰ
-#EXTGRP:СЕРИАЛЫ
-https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:0,НТВ Первый отделᴴᴰ
-#EXTGRP:СЕРИАЛЫ
-http://cdn.iptvcinema.ru/lb1/perviyotdel.m3u8?/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
-#EXTINF:0,НТВ Первый Отделᴴᴰ
-#EXTGRP:СЕРИАЛЫ
-https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0,НТВ Сериалы.Первый отделᴴᴰ
-#EXTGRP:СЕРИАЛЫ
-https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:0,НТВ Пёсᴴᴰ
-#EXTGRP:СЕРИАЛЫ
-https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0,НТВ Сериалы. Пёсᴴᴰ
-#EXTGRP:СЕРИАЛЫ
-https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:0,НТВ Скорая помощьᴴᴰ
-#EXTGRP:СЕРИАЛЫ
-http://cdn.iptvcinema.ru/lb1/skorayapomosh.m3u8?/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
-#EXTINF:0,НТВ Скорая Помощьᴴᴰ
-#EXTGRP:СЕРИАЛЫ
-https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0,НТВ Сериалы.Скорая помощьᴴᴰ
-#EXTGRP:СЕРИАЛЫ
-https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:0,НТВ Шефᴴᴰ
-#EXTGRP:СЕРИАЛЫ
-https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0,НТВ Сериалы.Шефᴴᴰ
-#EXTGRP:СЕРИАЛЫ
-https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:0,НТВ Пять минут тишиныᴴᴰ
-#EXTGRP:СЕРИАЛЫ
-https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0,НТВ Сериалы.Пять минут тишиныᴴᴰ
-#EXTGRP:СЕРИАЛЫ
-https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:0,НТВ Следствие велиᴴᴰ
-#EXTGRP:СЕРИАЛЫ
-https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0,НТВ Сериалы.Следствие велиᴴᴰ
-#EXTGRP:СЕРИАЛЫ
-https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:0,НТВ Ты Супер!ᴴᴰ
-#EXTGRP:СЕРИАЛЫ
-https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:0,НТВ Своя Играᴴᴰ
-#EXTGRP:СЕРИАЛЫ
-https://cdn-dvr.ntv.ru/svoya_igra/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:0,Смотрим 100% Классикаᴴᴰ
-#EXTGRP:СЕРИАЛЫ
-http://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338.m3u8
-#EXTINF:0,Смотрим 100% Мужскоеᴴᴰ
-#EXTGRP:СЕРИАЛЫ
-https://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d/playlist.m3u8
-#EXTINF:0,Смотрим 100% Любовьᴴᴰ
-#EXTGRP:СЕРИАЛЫ
-https://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248/playlist.m3u8
-#EXTINF:0,Смотрим 100% Детскоеᴴᴰ
-#EXTGRP:СЕРИАЛЫ
-https://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab089/playlist.m3u8
-#EXTINF:0,Смотрим 100% Праздникᴴᴰ
-#EXTGRP:СЕРИАЛЫ
-https://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564/playlist.m3u8
-#EXTINF:0,Смотрим 100% Фактыᴴᴰ
-#EXTGRP:СЕРИАЛЫ
-https://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f
-#EXTINF:0,Смотрим Честный детективᴴᴰ
-#EXTGRP:СЕРИАЛЫ
-http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
-#EXTINF:0,Смотрим Кино и сериалы FD
-#EXTGRP:СЕРИАЛЫ
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v3a1/mono.m3u8
-#EXTINF:0,Смотрим Кино и сериалы SD
-#EXTGRP:СЕРИАЛЫ
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
-#EXTINF:0,Новый Русскийᴴᴰ
-#EXTGRP:СЕРИАЛЫ
-https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8
-#EXTINF:0,Детективы КД SD
-#EXTGRP:СЕРИАЛЫ
-https://bl.rutube.ru/livestream/e05401be60a9cc719fa7075b6e77b86d/index.m3u8?s=wbVW8VM26OpdW5kxFYEmSQ&e=2069694293&scheme=https
-
 
 
 #EXTINF:0 tvg-rec="7",История
@@ -1973,9 +1736,6 @@ http://46.32.176.50/AnimalPlanetHD/index.m3u8
 #EXTINF:0,Nat Geo Wildᴴᴰ
 #EXTGRP:ПРИРОДА
 http://46.32.176.50/NatGeoWildHD/index.m3u8
-#EXTINF:0,viju Nature
-#EXTGRP:ПРИРОДА
-http://93.84.115.174:10181/nature
 #EXTINF:0,Аква ТВᴴᴰ
 #EXTGRP:ПРИРОДА
 http://stitch.teletarget.ru/vintera/aquatv/index.m3u8
@@ -1985,9 +1745,6 @@ https://s06.watcher.uz/118/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9
 #EXTINF:0,Лапки Live
 #EXTGRP:ПРИРОДА
 http://45.145.32.13:20440/unikum/index.m3u8?token=test
-#EXTINF:0,Океан
-#EXTGRP:ПРИРОДА
-http://93.84.115.174:10181/oceantv
 #EXTINF:0,Love Natureᴴᴰ
 #EXTGRP:ПРИРОДА
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
@@ -2024,9 +1781,6 @@ https://bl.rutube.ru/livestream/495ab964b755baa2c9fc7481a2e40f7d/index.m3u8?s=us
 #EXTINF:0,Инсайт ТВᴴᴰ
 #EXTGRP:ПУТЕШЕСТВИЯ
 https://s06.watcher.uz/124/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
-#EXTINF:0,Моя Планета
-#EXTGRP:ПУТЕШЕСТВИЯ
-http://93.84.115.174:10181/myplanet
 #EXTINF:0,Моя Планета SD
 #EXTGRP:ПУТЕШЕСТВИЯ
 http://31.148.48.15/Moya_Planeta_HD/index.m3u8
@@ -2087,9 +1841,6 @@ http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
 #EXTINF:0,Investigation Discovery
 #EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
 http://mfe02.cliptv.az/dash/Investigation_Discovery_SD12er34.ism/playlist.mpd
-#EXTINF:0,Galaxy
-#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
-http://93.84.115.174:10181/galaxy
 #EXTINF:0,NANO
 #EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
 http://s1.tv-nano.com/Nano_rec/video.m3u8
@@ -2126,9 +1877,6 @@ http://46.32.176.50/viasatexplorer/index.m3u8
 #EXTINF:0,Viju Explore
 #EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
 http://tinyurl.com/TvZaTak65?id=viasatexp
-#EXTINF:0,viju History
-#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
-http://93.84.115.174:10181/history
 #EXTINF:0,Байкал Универ ТВ SD
 #EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
 http://stream01.bgu.ru:8081/1/1/playlist.m3u8
@@ -2156,9 +1904,6 @@ http://tinyurl.com/TvZaTak06/congresstv/index.m3u8
 #EXTINF:0,Кто есть Кто
 #EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
 http://158.101.222.193:88/georgia_play.php?id=ktoestkto
-#EXTINF:0,Наука
-#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
-http://93.84.115.174:10181/nauka
 #EXTINF:0,НАУКАᴴᴰ
 #EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
 http://31.148.48.15:80/Nauka_2.0/index.m3u8
@@ -2222,18 +1967,9 @@ http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
 #EXTINF:0,FoodTimeᴴᴰ
 #EXTGRP:ХОББИ И УВЛЕЧЕНИЯ
 http://31148.rafail1982.uz/Eda_Premium_HD/index.m3u8
-#EXTINF:0,Авто Плюс
-#EXTGRP:ХОББИ И УВЛЕЧЕНИЯ
-http://93.84.115.174:10181/avtoplus
-#EXTINF:0,Бобёр
-#EXTGRP:ХОББИ И УВЛЕЧЕНИЯ
-http://93.84.115.174:10181/bober
 #EXTINF:0,Вкус
 #EXTGRP:ХОББИ И УВЛЕЧЕНИЯ
 http://89.218.32.179:18000/play/a027
-#EXTINF:0,Дикий
-#EXTGRP:ХОББИ И УВЛЕЧЕНИЯ
-http://93.84.115.174:10181/diki
 #EXTINF:0,Доктор
 #EXTGRP:ХОББИ И УВЛЕЧЕНИЯ
 https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8
@@ -2243,9 +1979,6 @@ http://31.148.48.15/Doktor/index.m3u8?token=test
 #EXTINF:0,Докторᴴᴰ
 #EXTGRP:ХОББИ И УВЛЕЧЕНИЯ
 http://31.148.48.15/Doktor/index.m3u8
-#EXTINF:0,Драйв
-#EXTGRP:ХОББИ И УВЛЕЧЕНИЯ
-http://93.84.115.174:10181/drive
 #EXTINF:0,Живи!ᴴᴰ
 #EXTGRP:ХОББИ И УВЛЕЧЕНИЯ
 http://31.148.48.15/Zhivi/index.m3u8
@@ -2264,15 +1997,9 @@ https://flussonic.mkpnet.ru/tv-92fa9d648cab0f3f/video.m3u8?token=test
 #EXTINF:0,Здоровое ТВ
 #EXTGRP:ХОББИ И УВЛЕЧЕНИЯ
 https://s04.watcher.uz/114/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
-#EXTINF:0,Кухня
-#EXTGRP:ХОББИ И УВЛЕЧЕНИЯ
-http://93.84.115.174:10181/kuhnia
 #EXTINF:0,Мужской
 #EXTGRP:ХОББИ И УВЛЕЧЕНИЯ
 http://193.25.8.59:8000/muzhskoy
-#EXTINF:0,Оружие
-#EXTGRP:ХОББИ И УВЛЕЧЕНИЯ
-http://93.84.115.174:10181/orujie
 #EXTINF:0,Охота и рыбалка
 #EXTGRP:ХОББИ И УВЛЕЧЕНИЯ
 https://s05.watcher.uz/30/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
@@ -2301,9 +2028,6 @@ http://31.210.208.171:8080/match_igra/index.m3u8?token=+W2MSER
 #EXTINF:0,МАТЧ! ИГРА HD
 #EXTGRP:МАТЧ
 http://45.145.32.13:20440/match_igra_hd/index.m3u8?token=test
-#EXTINF:0,Матч! Планета
-#EXTGRP:МАТЧ
-http://93.84.115.174:10181/matchplaneta
 #EXTINF:0,МАТЧ! ПЛАНЕТА
 #EXTGRP:МАТЧ
 https://s07.watcher.uz/175/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
@@ -2386,18 +2110,12 @@ https://s04.watcher.uz/20/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.
 #EXTINF:0,KHL SD
 #EXTGRP:СПОРТ
 http://31.148.48.15:80/KHL_TV/index.m3u8?token=test
-#EXTINF:0,KHLᴴᴰ
-#EXTGRP:СПОРТ
-http://85.88.175.48:2020/udp/239.4.10.80:2020
 #EXTINF:0,KHL Prime SD
 #EXTGRP:СПОРТ
 http://31.148.48.15/KHL_TV_HD/index.m3u8
 #EXTINF:0,KHL Prime ᴴᴰ
 #EXTGRP:СПОРТ
 http://45.145.32.13:20440/khl_prime/index.m3u8?token=test
-#EXTINF:0,KHL Prime HD
-#EXTGRP:СПОРТ
-http://93.84.115.174:10181/khl
 #EXTINF:0,MMA-TV
 #EXTGRP:СПОРТ
 https://s04.watcher.uz/19/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
@@ -2413,9 +2131,6 @@ https://tinyurl.com/TvZaTak05/1274/tracks-v1a1/mono.m3u8
 #EXTINF:0,Vital Drive SD
 #EXTGRP:СПОРТ
 http://autopilot.catcast.tv/content/37909/index.m3u8
-#EXTINF:0,Бокс ТВ
-#EXTGRP:СПОРТ
-http://93.84.115.174:10181/box_tv
 #EXTINF:0,Бокс ТВ SD
 #EXTGRP:СПОРТ
 http://31.148.48.15:80/Boks_TV/index.m3u8
@@ -2458,9 +2173,6 @@ https://bl.webcaster.pro/media/playlist/free_fe8dc1b768a84b8b0333db826471f17e_hd
 #EXTINF:0,ТВ Спортᴴᴰ
 #EXTGRP:СПОРТ
 http://tinyurl.com/TvZaTak06/sportivny/index.m3u8
-#EXTINF:0,Футбол
-#EXTGRP:СПОРТ
-http://93.84.115.174:10181/futbol
 #EXTINF:0,Футбол SD
 #EXTGRP:СПОРТ
 http://31148.rafail1982.uz/Futbol_HD/index.m3u8
@@ -2646,9 +2358,6 @@ https://tinyurl.com/TvZaTak05/1405/tracks-v1a1/mono.m3u8
 #EXTINF:0,Живи!
 #EXTGRP:𝕋𝕧ℤ𝕒𝕋𝕒𝕜
 https://watcher.uz:443/110/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
-#EXTINF:0,Домашние Животные
-#EXTGRP:𝕋𝕧ℤ𝕒𝕋𝕒𝕜
-http://93.84.115.174:10181/domjivot
 #EXTINF:0,TV1000 HD
 #EXTGRP:𝕋𝕧ℤ𝕒𝕋𝕒𝕜
 https://tinyurl.com/TvZaTak05/1058/tracks-v1a1/mono.m3u8
@@ -2695,18 +2404,12 @@ https://stream8.cinerama.uz/1411/tracks-v1a1/mono.m3u8
 #EXTINF:0,В Мире Животных
 #EXTGRP:Turon Media
 https://stream8.cinerama.uz/1404/tracks-v1a1/mono.m3u8
-#EXTINF:0,Зоопарк
-#EXTGRP:Turon Media
-http://93.84.115.174:10181/zoo
 #EXTINF:0,Живи Активно HD
 #EXTGRP:Turon Media
 https://s06.watcher.uz/117/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
 #EXTINF:0,Живи
 #EXTGRP:Turon Media
 https://stream8.cinerama.uz/1419/tracks-v1a1/mono.m3u8
-#EXTINF:0,Арсенал HD
-#EXTGRP:Turon Media
-http://93.84.115.174:10181/arsenal_hd
 #EXTINF:0,NHK World Japan
 #EXTGRP:Turon Media
 https://stream8.cinerama.uz/1449/tracks-v1a1/mono.m3u8
@@ -2731,9 +2434,6 @@ https://stream8.cinerama.uz/1251/tracks-v1a1/mono.m3u8
 #EXTINF:0,365 Дней HD
 #EXTGRP:Turon Media
 https://stream8.cinerama.uz/1242/tracks-v1a1/mono.m3u8
-#EXTINF:0,Duck TV
-#EXTGRP:Turon Media
-http://93.84.115.174:10181/duck_tv
 #EXTINF:0,В Гостях У Сказки
 #EXTGRP:Turon Media
 https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8
@@ -2849,58 +2549,6 @@ https://s05.watcher.uz/186/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9
 #EXTINF:0,Дикий Охота и Рыбалка
 #EXTGRP:Sarkor TV
 https://s05.watcher.uz/185/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
-
-#EXTINF:0,STB HD
-#EXTGRP:9384115
-http://93.84.115.174:10181/stvhd
-#EXTINF:0,ОНТ HD
-#EXTGRP:9384115
-http://93.84.115.174:10181/ont_hd
-#EXTINF:0,Муви ТВ
-#EXTGRP:9384115
-http://93.84.115.174:10181/muvitv
-#EXTINF:0,Воен ТВ
-#EXTGRP:9384115
-http://93.84.115.174:10181/voentvsd
-#EXTINF:0,viju+Premiere HD
-#EXTGRP:9384115
-http://93.84.115.174:10181/vippremiere
-#EXTINF:0,Сinema
-#EXTGRP:9384115
-http://93.84.115.174:10181/cinema
-#EXTINF:0,Dizi HD
-#EXTGRP:9384115
-http://93.84.115.174:10181/dizi
-#EXTINF:0,TV 21M
-#EXTGRP:9384115
-http://93.84.115.174:10181/tv21
-#EXTINF:0,Феникс Плюс Кино
-#EXTGRP:9384115
-http://93.84.115.174:10181/feniks+kino
-#EXTINF:0,Классика кино SD
-#EXTGRP:9384115
-http://93.84.115.174:10181/klassikakino
-#EXTINF:0,КВН
-#EXTGRP:9384115
-http://93.84.115.174:10181/kvn
-#EXTINF:0,Европа Плюс
-#EXTGRP:9384115
-http://93.84.115.174:10181/europaplus
-#EXTINF:0,RU.TV by
-#EXTGRP:9384115
-http://93.84.115.174:10181/rutv
-#EXTINF:0,Ля Минор
-#EXTGRP:9384115
-http://93.84.115.174:10181/laminor
-#EXTINF:0,Еда HD
-#EXTGRP:9384115
-http://93.84.115.174:10181/edahd
-#EXTINF:0,Animal Planet HD
-#EXTGRP:9384115
-http://93.84.115.174:10181/animalplanethd
-#EXTINF:0,Viju+ Sport
-#EXTGRP:9384115
-http://93.84.115.174:10181/viasatsport
 
 #EXTINF:0,ПЕРВЫЙ КАНАЛ
 #EXTGRP:RU 4
@@ -6038,9 +5686,6 @@ https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/185/416.mp4
 #EXTINF:0,Борис Щербаков. Вечный жених
 #EXTGRP:Советские артисты
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/161/119.mp4
-#EXTINF:0,Вадим Спиридонов. Я уйду в 47
-#EXTGRP:Советские артисты
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/126/656.mp4
 #EXTINF:0,Валентин Зубков. Поцелуй над пропастью
 #EXTGRP:Советские артисты
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/092/504.mp4
@@ -6707,9 +6352,6 @@ https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/100/748.mp4
 #EXTINF:0,Юрий Андропов
 #EXTGRP:Прощание
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/193/645.mp4
-#EXTINF:0,Армен Джигарханян
-#EXTGRP:Прощание
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/179/640.mp4
 #EXTINF:0,Николай Рыбников и Алла Ларионова
 #EXTGRP:Прощание
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/179/332.mp4
@@ -6956,8 +6598,6 @@ https://edge-b-01.ctc.ru/vod/hls/fta/GqiNKLuFa9V0nLpINCQ-jA/4b7da84c49ebe5a9fc13
 https://edge-b-04.ctc.ru/vod/hls/fta/qu_J1Yf33ZLpe3_BWdB8Jg/5f138c6572982e65302a87aa87fea381-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
 #EXTINF:-1  group-title="Уральские Пельмени 😂" ,Бубновый тюз
 https://edge-b-01.ctc.ru/vod/hls/fta/gPz98lSMcou9J7R4CUdJ1A/d67e7f8b13532e905f76bf31007aa627-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
-#EXTINF:-1  group-title="Уральские Пельмени 😂" ,Азбука уральских пельменей И
-https://edge-b-04.ctc.ru/vod/hls/fta/ts56VwuqrXVQJgX3fJdzHA/43ba141c8b12c7eb0fa92d9e74699823-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
 #EXTINF:-1  group-title="Уральские Пельмени 😂" ,Азбука уральских пельменей К
 https://edge-b-01.ctc.ru/vod/hls/fta/B9Hn2N9qlEejGA2iY3lP3Q/906c9a3336057553d8cae2d5c420eccb-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
 #EXTINF:-1  group-title="Уральские Пельмени 😂" ,Лето это маленькая жесть
@@ -6996,8 +6636,6 @@ https://edge-b-02.ctc.ru/vod/hls/fta/tV37MBdTbuwz8pT5Ab60CQ/c3add792b42b2ba98040
 https://edge-b-02.ctc.ru/vod/hls/fta/KD-IafgOQSHgsRxOY5fUyw/d05ed3c3ab1adbed070c3fd1bd2ff3e4-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
 #EXTINF:-1  group-title="Уральские Пельмени 😂" ,Спорная помощь
 https://edge-b-02.ctc.ru/vod/hls/fta/7n3j7JhZSSXBSXoHRPKa8A/96ac92b0033a86769de79f371124027d-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
-#EXTINF:-1  group-title="Уральские Пельмени 😂" ,В семье не без народа
-https://edge-b-04.ctc.ru/vod/hls/fta/QUtVirQODM8I_iDhVQ_vPQ/719c1397679adc50d274bf1fea924c1c-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
 #EXTINF:-1  group-title="Уральские Пельмени 😂" ,Азбука уральских пельменей Ц
 https://edge-b-04.ctc.ru/vod/hls/fta/1RSKtaMn1aoRKRDB-5_m7w/1a6859bf76e35b3cd5b27a9c5552ad63-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
 #EXTINF:-1  group-title="Уральские Пельмени 😂" ,Азбука уральских пельменей Ч
