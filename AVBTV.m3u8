@@ -109,7 +109,7 @@ https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8
 #EXTGRP:👁‍Новостные
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/playlist.m3u8
 #EXTINF:-1,RTVi [СМИ иноагент]
-#EXTGRP:👁‍Новостные
+#EXTGRP:👁‍🚫
 http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/2086/index.m3u8
 #EXTINF:-1,EuroNews [СМИ иноагент]
 #EXTGRP:👁‍Новостные
@@ -261,7 +261,7 @@ http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
 #EXTGRP:🤣Развлекательные
 https://stream8.cinerama.uz/1249/tracks-v1a1/mono.m3u8
 #EXTINF:-1,КВН ТВ
-#EXTGRP:🤣Развлекательные
+#EXTGRP:🤣🚫
 http://31.148.48.15/KVN_TV/index.m3u8
 
 #EXTINF:-1,67
@@ -407,19 +407,10 @@ https://tinyurl.com/aleks-u-romki-47/18136/index.m3u8
 #EXTINF:-1,NikNik-TV
 #EXTGRP:🧒Детские
 https://hostrec.ru/live/wic2AtEFCLwsZcUkAgtZcjlYgjc.m3u8
-#EXTINF:0,Cartoon Network
-#EXTGRP:🧒Детские
-http://176.118.197.101/Cartoon_Network/index.m3u8
-#EXTINF:0,Nick Jr
-#EXTGRP:🧒Детские
-http://46.32.176.50/nickelodeonjunior/index.m3u8
 #EXTINF:0,Детский Мир
 #EXTGRP:🧒Детские
 http://46.32.176.50/detskiymir/index.m3u8
 
-#EXTINF:-1,80s
-#EXTGRP:🎦📺Фильмы 🔹 Сериалы
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/13002/index.m3u8
 #EXTINF:-1,ATV CineMan
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 http://185.57.68.33:80/255/index.m3u8
@@ -554,8 +545,6 @@ https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1,НТВ Сериалы Пять минут тишины
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" group-title="🎦📺Фильмы 🔹 Сериалы" ,Народ Всё Видит
-http://89.218.32.179:18000/play/a04f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" group-title="🎦📺Фильмы 🔹 Сериалы" ,ONE
 https://re.moonpaw.space:8443/memfs/66bc2ea4-349f-4cae-99ae-02ce4409295e_output_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" group-title="🎦📺Фильмы 🔹 Сериалы" ,CherTV Заруба + KinoMix
@@ -564,15 +553,12 @@ https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-centra
 https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.QK20f3fCHAGw.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" group-title="🎦📺Фильмы 🔹 Сериалы" ,Провинция
 https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.rmtRK2FPYHmD.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" group-title="🎦📺Фильмы 🔹 Сериалы" ,Кино и Жизнь
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=8zEp8CoHlUujIbs_ac3I5g&e=2070281160&scheme=https
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" group-title="🎦📺Фильмы 🔹 Сериалы" ,RANDOM BEST FILMS
 https://tinyurl.com/aleks-u-romki-40/11043/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" group-title="🎦📺Фильмы 🔹 Сериалы" ,TV12 GUDAUTA
 http://185.221.213.254:8080/Mafia2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" group-title="🎦📺Фильмы 🔹 Сериалы" ,Манас ТВ
-http://212.42.111.152:8080/hls/manas.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" group-title="🎦📺Фильмы 🔹 Сериалы" ,NUR TV
 http://146.120.213.172:8086/0.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" group-title="🎦📺Фильмы 🔹 Сериалы" ,Arpinet
@@ -593,33 +579,10 @@ https://stitch.teletarget.ru/vintera/sovietmovie/17696847156167dd9935fac28723490
 https://bl.rutube.ru/livestream/e05401be60a9cc719fa7075b6e77b86d/index.m3u8?s=wbVW8VM26OpdW5kxFYEmSQ&e=2069694293&scheme=https
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" group-title="🎦📺Фильмы 🔹 Сериалы" , LIVETV 
 http://tv.mobyservice.ru/livetv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" group-title="🎦📺Фильмы 🔹 Сериалы" ,Кинолаффка
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=2ANj0RhjI1hrAkz7Jd83ZQ&e=2069068452&scheme=https
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" group-title="🎦📺Фильмы 🔹 Сериалы" ,Киножелезо
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=gMBYxSllxsSYVvLG71o4eg&e=2066519765&scheme=https
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" group-title="🎦📺Фильмы 🔹 Сериалы" , Тайна ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=k9bDH53DPY73h1vlbcNhzQ&e=2071743709&scheme=https
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" group-title="🎦📺Фильмы 🔹 Сериалы" ,Киносезон
 http://stitch.teletarget.ru/vintera/movieseason/index.m3u8
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.ibb.co/Xr6Ngptx/image-32.png" group-title="🎦📺Фильмы 🔹 Сериалы", Твоё ТВ HD
-http://tvoetv.space:8080/tvoetv/index.m3u8
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.ibb.co/gFHCVrTw/image-33.png" group-title="🎦📺Фильмы 🔹 Сериалы",Твоё ТВ HD Юмор
-http://tvoetv.space:8080/tvoetv_humor/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4nV26ShC/image-4.png" tvg-id="no_epg_cinema" group-title="🎦📺Фильмы 🔹 Сериалы", Смотрим Праздник
 http://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4nV26ShC/image-4.png" tvg-id="no_epg_cinema" group-title="🎦📺Фильмы 🔹 Сериалы", Смотрим Мужское
-http://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4nV26ShC/image-4.png" tvg-id="no_epg_cinema" group-title="🎦📺Фильмы 🔹 Сериалы", Смотрим Факты
-http://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4nV26ShC/image-4.png" tvg-id="no_epg_cinema" group-title="🎦📺Фильмы 🔹 Сериалы", Смотрим Детское
-http://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab089.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4nV26ShC/image-4.png" tvg-id="no_epg_cinema" group-title="🎦📺Фильмы 🔹 Сериалы", Смотрим Классика
-http://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4nV26ShC/image-4.png" tvg-id="no_epg_cinema" group-title="🎦📺Фильмы 🔹 Сериалы", Смотрим Любовь
-http://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248.m3u8
 #EXTINF:-0 tvg-id="no_epg_cinema" group-title="🎦📺Фильмы 🔹 Сериалы" tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png",СТРК HD
 http://sochinskayatrk.ru/hdtv/hls/CTPK_400/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" group-title="🎦📺Фильмы 🔹 Сериалы" ,Патриот
@@ -666,18 +629,10 @@ https://cityeden.catcast.tv/content/46421/index.m3u8
 https://cityeden.catcast.tv/content/47515/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SXsV7qpb/image-26.png" tvg-id="no_epg_cinema" group-title="🎦📺Фильмы 🔹 Сериалы", Сити Эдем - МедЗдрав
 https://cityeden.catcast.tv/content/47519/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pBZQdVdM/image-30.png" tvg-id="" group-title="🎦📺Фильмы 🔹 Сериалы", Шеф
-https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7tSd2XYf/image-31.png" tvg-id="" group-title="🎦📺Фильмы 🔹 Сериалы", Первый Отдел
-https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Mxv7fjsN/image-32.png" tvg-id="" group-title="🎦📺Фильмы 🔹 Сериалы", Невский
-https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3y8rPhPS/image-17.png" tvg-id="" group-title="🎦📺Фильмы 🔹 Сериалы",312 Сериал
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3y8rPhPS/image-17.png" tvg-id="" group-title="🎦📺Фильмы 🔹 Сериалы",312 Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ks1NNrWY/image-11.png" tvg-id="" group-title="🎦📺Фильмы 🔹 Сериалы", Детское Кино International
-https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3ycBZqx3/image-14.png" tvg-id="" group-title="🎦📺Фильмы 🔹 Сериалы", PRO100 TV
 http://sirius.greenhosting.ru/Pro100tvRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title="🎦📺Фильмы 🔹 Сериалы" , IPTVPLAY Промо
@@ -699,11 +654,6 @@ http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 http://stitch.teletarget.ru/vintera/terra/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" group-title="🎦📺Фильмы 🔹 Сериалы" ,Жизнь Глазова
 http://yellow.garant.tv/glazov24/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" group-title="🎦📺Фильмы 🔹 Сериалы" , Ключайка
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=8hKIWF5Ng40B0-kW7qvWBA&e=2070122249&scheme=https
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" group-title="🎦📺Фильмы 🔹 Сериалы" ,Том и Джерри
-https://rpn3.bozztv.com/dvrfl07/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" group-title="🎦📺Фильмы 🔹 Сериалы" , 15+ Animation
 https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" group-title="🎦📺Фильмы 🔹 Сериалы" ,Big Bug Bunny
@@ -922,8 +872,9 @@ https://kinowalk.hopto.org/svamix_live
 https://kinowalk.hopto.org/strannik1177_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",Кинохунос 🎦📺-🔴🟡🟢
 https://kinowalk.hopto.org/kinokunos_live
-#EXTINF:-1  group-title="🚫 Kinowalk TV",Дикарка HD 🎦-🔴🟢🟡
-https://kinowalk.hopto.org/dikarka_liv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rf5ChNbx/image-9.png" tvg-id="" group-title="🚫 Kinowalk TV", Дикарка 🎦-🔴🟢🟡
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://kinowalk.hopto.org/dikarka_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",SеVаNz 🎦📺-🔴🟢🟡
 https://kinowalk.hopto.org/sevanz_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",Егор Егорыч 📺-🔴🟢🟡
@@ -1020,9 +971,7 @@ https://kinowalk.hopto.org/prizrak-oz_live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://kinowalk.hopto.org/films_serials_24_7_live/_live
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rf5ChNbx/image-9.png" tvg-id="" group-title="🚫 Kinowalk TV", Дикарка
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://kinowalk.hopto.org/dikarka_live
+
 #EXTINF:-1  tvg-logo="https://images.live.vkvideo.ru/user/19829671/avatar?change_time=1734328186&croped=1&mh=140&mw=140" group-title="🚫 Kinowalk TV",wihail 🎦-🟡
 https://kinowalk.hopto.org/wihail_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",Ёжик в тумане FHD 🧒-🟡
