@@ -1,4 +1,4 @@
-#EXTM3U
+0#EXTM3U
 
 #EXTINF:-1,Первый канал
 #EXTGRP:🇷🇺Федеральные
@@ -109,7 +109,7 @@ https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8
 #EXTGRP:👁‍Новостные
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/playlist.m3u8
 #EXTINF:-1,RTVi [СМИ иноагент]
-#EXTGRP:👁‍🚫
+#EXTGRP:👁‍Новостные
 http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/2086/index.m3u8
 #EXTINF:-1,EuroNews [СМИ иноагент]
 #EXTGRP:👁‍Новостные
@@ -260,9 +260,7 @@ http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Сарафан
 #EXTGRP:🤣Развлекательные
 https://stream8.cinerama.uz/1249/tracks-v1a1/mono.m3u8
-#EXTINF:-1,КВН ТВ
-#EXTGRP:🤣🚫
-http://31.148.48.15/KVN_TV/index.m3u8
+
 
 #EXTINF:-1,67
 #EXTGRP:🎶Музыкальные
