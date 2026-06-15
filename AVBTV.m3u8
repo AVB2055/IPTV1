@@ -396,15 +396,6 @@ http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
 http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🧒Детские",Пингвин Лоло 
 http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
-#EXTINF:0,Советские Мультфильмы
-#EXTGRP:🧒Детские
-https://tinyurl.com/aleks-u-romki-47/18135/index.m3u8
-#EXTINF:0,Смешарики
-#EXTGRP:🧒Детские
-https://tinyurl.com/aleks-u-romki-47/18136/index.m3u8
-#EXTINF:-1,NikNik-TV
-#EXTGRP:🧒Детские
-https://hostrec.ru/live/wic2AtEFCLwsZcUkAgtZcjlYgjc.m3u8
 #EXTINF:0,Детский Мир
 #EXTGRP:🧒Детские
 http://46.32.176.50/detskiymir/index.m3u8
@@ -545,10 +536,6 @@ https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" group-title="🎦📺Фильмы 🔹 Сериалы" ,ONE
 https://re.moonpaw.space:8443/memfs/66bc2ea4-349f-4cae-99ae-02ce4409295e_output_0.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" group-title="🎦📺Фильмы 🔹 Сериалы" ,CherTV Заруба + KinoMix
-https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.kOLvChA3aUIE.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zHrPSQ9v/image-15.png" group-title="🎦📺Фильмы 🔹 Сериалы" ,KinoMix
-https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.QK20f3fCHAGw.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" group-title="🎦📺Фильмы 🔹 Сериалы" ,Провинция
 https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.rmtRK2FPYHmD.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" group-title="🎦📺Фильмы 🔹 Сериалы" ,Кино и Жизнь
@@ -595,38 +582,6 @@ http://vod.tuva.ru/rusroman/index.m3u8
 http://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:-0 tvg-id="no_epg_cinema" group-title="🎦📺Фильмы 🔹 Сериалы" tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png",Еврокино
 http://vod.tuva.ru/eurokino/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/60nhtkx6/image-4.png" tvg-id="cityedem-kinoazia" group-title="🎦📺Фильмы 🔹 Сериалы", Сити Эдем - КиноАзия
-https://cityeden.catcast.tv/content/34393/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S7nxTYbg/image-9.png" tvg-id="no_epg_cinema" group-title="🎦📺Фильмы 🔹 Сериалы", Сити Эдем - КиноАрт
-https://cityeden.catcast.tv/content/38398/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nq5vyFrh/image-11.png" tvg-id="no_epg_cinema" group-title="🎦📺Фильмы 🔹 Сериалы", Сити Эдем - КиноДетектив
-https://cityeden.catcast.tv/content/41327/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CKnJRBd0/image-12.png" tvg-id="no_epg_cinema" group-title="🎦📺Фильмы 🔹 Сериалы", Сити Эдем - КиноДок
-https://cityeden.catcast.tv/content/38354/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GQKpsxmC/image-14.png" tvg-id="no_epg_cinema" group-title="🎦📺Фильмы 🔹 Сериалы", Сити Эдем - КиноДрама
-https://cityeden.catcast.tv/content/45269/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qMrRd04Y/image-15.png" tvg-id="cityedem-kinoklas" group-title="🎦📺Фильмы 🔹 Сериалы", Сити Эдем - КиноКлассика
-https://cityeden.catcast.tv/content/34185/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WNMR4pxD/image-16.png" tvg-id="no_epg_cinema" group-title="🎦📺Фильмы 🔹 Сериалы", Сити Эдем - КиноКомедия
-https://cityeden.catcast.tv/content/41331/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxqVmt9B/image-17.png" tvg-id="cityedem-kinomist" group-title="🎦📺Фильмы 🔹 Сериалы", Сити Эдем - КиноМистика
-https://cityeden.catcast.tv/content/40783/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XxFPCHT6/image-18.png" tvg-id="no_epg_cinema" group-title="🎦📺Фильмы 🔹 Сериалы", Сити Эдем - КиноФантастика
-https://cityeden.catcast.tv/content/45268/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Zp0rStg2/image-19.png" tvg-id="cityedem-kinoact" group-title="🎦📺Фильмы 🔹 Сериалы", Сити Эдем - КиноЭкшен
-https://cityeden.catcast.tv/content/41333/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R4YPstZF/image-20.png" tvg-id="cityedem-telenov" group-title="🎦📺Фильмы 🔹 Сериалы", Сити Эдем - Теленовелла
-https://cityeden.catcast.tv/content/46209/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hnbLNtF/image-21.png" tvg-id="no_epg_cinema" group-title="🎦📺Фильмы 🔹 Сериалы", Сити Эдем - Бирма Play
-https://cityeden.catcast.tv/content/34100/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SDGvD0bh/image-22.png" tvg-id="no_epg_cinema" group-title="🎦📺Фильмы 🔹 Сериалы", Сити Эдем - Классическая Музыка
-https://cityeden.catcast.tv/content/47400/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8D2Pnhd1/image-23.png" tvg-id="no_epg_cinema" group-title="🎦📺Фильмы 🔹 Сериалы", Сити Эдем - Сиртаки ТВ
-https://cityeden.catcast.tv/content/46421/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GQy7zrL6/image-24.png" tvg-id="no_epg_cinema" group-title="🎦📺Фильмы 🔹 Сериалы", Сити Эдем - АвтоГид
-https://cityeden.catcast.tv/content/47515/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SXsV7qpb/image-26.png" tvg-id="no_epg_cinema" group-title="🎦📺Фильмы 🔹 Сериалы", Сити Эдем - МедЗдрав
-https://cityeden.catcast.tv/content/47519/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3y8rPhPS/image-17.png" tvg-id="" group-title="🎦📺Фильмы 🔹 Сериалы",312 Сериал
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3y8rPhPS/image-17.png" tvg-id="" group-title="🎦📺Фильмы 🔹 Сериалы",312 Кино
