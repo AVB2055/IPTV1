@@ -255,21 +255,8 @@ http://185.46.16.239:8000/Ani
 http://176.118.197.101/Komediya/mono.m3u8
 #EXTINF:-1  group-title="💎 Max кино"  tvg-id="domkino" ,Дом Кино
 http://176.118.197.101/Dom_kino/index.m3u8
-
-#EXTINF:-1  group-title="💎 Max кино"  tvg-id="kinouzhas" ,Киноужас
-http://cdn.kubteltv.workers.dev/?ID=200
 #EXTINF:-1  group-title="💎 Max кино"  tvg-id="rodnoe-kino" ,Родное Кино
 http://176.118.197.101/RodnoeKino/index.m3u8
-#EXTINF:-1  group-title="💎 Max кино"  tvg-id="blokbaster" ,Блокбастер
-http://cdn.kubteltv.workers.dev/?ID=219
-#EXTINF:-1  group-title="💎 Max кино"  tvg-id="kinojam1" ,KinoJam 1
-http://cdn.kubteltv.workers.dev/?ID=297
-#EXTINF:-1  group-title="💎 Max кино"  tvg-id="detectivejam" ,DetectiveJam
-http://cdn.kubteltv.workers.dev/?ID=299
-#EXTINF:-1  group-title="💎 Max кино"  tvg-id="cinema-ru" ,Cinema
-http://cdn.kubteltv.workers.dev/?ID=352
-#EXTINF:-1  group-title="💎 Max кино"  tvg-id="fanhd" ,FAN
-http://cdn.kubteltv.workers.dev/?ID=354
 #EXTINF:-1  group-title="💎 Max кино"  tvg-id="kinopokaz" ,Кинопоказ
 http://176.118.197.101/Kinopokaz/mono.m3u8
 #EXTINF:-1  group-title="💎 Max кино"  tvg-id="lubimoe-kino" ,Любимое Кино
@@ -385,14 +372,8 @@ http://46.32.176.50/russkiydetektiv/index.m3u8
 http://46.32.176.50/russkiyroman/index.m3u8
 #EXTINF:-1 group-title="MaxTV Kino",Иллюзион+
 http://46.32.176.50/illuzion/index.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",Русский Иллюзион
-http://46.32.176.50/russkiyiluzion/index.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",Родное MaxTV Kino
-http://46.32.176.50/rodnoekino/index.m3u8
 #EXTINF:-1 group-title="MaxTV Kino",Время
 http://46.32.176.50/Vremya/index.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",Патриот
-http://185.46.48.18:80/asvtv/index.m3u8
 #EXTINF:-1 group-title="MaxTV Kino",Назад в СССР
 http://kinowalk.hopto.org/backtotheussr_live
 #EXTINF:-1 group-title="MaxTV Kino",Наше новое MaxTV Kino
@@ -479,8 +460,6 @@ http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
 https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=2ANj0RhjI1hrAkz7Jd83ZQ&e=2069068452&scheme=https
 #EXTINF:-1 group-title="MaxTV Kino",Смотрим
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v3a1/mono.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",Cinema
-http://catchup.videoline.ru/cinema/index.m3u8
 #EXTINF:-1 group-title="MaxTV Kino",MaxTV Kino6
 http://185.57.68.33:80/255/playlist.m3u8
 #EXTINF:-1 group-title="MaxTV Kino",MaxTV Kino 1 International
@@ -493,14 +472,10 @@ https://v2.catcast.tv/content/38720/index.m3u8
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
 #EXTINF:-1 group-title="MaxTV Kino",Вестник Надыма
 https://0werof7ib0p.a.trbcdn.net/livemaster/6r10qa9k6d_trknadym.sdp/playlist.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",KINO зал
-https://rpn3.bozztv.com/dvrfl07/ushba64/index.m3u8
 #EXTINF:-1 group-title="MaxTV Kino",Könül TV
 http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
 #EXTINF:-1 group-title="MaxTV Kino",Live TV
 https://tv.mobyservice.ru/livetv/index.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",Cinema
-http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="MaxTV Kino",Alpha Moretime
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:-1 group-title="MaxTV Kino",Про100 ТВ
@@ -511,32 +486,6 @@ https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
 #EXTINF:-1 group-title="MaxTV Kino",MaxTV KinoСезон
 https://stitch.teletarget.ru/vintera/movieseason/1764950731551101ef187a38512cd3d3db48c1eca37527e836ab81636ac589b9/lvl1.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",Rvision Movies
-https://fl1003.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",Rvision MaxTV Kinoпанорама
-https://fl1003.bozztv.com/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",FilmON
-https://stream.ushba.tv/akamaiushba/ushba64/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",FilmOFF
-https://stream.ushba.tv/akamaiushba/ushba65/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",Logovo Films
-https://stream.ushba.tv/akamaiushba/ushba-films-a/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",Film Visit
-https://fl1003.bozztv.com/ushba-films-l/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",Cinemator
-https://fl1003.bozztv.com/ushba-films-p/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",SSAFilm
-https://fl1003.bozztv.com/ushba-films-c/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",Popcorn Theatre
-https://stream.ushba.tv/akamaiushba/ushba-films-uv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",K1HO
-https://live20.bozztv.com/giatvplayout7/ushba100/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",UniMed
-https://live20.bozztv.com/giatvplayout7/ushba101/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",KINOSTREAM
-https://live20.bozztv.com/giatvplayout7/ushba102/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",Сов.Ком
-https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-z/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="MaxTV Kino",ЗОВ ТВ
 https://live20.bozztv.com/giatv/giatv-tvzovlivestream/tvzovlivestream/chunks.m3u8
 #EXTINF:-1 group-title="MaxTV Kino",MaxTV Kinoзал
@@ -1377,55 +1326,15 @@ https://live20.bozztv.com/akamaissh101/ssh101/scripachmovie/playlist.m3u8
 #EXTINF:0,СТРК
 #EXTGRP:КиноStream
 http://sochinskayatrk.ru/hdtv/hls/CTPK_400/playlist.m3u8
-#EXTINF:0,Lenta Kino
-#EXTGRP:КиноStream
-http://tinyurl.com/TvZaTak20/ushba-films-w/tracks-v1a1/mono.m3u8
 #EXTINF:0,Киножелезоᴴᴰ
 #EXTGRP:КиноStream
 https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=mPZ2z97b3j24PKD8bwFUzA&e=2069068451&scheme=https
-#EXTINF:0,MB TV
-#EXTGRP:КиноStream
-https://dvrfl07.bozztv.com/ushba-films-yz/tracks-v1a1/mono.m3u8
 #EXTINF:0,ЗОВ ТВ Red SD
 #EXTGRP:КиноStream
 https://live20.bozztv.com/giatv/giatv-tvzov%20RED/tvzov%20RED/chunks.m3u8
-#EXTINF:0,RIVISION TV SD
-#EXTGRP:КиноStream
-https://dvrfl07.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0,KinoFilm
-#EXTGRP:КиноStream
-http://tinyurl.com/%74%76%7A%61%74%61%6B20/ushba-films-m/tracks-v1a1/mono.m3u8
-#EXTINF:0,KinoMag
-#EXTGRP:КиноStream
-http://tinyurl.com/%74%76%7A%61%74%61%6B20/ushba-films-t/tracks-v1a1/mono.m3u8
-#EXTINF:0,Мои сериалы SD
-#EXTGRP:КиноStream
-https://live20.bozztv.com/giatvplayout7/ushba5/index.m3u8
-#EXTINF:0,Afreeka
-#EXTGRP:КиноStream
-https://rpn3.bozztv.com/dvrfl07/ushba23/tracks-v1a1/mono.m3u8
-#EXTINF:0,КИНОЗАЛ 1 SD
-#EXTGRP:КиноStream
-https://rpn3.bozztv.com/dvrfl07/ushba24/tracks-v1a1/mono.m3u8
-#EXTINF:0,LAV-KINO SD
-#EXTGRP:КиноStream
-https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кинозалы 4 SD
-#EXTGRP:КиноStream
-http://162.212.179.43/ushba26/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кинозалы 10
-#EXTGRP:КиноStream
-http://tinyurl.com/%74%76%7A%61%74%61%6B20/ushba-films-g/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кинозалы 19
-#EXTGRP:КиноStream
-http://tinyurl.com/%74%76%7A%61%74%61%6B20/ushba-films-qr/tracks-v1a1/mono.m3u8
-#EXTINF:0,КлассикаКино
-#EXTGRP:КиноStream
-https://dvrfl07.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
 #EXTINF:0,MKNEWS24.RU SD
 #EXTGRP:КиноStream
 https://stream.mknews24.ru/hls/stream.m3u8?DVR
-
 #EXTINF:0,.redᴴᴰ
 #EXTGRP:СЕРИАЛЫ
 http://193.25.8.59:8000/set
@@ -1453,9 +1362,6 @@ https://bl.rutube.ru/livestream/ff5c11c9a51750f5d33427762abc315c/index.m3u8?s=IB
 #EXTINF:0,Сапфир SD
 #EXTGRP:СЕРИАЛЫ
 http://31.148.48.15/Sapfir_HD/index.m3u8
-#EXTINF:0,Epic Media
-#EXTGRP:СЕРИАЛЫ
-http://fl1004.bozztv.com/ushba77/tracks-v1a1/mono.m3u8
 #EXTINF:0,Продвижение FD
 #EXTGRP:СЕРИАЛЫ
 http://dmi3y-tv6.ru/hls/CH_PRODVIZHENIE.m3u8
@@ -1659,9 +1565,6 @@ http://46.32.176.50/animalplanet/index.m3u8
 #EXTINF:0,Epic
 #EXTGRP:ПУТЕШЕСТВИЯ
 http://193.25.8.59:8000/dtx
-#EXTINF:0,National Geographicᴴᴰ
-#EXTGRP:ПУТЕШЕСТВИЯ
-http://46.32.176.50/NationalGeographicHD/index.m3u8
 #EXTINF:0,RTG SD
 #EXTGRP:ПУТЕШЕСТВИЯ
 http://31.148.48.15:80/RTG_HD/index.m3u8
@@ -1782,9 +1685,6 @@ http://46.32.176.50/viasatexplorer/index.m3u8
 #EXTINF:0,Viju Explore
 #EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
 http://tinyurl.com/TvZaTak65?id=viasatexp
-#EXTINF:0,ГОРДОСТЬ РОССИИ SD
-#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
-http://162.212.179.43/ushba29/tracks-v1a1/mono.m3u8
 #EXTINF:0,Звезда Плюс
 #EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
 http://45.145.32.13:20440/zvezdaplus/index.m3u8?token=test
@@ -1842,9 +1742,6 @@ http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist.m3u8
 #EXTINF:0,ЮУрГУ-ТВ
 #EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
 https://tvrlive.susu.ru/1800k/playlist.m3u8
-#EXTINF:0,Документалка
-#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
-http://162.212.179.43/ushba38/tracks-v1a1/mono.m3u8
 #EXTINF:0,Конгресс ТВ HD
 #EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
 http://live-3.otcnet.ru/congresstv/index.m3u8
@@ -1966,10 +1863,6 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/QVP3XYV8KEF4TL/10016/ind
 #EXTINF:0,Матч ТВ
 #EXTGRP:МАТЧ
 http://tinyurl.com/TvZaTak011/a003
-#EXTINF:0,Матч! Футбол 1
-#EXTGRP:МАТЧ
-http://37.46.49.14:18010/play/a09d/index.m3u8
-
 #EXTINF:0,ASTRAKHAN.RU SPORT
 #EXTGRP:СПОРТ
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/mono.ts.m3u8
@@ -2563,9 +2456,6 @@ https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/230/126.mp4
 #EXTINF:0,Сумасшедший бизнес
 #EXTGRP:Девяностые
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/146/502.mp4
-#EXTINF:0,Золото партии
-#EXTGRP:Девяностые
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/127/262.mp4
 #EXTINF:0,Безработные звёзды
 #EXTGRP:Девяностые
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/227/453.mp4
@@ -6391,12 +6281,8 @@ https://edge-b-02.ctc.ru/vod/hls/fta/sh8zqOwF3Grmhlc5qN25RQ/a2787a048c319cb3399a
 https://edge-b-04.ctc.ru/vod/hls/fta/Gno60CMORkUcOU99Mq6N5A/34fc00b8d9ef407332cd69804e31fdee-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
 #EXTINF:-1  group-title="Уральские Пельмени 😂" ,Елка дети два ствола
 https://edge-b-02.ctc.ru/vod/hls/fta/ABHwjOITqX-1nVKdsxdsPQ/b69ea343421863b0cf3825ba3d1f0bbc-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
-#EXTINF:-1  group-title="Уральские Пельмени 😂" ,Люди икс иэль
-https://edge-b-04.ctc.ru/vod/hls/fta/0s04mOmdfQNEefe_WDe6Lg/1bf859f2b66f823be5027d2a03d15bb1-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
 #EXTINF:-1  group-title="Уральские Пельмени 😂" ,Азбука уральских пельменей Р
 https://edge-b-04.ctc.ru/vod/hls/fta/1J8cRnHnBMIEOIJVL-tq7A/d8e0acbcbc6c58973e9c0548f4eb5ea6-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
-#EXTINF:-1  group-title="Уральские Пельмени 😂" ,Утомленные солярием
-https://edge-b-04.ctc.ru/vod/hls/fta/vu1RVsBFOlAVb2kdaJgfRA/c33e50de4e32f892842d954d106f782f-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
 #EXTINF:-1  group-title="Уральские Пельмени 😂" ,Азбука уральских пельменей У
 https://edge-k-02.ctc.ru/vod/hls/fta/aoGB_6iQRliWTsjP6qEpzg/5af6bdb2bd1d6754e23e097ecf2dfb60-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
 #EXTINF:-1  group-title="Уральские Пельмени 😂" ,Азбука уральских пельменей Ф
@@ -6455,10 +6341,6 @@ https://edge-b-05.ctc.ru/vod/hls/fta/AGuX_6izEXRXlCriLZPx9w/2fd678e34a156921c44a
 https://edge-b-05.ctc.ru/vod/hls/fta/2_QlSe09aeTM4jevPSMj_g/2373a341fd2c32b0a4e297b38cfaa589-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
 #EXTINF:-1  group-title="Уральские Пельмени 😂" ,Прям как дети
 https://edge-b-05.ctc.ru/vod/hls/fta/Tpn6WoAmNLZ00TxZAU11FQ/63c65c93e01a3f67e61917d300c0f2cb-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
-#EXTINF:-1  group-title="Уральские Пельмени 😂" ,Бабушкин нубук
-https://edge-b-05.ctc.ru/vod/hls/fta/vfDlAqOxA-HB3sW0USsU4w/d90d15d3b66135f658cf88263590a8ec-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
-#EXTINF:-1  group-title="Уральские Пельмени 😂" ,Не случайное знакомство
-https://edge-b-05.ctc.ru/vod/hls/fta/OTMeRc_RTOp6x36aCGZnag/f78ce0cb76195ec75eb94da3bd55c788-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
 #EXTINF:-1  group-title="Уральские Пельмени 😂" ,Без вины виноватые
 https://edge-b-05.ctc.ru/vod/hls/fta/2bWKU4w9zz_qVd97KnHpNA/0217eac2bf9e74d058ae1726e49f716b-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
 #EXTINF:-1  group-title="Уральские Пельмени 😂" ,Место встречи изменить...
