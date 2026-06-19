@@ -480,8 +480,6 @@ https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-centra
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=8zEp8CoHlUujIbs_ac3I5g&e=2070281160&scheme=https
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" group-title="🎦📺Фильмы 🔹 Сериалы" ,RANDOM BEST FILMS
 https://tinyurl.com/aleks-u-romki-40/11043/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" group-title="🎦📺Фильмы 🔹 Сериалы" ,TV12 GUDAUTA
-http://185.221.213.254:8080/Mafia2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" group-title="🎦📺Фильмы 🔹 Сериалы" ,NUR TV
 http://146.120.213.172:8086/0.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" group-title="🎦📺Фильмы 🔹 Сериалы" ,Arpinet
@@ -530,8 +528,6 @@ http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
 http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title="🎦📺Фильмы 🔹 Сериалы", IPTVPLAY Великая Отечественная HD
 http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png" group-title="🎦📺Фильмы 🔹 Сериалы", IPTVPLAY TEST HD
-http://5.188.158.65:4040/IPTVPLAYTEST.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W4P473rb/image-18.png" tvg-id="" group-title="🎦📺Фильмы 🔹 Сериалы", Alpha Cinema
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BRsytNR/image-20.png" tvg-id="" group-title="🎦📺Фильмы 🔹 Сериалы", Alpha Moretime
@@ -659,9 +655,9 @@ https://kinowalk.hopto.org/wfliq_live
 https://kinowalk.hopto.org/kinomania_stream_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",TimeToHorror 🎦-🟢
 https://kinowalk.hopto.org/timetohorror_live
-#EXTINF:-1  group-title="🚫 Kinowalk TV",ФИЛЬМЫ & СЕРИАЛЫ SD 🎦📺-🟢
+#EXTINF:-1  group-title="🚫 Kinowalk TV",ФИЛЬМЫ & СЕРИАЛЫ 🎦📺-🟢
 https://kinowalk.hopto.org/films_serials_24_7_live_live
-#EXTINF:-1  group-title="🚫 Kinowalk TV",Video Serial SD 📺-🟢
+#EXTINF:-1  group-title="🚫 Kinowalk TV",Video Serial 📺-🟢
 https://kinowalk.hopto.org/video_serial_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",КиноНонСтоп HD 🎦-🟢
 https://kinowalk.hopto.org/nonestopmovie_live
@@ -681,7 +677,7 @@ https://kinowalk.hopto.org/equilibrium_live
 https://kinowalk.hopto.org/kinowalk_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",PartizaNka tv 🎦🧒🎶♣︎-️🟢🟡
 https://kinowalk.hopto.org/partizanka_tv_live
-#EXTINF:-1  group-title="🚫 Kinowalk TV",KinoFilm SD 🎦📝-🟢🟡
+#EXTINF:-1  group-title="🚫 Kinowalk TV",KinoFilm 🎦📝-🟢🟡
 https://kinowalk.hopto.org/poe2proxodim_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",ChowAmigo 🎦-🟢🟡
 https://kinowalk.hopto.org/chowamigo_live
@@ -695,7 +691,7 @@ https://kinowalk.hopto.org/aleksey_24rus_live
 https://kinowalk.hopto.org/www.konoval_tv_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",RedFох HD 🎦🎶-🟡🟢
 https://kinowalk.hopto.org/redfoxs_live
-#EXTINF:-1  group-title="🚫 Kinowalk TV",VidFok SD 🎶-🟢🟡
+#EXTINF:-1  group-title="🚫 Kinowalk TV",VidFok 🎶-🟢🟡
 https://kinowalk.hopto.org/vidfok_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",Шурентий Live HD 🎦-🟡🟢
 https://kinowalk.hopto.org/shurentiy_live_live
@@ -741,7 +737,7 @@ https://kinowalk.hopto.org/3jiou_tatapuh_live
 https://kinowalk.hopto.org/alex.films_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",Airatos Plays HD 🎦♣︎-🟡🟢
 https://kinowalk.hopto.org/airat1992_live
-#EXTINF:-1  group-title="🚫 Kinowalk TV",LifeZ SD 📺♣︎-🟢🟡
+#EXTINF:-1  group-title="🚫 Kinowalk TV",LifeZ 📺♣︎-🟢🟡
 https://kinowalk.hopto.org/zhekos_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",Space Wanderer HD 🎦♣︎-🟡🟢
 https://kinowalk.hopto.org/space_wanderer_live
@@ -789,9 +785,9 @@ https://kinowalk.hopto.org/legion-tv_live
 https://kinowalk.hopto.org/astrix116_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",Tоny 🎦-🟡🟢
 https://kinowalk.hopto.org/ordinary_people_live
-#EXTINF:-1  group-title="🚫 Kinowalk TV",Jon Ricci SD 🎦♣︎-🟡🟢
+#EXTINF:-1  group-title="🚫 Kinowalk TV",Jon Ricci 🎦♣︎-🟡🟢
 https://kinowalk.hopto.org/jonricci_live
-#EXTINF:-1  group-title="🚫 Kinowalk TV",MилаШ SD 🎦-🟢🟡
+#EXTINF:-1  group-title="🚫 Kinowalk TV",MилаШ 🎦-🟢🟡
 https://kinowalk.hopto.org/milah_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",Кинотека 🎦📺-🟡🟢
 https://kinowalk.hopto.org/kinoteka_full_hd_top_live
@@ -835,7 +831,7 @@ https://kinowalk.hopto.org/argo_13_live
 #EXTINF:-1  tvg-logo="https://lastfm.freetls.fastly.net/i/u/300x300/e6ac114abd700e4d57b230a703187a26.jpg" group-title="🚫 Kinowalk TV",KINOPRO 🎦🧒-🔴🟢
 https://kinowalk.hopto.org/kinopro_live
 
-#EXTINF:-1  group-title="🚫 Kinowalk TV",Disney Channel SD ◻️-🟡🔴
+#EXTINF:-1  group-title="🚫 Kinowalk TV",Disney Channel ◻️-🟡🔴
 https://kinowalk.hopto.org/kanaldisneyonline_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",Disney XD 🧒-🟡🔴
 https://kinowalk.hopto.org/disneyxd_live
@@ -879,7 +875,7 @@ https://kinowalk.hopto.org/misha.sdyt_live
 https://kinowalk.hopto.org/mrsdoomka_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",Мультфильмы детства 🧒-🔴
 https://kinowalk.hopto.org/childhood_cartoons_live
-#EXTINF:-1  group-title="🚫 Kinowalk TV",BOSSFILM SD  🎦-🔴
+#EXTINF:-1  group-title="🚫 Kinowalk TV",BOSSFILM  🎦-🔴
 https://kinowalk.hopto.org/bossfilm_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",К И Н О С Т Р И М HD  🎦-🔴
 https://kinowalk.hopto.org/seryy_volkk_live
@@ -909,11 +905,11 @@ https://kinowalk.hopto.org/wihail_live
 https://kinowalk.hopto.org/hurumburumum_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",Портал в кино 🎦-🟡
 https://kinowalk.hopto.org/portal_v_kino_live
-#EXTINF:-1  group-title="🚫 Kinowalk TV",КИНОПРОЕКТОР SD ◻️-🟡
+#EXTINF:-1  group-title="🚫 Kinowalk TV",КИНОПРОЕКТОР ◻️-🟡
 https://kinowalk.hopto.org/kinokjkh_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",ДОМ Z ◻️-🟡
 https://kinowalk.hopto.org/raznoekino_live
-#EXTINF:-1  group-title="🚫 Kinowalk TV",Alexis Assa SD 🎦-🟢🟡
+#EXTINF:-1  group-title="🚫 Kinowalk TV",Alexis Assa 🎦-🟢🟡
 https://kinowalk.hopto.org/alexisassa_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",Сериалы & Кино HD 🎦📺-🟡
 https://kinowalk.hopto.org/aleksej26_live
@@ -964,24 +960,21 @@ http://176.118.197.101/HCT/mono.m3u8
 #EXTINF:-1 ,Bollywood_HD
 #EXTGRP:💎 Max кино
 http://176.118.197.101/Bollywood_HD/index.m3u8
-#EXTINF:-1 ,Dom kino
+#EXTINF:-1 ,Дом КИНО
 #EXTGRP:💎 Max кино
 http://176.118.197.101/Dom_kino/mono.m3u8
-#EXTINF:-1 ,Kinokomediya
+#EXTINF:-1 ,Кинокомедия
 #EXTGRP:💎 Max кино
 http://176.118.197.101/Kinokomediya/mono.m3u8
-#EXTINF:-1 ,Kinomix
+#EXTINF:-1 ,Киномикс
 #EXTGRP:💎 Max кино
 http://176.118.197.101/Kinomix/mono.m3u8
-#EXTINF:-1 ,Retro
+#EXTINF:-1 ,Ретро
 #EXTGRP:💎 Max кино
 http://176.118.197.101/Retro/mono.m3u8
 #EXTINF:-1  tvg-id="cinema-ru" ,Cinema
 #EXTGRP:💎 Max кино
 http://176.118.197.101/Cinema/index.m3u8
-#EXTINF:-1 ,Friday
-#EXTGRP:💎 Max кино
-http://94.230.128.107:8080/Friday/video.m3u8
 #EXTINF:-1  tvg-id="kinokomedia" ,Кинокомедия
 #EXTGRP:💎 Max кино
 http://176.118.197.101/Kinokomediya/index.m3u8
@@ -991,12 +984,9 @@ http://176.118.197.101/LubimoeKino/index.m3u8
 #EXTINF:-1  tvg-id="kinomiks" ,Киномикс
 #EXTGRP:💎 Max кино
 http://176.118.197.101/Kinomix/index.m3u8
-
 #EXTINF:-1  tvg-id="russkaya-komedia" ,Комедия
 #EXTGRP:💎 Max кино
 http://176.118.197.101/Komediya/index.m3u8
-
-
 
 #EXTINF:-1 group-title="MaxTV Kino",Русский Детектив
 http://46.32.176.50/russkiydetektiv/index.m3u8
@@ -1004,21 +994,21 @@ http://46.32.176.50/russkiydetektiv/index.m3u8
 http://46.32.176.50/russkiyroman/index.m3u8
 #EXTINF:-1 group-title="MaxTV Kino",Время
 http://46.32.176.50/Vremya/index.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",Наше новое MaxTV Kino
+#EXTINF:-1 group-title="MaxTV Kino",Наше новое кино
 http://158.101.222.193:88/georgia_play.php?id=nashanovoekino
 #EXTINF:-1 group-title="MaxTV Kino",Мир сериала
 http://46.32.176.50/mirseriala/index.m3u8
 #EXTINF:-1 group-title="MaxTV Kino",Romance
 http://46.32.176.50/worldfashion/index.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",Дом MaxTV Kino
+#EXTINF:-1 group-title="MaxTV Kino",Дом кино
 http://46.32.176.50/domkino/index.m3u8
 #EXTINF:-1 group-title="MaxTV Kino",НСТ
 http://46.32.176.50/nst/index.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",MaxTV Kinoсвидание
+#EXTINF:-1 group-title="MaxTV Kino",Kinoсвидание
 http://46.32.176.50/kinosvidanie/index.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",MaxTV Kinoкомедия
+#EXTINF:-1 group-title="MaxTV Kino",Кинокомедия
 http://46.32.176.50/kinokomedia/index.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",Любимое MaxTV Kino
+#EXTINF:-1 group-title="MaxTV Kino",Любимое кино
 http://46.32.176.50/lubimoekino/index.m3u8
 #EXTINF:-1 group-title="MaxTV Kino",.Black
 http://46.32.176.50/sonyturbo/index.m3u8
@@ -1028,11 +1018,11 @@ http://46.32.176.50/sonyscifi/index.m3u8
 http://46.32.176.50/tv21/index.m3u8
 #EXTINF:-1 group-title="MaxTV Kino",Plan B
 http://46.32.176.50/paramountchannel/index.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",Индийское MaxTV Kino
+#EXTINF:-1 group-title="MaxTV Kino",Индийское кино
 http://46.32.176.50/indiskoekino/index.m3u8
 #EXTINF:-1 group-title="MaxTV Kino",Zee-TV
 http://158.101.222.193:88/georgia_play.php?id=zeetv
-#EXTINF:-1 group-title="MaxTV Kino",ЕвроMaxTV Kino
+#EXTINF:-1 group-title="MaxTV Kino",Еврокино
 http://46.32.176.50/eurokino/index.m3u8
 #EXTINF:-1 group-title="MaxTV Kino",Amedia 1
 http://46.32.176.50/amedia1/index.m3u8
@@ -1050,158 +1040,147 @@ http://46.32.176.50/telekafe/index.m3u8
 http://46.32.176.50/24texno/index.m3u8
 #EXTINF:-1 group-title="MaxTV Kino",Феникс плюс HD
 http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
-#EXTINF:-1 group-title="MaxTV Kino",MaxTV Kinoлаффкаᴴᴰ
+#EXTINF:-1 group-title="MaxTV Kino",Kinoлаффкаᴴᴰ
 https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=2ANj0RhjI1hrAkz7Jd83ZQ&e=2069068452&scheme=https
 #EXTINF:-1 group-title="MaxTV Kino",Смотрим
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v3a1/mono.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",MaxTV Kino6
+#EXTINF:-1 group-title="MaxTV Kino",ATV 6
 http://185.57.68.33:80/255/playlist.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",MaxTV Kino 1 International
-http://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",MaxTV Kino-1 INTERNATIONAL
-https://autopilot.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",Детское MaxTV Kino International
-https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",Советское MaxTV Kino
+#EXTINF:-1 group-title="MaxTV Kino",Советское кино
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",Вестник Надыма
-https://0werof7ib0p.a.trbcdn.net/livemaster/6r10qa9k6d_trknadym.sdp/playlist.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",Könül TV
-http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",Live TV
+#EXTINF:-1 group-title="MaxTV Kino",LiveTV
 https://tv.mobyservice.ru/livetv/index.m3u8
 #EXTINF:-1 group-title="MaxTV Kino",Про100 ТВ
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",MaxTV KinoСезон
+#EXTINF:-1 group-title="MaxTV Kino",КиноСезон
 https://stitch.teletarget.ru/vintera/movieseason/1764950731551101ef187a38512cd3d3db48c1eca37527e836ab81636ac589b9/lvl1.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",MaxTV Kinoзал
+#EXTINF:-1 group-title="MaxTV Kino",Kinoзал
 http://185.57.68.33:8091/237/playlist.m3u8
 #EXTINF:-1 group-title="MaxTV Kino",ScripachTV
 https://live20.bozztv.com/akamaissh101/ssh101/scripachmovie/chunks.m3u8
 #EXTINF:0,viju+ Serial 
-#EXTGRP:КИНО
+#EXTGRP:MaxTV Kino
 http://mfe02.cliptv.az/dash/MGM_HDqwervbyu78.ism/playlist.mpd
 #EXTINF:0,Кинокомедияᴴᴰ
-#EXTGRP:КИНО
+#EXTGRP:MaxTV Kino
 https://stream8.cinerama.uz/1232/tracks-v2a1/mono.m3u8
 #EXTINF:0,Кинопремьера 
-#EXTGRP:КИНО
+#EXTGRP:MaxTV Kino
 http://158.101.222.193:88/georgia_play.php?id=kinopremyerahd
 #EXTINF:0,Мужское Кино
-#EXTGRP:КИНО
+#EXTGRP:MaxTV Kino
 https://stream8.cinerama.uz/1237/tracks-v2a1/mono.m3u8
 #EXTINF:0,Наше Новое Кино
-#EXTGRP:КИНО
+#EXTGRP:MaxTV Kino
 http://93.113.203.165/iptv/F5BM9GXMAPYBDK/19231/index.m3u8
 #EXTINF:0,Индийское кино
-#EXTGRP:КИНО
+#EXTGRP:MaxTV Kino
 https://s03.watcher.uz/52/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
 #EXTINF:0,Кинопремьера HD
-#EXTGRP:КИНО
+#EXTGRP:MaxTV Kino
 https://s04.watcher.uz/5/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
 #EXTINF:0,Кинопремьера
-#EXTGRP:КИНО
+#EXTGRP:MaxTV Kino
 https://s04.watcher.uz/5/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 #EXTINF:-1 group-title="КИНО",Bollywood HD
 http://176.118.197.101/Bollywood_HD/mono.m3u8
 #EXTINF:-1 group-title="КИНО",Kinoseria
 http://176.118.197.101/Kinoseria/mono.m3u8
-#EXTINF:-1 group-title="КИНО",Evrokino
+#EXTINF:-1 group-title="КИНО",Еврокино
 http://176.118.197.101/Evrokino/mono.m3u8
 #EXTINF:0,Bollywood
-#EXTGRP:КИНО
+#EXTGRP:MaxTV Kino
 https://s07.watcher.uz/167/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
 #EXTINF:0,Bollywoodᴴᴰ
-#EXTGRP:КИНО
+#EXTGRP:MaxTV Kino
 http://45.145.32.13:20440/bollywood_hd/index.m3u8?token=test
 #EXTINF:0,FAN
-#EXTGRP:КИНО
+#EXTGRP:MaxTV Kino
 http://31.148.48.15/Fan/index.m3u8
 #EXTINF:0,Film Box
-#EXTGRP:КИНО
+#EXTGRP:MaxTV Kino
 http://193.25.8.59:8000/FilmBOX
 #EXTINF:0,FlixSnip
-#EXTGRP:КИНО
+#EXTGRP:MaxTV Kino
 http://45.145.32.13:20440/flixsnip/index.m3u8?token=test
 #EXTINF:0,Hollywoodᴴᴰ
-#EXTGRP:КИНО
+#EXTGRP:MaxTV Kino
 http://45.145.32.13:20440/hollywood_hd/index.m3u8?token=test
-#EXTINF:0,KinoLiving
-#EXTGRP:КИНО
+#EXTINF:0,КиноЛивинг
+#EXTGRP:MaxTV Kino
 http://45.145.32.13:20440/kinoliving/index.m3u8?token=test
 #EXTINF:0,SHOT TV
-#EXTGRP:КИНО
+#EXTGRP:MaxTV Kino
 http://31.210.208.171:8080/shottv/index.m3u8?token=+W2MSER
 #EXTINF:0,ЕВРОКИНО
-#EXTGRP:КИНО
+#EXTGRP:MaxTV Kino
 http://94.230.250.140/eurokino/index.m3u8
 #EXTINF:0,ИЛЛЮЗИОН+
-#EXTGRP:КИНО
+#EXTGRP:MaxTV Kino
 http://158.101.222.193:88/georgia_play.php?id=illuzionplus
 #EXTINF:0,КИНО ТВ
-#EXTGRP:КИНО
+#EXTGRP:MaxTV Kino
 https://vod.tuva.ru/kinotv/index.m3u8
-#EXTINF:0,КИНО ТВ SD
-#EXTGRP:КИНО
+#EXTINF:0,КИНО ТВ
+#EXTGRP:MaxTV Kino
 http://31.148.48.15:80/Kino_TV_HD/video.m3u8
 #EXTINF:0,КИНОПОКАЗ
-#EXTGRP:КИНО
+#EXTGRP:MaxTV Kino
 http://31148.rafail1982.uz/Kinopokaz/index.m3u8
 #EXTINF:0,КИНОСАТ
-#EXTGRP:КИНО
+#EXTGRP:MaxTV Kino
 http://31.148.48.15/Kineko/index.m3u8
 #EXTINF:0,ТВ 21ᴴᴰ
-#EXTGRP:КИНО
+#EXTGRP:MaxTV Kino
 http://31.148.48.15/TV_XXI/index.m3u8?token=test
-#EXTINF:0,Классика Кино SD
-#EXTGRP:КИНО
+#EXTINF:0,Классика Кино
+#EXTGRP:MaxTV Kino
 http://stitch.teletarget.ru/vintera/movieclassic/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDI2IDExOjQ5OjIxIFBNJmhhc2hfdmFsdWU9NzBLbWM5SUpMWitZVEplblVPVDFHUT09JnZhbGlkbWludXRlcz00ODA=
 #EXTINF:0,Trash HD
-#EXTGRP:КИНО
+#EXTGRP:MaxTV Kino
 https://woobl.ru/platform24.php?id=4830&p=index.m3u8
 #EXTINF:0,Дом Кино International
-#EXTGRP:КИНО
+#EXTGRP:MaxTV Kino
 https://fs.uplink.kz/dom_kino/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:0,Дом Кино FD
-#EXTGRP:КИНО
+#EXTINF:0,Дом Кино
+#EXTGRP:MaxTV Kino
 https://streaming.thestream.cyou/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:0,Дом Кино Премиум SD
-#EXTGRP:КИНО
+#EXTINF:0,Дом Кино Премиум
+#EXTGRP:MaxTV Kino
 http://mfe01.cliptv.az/dash/Dom_Kino_Premium_HDsdfgio81.ism/playlist.mpd
 #EXTINF:0,Мосфильм.Золотая Коллекцияᴴᴰ
-#EXTGRP:КИНО
+#EXTGRP:MaxTV Kino
 http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/mosfilm_zolotaya_kollektsiya_hd/16/playlist.m3u8
 #EXTINF:0,Мосфильм.Золотая Коллекция (+4)
-#EXTGRP:КИНО
+#EXTGRP:MaxTV Kino
 http://193.25.8.59:8000/tnv
-#EXTINF:0,Победа FD
-#EXTGRP:КИНО
+#EXTINF:0,Победа
+#EXTGRP:MaxTV Kino
 https://streaming.televizor-24-tochka.ru/live/43.m3u8
 #EXTINF:0,Кинопанорама
-#EXTGRP:КИНО
+#EXTGRP:MaxTV Kino
 https://tinyurl.com/TvZaTak09/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
-
-#EXTINF:0,ATV Kinoman SD
-#EXTGRP:КИНОЗАЛ
+#EXTINF:0,ATV Kinoman
+#EXTGRP:MaxTV KinoЗАЛ
 http://185.57.68.33/237/mpegts
-#EXTINF:0,LIVETV SD
-#EXTGRP:КИНОЗАЛ
+#EXTINF:0,LIVETV
+#EXTGRP:MaxTV KinoЗАЛ
 http://tv.mobyservice.ru/livetv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDI1IDI6NDk6MzYgUE0maGFzaF92YWx1ZT12Q1hScElvWmtORUJNNU91R1k1alNnPT0mdmFsaWRtaW51dGVzPTQ4MA==
 #EXTINF:0,КиноМенюᴴᴰ
-#EXTGRP:КИНОЗАЛ
+#EXTGRP:MaxTV KinoЗАЛ
 http://stitch.teletarget.ru/vintera/kinomenu/index.m3u8
 #EXTINF:0,TVRUS HD
-#EXTGRP:КИНОЗАЛ
+#EXTGRP:MaxTV KinoЗАЛ
 http://217.154.10.99:2020/channel/4e9dab20/index.m3u8?q=ac8328a8c05870646c45caa253710a85
 #EXTINF:0,TVRUS+ HD
-#EXTGRP:КИНОЗАЛ
+#EXTGRP:MaxTV KinoЗАЛ
 http://217.154.10.99:2020/channel/n7ae3dc73/index.m3u8?q=ac8328a8c05870646c45caa253710a85
 #EXTINF:0,ScripachTV HD
-#EXTGRP:КиноStream
+#EXTGRP:MaxTV KinoStream
 https://live20.bozztv.com/akamaissh101/ssh101/scripachmovie/playlist.m3u8
 #EXTINF:0,Киножелезоᴴᴰ
-#EXTGRP:КиноStream
+#EXTGRP:MaxTV KinoStream
 https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=mPZ2z97b3j24PKD8bwFUzA&e=2069068451&scheme=https
-#EXTINF:0,MKNEWS24.RU SD
-#EXTGRP:КиноStream
+#EXTINF:0,MKNEWS24.RU
+#EXTGRP:MaxTV KinoStream
 https://stream.mknews24.ru/hls/stream.m3u8?DVR
