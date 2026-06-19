@@ -262,18 +262,12 @@ http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1249/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1,67
-#EXTGRP:🎶Музыкальные
-https://fl1004.bozztv.com/ushba67/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Activa TV
 #EXTGRP:🎶Музыкальные
 https://bl.rutube.ru/livestream/8e9da41366fcb497aaeade579f0d715f/index.m3u8?s=ZOZa2aks9WUX89NRUSjHlA&e=2069285076&scheme=https
 #EXTINF:-1,Fonbet Music
 #EXTGRP:🎶Музыкальные
 http://uiptv.do.am/1ufc/603282189/playlist.m3u8
-#EXTINF:-1,Infinity
-#EXTGRP:🎶Музыкальные
-https://live20.bozztv.com/giatvplayout7/ushba-t2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Kronehit TV
 #EXTGRP:🎶Музыкальные
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
@@ -289,9 +283,6 @@ http://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/ch
 #EXTINF:-1,Viva Russia
 #EXTGRP:🎶Музыкальные
 https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=huO81WRGvesnVMCCPmNTRQ&e=2068506970&scheme=https
-#EXTINF:-1,Мафия Музыка
-#EXTGRP:🎶Музыкальные
-https://live20.bozztv.com/giatvplayout7/ushba-mafia/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,ММТВ
 #EXTGRP:🎶Музыкальные
 https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=swZ9QnHMT4hcnaukDHRdtw&e=2069285077&scheme=https
@@ -474,9 +465,6 @@ http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11016/index.m3u8
 #EXTINF:-1,ЗОВ ТВ RED
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 https://live20.bozztv.com/giatv/giatv-tvzov%20RED/tvzov%20RED/chunks.m3u8
-#EXTINF:0,LAV-KINO
-#EXTGRP:🎦📺Фильмы 🔹 Сериалы
-https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Kino 24
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
