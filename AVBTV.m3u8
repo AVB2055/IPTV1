@@ -144,7 +144,6 @@ http://91.228.35.249:8001/1:0:16:69:2fa8:13e:820000:0:0:0:
 #EXTINF:-1,Ost24West  24/7 [СМИ иногент]
 #EXTGRP:👁‍Новостные
 http://91.228.35.249:8001/1:0:16:6F:2FA8:13E:820000:0:0:0:
-
 #EXTINF:-1,360
 #EXTGRP:🔎‍Познавательные
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
@@ -231,7 +230,6 @@ http://46.32.176.50/NatGeoWildHD/index.m3u8
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/11065/index.m3u8
 #EXTINF:-1 group-title="🔎‍Познавательные",RANDOM BEST FILMS
 https://tinyurl.com/aleks-u-romki-40/11043/index.m3u8
-
 #EXTINF:-1,2x2
 #EXTGRP:🤣Развлекательные
 https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=hwyoufQp4n4DEevoTh79AQ&e=2068506934&scheme=https
@@ -268,8 +266,6 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/17010/ind
 #EXTINF:0,MM Ситком HD
 #EXTGRP:🤣Развлекательные
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/13052/index.m3u8
-
-
 #EXTINF:-1,Activa TV
 #EXTGRP:🎶Музыкальные
 https://bl.rutube.ru/livestream/8e9da41366fcb497aaeade579f0d715f/index.m3u8?s=ZOZa2aks9WUX89NRUSjHlA&e=2069285076&scheme=https
@@ -300,7 +296,6 @@ https://tntm.mediacdn.ru/cdn/tntmusic/tracks-v1a1/mono.ts.m3u8
 http://edge11.vedge.infomaniak.com/livecast/ik:bblackafrica/chunklist.m3u8
 #EXTINF:-1  group-title="🎶Музыкальные",Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-
 #EXTINF:-1,Волейбол
 #EXTGRP:⛹🏿Спортивные
 https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=RP3Gdy1OZbXnpfKul6ZHLw&e=2070450972&scheme=https
@@ -328,10 +323,10 @@ http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/528/index.m3u8
 #EXTINF:0,МАТЧ! БОЕЦ
 #EXTGRP:⛹🏿Спортивные
 http://45.145.32.13:20440/match_boets/index.m3u8?token=test
-#EXTINF:0,МАТЧ! ИГРА 
+#EXTINF:0,МАТЧ! ИГРА
 #EXTGRP:⛹🏿Спортивные
 http://45.145.32.13:20440/match_igra_hd/index.m3u8?token=test
-#EXTINF:0,МАТЧ! ПЛАНЕТА 
+#EXTINF:0,МАТЧ! ПЛАНЕТА
 #EXTGRP:⛹🏿Спортивные
 https://bl.video.matchtv.ru/media/playlist/free_04fc20484b40a76bf33b537081ec7bf3/17_72438189/1080/6863fd17014b627e6f0027d538646428/2208978000.m3u8
 #EXTINF:0,МАТЧ! ПРЕМЬЕР
@@ -355,7 +350,6 @@ http://ott.watch/stream/M2OKG1JWDY/176.m3u8
 #EXTINF:0,Eurosport 2
 #EXTGRP:⛹🏿Спортивные
 http://ott.watch/stream/M2OKG1JWDY/192.m3u8
-
 #EXTINF:-1,Mr.Bean Cartoon
 #EXTGRP:🧒Детские
 https://bl.rutube.ru/livestream/0e9e44725d5d5ab7ee92c10b40215419/index.m3u8?s=x2-KvlIlDO7JTvW9rPHDVA&e=2066519767&scheme=https
@@ -389,16 +383,15 @@ https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/tracks-v
 #EXTINF:-1,Том и Джерри
 #EXTGRP:🧒Детские
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-#EXTINF:-1 group-title="🧒Детские",Мамонтёнок 
+#EXTINF:-1 group-title="🧒Детские",Мамонтёнок
 http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🧒Детские",Мультимания 
+#EXTINF:-1 group-title="🧒Детские",Мультимания
 http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🧒Детские",Пингвин Лоло 
+#EXTINF:-1 group-title="🧒Детские",Пингвин Лоло
 http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
 #EXTINF:0,Детский Мир
 #EXTGRP:🧒Детские
 http://46.32.176.50/detskiymir/index.m3u8
-
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",15+ Animation
 https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Alpha Cinema
@@ -521,8 +514,6 @@ http://46.32.176.50/VIPMegahitHD/index.m3u8
 http://46.32.176.50/VIPPremiereHD/index.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",VIP Serial
 http://46.32.176.50/ViasatSportHD/index.m3u8
-#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Zee-TV
-http://158.101.222.193:88/georgia_play.php?id=zeetv
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Арсенал
 https://s06.watcher.uz/120/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Блокбастер
@@ -559,8 +550,6 @@ http://vod.tuva.ru/eurokino/index.m3u8
 http://46.32.176.50/eurokino/index.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Жизнь Глазова
 http://yellow.garant.tv/glazov24/stream.m3u8
-#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",ИЛЛЮЗИОН+
-http://158.101.222.193:88/georgia_play.php?id=illuzionplus
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Иллюзион+
 http://46.32.176.50/illuzion/index.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Индийское кино
@@ -661,8 +650,6 @@ https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/rewind-240.ts.m3u8
 https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Наше Новое Кино
 http://93.113.203.165/iptv/F5BM9GXMAPYBDK/19231/index.m3u8
-#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Наше новое кино
-http://158.101.222.193:88/georgia_play.php?id=nashanovoekino
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Новый русский
 https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1_output_0.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",ПРОДВИЖЕНИЕ
@@ -709,8 +696,6 @@ http://46.32.176.50/24texno/index.m3u8
 http://46.32.176.50/telekafe/index.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Техно 24
 https://s05.watcher.uz/29/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
-
-
 #EXTINF:-1  group-title="🚫 Kinowalk TV",Blockbusters Time 🎦-🟢
 https://kinowalk.hopto.org/blockbusterstime_live
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/XvHKrWXQ/1.jpg" group-title="🚫 Kinowalk TV",KinoMix Юрич 🎦-🟡🟢
@@ -952,7 +937,6 @@ https://kinowalk.hopto.org/devchata_live
 https://kinowalk.hopto.org/argo_13_live
 #EXTINF:-1  tvg-logo="https://lastfm.freetls.fastly.net/i/u/300x300/e6ac114abd700e4d57b230a703187a26.jpg" group-title="🚫 Kinowalk TV",KINOPRO 🎦🧒-🔴🟢
 https://kinowalk.hopto.org/kinopro_live
-
 #EXTINF:-1  group-title="🚫 Kinowalk TV",Disney Channel ◻️-🟡🔴
 https://kinowalk.hopto.org/kanaldisneyonline_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",Disney XD 🧒-🟡🔴
@@ -1020,7 +1004,6 @@ https://kinowalk.hopto.org/prizrak-oz_live
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" tvg-id="" group-title="🚫 Kinowalk TV", ФИЛЬМЫ&СЕРИАЛЫ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://kinowalk.hopto.org/films_serials_24_7_live/_live
-
 #EXTINF:-1  tvg-logo="https://images.live.vkvideo.ru/user/19829671/avatar?change_time=1734328186&croped=1&mh=140&mw=140" group-title="🚫 Kinowalk TV",wihail 🎦-🟡
 https://kinowalk.hopto.org/wihail_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",Ёжик в тумане FHD 🧒-🟡
