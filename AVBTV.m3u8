@@ -205,9 +205,6 @@ https://bl.rutube.ru/livestream/ff5c11c9a51750f5d33427762abc315c/index.m3u8?s=WH
 #EXTINF:-1,РЖД
 #EXTGRP:🔎‍Познавательные
 http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
-#EXTINF:-1,Саратов 24
-#EXTGRP:🔎‍Познавательные
-http://109.248.11.19:8081/web/c24/playlist.m3u8
 #EXTINF:-1,Союзный
 #EXTGRP:🔎‍Познавательные
 https://bl.rutube.ru/livestream/46c03b7f1a7255326900f4a60a9b44e0/index.m3u8?s=VHiYqSicSMcfMQP30ve9QA&e=2066519782&scheme=https
@@ -502,12 +499,8 @@ https://bl.rutube.ru/livestream/e05401be60a9cc719fa7075b6e77b86d/index.m3u8?s=wb
 http://tv.mobyservice.ru/livetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" group-title="🎦📺Фильмы 🔹 Сериалы" ,Киносезон
 http://stitch.teletarget.ru/vintera/movieseason/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4nV26ShC/image-4.png" tvg-id="no_epg_cinema" group-title="🎦📺Фильмы 🔹 Сериалы", Смотрим Праздник
-http://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564.m3u8
 #EXTINF:-0 tvg-id="no_epg_cinema" group-title="🎦📺Фильмы 🔹 Сериалы" tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png",СТРК HD
 http://sochinskayatrk.ru/hdtv/hls/CTPK_400/playlist.m3u8
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title="🎦📺Фильмы 🔹 Сериалы" tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png",НСТ
-http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
 #EXTINF:-0 tvg-id="no_epg_cinema" group-title="🎦📺Фильмы 🔹 Сериалы" tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png",Русский Роман
 http://vod.tuva.ru/rusroman/index.m3u8
 #EXTINF:-0 tvg-id="no_epg_cinema" group-title="🎦📺Фильмы 🔹 Сериалы" tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png",Кино ТВ
@@ -932,8 +925,6 @@ http://109.70.186.82:9090/udp/239.185.1.10:1234
 http://109.70.186.82:9090/udp/239.185.1.4:1234
 #EXTINF:-1  group-title="💎 Max кино"  tvg-id="tv1000-action" ,viju TV1000 action
 http://109.70.186.82:9090/udp/239.185.1.3:1234
-#EXTINF:-1  group-title="💎 Max кино"  tvg-id="amedia-premium" ,Amedia Premium HD
-http://109.70.186.82:9090/udp/239.185.1.9:1234
 #EXTINF:-1  group-title="💎 Max кино"  tvg-id="vip-megahit" ,viju+ Megahit HD
 http://109.70.186.82:9090/udp/239.185.1.11:1234
 #EXTINF:-1  group-title="💎 Max кино" ,viju TV1000 romanti
@@ -1076,12 +1067,6 @@ http://93.113.203.165/iptv/F5BM9GXMAPYBDK/19231/index.m3u8
 #EXTINF:0,Индийское кино
 #EXTGRP:MaxTV Kino
 https://s03.watcher.uz/52/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
-#EXTINF:0,Кинопремьера HD
-#EXTGRP:MaxTV Kino
-https://s04.watcher.uz/5/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
-#EXTINF:0,Кинопремьера
-#EXTGRP:MaxTV Kino
-https://s04.watcher.uz/5/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 #EXTINF:-1 group-title="КИНО",Bollywood HD
 http://176.118.197.101/Bollywood_HD/mono.m3u8
 #EXTINF:-1 group-title="КИНО",Kinoseria
@@ -1157,30 +1142,50 @@ http://193.25.8.59:8000/tnv
 #EXTINF:0,Победа
 #EXTGRP:MaxTV Kino
 https://streaming.televizor-24-tochka.ru/live/43.m3u8
-#EXTINF:0,Кинопанорама
-#EXTGRP:MaxTV Kino
-https://tinyurl.com/TvZaTak09/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
 #EXTINF:0,ATV Kinoman
 #EXTGRP:MaxTV KinoЗАЛ
 http://185.57.68.33/237/mpegts
+#EXTINF:0,MKNEWS24.RU
+#EXTGRP:MaxTV Kino
+https://stream.mknews24.ru/hls/stream.m3u8?DVR
 #EXTINF:0,LIVETV
-#EXTGRP:MaxTV KinoЗАЛ
+#EXTGRP:MaxTV Kino
 http://tv.mobyservice.ru/livetv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDI1IDI6NDk6MzYgUE0maGFzaF92YWx1ZT12Q1hScElvWmtORUJNNU91R1k1alNnPT0mdmFsaWRtaW51dGVzPTQ4MA==
 #EXTINF:0,КиноМенюᴴᴰ
-#EXTGRP:MaxTV KinoЗАЛ
+#EXTGRP:MaxTV Kino
 http://stitch.teletarget.ru/vintera/kinomenu/index.m3u8
 #EXTINF:0,TVRUS HD
-#EXTGRP:MaxTV KinoЗАЛ
+#EXTGRP:MaxTV Kino
 http://217.154.10.99:2020/channel/4e9dab20/index.m3u8?q=ac8328a8c05870646c45caa253710a85
 #EXTINF:0,TVRUS+ HD
-#EXTGRP:MaxTV KinoЗАЛ
+#EXTGRP:MaxTV Kino
 http://217.154.10.99:2020/channel/n7ae3dc73/index.m3u8?q=ac8328a8c05870646c45caa253710a85
-#EXTINF:0,ScripachTV HD
-#EXTGRP:MaxTV KinoStream
-https://live20.bozztv.com/akamaissh101/ssh101/scripachmovie/playlist.m3u8
-#EXTINF:0,Киножелезоᴴᴰ
-#EXTGRP:MaxTV KinoStream
-https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=mPZ2z97b3j24PKD8bwFUzA&e=2069068451&scheme=https
-#EXTINF:0,MKNEWS24.RU
-#EXTGRP:MaxTV KinoStream
-https://stream.mknews24.ru/hls/stream.m3u8?DVR
+#EXTINF:0,.redᴴᴰ
+#EXTGRP:СЕРИАЛЫ
+http://193.25.8.59:8000/set
+#EXTINF:0,Amedia Hit SD
+#EXTGRP:СЕРИАЛЫ
+http://31.148.48.15:80/Amedia_HIT_HD/index.m3u8
+#EXTINF:0,Кинекоᴴᴰ
+#EXTGRP:СЕРИАЛЫ
+http://31.148.48.15/Kineko_HD/index.m3u8
+#EXTINF:0,ПРОДВИЖЕНИЕ 
+#EXTGRP:СЕРИАЛЫ
+http://prodvizhenie.bonus-tv.ru/cdn/prodvizhenie/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMy8yMDI1IDEyOjQ5OjM0IEFNJmhhc2hfdmFsdWU9SC9uVEJEcTFLeDhaRG83MFVwSVBDQT09JnZhbGlkbWludXRlcz00ODA=
+#EXTINF:0,Сапфир SD
+#EXTGRP:СЕРИАЛЫ
+http://31.148.48.15/Sapfir_HD/index.m3u8
+#EXTINF:0,Star Cinemaᴴᴰ
+#EXTGRP:СЕРИАЛЫ
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
+#EXTINF:0,Арсеналᴴᴰ
+#EXTGRP:СЕРИАЛЫ
+https://s06.watcher.uz/120/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:0,Мир Сериалаᴴᴰ
+#EXTGRP:СЕРИАЛЫ
+http://45.145.32.13:20440/ctc_kids_hd/index.m3u8?token=test
+#EXTINF:0,Русский Романᴴᴰ
+#EXTGRP:СЕРИАЛЫ
+http://31.148.48.15:80/Russkiy_Roman_HD/index.m3u8
+
+
