@@ -465,9 +465,9 @@ http://176.118.197.101/HCT/mono.m3u8
 http://46.32.176.50/HollywoodHD/index.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Hollywood
 http://45.145.32.13:20440/hollywood_hd/index.m3u8?token=test
-#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Kinoзал
+#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Кинозал
 http://185.57.68.33:8091/237/playlist.m3u8
-#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Kinoсвидание
+#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Киносвидание
 http://46.32.176.50/kinosvidanie/index.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",MKNEWS24.RU
 https://stream.mknews24.ru/hls/stream.m3u8?DVR
