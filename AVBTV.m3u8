@@ -263,9 +263,6 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/17010/ind
 #EXTINF:0,MM Ситком HD
 #EXTGRP:🤣Развлекательные
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/13052/index.m3u8
-#EXTINF:-1,Activa TV
-#EXTGRP:🎶Музыкальные
-https://bl.rutube.ru/livestream/8e9da41366fcb497aaeade579f0d715f/index.m3u8?s=ZOZa2aks9WUX89NRUSjHlA&e=2069285076&scheme=https
 #EXTINF:-1,Fonbet Music
 #EXTGRP:🎶Музыкальные
 http://uiptv.do.am/1ufc/603282189/playlist.m3u8
@@ -307,7 +304,6 @@ https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
 https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
 #EXTINF:-1 group-title="🎶Музыкальные" tvg-logo="https://www.dancetv.net/img/DTlogo.png",Minimal / Deep Tech
 https://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8
-
 #EXTINF:-1,Волейбол
 #EXTGRP:⛹🏿Спортивные
 https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=RP3Gdy1OZbXnpfKul6ZHLw&e=2070450972&scheme=https
@@ -1007,3 +1003,63 @@ https://kinowalk.hopto.org/prizrak-oz_live
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" tvg-id="" group-title="🚫 Kinowalk TV", ФИЛЬМЫ&СЕРИАЛЫ ◻️-🔴
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://kinowalk.hopto.org/films_serials_24_7_live/_live
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://img.catcast.tv/uploads/16052025/banners/33418-682782266b049.png", Phoenix TV
+https://karapuztv.catcast.tv/content/33418/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://img.catcast.tv/uploads/17102025/banners/49702-68f21e2ea83d1.png", TvBoom-ViP
+https://kb.catcast.tv/content/49702/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7",Сити Эдем Meditation Music
+https://cityeden.catcast.tv/content/47410/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7",Сити Эдем Play Христианский Музыкальный
+https://cityeden.catcast.tv/content/34100/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7",Сити Эдем ТВ Христианский
+https://cityeden.catcast.tv/content/34246/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://www.cityeden.info/logotv/logotip_avtogid1.png",Сити Эдем АвтоГид
+https://cityeden.catcast.tv/content/47515/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7",Сити Эдем Бирма Play
+https://cityeden.catcast.tv/content/34364/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://www.cityeden.info/logotv/kinoazija_logotip.png",Сити Эдем КиноАзия
+https://cityeden.catcast.tv/content/34393/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://www.cityeden.info/logotv/logotip_kinoart.png",Сити Эдем КиноАрт
+https://cityeden.catcast.tv/content/38398/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://i.ibb.co/0cQfRRk/image-13.png",Сити Эдем - КиноДетектив
+https://cityeden.catcast.tv/content/41327/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://www.cityeden.info/logotv/logotip_kinodok1.png",Сити Эдем КиноДок
+https://cityeden.catcast.tv/content/38354/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://i.ibb.co/N6RVvPc/image-1.png",Сити Эдем КиноДрама
+https://cityeden.catcast.tv/content/45269/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://i.ibb.co/qyZkQb0/image-1.png",Сити Эдем - КиноКлассика
+https://cityeden.catcast.tv/content/34185/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://i.ibb.co/Nx2CKmL/image-11.png",Сити Эдем - КиноКомедия
+https://cityeden.catcast.tv/content/41331/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://i.ibb.co/1rbsJZb/image-8.png",Сити Эдем - КиноМистика
+https://cityeden.catcast.tv/content/40783/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://www.cityeden.info/logotv/kinofantastika_logotip.png",Сити Эдем КиноФантастика
+https://cityeden.catcast.tv/content/45268/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://www.cityeden.info/logotv/siti_ehdem-klassika.png",Сити Эдем Классическая Музыка
+https://cityeden.catcast.tv/content/47400/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://www.cityeden.info/logotv/logotip_medzdrav1.png",Сити Эдем МедЗдрав
+https://cityeden.catcast.tv/content/47519/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7",Сити Эдем Рецепты Гурмана
+https://cityeden.catcast.tv/content/47516/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7",Сити Эдем Сиртаки ТВ
+https://cityeden.catcast.tv/content/46421/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://www.cityeden.info/logotv/logotip_telenovella.png",Сити Эдем ТелеНовелла
+https://cityeden.catcast.tv/content/46209/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://img.catcast.tv/uploads/09072020/logos/38720-5f06c9ff9fbbd.png",Детское кино International
+https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://img.catcast.tv/uploads/25062020/logos/38617-5ef3d12196e3e.png",Кино 1 International
+https://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://img.catcast.tv/uploads/25062020/logos/37745-5ef3d10ff0621.png",Музыка 1 International
+https://kino-1.catcast.tv/content/37745/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://img.catcast.tv/uploads/25062020/logos/37742-5ef3cf8ca433c.png",Музыка 2 International
+https://kino-1.catcast.tv/content/37742/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://img.catcast.tv/uploads/23012020/37739-5e2a007a3928b.png",Музыка Кино International
+https://kino-1.catcast.tv/content/37739/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://img.catcast.tv/logos/3a88436baae7495719cbc69c6f020f52.png",HGTN
+https://v2.catcast.tv/content/34251/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://catcast.tv/assets/no-logo.svg",Телеканал Андийцы
+https://v2.catcast.tv/content/34114/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://img.catcast.tv/uploads/10082022/logos/40650-62f2d2890f632.jpg",NM Television
+https://tv.a21network.ru/content/40650/index.m3u8
+#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7",ԼԱՅՄ GOLD TV
+https://v2.catcast.tv/content/40546/index.m3u8
