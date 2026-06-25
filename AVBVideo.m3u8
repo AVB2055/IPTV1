@@ -162,7 +162,6 @@ https://flussonic.mkpnet.ru/tv-3cdc33d3606ba23f/video.m3u8
 https://flussonic.mkpnet.ru/tv-4a4cb3e0aac082c9/video.m3u8
 #EXTINF:-1 group-title="📡 t.me/MaxTVNew",RU Шансон ТВ
 https://flussonic.mkpnet.ru/tv-181e3f7698288892/video.m3u8
-
 #EXTINF:-1 group-title="📡 Mix-TV 02",Россия К
 http://185.46.16.239:8000/Rossiya_K
 #EXTINF:-1 group-title="📡 Mix-TV 02",Россия 1
@@ -249,8 +248,6 @@ http://185.46.16.239:8000/National_Geographic_HD
 http://185.46.16.239:8000/Disney_Channel
 #EXTINF:-1 group-title="📡 Mix-TV 02",Ani
 http://185.46.16.239:8000/Ani
-
-
 #EXTINF:-1  group-title="💎 Max кино"  tvg-id="russkaya-komedia" ,Русская Комедия
 http://176.118.197.101/Komediya/mono.m3u8
 #EXTINF:-1  group-title="💎 Max кино"  tvg-id="domkino" ,Дом Кино
@@ -291,9 +288,6 @@ https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
 #EXTINF:-1  tvg-id="smotrim-100-prazdnik" ,Смотрим 100% Праздник
 #EXTGRP:💎 Max кино
 https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
-#EXTINF:-1 ,💎 Max кино
-#EXTGRP:💎 Max кино
-https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1_output_0.m3u8
 #EXTINF:-1  tvg-id="smotrim-100-detskoe" ,Смотрим 100% Детское
 #EXTGRP:💎 Max кино
 https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
@@ -357,9 +351,6 @@ http://176.118.197.101/Kinopokaz/index.m3u8
 #EXTINF:-1  tvg-id="russkaya-komedia" ,Комедия
 #EXTGRP:💎 Max кино
 http://176.118.197.101/Komediya/index.m3u8
-
-
-
 #EXTINF:-1 group-title="MaxTV Kino",TV 1000
 http://46.32.176.50/tv1000/index.m3u8
 #EXTINF:-1 group-title="MaxTV Kino",TV 1000 Action
@@ -426,8 +417,6 @@ http://46.32.176.50/tv21/index.m3u8
 http://46.32.176.50/paramountchannel/index.m3u8
 #EXTINF:-1 group-title="MaxTV Kino",Индийское MaxTV Kino
 http://46.32.176.50/indiskoekino/index.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",Zee-TV
-http://158.101.222.193:88/georgia_play.php?id=zeetv
 #EXTINF:-1 group-title="MaxTV Kino",ЕвроMaxTV Kino
 http://46.32.176.50/eurokino/index.m3u8
 #EXTINF:-1 group-title="MaxTV Kino",Amedia 1
@@ -440,8 +429,6 @@ http://46.32.176.50/amediahit/index.m3u8
 http://46.32.176.50/AmediaPremium/index.m3u8
 #EXTINF:-1 group-title="MaxTV Kino",Amedia Premium HD
 http://46.32.176.50/AmediaPremiumHD/index.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",Сапфир
-http://46.32.176.50/foxlife/index.m3u8
 #EXTINF:-1 group-title="MaxTV Kino",Кинеко
 http://46.32.176.50/foxrussia/index.m3u8
 #EXTINF:-1 group-title="MaxTV Kino",312
@@ -474,8 +461,6 @@ http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
 https://0werof7ib0p.a.trbcdn.net/livemaster/6r10qa9k6d_trknadym.sdp/playlist.m3u8
 #EXTINF:-1 group-title="MaxTV Kino",Könül TV
 http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
-#EXTINF:-1 group-title="MaxTV Kino",Live TV
-https://tv.mobyservice.ru/livetv/index.m3u8
 #EXTINF:-1 group-title="MaxTV Kino",Alpha Moretime
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:-1 group-title="MaxTV Kino",Про100 ТВ
@@ -491,11 +476,8 @@ https://live20.bozztv.com/giatv/giatv-tvzovlivestream/tvzovlivestream/chunks.m3u
 #EXTINF:-1 group-title="MaxTV Kino",MaxTV Kinoзал
 http://185.57.68.33:8091/237/playlist.m3u8
 #EXTINF:-1 group-title="MaxTV Kino",ScripachTV
-https://live20.bozztv.com/akamaissh101/ssh101/scripachmovie/chunks.m3u8
-
-
 #EXTGRP:💎 Max спорт
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/107/index.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/scripachmovie/chunks.m3u8
 #EXTINF:0 tvg-rec="3",Матч ТВ +2
 #EXTGRP:💎 Max спорт
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6012/index.m3u8
@@ -676,7 +658,7 @@ http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2536/index.m3u8
 #EXTINF:0 tvg-rec="3",DIGI Sport 4 HD RO
 #EXTGRP:💎 Max спорт
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2538/index.m3u8
-#EXTINF:0 tvg-rec="3",TV 2 Sport 2 HD NO 
+#EXTINF:0 tvg-rec="3",TV 2 Sport 2 HD NO
 #EXTGRP:💎 Max спорт
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2541/index.m3u8
 #EXTINF:0 tvg-rec="3",RMC Sport 1 HD FR
@@ -921,22 +903,19 @@ http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/215/index.m3u8
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/211/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч ТВ HD
 #EXTGRP:💎 Max спорт
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/212/index.m3u8
 #EXTGRP:💎 Max спорт
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/224/index.m3u8
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/212/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Игра HD
 #EXTGRP:💎 Max спорт
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/225/index.m3u8
 #EXTGRP:💎 Max спорт
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/912/index.m3u8
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/225/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Арена HD
 #EXTGRP:💎 Max спорт
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/207/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Футбол 3 HD
 #EXTGRP:💎 Max спорт
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/206/index.m3u8
 #EXTGRP:💎 Max спорт
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6303/index.m3u8
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/206/index.m3u8
 #EXTINF:0 tvg-rec="3",Старт HD
 #EXTGRP:💎 Max спорт
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6384/index.m3u8
@@ -984,9 +963,8 @@ http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/5069/index.m3u8
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/5071/index.m3u8
 #EXTINF:0 tvg-rec="3",Матч! Футбол 1 HD 50 orig
 #EXTGRP:💎 Max спорт
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/5072/index.m3u8
 #EXTGRP:💎 Max спорт
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/5068/index.m3u8
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/5072/index.m3u8
 #EXTINF:0 tvg-rec="3",Eurosport 1 HD orig
 #EXTGRP:💎 Max спорт
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/5075/index.m3u8
@@ -1018,7 +996,6 @@ http://185.46.16.239:8000/Match_Nash_Sport
 http://185.46.16.239:8000/Match_Igra
 #EXTINF:-1 group-title="💎 Max спорт",Бокс ТВ
 http://185.46.16.239:8000/Eurosport_1
-
 #EXTINF:-1 tvg-logo="http://1lot.tv/ch/10851.png" group-title="▶️ IPTV-Play",IPTVPLAY Великая Отечественнаяᴴᴰ
 http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 tvg-logo="http://i124.fastpic.org/big/2025/0331/af/5fc8449eef075c1ac3e44cd3af1bcfaf.png" group-title="▶️ IPTV-Play",IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВОᴴᴰ
@@ -1027,153 +1004,14 @@ http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF
 http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 tvg-logo="https://i122.fastpic.org/big/2024/0112/65/b20ebb09af08ef55dbdffa919a047c65.png?md5=j6J6Ll7lDMFzkm2ymFC1LQ&expires=1735808400" group-title="▶️ IPTV-Play",IPTVPLAY МультСказкиᴴᴰ
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-logo="http://1lot.tv/ch/9415.png" group-title="▶️ IPTV-Play",TVPLAY MORTAL KOMBATᴴᴰ
-http://5.188.158.65:4040/IPTVPLAYTEST.tv/video.m3u8?token=lqRGka5-YwwqF0
 
-#EXTINF:-1 group-title="Музыкальные 🎼",Vostok TV
-http://yhdbyndf.russtv.net/iptv/X88VFTA955FLLD/1054/index.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" tvg-id="city-tv-bg",City TV
-https://tv.city.bg/play/tshls/citytv/2.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://www.radio-banovina.hr/wp-content/uploads/2015/01/logo-120_00000.png",Banovina TV
-http://video.radio-banovina.hr:1935/live/myStream/chunklist_w1164976177.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://i.postimg.cc/JzrfFnQw/2024-02-24-182647787.png",OF-TV
-https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" ,AFN Music
-https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://www.aparatchi.com/images/TV/7xmusic.png",7X MUSIC
-https://stream.e2is.in/hls/7xMusic.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="http://epg.it999.ru/img/5606.png",Fresh HD AM
-https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
-#EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://euroindiemusic.info/wp-content/uploads/2021/06/Aqua-Play-Icon-Personal-Logo-700x700.png",Euro Indie Music Chart TV
-http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" ,Qello Concerts by Stingray
-https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" ,Stingray Classic Rock
-https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" ,Stingray Classica
-https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" ,Stingray CMusic
-https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" ,Stingray DJAZZ
-https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" ,Stingray Easy Listening
-https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" ,Stingray Holiday Hits
-https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" ,Stingray Pop Adult
-https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" ,Stingray Rock Alternative
-https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" ,Stingray Smooth Jazz
-https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" ,Stingray Today's KPOP
-https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 channel-id="SamsungTVPlus-USBB320000647" tvg-name="XITE 80s Flashback" tvg-id="USBB320000647" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20240702T044851SQUARE.png" group-title="Музыкальные 🎼" tvg-chno="4313",XITE 80s Flashback
-https://d1n314cytqn9r3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bklagqy82v0pr/XITE_80s_Flashback.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB320000647
-#EXTINF:-1 channel-id="SamsungTVPlus-USBB3200007AK" tvg-name="XITE 90s Throwback" tvg-id="USBB3200007AK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20240702T044853SQUARE.png" group-title="Музыкальные 🎼" tvg-chno="4318",XITE 90s Throwback
-https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB3200007AK
-#EXTINF:-1 channel-id="SamsungTVPlus-USBD350003932" tvg-name="XITE Celebrates" tvg-id="USBD350003932" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20240702T044845SQUARE.png" group-title="Музыкальные 🎼" tvg-chno="4310",XITE Celebrates
-https://dt1s4l2cmiyit.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fcwpee1h7t5cs/XITE_Celebrates.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD350003932
-#EXTINF:-1 channel-id="SamsungTVPlus-USBD3300004RH" tvg-name="XITE Hits" tvg-id="USBD3300004RH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20241105T024203SQUARE.png" group-title="Музыкальные 🎼" tvg-chno="4323",XITE Hits
-https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300004RH
-#EXTINF:-1 channel-id="SamsungTVPlus-USBD3300005EX" tvg-name="XITE Icons" tvg-id="USBD3300005EX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300005EX_20240716T002645SQUARE.png" group-title="Музыкальные 🎼" tvg-chno="4358",XITE Icons
-https://d13bxksjj2abuy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yxuum05f6hop9/XITE_Icons.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300005EX
-#EXTINF:-1 channel-id="SamsungTVPlus-USBB2300003JZ" tvg-name="XITE Just Chill" tvg-id="USBB2300003JZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300003JZ_20240716T002652SQUARE.png" group-title="Музыкальные 🎼" tvg-chno="4363",XITE Just Chill
-https://dvnftgdlbnemm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dh48uzd9o895t/XITE_Just_Chill.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB2300003JZ
-#EXTINF:-1 channel-id="SamsungTVPlus-USBD3300007PB" tvg-name="XITE Nuevo Latino" tvg-id="USBD3300007PB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300007PB_20240924T011037SQUARE.png" group-title="Музыкальные 🎼" tvg-chno="4338",XITE Nuevo Latino
-https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300007PB
-#EXTINF:-1 channel-id="SamsungTVPlus-USBD3300008DG" tvg-name="XITE Only Love" tvg-id="USBD3300008DG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300008DG_20240716T002646SQUARE.png" group-title="Музыкальные 🎼" tvg-chno="4368",XITE Only Love
-https://d3a9vrmy2tps6h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wvkbtotxbhlwq/XITE_Only_Love.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300008DG
-#EXTINF:-1 channel-id="SamsungTVPlus-USBB2300004KV" tvg-name="XITE Rock x Metal" tvg-id="USBB2300004KV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300004KV_20240716T002654SQUARE.png" group-title="Музыкальные 🎼" tvg-chno="4353",XITE Rock x Metal
-https://d198ro05q94rc4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c5xdq9qwilrd2/XITE_Rock_On.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB2300004KV
-#EXTINF:-1 channel-id="SamsungTVPlus-USBD3300010L9" tvg-name="XITE Siempre Latino" tvg-id="USBD3300010L9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300010L9_20240924T011040SQUARE.png" group-title="Музыкальные 🎼" tvg-chno="4343",XITE Siempre Latino
-https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300010L9
-#EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC21000022L_20250107T024438SQUARE.png",Vevo Schlager Pop
-https://jmp2.uk/stvp-DEBC21000022L
-#EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1900013CB_20250513T005804SQUARE.png",Vevo Rétro
-https://jmp2.uk/stvp-FRBD1900013CB
-#EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC2100001G9_20241022T043927SQUARE.png",Vevo Pop
-https://jmp2.uk/stvp-ITBC2100001G9
-#EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3500001PK_20251028T011429SQUARE.png",Vevo Noël
-https://jmp2.uk/stvp-USBD3300010L9
-#EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900009UD_20250107T030827SQUARE.png",Vevo '70s & '80s
-https://jmp2.uk/stvp-GBBD1900009UD
-#EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC210000200_20241022T043924SQUARE.png",Vevo '90s & '00s
-https://jmp2.uk/stvp-ITBC210000200
-#EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/NOW_70s.png/200px-NOW_70s.png",Now 70's
-https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" ,Now 80's
-https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼",Now Rock
-https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://www.coolstreaming.us/img/ch/ima50357087515.jpg",88 STEREO TV
-http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://i.postimg.cc/htkDhkfS/image.jpg",Super Six
-https://5db313b643fd8.streamlock.net:443/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://pbs.twimg.com/profile_images/934720615298236416/G_VUWXnh_400x400.jpg",Afrobeats TV
-https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://i.postimg.cc/7LdPjqL2/914-ocko-hity.jpg",ÓČKO HITY
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://www.coolstreaming.us/img/ch/image24561560526.jpg",Zerouno TV
-https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://barazaradio.com/wp-content/uploads/2022/12/logo-300x300.png",Baraza TV Hits
-https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://dvb.by/sources/logos/1607s.png",Trace Urban HD
-https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://i2.wp.com/www.afghanlive.tv/wp-content/uploads/2015/04/kayhant-tv-live.jpg",Kayhan Afghan
-https://playout395.livestreamingcdn.com/live/Stream1/chunklist_w523424868.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://vipotv.com/wp-content/uploads/2020/10/Persiana-Nostalgia.png",Persiana Nostalgia
-https://noshls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://vipotv.com/wp-content/uploads/2020/09/Persiana-Music-min.png",Persiana Music
-https://musichls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://www.coolstreaming.us/img/ch/image63665874675.jpg",PERSIANA SONNATI TV
-https://sonhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://vipotv.com/wp-content/uploads/2021/01/4kurd-vipotv.png",4 Kurd
-https://4kuhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_44.png",Power TV
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼",Power Türk [TR]
-https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2556.png",Power Dance
-https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2559.png",Power Love
-https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2577.png",PowerTürk Slow
-https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2534.png",PowerTürk Taptaze
-https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2542.png",PowerTürk Akustik
-https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5da86c21d6a79912e3f698bff6234a2d.webp",Vibee TV
-https://abr.de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://img15.lostpic.net/2019/08/31/21d2b07e6372b09404d0f4abcd1ae56e.png",Kronehit TV
-http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="http://www.1muz.com/images/LOGORUS.png",Первый музыкальный
-http://hz1.teleport.cc/HLS/HD.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://www.rockfm.ro/assets/logo/rockfm-white.png",Rock TV
-https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://www.vibee.tv/wp-content/uploads/2020/09/logo_v2beat_page_small_rev.jpg",V2Beat TV Live
-https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://www.dancetv.net/img/DTlogo.png",Best of Dance TV
-https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://www.dancetv.net/img/DTlogo.png",DANCE TV TECHNO
-https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://www.dancetv.net/img/DTlogo.png",Techno Warehouse
-https://m2b2.worldcast.tv:7443/dancetelevisionfour/2/dancetelevisionfour.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://www.dancetv.net/img/DTlogo.png", House Floor
-https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://www.dancetv.net/img/DTlogo.png",EDM Mainstage
-https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎼" tvg-logo="https://www.dancetv.net/img/DTlogo.png",Minimal / Deep Tech
-https://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8
-
-#EXTINF:0,viju+ Serial 
+#EXTINF:0,viju+ Serial
 #EXTGRP:КИНО
 http://mfe02.cliptv.az/dash/MGM_HDqwervbyu78.ism/playlist.mpd
 #EXTINF:0,Кинокомедияᴴᴰ
 #EXTGRP:КИНО
 https://stream8.cinerama.uz/1232/tracks-v2a1/mono.m3u8
-#EXTINF:0,Кинопремьера 
+#EXTINF:0,Кинопремьера
 #EXTGRP:КИНО
 http://158.101.222.193:88/georgia_play.php?id=kinopremyerahd
 #EXTINF:0,Мужское Кино
@@ -1289,7 +1127,6 @@ http://stitch.teletarget.ru/vintera/movieseason/index.m3u8
 #EXTINF:0,Кинопанорама
 #EXTGRP:КИНО
 https://tinyurl.com/TvZaTak09/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
-
 #EXTINF:0,Viasat Kino Comedyᴴᴰ
 #EXTGRP:КИНОЗАЛ
 http://ukr2.ukrainske.tv/493/video.m3u8
@@ -1302,9 +1139,6 @@ http://185.57.68.33/237/mpegts
 #EXTINF:0,ATV Cineman 6 SD
 #EXTGRP:КИНОЗАЛ
 http://timeshift.arpinet.am/255/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0,LIVETV SD
-#EXTGRP:КИНОЗАЛ
-http://tv.mobyservice.ru/livetv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDI1IDI6NDk6MzYgUE0maGFzaF92YWx1ZT12Q1hScElvWmtORUJNNU91R1k1alNnPT0mdmFsaWRtaW51dGVzPTQ4MA==
 #EXTINF:0,КиноМенюᴴᴰ
 #EXTGRP:КИНОЗАЛ
 http://stitch.teletarget.ru/vintera/kinomenu/index.m3u8
@@ -1371,8 +1205,6 @@ http://45.145.32.13:20440/ctc_kids_hd/index.m3u8?token=test
 #EXTINF:0,Русский Романᴴᴰ
 #EXTGRP:СЕРИАЛЫ
 http://31.148.48.15:80/Russkiy_Roman_HD/index.m3u8
-
-
 #EXTINF:0 tvg-rec="7",История
 #EXTGRP:🌎 «Природа и создатели»
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/111/index.m3u8
@@ -1787,7 +1619,6 @@ https://tinyurl.com/TvZaTak05/1413/tracks-v1a1/mono.m3u8
 #EXTINF:0,Охотник и Рыболовᴴᴰ
 #EXTGRP:ХОББИ И УВЛЕЧЕНИЯ
 https://s06.watcher.uz/123/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
-
 #EXTINF:0,МАТЧ! HD
 #EXTGRP:МАТЧ
 http://cdn.balelbrus.com/bigteisti9/M_HD/index.m3u8?token=eG1lbnRzMnx8ZVhWeWVYZzRPVEE0TVRNek16QTJOWGc9
@@ -1956,7 +1787,6 @@ https://live.teleradiocom.tj/5/3m.m3u8
 #EXTINF:0,Eurosport 2
 #EXTGRP:СПОРТ
 http://46.32.176.50/eurosport2/index.m3u8
-
 #EXTINF:0,Rutube TV HD
 #EXTGRP:RUTUBE
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=Ji-luKMgHpxfeSnFoMzr3Q&e=2066519748&scheme=https
@@ -2011,9 +1841,6 @@ https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 #EXTINF:0,Загородный International HD
 #EXTGRP:RUTUBE
 https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=QphNe1SSqWIVzqysroZi3A&e=2066519763&scheme=https
-#EXTINF:0,Плюс Минус 16 HD
-#EXTGRP:RUTUBE
-https://bl.rutube.ru/livestream/99d4597cea881a27cf7dd6e65a74dade/index.m3u8?s=G9lTLpzwecUsgTzNvMfI_A&e=2073777421&scheme=https
 #EXTINF:0,Нано ТВ FD
 #EXTGRP:RUTUBE
 https://bl.rutube.ru/livestream/cf958b6c9ae4504be5fc2c1de358a017/index.m3u8?s=u9K363mAbHBgHUInW6405g&e=2066519761&scheme=https
@@ -2023,15 +1850,9 @@ https://bl.rutube.ru/livestream/2372550cb9fd4b970a274ebec6c71839/index.m3u8?s=gn
 #EXTINF:0,Среда
 #EXTGRP:RUTUBE
 https://bl.rutube.ru/livestream/5fa486bf465c8735fff9f41b372610cc/index.m3u8?s=9MaxdUQ2XSdROnGyXREfWA&e=2070450944&scheme=https
-#EXTINF:0,ОТС HD
-#EXTGRP:RUTUBE
-https://bl.rutube.ru/livestream/39c5bfe012402990e6402eded8bdc761/index.m3u8?s=c9q62gBoFEddan05egItTQ&e=2066519773&scheme=https
 #EXTINF:0,Ника ТВ SD
 #EXTGRP:RUTUBE
 https://bl.rutube.ru/livestream/37d722b7752cd193a3f94d71cc9d60f5/index.m3u8?s=Cq5FAbd7OcqDeJ24tuqOiA&e=2066519789&scheme=https
-#EXTINF:0,Саратов 24 HD
-#EXTGRP:RUTUBE
-https://bl.rutube.ru/livestream/e07fffc5eb21f98a5ade09e825d7095a/index.m3u8?s=o0ktlvTzTfhFIdLpXR_1jQ&e=2066519798&scheme=https
 #EXTINF:0,ТМК HD
 #EXTGRP:RUTUBE
 https://bl.rutube.ru/livestream/740503607d216b5d467694a1e8fb39a8/index.m3u8?s=HXdOb9tCHfkHfjFLxpmTJg&e=2066519810&scheme=https
@@ -2074,7 +1895,6 @@ https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=DM
 #EXTINF:0,HHQ HD
 #EXTGRP:RUTUBE
 https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=oK_3ut_zlDkP3J7p2hPAZA&e=2066519769&scheme=https
-
 #EXTINF:0,Техно 24
 #EXTGRP:𝕋𝕧ℤ𝕒𝕋𝕒𝕜
 https://s05.watcher.uz/29/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
@@ -2138,7 +1958,6 @@ https://tinyurl.com/TvZaTak05/1271/tracks-v1a1/mono.m3u8
 #EXTINF:0,Мульт FHD
 #EXTGRP:𝕋𝕧ℤ𝕒𝕋𝕒𝕜
 https://tinyurl.com/TvZaTak05/1246/tracks-v1a1/mono.m3u8
-
 #EXTINF:0,ПЕРВЫЙ КАНАЛ
 #EXTGRP:RU 4
 http://95.47.155.244:8001/play/a001
@@ -2196,10 +2015,6 @@ http://95.47.155.244:8001/play/a018
 #EXTINF:0,ТНТ
 #EXTGRP:RU 4
 http://95.47.155.244:8001/play/a019
-#EXTINF:0,МУЗ ТВ
-#EXTGRP:RU 4
-http://95.47.155.244:8001/play/a020
-
 #EXTINF:0,Комсомольцы
 #EXTGRP:Девяностые
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/198/551.mp4
@@ -2350,7 +2165,6 @@ https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/123/052.mp4
 #EXTINF:0,Смертельный хип хоп
 #EXTGRP:Девяностые
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/110/708.mp4
-
 #EXTINF:0,1 Серия Следствие вели...🎬 с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data04-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_2006.01.20..001..Kremlevskiy.gambit.v1a1.30.05.24.mp4
@@ -3926,7 +3740,6 @@ http://data11-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Shosse.V.N
 #EXTINF:0,645 Серия Следствие вели...🎬 с Леонидом Каневским
 #EXTGRP:Следствие вели
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Obruchalnoe.kolcokanevskiy..v1a1.30.12.24.mp4
-
 #EXTINF:0,1 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data05-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.001..24.06.1995[DVDrip].v1a1.10.02.23.mp4
@@ -4734,7 +4547,6 @@ http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalna
 #EXTINF:0,350 Серия Криминальная Россия
 #EXTGRP:Криминальная Россия
 http://data01-cdn.11cdn.org/fi2lm/c2274b0aaee3d39b57027d58dc249322/7f_Kriminalnaya.Rossiya.350.201425.11.2014[SATRrip].v1a1.10.02.23.mp4
-
 #EXTINF:0,А зори здесь тихие
 #EXTGRP:Тайны нашего кино
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/092/412.mp4
@@ -5041,7 +4853,6 @@ https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high/065/636.mp4
 #EXTINF:0,Жестокий романс
 #EXTGRP:Тайны нашего кино
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/079/154.mp4
-
 #EXTINF:0,Актёрские трагедии. За кулисами мелодрам
 #EXTGRP:Советские артисты
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/145/290.mp4
@@ -5737,16 +5548,14 @@ https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/090/641.mp4
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high/058/086.mp4
 #EXTINF:0,Игорь Старыгин. Ледяное сердце
 #EXTGRP:Советские артисты
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/full-hd/208/076.mp4
 #EXTGRP:Советские артисты
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/120/860.mp4
+https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/full-hd/208/076.mp4
 #EXTINF:0,Игорь Костолевский. Расставаясь с иллюзиями
 #EXTGRP:Советские артисты
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/165/381.mp4
 #EXTINF:0,Иван Бортник. Я не Промокашка!
 #EXTGRP:Советские артисты
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/228/107.mp4
-
 #EXTINF:0,Георгий Жуков
 #EXTGRP:Прощание
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/105/487.mp4
@@ -6056,7 +5865,6 @@ https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/240/765.mp4
 #EXTINF:0,Владимир Жириновский
 #EXTGRP:Прощание
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/230/123.mp4#EXT-X-ENDLIST
-
 #EXTINF:-1  group-title="Уральские Пельмени 😂" ,Азбука уральских пельменей З
 https://edge-b-01.ctc.ru/vod/hls/fta/AIMijmgdia6jQqEyDeEukg/ddf164a3bdf520bd33892ed7145dc0c2-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
 #EXTINF:-1  group-title="Уральские Пельмени 😂" ,Муж на щас
