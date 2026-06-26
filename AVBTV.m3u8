@@ -788,8 +788,6 @@ https://kinowalk.hopto.org/aleksey_24rus_live
 https://kinowalk.hopto.org/www.konoval_tv_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",RedFох HD 🎦🎶-🟡🟢
 https://kinowalk.hopto.org/redfoxs_live
-#EXTINF:-1  group-title="🚫 Kinowalk TV",VidFok 🎶-🟢🟡
-https://kinowalk.hopto.org/vidfok_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",Шурентий Live HD 🎦-🟡🟢
 https://kinowalk.hopto.org/shurentiy_live_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",VHS Power 🎦📺🧒🎶-️🟢🟡
@@ -824,8 +822,6 @@ https://kinowalk.hopto.org/katerina_nikolai_live
 https://kinowalk.hopto.org/3jiou_tatapuh_live
 #EXTINF:-1  tvg-logo="https://images.live.vkvideo.ru/user/19397267/avatar?change_time=1763534733&croped=1&mh=140&mw=140" group-title="🚫 Kinowalk TV",Alex.Films 🎦📺-️🟢🟡
 https://kinowalk.hopto.org/alex.films_live
-#EXTINF:-1  group-title="🚫 Kinowalk TV",Airatos Plays HD 🎦♣︎-🟡🟢
-https://kinowalk.hopto.org/airat1992_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",LifeZ 📺♣︎-🟢🟡
 https://kinowalk.hopto.org/zhekos_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",Space Wanderer HD 🎦♣︎-🟡🟢
@@ -848,8 +844,6 @@ https://kinowalk.hopto.org/kinofon_live
 https://kinowalk.hopto.org/era_vhs_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",не Кино 🎦🧒-🟡🟢
 https://kinowalk.hopto.org/notnotes_live
-#EXTINF:-1  group-title="🚫 Kinowalk TV",BOH 🎦📺🔎⛹🏿🎶♣︎-🟡🟢
-https://kinowalk.hopto.org/boh_music_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",КИНОУЖАС HD 🎦-🟡🟢
 https://kinowalk.hopto.org/kinouzhas_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",VideoVk 🎦-🟡🟢
@@ -878,8 +872,6 @@ https://kinowalk.hopto.org/milah_live
 https://kinowalk.hopto.org/kinoteka_full_hd_top_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",VKTV HD 📺-🟡🟢
 https://kinowalk.hopto.org/vktv_hd_cinema_live
-#EXTINF:-1 group-title="🚫 Kinowalk TV" ,ФИЛЬМЫ & СЕРИАЛЫ 🎦📺-🔴🟢
-https://kinowalk.hopto.org/films_serials_24_7_live_live
 #EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/18824582/avatar?change_time=1714643599&croped=1&mh=140&mw=140" group-title="🚫 Kinowalk TV" ,ZubrilomFilm 🎦-🟢🔴🟡
 https://kinowalk.hopto.org/zubrilomfilm_live
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rf5ChNbx/image-9.png" tvg-id="" group-title="🚫 Kinowalk TV", Дикарка 🎦-🟢🔴🟡
@@ -891,6 +883,8 @@ https://kinowalk.hopto.org/strannik1177_live
 https://kinowalk.hopto.org/kinopro_live
 #EXTINF:-1 group-title="🚫 Kinowalk TV" ,MAKARSTRIM ♣︎-🟢🔴🟡
 https://kinowalk.hopto.org/makarstrim_live
+#EXTINF:-1 group-title="🚫 Kinowalk TV" ,ФИЛЬМЫ & СЕРИАЛЫ 🎦📺-🟢🔴
+https://kinowalk.hopto.org/films_serials_24_7_live_live
 #EXTINF:-1 group-title="🚫 Kinowalk TV" ,Alexis Assa 🎦-🟡🟢
 https://kinowalk.hopto.org/alexisassa_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",Disney Channel ◻️-🟡🔴
@@ -909,6 +903,12 @@ https://kinowalk.hopto.org/raznoekino_live
 https://kinowalk.hopto.org/kinokjkh_live
 #EXTINF:-1  group-title="🚫 Kinowalk TV",Сериалы & Кино HD 🎦📺-🟡
 https://kinowalk.hopto.org/aleksej26_live
+#EXTINF:-1 group-title="🚫 Kinowalk TV" ,Airatos Plays HD 🎦♣︎-🔴🟡🟢
+https://kinowalk.hopto.org/airat1992_live
+#EXTINF:-1 group-title="🚫 Kinowalk TV" ,BOH 🎦📺🔎⛹🏿🎶♣︎-🔴🟡🟢
+https://kinowalk.hopto.org/boh_music_live
+#EXTINF:-1 group-title="🚫 Kinowalk TV" ,VidFok 🎶-🔴🟢🟡
+https://kinowalk.hopto.org/vidfok_live
 #EXTINF:-1 group-title="🚫 Kinowalk TV" ,Tоny 🎦-🔴🟡🟢
 https://kinowalk.hopto.org/ordinary_people_live
 #EXTINF:-1  tvg-logo="https://images.live.vkvideo.ru/user/19940394/avatar?change_time=1734982742&croped=1&mh=140&mw=140" group-title="🚫 Kinowalk TV",Фильмы сериалы 🎦📺-🔴🟡🟢
@@ -1010,10 +1010,6 @@ https://kinowalk.hopto.org/prizrak-oz_live
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" tvg-id="" group-title="🚫 Kinowalk TV", ФИЛЬМЫ&СЕРИАЛЫ ◻️-🔴
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://kinowalk.hopto.org/films_serials_24_7_live/_live
-#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://img.catcast.tv/uploads/16052025/banners/33418-682782266b049.png", Phoenix TV
-https://karapuztv.catcast.tv/content/33418/index.m3u8
-#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://img.catcast.tv/uploads/17102025/banners/49702-68f21e2ea83d1.png", TvBoom-ViP
-https://kb.catcast.tv/content/49702/index.m3u8
 #EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7",Сити Эдем Meditation Music
 https://cityeden.catcast.tv/content/47410/index.m3u8
 #EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7",Сити Эдем Play Христианский Музыкальный
@@ -1052,21 +1048,4 @@ https://cityeden.catcast.tv/content/47516/index.m3u8
 https://cityeden.catcast.tv/content/46421/index.m3u8
 #EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://www.cityeden.info/logotv/logotip_telenovella.png",Сити Эдем ТелеНовелла
 https://cityeden.catcast.tv/content/46209/index.m3u8
-#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://img.catcast.tv/uploads/09072020/logos/38720-5f06c9ff9fbbd.png",Детское кино International
-https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://img.catcast.tv/uploads/25062020/logos/38617-5ef3d12196e3e.png",Кино 1 International
-https://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://img.catcast.tv/uploads/25062020/logos/37745-5ef3d10ff0621.png",Музыка 1 International
-https://kino-1.catcast.tv/content/37745/index.m3u8
-#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://img.catcast.tv/uploads/25062020/logos/37742-5ef3cf8ca433c.png",Музыка 2 International
-https://kino-1.catcast.tv/content/37742/index.m3u8
-#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://img.catcast.tv/uploads/23012020/37739-5e2a007a3928b.png",Музыка Кино International
-https://kino-1.catcast.tv/content/37739/index.m3u8
-#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://img.catcast.tv/logos/3a88436baae7495719cbc69c6f020f52.png",HGTN
-https://v2.catcast.tv/content/34251/index.m3u8
-#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://catcast.tv/assets/no-logo.svg",Телеканал Андийцы
-https://v2.catcast.tv/content/34114/index.m3u8
-#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7" tvg-logo="https://img.catcast.tv/uploads/10082022/logos/40650-62f2d2890f632.jpg",NM Television
-https://tv.a21network.ru/content/40650/index.m3u8
-#EXTINF:-1 group-title="Catcast TV 🐈 Not 24/7",ԼԱՅՄ GOLD TV
-https://v2.catcast.tv/content/40546/index.m3u8
+
