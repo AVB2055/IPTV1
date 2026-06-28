@@ -248,6 +248,234 @@ http://185.46.16.239:8000/National_Geographic_HD
 http://185.46.16.239:8000/Disney_Channel
 #EXTINF:-1 group-title="📡 Mix-TV 02",Ani
 http://185.46.16.239:8000/Ani
+#EXTINF:0,Rutube TV HD
+#EXTGRP:RUTUBE
+https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=Ji-luKMgHpxfeSnFoMzr3Q&e=2066519748&scheme=https
+#EXTINF:0,4 Kанал FD
+#EXTGRP:RUTUBE
+https://bl.rutube.ru/livestream/c6f66b644424c117f41e48062719ceed/index.m3u8?s=Fb8a78jyBbS1tW-YDOOz4g&e=2066519781&scheme=https
+#EXTINF:0,Первоуральск ТВ HD
+#EXTGRP:RUTUBE
+https://bl.rutube.ru/livestream/59e0373a9aa587e06aeaf9009f86ded1/index.m3u8?s=Hh_6n0LBF9hv2gB_WddMnQ&e=2066519780&scheme=https
+#EXTINF:0,ЗВЕЗДА HD
+#EXTGRP:RUTUBE
+https://bl.rutube.ru/livestream/5ab908fccfac5bb43ef2b1e4182256b0/index.m3u8?s=hXjqQZCnC74PCA0_2_CX-A&e=2066519791&scheme=https
+#EXTINF:0,ОТР SD
+#EXTGRP:RUTUBE
+https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=i9-CS7XwJ2d3q51PMplIOA&e=2066519836&scheme=https
+#EXTINF:0,ТНТ4 HD
+#EXTGRP:RUTUBE
+https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=33h8x0WD4pYRIQ77h5Wg_Q&e=2066519752&scheme=https
+#EXTINF:0,ПЯТНИЦА! HD
+#EXTGRP:RUTUBE
+https://bl.rutube.ru/livestream/d90aa86cc5b1d4a7b310c85debcee474/index.m3u8?s=N_clKU9DhT2wtHwrnQNtHg&e=2066519753&scheme=https
+#EXTINF:0,Солнце SD
+#EXTGRP:RUTUBE
+https://bl.rutube.ru/livestream/2dba20a8405e57935827cb5721c2b759/index.m3u8?s=u44md9mbe5_YqzT_OGl2Sg&e=2066519846&scheme=https
+#EXTINF:0,Радость моя FD
+#EXTGRP:RUTUBE
+https://bl.rutube.ru/livestream/9ad2099eed71b4a0e577292c3bfd0708/index.m3u8?s=-clkQoFLfOfwwoPaI8eVsQ&e=2066519844&scheme=https
+#EXTINF:0,Смайлик ТВ SD
+#EXTGRP:RUTUBE
+https://bl.rutube.ru/livestream/2f052691c75d72b3ed7f3c33ea956a41/index.m3u8?s=YAP6H4HdmLiQ3ji9VIdFbg&e=2066519845&scheme=https
+#EXTINF:0,КРИК-ТВ HD
+#EXTGRP:RUTUBE
+https://bl.rutube.ru/livestream/f372aa2aff09518d050ecdf70956012c/index.m3u8?s=zqF8COx7qN-jbhFv7NK-7A&e=2066519811&scheme=https
+#EXTINF:0,Царьград HD
+#EXTGRP:RUTUBE
+https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=ISWC8uuBJlLIBfHVSaOalw&e=2066519828&scheme=https
+#EXTINF:0,БелРос FD
+#EXTGRP:RUTUBE
+https://bl.rutube.ru/livestream/46c03b7f1a7255326900f4a60a9b44e0/index.m3u8?s=VHiYqSicSMcfMQP30ve9QA&e=2066519782&scheme=https
+#EXTINF:0,Киножелезо HD
+#EXTGRP:RUTUBE
+https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=gMBYxSllxsSYVvLG71o4eg&e=2066519765&scheme=https
+#EXTINF:0,Кинолаффка HD
+#EXTGRP:RUTUBE
+https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=EitE3dIQuvlRYwy1O3-YuA&e=2066519766&scheme=https
+#EXTINF:0,Mr.Bean Cartoon HD
+#EXTGRP:RUTUBE
+https://bl.rutube.ru/livestream/0e9e44725d5d5ab7ee92c10b40215419/index.m3u8?s=x2-KvlIlDO7JTvW9rPHDVA&e=2066519767&scheme=https
+#EXTINF:0,Охотник и Рыболов HD
+#EXTGRP:RUTUBE
+https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
+#EXTINF:0,Загородный International HD
+#EXTGRP:RUTUBE
+https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=QphNe1SSqWIVzqysroZi3A&e=2066519763&scheme=https
+#EXTINF:0,Нано ТВ FD
+#EXTGRP:RUTUBE
+https://bl.rutube.ru/livestream/cf958b6c9ae4504be5fc2c1de358a017/index.m3u8?s=u9K363mAbHBgHUInW6405g&e=2066519761&scheme=https
+#EXTINF:0,UNIVER HD
+#EXTGRP:RUTUBE
+https://bl.rutube.ru/livestream/2372550cb9fd4b970a274ebec6c71839/index.m3u8?s=gnHOBfhHc9MLalHXeJlyHg&e=2066519833&scheme=https
+#EXTINF:0,Среда
+#EXTGRP:RUTUBE
+https://bl.rutube.ru/livestream/5fa486bf465c8735fff9f41b372610cc/index.m3u8?s=9MaxdUQ2XSdROnGyXREfWA&e=2070450944&scheme=https
+#EXTINF:0,Ника ТВ SD
+#EXTGRP:RUTUBE
+https://bl.rutube.ru/livestream/37d722b7752cd193a3f94d71cc9d60f5/index.m3u8?s=Cq5FAbd7OcqDeJ24tuqOiA&e=2066519789&scheme=https
+#EXTINF:0,ТМК HD
+#EXTGRP:RUTUBE
+https://bl.rutube.ru/livestream/740503607d216b5d467694a1e8fb39a8/index.m3u8?s=HXdOb9tCHfkHfjFLxpmTJg&e=2066519810&scheme=https
+#EXTINF:0,Своё ТВ HD
+#EXTGRP:RUTUBE
+https://bl.rutube.ru/livestream/1932f750f00f3a742a1d90c62d0076ad/index.m3u8?s=UAomZvLm8vOyZ7zbSSreUw&e=2066519812&scheme=https
+#EXTINF:0,ТОЛК SD
+#EXTGRP:RUTUBE
+https://bl.rutube.ru/livestream/0115cdc35fb5234242a89de98137dca9/index.m3u8?s=PlOa9XzzsNf9g1NVUMEy3A&e=2066519817&scheme=https
+#EXTINF:0,Волейбол HD
+#EXTGRP:RUTUBE
+https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=62YA56HThqaPRiNQeIIuFA&e=2066519932&scheme=https
+#EXTINF:0,Red Bull TV HD
+#EXTGRP:RUTUBE
+https://bl.rutube.ru/livestream/45b30eef1b89857182b03db2c25631d9/index.m3u8?s=k1UNcutEXItTgOgKpBfp3g&e=2066519932&scheme=https
+#EXTINF:0,Unbeaten HD
+#EXTGRP:RUTUBE
+https://bl.rutube.ru/livestream/efc2833169ec20a3ea61197714bea6ab/index.m3u8?s=JJ1LT-dHls975qnnen4uqA&e=2066519933&scheme=https
+#EXTINF:0,Sky Sports Tennis SD
+#EXTGRP:RUTUBE
+https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=q1hKYo31V3o7J2bvt5hUqQ&e=2066519930&scheme=https
+#EXTINF:0,beIN SPORTS XTRA (Español) HD
+#EXTGRP:RUTUBE
+https://bl.rutube.ru/livestream/05550e441b09aeec53e60de66b6c47bf/index.m3u8?s=-wzNcUB108DYEAES0EO4qw&e=2066519928&scheme=https
+#EXTINF:0,Смотри Радио SD
+#EXTGRP:RUTUBE
+https://bl.rutube.ru/livestream/18eda61a347b781dd765b410133ef33a/index.m3u8?s=bIUOW4MKn42KB6AoQvpwEQ&e=2066519847&scheme=https
+#EXTINF:0,RU.TV HD
+#EXTGRP:RUTUBE
+https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=-vKViIF4wpjkGFeoRCdyYw&e=2066519850&scheme=https
+#EXTINF:0,МузТВ HD
+#EXTGRP:RUTUBE
+https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=On_-8-ES9PLCaKRlOkX_Mg&e=2066519852&scheme=https
+#EXTINF:0,ММТВ HD
+#EXTGRP:RUTUBE
+https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=Mn0zcNb_7CJ_LE91r5mKdw&e=2066519853&scheme=https
+#EXTINF:0,Viva Russia HD
+#EXTGRP:RUTUBE
+https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=DMmpli1WIQUocDbjCe_9Cg&e=2070450963&scheme=https
+#EXTINF:0,HHQ HD
+#EXTGRP:RUTUBE
+https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=oK_3ut_zlDkP3J7p2hPAZA&e=2066519769&scheme=https
+#EXTINF:0,Техно 24
+#EXTGRP:𝕋𝕧ℤ𝕒𝕋𝕒𝕜
+https://s05.watcher.uz/29/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:0,Первый Космический
+#EXTGRP:𝕋𝕧ℤ𝕒𝕋𝕒𝕜
+https://stream8.cinerama.uz/1415/tracks-v1a1/mono.m3u8
+#EXTINF:0,Моя Планета FHD
+#EXTGRP:𝕋𝕧ℤ𝕒𝕋𝕒𝕜
+https://tinyurl.com/TvZaTak05/1247/tracks-v1a1/mono.m3u8
+#EXTINF:0,Глазами Туриста
+#EXTGRP:𝕋𝕧ℤ𝕒𝕋𝕒𝕜
+https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
+#EXTINF:0,Наука FHD
+#EXTGRP:𝕋𝕧ℤ𝕒𝕋𝕒𝕜
+https://tinyurl.com/TvZaTak05/1248/tracks-v1a1/mono.m3u8
+#EXTINF:0,В Мире Животных SD
+#EXTGRP:𝕋𝕧ℤ𝕒𝕋𝕒𝕜
+https://tinyurl.com/TvZaTak05/1404/tracks-v1a1/mono.m3u8
+#EXTINF:0,NAT GEO WILD
+#EXTGRP:𝕋𝕧ℤ𝕒𝕋𝕒𝕜
+https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
+#EXTINF:0,Insight TV HD
+#EXTGRP:𝕋𝕧ℤ𝕒𝕋𝕒𝕜
+https://s06.watcher.uz/124/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:0,Кухня ТВ
+#EXTGRP:𝕋𝕧ℤ𝕒𝕋𝕒𝕜
+https://watcher.uz:443/96/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:0,Капитан Фантастика
+#EXTGRP:𝕋𝕧ℤ𝕒𝕋𝕒𝕜
+https://tinyurl.com/TvZaTak05/1406/tracks-v1a1/mono.m3u8
+#EXTINF:0,Zooпарк
+#EXTGRP:𝕋𝕧ℤ𝕒𝕋𝕒𝕜
+https://tinyurl.com/TvZaTak05/1417/tracks-v1a1/mono.m3u8
+#EXTINF:0,Живи Активно
+#EXTGRP:𝕋𝕧ℤ𝕒𝕋𝕒𝕜
+https://tinyurl.com/TvZaTak05/1405/tracks-v1a1/mono.m3u8
+#EXTINF:0,Живи!
+#EXTGRP:𝕋𝕧ℤ𝕒𝕋𝕒𝕜
+https://watcher.uz:443/110/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:0,Арсенал
+#EXTGRP:𝕋𝕧ℤ𝕒𝕋𝕒𝕜
+https://tinyurl.com/TvZaTak05/1414/tracks-v1a1/mono.m3u8
+#EXTINF:0,TV1000 ACTION HD
+#EXTGRP:𝕋𝕧ℤ𝕒𝕋𝕒𝕜
+https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
+#EXTINF:0,Kinoteatr HD
+#EXTGRP:𝕋𝕧ℤ𝕒𝕋𝕒𝕜
+https://tinyurl.com/TvZaTak05/1009/tracks-v1a1/mono.m3u8
+#EXTINF:0,Dunyo bo`ylab HD
+#EXTGRP:𝕋𝕧ℤ𝕒𝕋𝕒𝕜
+https://tinyurl.com/TvZaTak05/1006/tracks-v1a1/mono.m3u8
+#EXTINF:0,Cinema FHD
+#EXTGRP:𝕋𝕧ℤ𝕒𝕋𝕒𝕜
+https://tinyurl.com/TvZaTak05/1227/tracks-v1a1/mono.m3u8
+#EXTINF:0,Пятница
+#EXTGRP:𝕋𝕧ℤ𝕒𝕋𝕒𝕜
+http://tinyurl.com/TvZaTak11/2060/index.m3u8
+#EXTINF:0,Duck TV FD
+#EXTGRP:𝕋𝕧ℤ𝕒𝕋𝕒𝕜
+https://tinyurl.com/TvZaTak05/1271/tracks-v1a1/mono.m3u8
+#EXTINF:0,Мульт FHD
+#EXTGRP:𝕋𝕧ℤ𝕒𝕋𝕒𝕜
+https://tinyurl.com/TvZaTak05/1246/tracks-v1a1/mono.m3u8
+#EXTINF:0,ПЕРВЫЙ КАНАЛ
+#EXTGRP:RU 4
+http://95.47.155.244:8001/play/a001
+#EXTINF:0,РОССИЯ-1
+#EXTGRP:RU 4
+http://95.47.155.244:8001/play/a002
+#EXTINF:0,МАТЧ!
+#EXTGRP:RU 4
+http://95.47.155.244:8001/play/a003
+#EXTINF:0,НТВ
+#EXTGRP:RU 4
+http://95.47.155.244:8001/play/a004
+#EXTINF:0,ПЯТЫЙ КАНАЛ
+#EXTGRP:RU 4
+http://95.47.155.244:8001/play/a005
+#EXTINF:0,РОССИЯ-К
+#EXTGRP:RU 4
+http://95.47.155.244:8001/play/a006
+#EXTINF:0,РОССИЯ-24
+#EXTGRP:RU 4
+http://95.47.155.244:8001/play/a007
+#EXTINF:0,КАРУСЕЛЬ
+#EXTGRP:RU 4
+http://95.47.155.244:8001/play/a008
+#EXTINF:0,ОТР
+#EXTGRP:RU 4
+http://95.47.155.244:8001/play/a009
+#EXTINF:0,ТВ Центр
+#EXTGRP:RU 4
+http://95.47.155.244:8001/play/a010
+#EXTINF:0,РЕН ТВ
+#EXTGRP:RU 4
+http://95.47.155.244:8001/play/a011
+#EXTINF:0,Спас
+#EXTGRP:RU 4
+http://95.47.155.244:8001/play/a012
+#EXTINF:0,СТС
+#EXTGRP:RU 4
+http://95.47.155.244:8001/play/a013
+#EXTINF:0,Домашний
+#EXTGRP:RU 4
+http://95.47.155.244:8001/play/a014
+#EXTINF:0,ТВ3
+#EXTGRP:RU 4
+http://95.47.155.244:8001/play/a015
+#EXTINF:0,Пятница
+#EXTGRP:RU 4
+http://95.47.155.244:8001/play/a016
+#EXTINF:0,Звезда
+#EXTGRP:RU 4
+http://95.47.155.244:8001/play/a017
+#EXTINF:0,МИР
+#EXTGRP:RU 4
+http://95.47.155.244:8001/play/a018
+#EXTINF:0,ТНТ
+#EXTGRP:RU 4
+http://95.47.155.244:8001/play/a019
 #EXTINF:-1  group-title="Кинофильмы и сериалы"  tvg-id="russkaya-komedia" ,Русская Комедия
 http://176.118.197.101/Komediya/mono.m3u8
 #EXTINF:-1  group-title="Кинофильмы и сериалы"  tvg-id="domkino" ,Дом Кино
@@ -1755,235 +1983,6 @@ https://tinyurl.com/TvZaTak05/1413/tracks-v1a1/mono.m3u8
 #EXTGRP:Познавательные
 https://s06.watcher.uz/123/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 
-
-#EXTINF:0,Rutube TV HD
-#EXTGRP:RUTUBE
-https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=Ji-luKMgHpxfeSnFoMzr3Q&e=2066519748&scheme=https
-#EXTINF:0,4 Kанал FD
-#EXTGRP:RUTUBE
-https://bl.rutube.ru/livestream/c6f66b644424c117f41e48062719ceed/index.m3u8?s=Fb8a78jyBbS1tW-YDOOz4g&e=2066519781&scheme=https
-#EXTINF:0,Первоуральск ТВ HD
-#EXTGRP:RUTUBE
-https://bl.rutube.ru/livestream/59e0373a9aa587e06aeaf9009f86ded1/index.m3u8?s=Hh_6n0LBF9hv2gB_WddMnQ&e=2066519780&scheme=https
-#EXTINF:0,ЗВЕЗДА HD
-#EXTGRP:RUTUBE
-https://bl.rutube.ru/livestream/5ab908fccfac5bb43ef2b1e4182256b0/index.m3u8?s=hXjqQZCnC74PCA0_2_CX-A&e=2066519791&scheme=https
-#EXTINF:0,ОТР SD
-#EXTGRP:RUTUBE
-https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=i9-CS7XwJ2d3q51PMplIOA&e=2066519836&scheme=https
-#EXTINF:0,ТНТ4 HD
-#EXTGRP:RUTUBE
-https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=33h8x0WD4pYRIQ77h5Wg_Q&e=2066519752&scheme=https
-#EXTINF:0,ПЯТНИЦА! HD
-#EXTGRP:RUTUBE
-https://bl.rutube.ru/livestream/d90aa86cc5b1d4a7b310c85debcee474/index.m3u8?s=N_clKU9DhT2wtHwrnQNtHg&e=2066519753&scheme=https
-#EXTINF:0,Солнце SD
-#EXTGRP:RUTUBE
-https://bl.rutube.ru/livestream/2dba20a8405e57935827cb5721c2b759/index.m3u8?s=u44md9mbe5_YqzT_OGl2Sg&e=2066519846&scheme=https
-#EXTINF:0,Радость моя FD
-#EXTGRP:RUTUBE
-https://bl.rutube.ru/livestream/9ad2099eed71b4a0e577292c3bfd0708/index.m3u8?s=-clkQoFLfOfwwoPaI8eVsQ&e=2066519844&scheme=https
-#EXTINF:0,Смайлик ТВ SD
-#EXTGRP:RUTUBE
-https://bl.rutube.ru/livestream/2f052691c75d72b3ed7f3c33ea956a41/index.m3u8?s=YAP6H4HdmLiQ3ji9VIdFbg&e=2066519845&scheme=https
-#EXTINF:0,КРИК-ТВ HD
-#EXTGRP:RUTUBE
-https://bl.rutube.ru/livestream/f372aa2aff09518d050ecdf70956012c/index.m3u8?s=zqF8COx7qN-jbhFv7NK-7A&e=2066519811&scheme=https
-#EXTINF:0,Царьград HD
-#EXTGRP:RUTUBE
-https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=ISWC8uuBJlLIBfHVSaOalw&e=2066519828&scheme=https
-#EXTINF:0,БелРос FD
-#EXTGRP:RUTUBE
-https://bl.rutube.ru/livestream/46c03b7f1a7255326900f4a60a9b44e0/index.m3u8?s=VHiYqSicSMcfMQP30ve9QA&e=2066519782&scheme=https
-#EXTINF:0,Киножелезо HD
-#EXTGRP:RUTUBE
-https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=gMBYxSllxsSYVvLG71o4eg&e=2066519765&scheme=https
-#EXTINF:0,Кинолаффка HD
-#EXTGRP:RUTUBE
-https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=EitE3dIQuvlRYwy1O3-YuA&e=2066519766&scheme=https
-#EXTINF:0,Mr.Bean Cartoon HD
-#EXTGRP:RUTUBE
-https://bl.rutube.ru/livestream/0e9e44725d5d5ab7ee92c10b40215419/index.m3u8?s=x2-KvlIlDO7JTvW9rPHDVA&e=2066519767&scheme=https
-#EXTINF:0,Охотник и Рыболов HD
-#EXTGRP:RUTUBE
-https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
-#EXTINF:0,Загородный International HD
-#EXTGRP:RUTUBE
-https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=QphNe1SSqWIVzqysroZi3A&e=2066519763&scheme=https
-#EXTINF:0,Нано ТВ FD
-#EXTGRP:RUTUBE
-https://bl.rutube.ru/livestream/cf958b6c9ae4504be5fc2c1de358a017/index.m3u8?s=u9K363mAbHBgHUInW6405g&e=2066519761&scheme=https
-#EXTINF:0,UNIVER HD
-#EXTGRP:RUTUBE
-https://bl.rutube.ru/livestream/2372550cb9fd4b970a274ebec6c71839/index.m3u8?s=gnHOBfhHc9MLalHXeJlyHg&e=2066519833&scheme=https
-#EXTINF:0,Среда
-#EXTGRP:RUTUBE
-https://bl.rutube.ru/livestream/5fa486bf465c8735fff9f41b372610cc/index.m3u8?s=9MaxdUQ2XSdROnGyXREfWA&e=2070450944&scheme=https
-#EXTINF:0,Ника ТВ SD
-#EXTGRP:RUTUBE
-https://bl.rutube.ru/livestream/37d722b7752cd193a3f94d71cc9d60f5/index.m3u8?s=Cq5FAbd7OcqDeJ24tuqOiA&e=2066519789&scheme=https
-#EXTINF:0,ТМК HD
-#EXTGRP:RUTUBE
-https://bl.rutube.ru/livestream/740503607d216b5d467694a1e8fb39a8/index.m3u8?s=HXdOb9tCHfkHfjFLxpmTJg&e=2066519810&scheme=https
-#EXTINF:0,Своё ТВ HD
-#EXTGRP:RUTUBE
-https://bl.rutube.ru/livestream/1932f750f00f3a742a1d90c62d0076ad/index.m3u8?s=UAomZvLm8vOyZ7zbSSreUw&e=2066519812&scheme=https
-#EXTINF:0,ТОЛК SD
-#EXTGRP:RUTUBE
-https://bl.rutube.ru/livestream/0115cdc35fb5234242a89de98137dca9/index.m3u8?s=PlOa9XzzsNf9g1NVUMEy3A&e=2066519817&scheme=https
-#EXTINF:0,Волейбол HD
-#EXTGRP:RUTUBE
-https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=62YA56HThqaPRiNQeIIuFA&e=2066519932&scheme=https
-#EXTINF:0,Red Bull TV HD
-#EXTGRP:RUTUBE
-https://bl.rutube.ru/livestream/45b30eef1b89857182b03db2c25631d9/index.m3u8?s=k1UNcutEXItTgOgKpBfp3g&e=2066519932&scheme=https
-#EXTINF:0,Unbeaten HD
-#EXTGRP:RUTUBE
-https://bl.rutube.ru/livestream/efc2833169ec20a3ea61197714bea6ab/index.m3u8?s=JJ1LT-dHls975qnnen4uqA&e=2066519933&scheme=https
-#EXTINF:0,Sky Sports Tennis SD
-#EXTGRP:RUTUBE
-https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=q1hKYo31V3o7J2bvt5hUqQ&e=2066519930&scheme=https
-#EXTINF:0,beIN SPORTS XTRA (Español) HD
-#EXTGRP:RUTUBE
-https://bl.rutube.ru/livestream/05550e441b09aeec53e60de66b6c47bf/index.m3u8?s=-wzNcUB108DYEAES0EO4qw&e=2066519928&scheme=https
-#EXTINF:0,Смотри Радио SD
-#EXTGRP:RUTUBE
-https://bl.rutube.ru/livestream/18eda61a347b781dd765b410133ef33a/index.m3u8?s=bIUOW4MKn42KB6AoQvpwEQ&e=2066519847&scheme=https
-#EXTINF:0,RU.TV HD
-#EXTGRP:RUTUBE
-https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=-vKViIF4wpjkGFeoRCdyYw&e=2066519850&scheme=https
-#EXTINF:0,МузТВ HD
-#EXTGRP:RUTUBE
-https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=On_-8-ES9PLCaKRlOkX_Mg&e=2066519852&scheme=https
-#EXTINF:0,ММТВ HD
-#EXTGRP:RUTUBE
-https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=Mn0zcNb_7CJ_LE91r5mKdw&e=2066519853&scheme=https
-#EXTINF:0,Viva Russia HD
-#EXTGRP:RUTUBE
-https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=DMmpli1WIQUocDbjCe_9Cg&e=2070450963&scheme=https
-#EXTINF:0,HHQ HD
-#EXTGRP:RUTUBE
-https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=oK_3ut_zlDkP3J7p2hPAZA&e=2066519769&scheme=https
-#EXTINF:0,Техно 24
-#EXTGRP:𝕋𝕧ℤ𝕒𝕋𝕒𝕜
-https://s05.watcher.uz/29/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
-#EXTINF:0,Первый Космический
-#EXTGRP:𝕋𝕧ℤ𝕒𝕋𝕒𝕜
-https://stream8.cinerama.uz/1415/tracks-v1a1/mono.m3u8
-#EXTINF:0,Моя Планета FHD
-#EXTGRP:𝕋𝕧ℤ𝕒𝕋𝕒𝕜
-https://tinyurl.com/TvZaTak05/1247/tracks-v1a1/mono.m3u8
-#EXTINF:0,Глазами Туриста
-#EXTGRP:𝕋𝕧ℤ𝕒𝕋𝕒𝕜
-https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
-#EXTINF:0,Наука FHD
-#EXTGRP:𝕋𝕧ℤ𝕒𝕋𝕒𝕜
-https://tinyurl.com/TvZaTak05/1248/tracks-v1a1/mono.m3u8
-#EXTINF:0,В Мире Животных SD
-#EXTGRP:𝕋𝕧ℤ𝕒𝕋𝕒𝕜
-https://tinyurl.com/TvZaTak05/1404/tracks-v1a1/mono.m3u8
-#EXTINF:0,NAT GEO WILD
-#EXTGRP:𝕋𝕧ℤ𝕒𝕋𝕒𝕜
-https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
-#EXTINF:0,Insight TV HD
-#EXTGRP:𝕋𝕧ℤ𝕒𝕋𝕒𝕜
-https://s06.watcher.uz/124/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
-#EXTINF:0,Кухня ТВ
-#EXTGRP:𝕋𝕧ℤ𝕒𝕋𝕒𝕜
-https://watcher.uz:443/96/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
-#EXTINF:0,Капитан Фантастика
-#EXTGRP:𝕋𝕧ℤ𝕒𝕋𝕒𝕜
-https://tinyurl.com/TvZaTak05/1406/tracks-v1a1/mono.m3u8
-#EXTINF:0,Zooпарк
-#EXTGRP:𝕋𝕧ℤ𝕒𝕋𝕒𝕜
-https://tinyurl.com/TvZaTak05/1417/tracks-v1a1/mono.m3u8
-#EXTINF:0,Живи Активно
-#EXTGRP:𝕋𝕧ℤ𝕒𝕋𝕒𝕜
-https://tinyurl.com/TvZaTak05/1405/tracks-v1a1/mono.m3u8
-#EXTINF:0,Живи!
-#EXTGRP:𝕋𝕧ℤ𝕒𝕋𝕒𝕜
-https://watcher.uz:443/110/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
-#EXTINF:0,Арсенал
-#EXTGRP:𝕋𝕧ℤ𝕒𝕋𝕒𝕜
-https://tinyurl.com/TvZaTak05/1414/tracks-v1a1/mono.m3u8
-#EXTINF:0,TV1000 ACTION HD
-#EXTGRP:𝕋𝕧ℤ𝕒𝕋𝕒𝕜
-https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
-#EXTINF:0,Kinoteatr HD
-#EXTGRP:𝕋𝕧ℤ𝕒𝕋𝕒𝕜
-https://tinyurl.com/TvZaTak05/1009/tracks-v1a1/mono.m3u8
-#EXTINF:0,Dunyo bo`ylab HD
-#EXTGRP:𝕋𝕧ℤ𝕒𝕋𝕒𝕜
-https://tinyurl.com/TvZaTak05/1006/tracks-v1a1/mono.m3u8
-#EXTINF:0,Cinema FHD
-#EXTGRP:𝕋𝕧ℤ𝕒𝕋𝕒𝕜
-https://tinyurl.com/TvZaTak05/1227/tracks-v1a1/mono.m3u8
-#EXTINF:0,Пятница
-#EXTGRP:𝕋𝕧ℤ𝕒𝕋𝕒𝕜
-http://tinyurl.com/TvZaTak11/2060/index.m3u8
-#EXTINF:0,Duck TV FD
-#EXTGRP:𝕋𝕧ℤ𝕒𝕋𝕒𝕜
-https://tinyurl.com/TvZaTak05/1271/tracks-v1a1/mono.m3u8
-#EXTINF:0,Мульт FHD
-#EXTGRP:𝕋𝕧ℤ𝕒𝕋𝕒𝕜
-https://tinyurl.com/TvZaTak05/1246/tracks-v1a1/mono.m3u8
-#EXTINF:0,ПЕРВЫЙ КАНАЛ
-#EXTGRP:RU 4
-http://95.47.155.244:8001/play/a001
-#EXTINF:0,РОССИЯ-1
-#EXTGRP:RU 4
-http://95.47.155.244:8001/play/a002
-#EXTINF:0,МАТЧ!
-#EXTGRP:RU 4
-http://95.47.155.244:8001/play/a003
-#EXTINF:0,НТВ
-#EXTGRP:RU 4
-http://95.47.155.244:8001/play/a004
-#EXTINF:0,ПЯТЫЙ КАНАЛ
-#EXTGRP:RU 4
-http://95.47.155.244:8001/play/a005
-#EXTINF:0,РОССИЯ-К
-#EXTGRP:RU 4
-http://95.47.155.244:8001/play/a006
-#EXTINF:0,РОССИЯ-24
-#EXTGRP:RU 4
-http://95.47.155.244:8001/play/a007
-#EXTINF:0,КАРУСЕЛЬ
-#EXTGRP:RU 4
-http://95.47.155.244:8001/play/a008
-#EXTINF:0,ОТР
-#EXTGRP:RU 4
-http://95.47.155.244:8001/play/a009
-#EXTINF:0,ТВ Центр
-#EXTGRP:RU 4
-http://95.47.155.244:8001/play/a010
-#EXTINF:0,РЕН ТВ
-#EXTGRP:RU 4
-http://95.47.155.244:8001/play/a011
-#EXTINF:0,Спас
-#EXTGRP:RU 4
-http://95.47.155.244:8001/play/a012
-#EXTINF:0,СТС
-#EXTGRP:RU 4
-http://95.47.155.244:8001/play/a013
-#EXTINF:0,Домашний
-#EXTGRP:RU 4
-http://95.47.155.244:8001/play/a014
-#EXTINF:0,ТВ3
-#EXTGRP:RU 4
-http://95.47.155.244:8001/play/a015
-#EXTINF:0,Пятница
-#EXTGRP:RU 4
-http://95.47.155.244:8001/play/a016
-#EXTINF:0,Звезда
-#EXTGRP:RU 4
-http://95.47.155.244:8001/play/a017
-#EXTINF:0,МИР
-#EXTGRP:RU 4
-http://95.47.155.244:8001/play/a018
-#EXTINF:0,ТНТ
-#EXTGRP:RU 4
-http://95.47.155.244:8001/play/a019
 #EXTINF:0,Комсомольцы
 #EXTGRP:Девяностые
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/198/551.mp4
@@ -8667,625 +8666,625 @@ http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31918/index.m3u8
 #EXTGRP:Детские
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31930/index.m3u8
 #EXTINF:0,BOX History 4K HDR
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31546/index.m3u8
 #EXTINF:0,Моя Стихия
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9221/index.m3u8
 #EXTINF:0,Настоящее время HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9179/index.m3u8
 #EXTINF:0,Yosso TV Food
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31616/index.m3u8
 #EXTINF:0,BOX Kosmo 4K HDR
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31548/index.m3u8
 #EXTINF:0,National Geographic orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2336/index.m3u8
 #EXTINF:0,Yosso TV Nature
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31618/index.m3u8
 #EXTINF:0,РЖД ТВ
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9118/index.m3u8
 #EXTINF:0,Yosso TV Travel
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31619/index.m3u8
 #EXTINF:0,Yosso TV Science
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31617/index.m3u8
 #EXTINF:0,BOX Travel Premiere HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31652/index.m3u8
 #EXTINF:0,BOX Gurman HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31653/index.m3u8
 #EXTINF:0,Конгресс ТВ HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2176/index.m3u8
 #EXTINF:0,Неизвестная Россия HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/16087/index.m3u8
 #EXTINF:0,BOX AutoTrend HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31654/index.m3u8
 #EXTINF:0,Доктор HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20013/index.m3u8
 #EXTINF:0,TravelXP 4K
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20031/index.m3u8
 #EXTINF:0,Museum TV HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20032/index.m3u8
 #EXTINF:0,Авто 24 HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20033/index.m3u8
 #EXTINF:0,Точка Отрыва HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20034/index.m3u8
 #EXTINF:0,Мужской HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20035/index.m3u8
 #EXTINF:0,Big Planet HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20036/index.m3u8
 #EXTINF:0,Еда
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/6009/index.m3u8
 #EXTINF:0,Curiosity Stream HD orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9072/index.m3u8
 #EXTINF:0,Наша Тема orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9286/index.m3u8
 #EXTINF:0,World Fashion Channel orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9287/index.m3u8
 #EXTINF:0,Мама orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9288/index.m3u8
 #EXTINF:0,Связист ТВ HD orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9291/index.m3u8
 #EXTINF:0,Т24 orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9292/index.m3u8
 #EXTINF:0,Доктор orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9294/index.m3u8
 #EXTINF:0,Viju Nature orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9295/index.m3u8
 #EXTINF:0,Домашние Животные orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9296/index.m3u8
 #EXTINF:0,Вопросы и ответы orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9297/index.m3u8
 #EXTINF:0,Время orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9298/index.m3u8
 #EXTINF:0,English Class orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9299/index.m3u8
 #EXTINF:0,Моя Планета orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9300/index.m3u8
 #EXTINF:0,Travel+Adventure orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9301/index.m3u8
 #EXTINF:0,Top Secret orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9305/index.m3u8
 #EXTINF:0,Мужской orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9306/index.m3u8
 #EXTINF:0,Телепутешествия orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9307/index.m3u8
 #EXTINF:0,Авто 24 orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9309/index.m3u8
 #EXTINF:0,FlixSnip orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9311/index.m3u8
 #EXTINF:0,History FHD orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9313/index.m3u8
 #EXTINF:0,История orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9315/index.m3u8
 #EXTINF:0,Тайна orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9316/index.m3u8
 #EXTINF:0,Galaxy orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9317/index.m3u8
 #EXTINF:0,Поехали! orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9318/index.m3u8
 #EXTINF:0,Загородная Жизнь orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9319/index.m3u8
 #EXTINF:0,Первый Вегетарианский orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9320/index.m3u8
 #EXTINF:0,Investigation Discovery FHD orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9322/index.m3u8
 #EXTINF:0,Оружие orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9323/index.m3u8
 #EXTINF:0,Зоо ТВ orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9324/index.m3u8
 #EXTINF:0,Живая Планета orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9325/index.m3u8
 #EXTINF:0,НТВ Право orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9327/index.m3u8
 #EXTINF:0,НТВ Стиль orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9328/index.m3u8
 #EXTINF:0,Кто Куда orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9329/index.m3u8
 #EXTINF:0,Наша Сибирь 4K
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9330/index.m3u8
 #EXTINF:0,Museum TV HD FR
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/7246/index.m3u8
 #EXTINF:0,Home 4K
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/4002/index.m3u8
 #EXTINF:0,Триколор Душевные песни
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/6001/index.m3u8
 #EXTINF:0,Инсайт ТВ UHD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/5000/index.m3u8
 #EXTINF:0,Love Nature 4K
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/5001/index.m3u8
 #EXTINF:0,Наша Сибирь HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/4003/index.m3u8
 #EXTINF:0,TERRA HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2416/index.m3u8
 #EXTINF:0,TERRA
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/230/index.m3u8
 #EXTINF:0,TLC HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/232/index.m3u8
 #EXTINF:0,Travel Channel HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/233/index.m3u8
 #EXTINF:0,History HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/231/index.m3u8
 #EXTINF:0,Viju History HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/203/index.m3u8
 #EXTINF:0,History 2 FHD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2033/index.m3u8
 #EXTINF:0,Discovery Channel HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/227/index.m3u8
 #EXTINF:0,Discovery Channel
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/140/index.m3u8
 #EXTINF:0,RTG HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/210/index.m3u8
 #EXTINF:0,National Geographic Wild FHD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2415/index.m3u8
 #EXTINF:0,National Geographic Wild
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/133/index.m3u8
 #EXTINF:0,Discovery Science PL
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/136/index.m3u8
 #EXTINF:0,Animal Planet HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/218/index.m3u8
 #EXTINF:0,Animal Planet
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/137/index.m3u8
 #EXTINF:0,Охотник и Рыболов HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/917/index.m3u8
 #EXTINF:0,FoodTime FHD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2418/index.m3u8
 #EXTINF:0,FoodTime HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/918/index.m3u8
 #EXTINF:0,Food Network HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2419/index.m3u8
 #EXTINF:0,Живая природа HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2074/index.m3u8
 #EXTINF:0,В мире животных HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2089/index.m3u8
 #EXTINF:0,Моя Планета HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2090/index.m3u8
 #EXTINF:0,Приключения HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/920/index.m3u8
 #EXTINF:0,Глазами Туриста HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2104/index.m3u8
 #EXTINF:0,Большая Азия HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2009/index.m3u8
 #EXTINF:0,DocuBox HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/968/index.m3u8
 #EXTINF:0,Дикая охота HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2004/index.m3u8
 #EXTINF:0,Дикая рыбалка HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2005/index.m3u8
 #EXTINF:0,Диалоги о рыбалке HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2394/index.m3u8
 #EXTINF:0,Загородный int HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2124/index.m3u8
 #EXTINF:0,Investigation Discovery HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2102/index.m3u8
 #EXTINF:0,Авто Плюс
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/151/index.m3u8
 #EXTINF:0,Кухня
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/152/index.m3u8
 #EXTINF:0,Нано ТВ HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2135/index.m3u8
 #EXTINF:0,Время
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/552/index.m3u8
 #EXTINF:0,Домашние Животные
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/158/index.m3u8
 #EXTINF:0,Точка Отрыва
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/159/index.m3u8
 #EXTINF:0,Надежда HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2153/index.m3u8
 #EXTINF:0,Viju Nature
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/161/index.m3u8
 #EXTINF:0,Viju History
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/162/index.m3u8
 #EXTINF:0,Viju Explore
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/163/index.m3u8
 #EXTINF:0,Наука HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2155/index.m3u8
 #EXTINF:0,Galaxy HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/5045/index.m3u8
 #EXTINF:0,Океан HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/703/index.m3u8
 #EXTINF:0,Бобёр
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/725/index.m3u8
 #EXTINF:0,Zоопарк
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/731/index.m3u8
 #EXTINF:0,Телекафе
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/865/index.m3u8
 #EXTINF:0,Усадьба
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/532/index.m3u8
 #EXTINF:0,English Club TV
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/993/index.m3u8
 #EXTINF:0,History 2 HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/1052/index.m3u8
 #EXTINF:0,History FHD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/837/index.m3u8
 #EXTINF:0,RTG TV
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/841/index.m3u8
 #EXTINF:0,Дикий
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/847/index.m3u8
 #EXTINF:0,Travel+Adventure
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/850/index.m3u8
 #EXTINF:0,Поехали!
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/135/index.m3u8
 #EXTINF:0,Galaxy
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2010/index.m3u8
 #EXTINF:0,Охота и рыбалка
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2019/index.m3u8
 #EXTINF:0,ЕГЭ ТВ
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2020/index.m3u8
 #EXTINF:0,365 дней ТВ
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2040/index.m3u8
 #EXTINF:0,Телепутешествия
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2051/index.m3u8
 #EXTINF:0,Тайна
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2059/index.m3u8
 #EXTINF:0,National Geographic Wild HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2067/index.m3u8
 #EXTINF:0,Nano
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2081/index.m3u8
 #EXTINF:0,Investigation Discovery
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2085/index.m3u8
 #EXTINF:0,Оружие
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2087/index.m3u8
 #EXTINF:0,Зоо ТВ
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2100/index.m3u8
 #EXTINF:0,Живая Планета
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2101/index.m3u8
 #EXTINF:0,Наша Тема
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2118/index.m3u8
 #EXTINF:0,Пёс и Ко
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2123/index.m3u8
 #EXTINF:0,Fashion & Lifestyle FHD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/1010/index.m3u8
 #EXTINF:0,World Fashion Channel
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/1068/index.m3u8
 #EXTINF:0,Мужской
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2047/index.m3u8
 #EXTINF:0,Da Vinci
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/537/index.m3u8
 #EXTINF:0,Мама
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/704/index.m3u8
 #EXTINF:0,НТВ Стиль
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/745/index.m3u8
 #EXTINF:0,НТВ Право
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/743/index.m3u8
 #EXTINF:0,Первый Вегетарианский
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/833/index.m3u8
 #EXTINF:0,Загородная Жизнь
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/852/index.m3u8
 #EXTINF:0,Кто Куда
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2112/index.m3u8
 #EXTINF:0,Т24
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/5047/index.m3u8
 #EXTINF:0,Калейдоскоп ТВ
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/5037/index.m3u8
 #EXTINF:0,История
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/111/index.m3u8
 #EXTINF:0,Моя Планета
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/117/index.m3u8
 #EXTINF:0,Outdoor Channel HD US
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/119/index.m3u8
 #EXTINF:0,Вопросы и ответы
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2026/index.m3u8
 #EXTINF:0,Top Secret
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/121/index.m3u8
 #EXTINF:0,Доктор
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/512/index.m3u8
 #EXTINF:0,Авто 24
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/538/index.m3u8
 #EXTINF:0,Приключения HD orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9007/index.m3u8
 #EXTINF:0,Discovery Channel HD orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9011/index.m3u8
 #EXTINF:0,History 2 HD orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9013/index.m3u8
 #EXTINF:0,Travel+Adventure HD orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9019/index.m3u8
 #EXTINF:0,RTG HD orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9021/index.m3u8
 #EXTINF:0,TLC HD orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9024/index.m3u8
 #EXTINF:0,Travel Channel HD orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9025/index.m3u8
 #EXTINF:0,Viju+ Planet HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9027/index.m3u8
 #EXTINF:0,Живая природа HD orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9039/index.m3u8
 #EXTINF:0,Охотник и Рыболов HD orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9043/index.m3u8
 #EXTINF:0,В мире животных HD orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9048/index.m3u8
 #EXTINF:0,Моя Планета HD orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9050/index.m3u8
 #EXTINF:0,Investigation Discovery HD orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9054/index.m3u8
 #EXTINF:0,Viju History HD orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9060/index.m3u8
 #EXTINF:0,Глазами Туриста HD orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9061/index.m3u8
 #EXTINF:0,Трофей UA
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9076/index.m3u8
 #EXTINF:0,Дикая охота HD orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9081/index.m3u8
 #EXTINF:0,Дикая рыбалка HD orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9082/index.m3u8
 #EXTINF:0,Наука HD orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9084/index.m3u8
 #EXTINF:0,History HD orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9023/index.m3u8
 #EXTINF:0,Viju Explore HD orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9075/index.m3u8
 #EXTINF:0,National Geographic Wild orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9264/index.m3u8
 #EXTINF:0,Большая Азия HD orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9267/index.m3u8
 #EXTINF:0,Загородный int HD orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9268/index.m3u8
 #EXTINF:0,Нано ТВ HD orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9271/index.m3u8
 #EXTINF:0,Точка Отрыва orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9272/index.m3u8
 #EXTINF:0,Viju Explore orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9275/index.m3u8
 #EXTINF:0,Zоопарк orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9276/index.m3u8
 #EXTINF:0,Телекафе orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9278/index.m3u8
 #EXTINF:0,Усадьба orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9279/index.m3u8
 #EXTINF:0,RTG TV orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9280/index.m3u8
 #EXTINF:0,8 канал orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9281/index.m3u8
 #EXTINF:0,Дикий orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9282/index.m3u8
 #EXTINF:0,Охота и рыбалка orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9284/index.m3u8
 #EXTINF:0,ЕГЭ ТВ orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9285/index.m3u8
 #EXTINF:0,Моя Стихия HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/7349/index.m3u8
 #EXTINF:0,Liberty Наука FHD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19305/index.m3u8
 #EXTINF:0,Первый космический HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/908/index.m3u8
 #EXTINF:0,Первый космический HD orig
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9049/index.m3u8
 #EXTINF:0,VF Рыбалка
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/16138/index.m3u8
 #EXTINF:0,VF Стройка
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/16139/index.m3u8
 #EXTINF:0,MM Микромир HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/18193/index.m3u8
 #EXTINF:0,MM Макромир HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/18194/index.m3u8
 #EXTINF:0,MM Мегамир HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/18195/index.m3u8
 #EXTINF:0,MM Translation HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/18196/index.m3u8
 #EXTINF:0,Рыболов HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19254/index.m3u8
 #EXTINF:0,ЖИВИ! HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19252/index.m3u8
 #EXTINF:0,Точка.РФ HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19251/index.m3u8
 #EXTINF:0,MM Experiment HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19412/index.m3u8
 #EXTINF:0,MM Открытия HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19415/index.m3u8
 #EXTINF:0,BOX Docu HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20153/index.m3u8
 #EXTINF:0,Вкус HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31921/index.m3u8
 #EXTINF:0,Bridge Этно HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31922/index.m3u8
 #EXTINF:0,Первый Российский Национальный Канал HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31923/index.m3u8
 #EXTINF:0,Научпоп HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31924/index.m3u8
 #EXTINF:0,Наше Наследие HD
-#EXTGRP:Познавательные
+#EXTGRP:Познавательные 2 2
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31934/index.m3u8
 #EXTINF:0,Драйв HD
 #EXTGRP:Развлекательные
