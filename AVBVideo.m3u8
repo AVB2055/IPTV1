@@ -481,13 +481,13 @@ https://s04.watcher.uz/5/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.e
 #EXTINF:0,Кинопремьера
 #EXTGRP:Кинофильмы и сериалы
 https://s04.watcher.uz/5/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
-#EXTINF:-1 group-title="КИНО",Bollywood HD
+#EXTINF:-1 group-title="Кинофильмы и сериалы",Bollywood HD
 http://176.118.197.101/Bollywood_HD/mono.m3u8
-#EXTINF:-1 group-title="КИНО",Kinoseria
+#EXTINF:-1 group-title="Кинофильмы и сериалы",Kinoseria
 http://176.118.197.101/Kinoseria/mono.m3u8
-#EXTINF:-1 group-title="КИНО",Cinema
+#EXTINF:-1 group-title="Кинофильмы и сериалы",Cinema
 http://176.118.197.101/Cinema/mono.m3u8
-#EXTINF:-1 group-title="КИНО",Evrokino
+#EXTINF:-1 group-title="Кинофильмы и сериалы",Evrokino
 http://176.118.197.101/Evrokino/mono.m3u8
 #EXTINF:0,Bollywood
 #EXTGRP:Кинофильмы и сериалы
@@ -621,6 +621,39 @@ http://195.189.60.253/118/index.m3u8
 #EXTINF:0,Кинекоᴴᴰ
 #EXTGRP:Кинофильмы и сериалыфильмы и сериалы
 http://31.148.48.15/Kineko_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://1lot.tv/ch/10851.png" group-title="Кинофильмы и сериалы",IPTVPLAY Великая Отечественнаяᴴᴰ
+http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-logo="http://i124.fastpic.org/big/2025/0331/af/5fc8449eef075c1ac3e44cd3af1bcfaf.png" group-title="Кинофильмы и сериалы",IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВОᴴᴰ
+http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-logo="http://i124.fastpic.org/big/2025/0331/c1/f39de4e6992ba6d1b57cd064921a43c1.png" group-title="Кинофильмы и сериалы",IPTVPLAY ВЕДЬМАКᴴᴰ
+http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-logo="https://i122.fastpic.org/big/2024/0112/65/b20ebb09af08ef55dbdffa919a047c65.png?md5=j6J6Ll7lDMFzkm2ymFC1LQ&expires=1735808400" group-title="Кинофильмы и сериалы",IPTVPLAY МультСказкиᴴᴰ
+http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
+
+#EXTINF:0,ПРОДВИЖЕНИЕ FD
+#EXTGRP:Кинофильмы и сериалы
+http://prodvizhenie.bonus-tv.ru/cdn/prodvizhenie/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMy8yMDI1IDEyOjQ5OjM0IEFNJmhhc2hfdmFsdWU9SC9uVEJEcTFLeDhaRG83MFVwSVBDQT09JnZhbGlkbWludXRlcz00ODA=
+#EXTINF:0,Продвижение HD
+#EXTGRP:Кинофильмы и сериалы
+https://bl.rutube.ru/livestream/ff5c11c9a51750f5d33427762abc315c/index.m3u8?s=IBzoayhf0EhnnlzfDnDidg&e=2066519813&scheme=https
+#EXTINF:0,Сапфир SD
+#EXTGRP:Кинофильмы и сериалы
+http://31.148.48.15/Sapfir_HD/index.m3u8
+#EXTINF:0,Продвижение FD
+#EXTGRP:Кинофильмы и сериалы
+http://dmi3y-tv6.ru/hls/CH_PRODVIZHENIE.m3u8
+#EXTINF:0,Star Cinemaᴴᴰ
+#EXTGRP:Кинофильмы и сериалы
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
+#EXTINF:0,Арсеналᴴᴰ
+#EXTGRP:Кинофильмы и сериалы
+https://s06.watcher.uz/120/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:0,Мир Сериалаᴴᴰ
+#EXTGRP:Кинофильмы и сериалы
+http://45.145.32.13:20440/ctc_kids_hd/index.m3u8?token=test
+#EXTINF:0,Русский Романᴴᴰ
+#EXTGRP:Кинофильмы и сериалы
+http://31.148.48.15:80/Russkiy_Roman_HD/index.m3u8
 #EXTINF:-1 group-title="Кинофильмы и сериалы",ScripachTV
 #EXTGRP:💎 Max спорт
 https://live20.bozztv.com/akamaissh101/ssh101/scripachmovie/chunks.m3u8
@@ -1142,450 +1175,6 @@ http://185.46.16.239:8000/Match_Nash_Sport
 http://185.46.16.239:8000/Match_Igra
 #EXTINF:-1 group-title="💎 Max спорт",Бокс ТВ
 http://185.46.16.239:8000/Eurosport_1
-#EXTINF:-1 tvg-logo="http://1lot.tv/ch/10851.png" group-title="▶️ IPTV-Play",IPTVPLAY Великая Отечественнаяᴴᴰ
-http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-logo="http://i124.fastpic.org/big/2025/0331/af/5fc8449eef075c1ac3e44cd3af1bcfaf.png" group-title="▶️ IPTV-Play",IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВОᴴᴰ
-http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-logo="http://i124.fastpic.org/big/2025/0331/c1/f39de4e6992ba6d1b57cd064921a43c1.png" group-title="▶️ IPTV-Play",IPTVPLAY ВЕДЬМАКᴴᴰ
-http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-logo="https://i122.fastpic.org/big/2024/0112/65/b20ebb09af08ef55dbdffa919a047c65.png?md5=j6J6Ll7lDMFzkm2ymFC1LQ&expires=1735808400" group-title="▶️ IPTV-Play",IPTVPLAY МультСказкиᴴᴰ
-http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
-
-#EXTINF:0,ПРОДВИЖЕНИЕ FD
-#EXTGRP:СЕРИАЛЫ
-http://prodvizhenie.bonus-tv.ru/cdn/prodvizhenie/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMy8yMDI1IDEyOjQ5OjM0IEFNJmhhc2hfdmFsdWU9SC9uVEJEcTFLeDhaRG83MFVwSVBDQT09JnZhbGlkbWludXRlcz00ODA=
-#EXTINF:0,Продвижение HD
-#EXTGRP:СЕРИАЛЫ
-https://bl.rutube.ru/livestream/ff5c11c9a51750f5d33427762abc315c/index.m3u8?s=IBzoayhf0EhnnlzfDnDidg&e=2066519813&scheme=https
-#EXTINF:0,Сапфир SD
-#EXTGRP:СЕРИАЛЫ
-http://31.148.48.15/Sapfir_HD/index.m3u8
-#EXTINF:0,Продвижение FD
-#EXTGRP:СЕРИАЛЫ
-http://dmi3y-tv6.ru/hls/CH_PRODVIZHENIE.m3u8
-#EXTINF:0,Star Cinemaᴴᴰ
-#EXTGRP:СЕРИАЛЫ
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
-#EXTINF:0,Арсеналᴴᴰ
-#EXTGRP:СЕРИАЛЫ
-https://s06.watcher.uz/120/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
-#EXTINF:0,Мир Сериалаᴴᴰ
-#EXTGRP:СЕРИАЛЫ
-http://45.145.32.13:20440/ctc_kids_hd/index.m3u8?token=test
-#EXTINF:0,Русский Романᴴᴰ
-#EXTGRP:СЕРИАЛЫ
-http://31.148.48.15:80/Russkiy_Roman_HD/index.m3u8
-#EXTINF:0 tvg-rec="7",История
-#EXTGRP:🌎 «Природа и создатели»
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/111/index.m3u8
-#EXTINF:0 tvg-rec="7",Моя Планета
-#EXTGRP:🌎 «Природа и создатели»
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/117/index.m3u8
-#EXTINF:0 tvg-rec="7",Outdoor Channel HD US
-#EXTGRP:🌎 «Природа и создатели»
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/119/index.m3u8
-#EXTINF:0 tvg-rec="7",Top Secret
-#EXTGRP:🌎 «Природа и создатели»
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/121/index.m3u8
-#EXTINF:0 tvg-rec="7",Россия К
-#EXTGRP:🌎 «Природа и создатели»
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/505/index.m3u8
-#EXTINF:0 tvg-rec="7",Доктор
-#EXTGRP:🌎 «Природа и создатели»
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/512/index.m3u8
-#EXTINF:0 tvg-rec="7",Авто 24
-#EXTGRP:🌎 «Природа и создатели»
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/538/index.m3u8
-#EXTINF:0 tvg-rec="7",National Geographic Wild
-#EXTGRP:🌎 «Природа и создатели»
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/133/index.m3u8
-#EXTINF:0 tvg-rec="7",Discovery Science PL
-#EXTGRP:🌎 «Природа и создатели»
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/136/index.m3u8
-#EXTINF:0 tvg-rec="7",Animal Planet
-#EXTGRP:🌎 «Природа и создатели»
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/137/index.m3u8
-#EXTINF:0 tvg-rec="7",Discovery Channel
-#EXTGRP:🌎 «Природа и создатели»
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/140/index.m3u8
-#EXTINF:0 tvg-rec="7",Авто Плюс
-#EXTGRP:🌎 «Природа и создатели»
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/151/index.m3u8
-#EXTINF:0 tvg-rec="7",Кухня
-#EXTGRP:🌎 «Природа и создатели»
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/152/index.m3u8
-#EXTINF:0 tvg-rec="7",Время
-#EXTGRP:🌎 «Природа и создатели»
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/552/index.m3u8
-#EXTINF:0 tvg-rec="7",Домашние Животные
-#EXTGRP:🌎 «Природа и создатели»
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/158/index.m3u8
-#EXTINF:0 tvg-rec="7",Точка Отрыва
-#EXTGRP:🌎 «Природа и создатели»
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/159/index.m3u8
-#EXTINF:0 tvg-rec="3",Надежда HD
-#EXTGRP:🌎 «Природа и создатели»
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2153/index.m3u8
-#EXTINF:0 tvg-rec="7",Viju Nature
-#EXTGRP:🌎 «Природа и создатели»
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/161/index.m3u8
-#EXTINF:0 tvg-rec="7",Viju History
-#EXTGRP:🌎 «Природа и создатели»
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/162/index.m3u8
-#EXTINF:0 tvg-rec="7",Viju Explore
-#EXTGRP:🌎 «Природа и создатели»
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/163/index.m3u8
-#EXTINF:0 tvg-rec="7",Океан HD
-#EXTGRP:🌎 «Природа и создатели»
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/703/index.m3u8
-#EXTINF:0 tvg-rec="7",Бобёр
-#EXTGRP:🌎 «Природа и создатели»
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/725/index.m3u8
-#EXTINF:0 tvg-rec="7",Зоопарк
-#EXTGRP:🌎 «Природа и создатели»
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/731/index.m3u8
-#EXTINF:0 tvg-rec="7",Усадьба
-#EXTGRP:🌎 «Природа и создатели»
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/532/index.m3u8
-#EXTINF:0 tvg-rec="3",English Club TV
-#EXTGRP:🌎 «Природа и создатели»
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/993/index.m3u8
-#EXTINF:0 tvg-rec="3",History 2 HD
-#EXTGRP:🌎 «Природа и создатели»
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/1052/index.m3u8
-#EXTINF:0 tvg-rec="7",History FHD
-#EXTGRP:🌎 «Природа и создатели»
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/837/index.m3u8
-#EXTINF:0 tvg-rec="7",RTG TV
-#EXTGRP:🌎 «Природа и создатели»
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/841/index.m3u8
-#EXTINF:0 tvg-rec="7",Дикий
-#EXTGRP:🌎 «Природа и создатели»
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/847/index.m3u8
-#EXTINF:0 tvg-rec="7",NickToons HD
-#EXTGRP:🌎 «Природа и создатели»
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/849/index.m3u8
-#EXTINF:0 tvg-rec="7",Travel+Adventure
-#EXTGRP:🌎 «Природа и создатели»
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/850/index.m3u8
-#EXTINF:0 tvg-rec="7",Поехали!
-#EXTGRP:🌎 «Природа и создатели»
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/135/index.m3u8
-#EXTINF:0 tvg-rec="7",Тайны Галактики
-#EXTGRP:🌎 «Природа и создатели»
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2010/index.m3u8
-#EXTINF:0 tvg-rec="7",Охота и рыбалка
-#EXTGRP:🌎 «Природа и создатели»
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2019/index.m3u8
-#EXTINF:0 tvg-rec="7",ЕГЭ ТВ
-#EXTGRP:🌎 «Природа и создатели»
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2020/index.m3u8
-#EXTINF:0 tvg-rec="3",365 дней ТВ
-#EXTGRP:🌎 «Природа и создатели»
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2040/index.m3u8
-#EXTINF:0 tvg-rec="3",Телепутешествия
-#EXTGRP:🌎 «Природа и создатели»
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2051/index.m3u8
-#EXTINF:0 tvg-rec="3",Тайна
-#EXTGRP:🌎 «Природа и создатели»
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2059/index.m3u8
-#EXTINF:0 tvg-rec="3",Nano
-#EXTGRP:🌎 «Природа и создатели»
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2081/index.m3u8
-#EXTINF:0 tvg-rec="3",Investigation Discovery
-#EXTGRP:🌎 «Природа и создатели»
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2085/index.m3u8
-#EXTINF:0 tvg-rec="3",Оружие
-#EXTGRP:🌎 «Природа и создатели»
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2087/index.m3u8
-#EXTINF:0 tvg-rec="3",Зоо ТВ
-#EXTGRP:🌎 «Природа и создатели»
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2100/index.m3u8
-#EXTINF:0 tvg-rec="3",Живая Планета
-#EXTGRP:🌎 «Природа и создатели»
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2101/index.m3u8
-#EXTINF:0 tvg-rec="3",Наша Тема
-#EXTGRP:🌎 «Природа и создатели»
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2118/index.m3u8
-#EXTINF:0 tvg-rec="3",Пёс и Ко
-#EXTGRP:🌎 «Природа и создатели»
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2123/index.m3u8
-#EXTINF:0 tvg-rec="3",Наука HD
-#EXTGRP:🌎 «Природа и создатели»
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2155/index.m3u8
-#EXTINF:0 tvg-rec="0",Museum TV HD FR
-#EXTGRP:🌎 «Природа и создатели»
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7246/index.m3u8
-#EXTINF:0 tvg-rec="0",National Geographic HD DE
-#EXTGRP:🌎 «Природа и создатели»
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7255/index.m3u8
-#EXTINF:0 tvg-rec="0",National Geographic Wild HD DE
-#EXTGRP:🌎 «Природа и создатели»
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7256/index.m3u8
-#EXTINF:0 tvg-rec="0",Animal Planet HD DE
-#EXTGRP:🌎 «Природа и создатели»
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7257/index.m3u8
-#EXTINF:0 tvg-rec="0",Моя Стихия HD
-#EXTGRP:🌎 «Природа и создатели»
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7349/index.m3u8
-#EXTINF:0 tvg-rec="7",RTG HD
-#EXTGRP:🌎 «Природа и создатели»
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/210/index.m3u8
-#EXTINF:0 tvg-rec="7",Viju History HD
-#EXTGRP:🌎 «Природа и создатели»
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/203/index.m3u8
-#EXTINF:0 tvg-rec="3",Viju Explore HD
-#EXTGRP:🌎 «Природа и создатели»
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6381/index.m3u8
-#EXTINF:0,Animal Planetᴴᴰ
-#EXTGRP:ПРИРОДА
-http://46.32.176.50/AnimalPlanetHD/index.m3u8
-#EXTINF:0,Nat Geo Wildᴴᴰ
-#EXTGRP:ПРИРОДА
-http://46.32.176.50/NatGeoWildHD/index.m3u8
-#EXTINF:0,Аква ТВᴴᴰ
-#EXTGRP:ПРИРОДА
-http://stitch.teletarget.ru/vintera/aquatv/index.m3u8
-#EXTINF:0,В Мире Животныхᴴᴰ
-#EXTGRP:ПРИРОДА
-https://s06.watcher.uz/118/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
-#EXTINF:0,Лапки Live
-#EXTGRP:ПРИРОДА
-http://45.145.32.13:20440/unikum/index.m3u8?token=test
-#EXTINF:0,Love Natureᴴᴰ
-#EXTGRP:ПРИРОДА
-https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
-#EXTINF:0,Animal Planet SD
-#EXTGRP:ПРИРОДА
-http://46.32.176.50/animalplanet/index.m3u8
-#EXTINF:0,Epic
-#EXTGRP:ПУТЕШЕСТВИЯ
-http://193.25.8.59:8000/dtx
-#EXTINF:0,RTG SD
-#EXTGRP:ПУТЕШЕСТВИЯ
-http://31.148.48.15:80/RTG_HD/index.m3u8
-#EXTINF:0,RTGᴴᴰ
-#EXTGRP:ПУТЕШЕСТВИЯ
-http://193.25.8.59:8000/rtg
-#EXTINF:0,Terra SD
-#EXTGRP:ПУТЕШЕСТВИЯ
-http://31.148.48.15/Terra_HD/index.m3u8
-#EXTINF:0,Terra Incognitaᴴᴰ
-#EXTGRP:ПУТЕШЕСТВИЯ
-http://178.124.153.123:44400/terra?|User-Agent=http-user-agent=Lavf/56.15.102
-#EXTINF:0,Терра Incognitaᴴᴰ
-#EXTGRP:ПУТЕШЕСТВИЯ
-http://178.124.153.123:44400/terra
-#EXTINF:0,Большая Азия
-#EXTGRP:ПУТЕШЕСТВИЯ
-https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v2a1/mono.m3u8
-#EXTINF:0,Большая Азия SD
-#EXTGRP:ПУТЕШЕСТВИЯ
-https://bl.rutube.ru/livestream/495ab964b755baa2c9fc7481a2e40f7d/index.m3u8?s=us0e52hk89iBthB6Pt0lOg&e=2066519760&scheme=https
-#EXTINF:0,Инсайт ТВᴴᴰ
-#EXTGRP:ПУТЕШЕСТВИЯ
-https://s06.watcher.uz/124/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
-#EXTINF:0,Моя Планета SD
-#EXTGRP:ПУТЕШЕСТВИЯ
-http://31.148.48.15/Moya_Planeta_HD/index.m3u8
-#EXTINF:0,Моя Планетаᴴᴰ
-#EXTGRP:ПУТЕШЕСТВИЯ
-https://tinyurl.com/45x3xrpm/chid210/mpegts
-#EXTINF:0,Наша Тема
-#EXTGRP:ПУТЕШЕСТВИЯ
-https://flussonic.mkpnet.ru/tv-c922a9201f5073f8/video.m3u8?token=test
-#EXTINF:0,Неизвестная Планетаᴴᴰ
-#EXTGRP:ПУТЕШЕСТВИЯ
-http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDI2IDExOjQ5OjIxIFBNJmhhc2hfdmFsdWU9NzBLbWM5SUpMWitZVEplblVPVDFHUT09JnZhbGlkbWludXRlcz00ODA=
-#EXTINF:0,Точка.РФ SD
-#EXTGRP:ПУТЕШЕСТВИЯ
-http://158.101.222.193:88/georgia_play.php?id=hdlife
-#EXTINF:0,Travel TV
-#EXTGRP:ПУТЕШЕСТВИЯ
-https://streamer103.neterra.tv/travel/live.m3u8
-#EXTINF:0,This is Bulgariaᴴᴰ
-#EXTGRP:ПУТЕШЕСТВИЯ
-https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_HQ.m3u8
-#EXTINF:0,Travel TVᴴᴰ
-#EXTGRP:ПУТЕШЕСТВИЯ
-https://fl.biztv.media/TabiatTV_1080/tracks-v1a1/mono.m3u8
-#EXTINF:0,Delta Travelᴴᴰ
-#EXTGRP:ПУТЕШЕСТВИЯ
-http://185.177.104.228:8597/Delta-Travel_HD(+0)/index.m3u8
-#EXTINF:0,Viasat Explorer HD
-#EXTGRP:ПУТЕШЕСТВИЯ
-http://bpl.online24.pm/play/8852/B67105BADCD4A58/video.m3u8
-#EXTINF:0,360.RU
-#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
-https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
-#EXTINF:0,360.RU FD
-#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v3a1/mono.m3u8
-#EXTINF:0,360.RU SD
-#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
-https://video1.in-news.ru/360/index.m3u8
-#EXTINF:0,360.RUᴴᴰ
-#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
-#EXTINF:0,CGTN Русский SD
-#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
-https://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802_hd.m3u8
-#EXTINF:0,CGTN Русскийᴴᴰ
-#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
-https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
-#EXTINF:0,Discovery Channel FD
-#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
-http://s8.rafail1982.uz/1039/tracks-v1a1a1/mono.m3u8
-#EXTINF:0,Discovery Channelᴴᴰ
-#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
-http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
-#EXTINF:0,Investigation Discovery
-#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
-http://mfe02.cliptv.az/dash/Investigation_Discovery_SD12er34.ism/playlist.mpd
-#EXTINF:0,NANO
-#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
-http://s1.tv-nano.com/Nano_rec/video.m3u8
-#EXTINF:0,NANOᴴᴰ
-#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
-https://bl.rutube.ru/livestream/cf958b6c9ae4504be5fc2c1de358a017/index.m3u8?s=JvmA6ABMzxZ5pFsbhOeT7A&e=2069068450&scheme=https
-#EXTINF:0,RTД
-#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
-https://streaming.televizor-24-tochka.ru/live/554.m3u8
-#EXTINF:0,RT Док SD
-#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
-http://rt-doc.rttv.com/dvr/rtdru/rtdru720.m3u8
-#EXTINF:0,RT Докᴴᴰ
-#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
-https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
-#EXTINF:0,RT Docᴴᴰ
-#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
-https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
-#EXTINF:0,UNIVER
-#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
-http://partners.universmotri.ru/live/univer.sdp_480p/playlist.m3u?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDI1IDI6NDk6MzYgUE0maGFzaF92YWx1ZT12Q1hScElvWmtORUJNNU91R1k1alNnPT0mdmFsaWRtaW51dGVzPTQ4MA==
-#EXTINF:0,UNIVER FD
-#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
-http://cdn.universmotri.ru/live/smil:mbr.smil/chunklist_b1328000_slru.m3u8
-#EXTINF:0,UNIVER SD
-#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
-http://cdn.universmotri.ru/live/hq.sdp/chunklist.m3u8
-#EXTINF:0,UNIVERᴴᴰ
-#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
-https://cdn.universmotri.ru/live/smil:univer.smil/chunklist_w720990141_b3628000_slru.m3u8
-#EXTINF:0,viju Explore
-#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
-http://46.32.176.50/viasatexplorer/index.m3u8
-#EXTINF:0,Viju Explore
-#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
-http://tinyurl.com/TvZaTak65?id=viasatexp
-#EXTINF:0,Звезда Плюс
-#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
-http://45.145.32.13:20440/zvezdaplus/index.m3u8?token=test
-#EXTINF:0,КОНГРЕСС ТВ
-#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
-https://live-4.otcnet.ru/504/135/480p/index.m3u8
-#EXTINF:0,КОНГРЕСС ТВ SD
-#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
-https://stitch.teletarget.ru/api/v1/hls/504/135/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xLzIwMjUgNjo0OTo0NSBBTSZoYXNoX3ZhbHVlPVUrWTdNVm5UeVVkM1pMdG0xSG9jTGc9PSZ2YWxpZG1pbnV0ZXM9NDgw
-#EXTINF:0,КОНГРЕСС ТВᴴᴰ
-#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
-https://live-4.otcnet.ru/504/135/1080p/index.m3u8
-#EXTINF:0,Конгресс ТВᴴᴰ
-#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
-http://tinyurl.com/TvZaTak06/congresstv/index.m3u8
-#EXTINF:0,Кто есть Кто
-#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
-http://158.101.222.193:88/georgia_play.php?id=ktoestkto
-#EXTINF:0,НАУКАᴴᴰ
-#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
-http://31.148.48.15:80/Nauka_2.0/index.m3u8
-#EXTINF:0,Полёт ТВᴴᴰ
-#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
-http://stitch.teletarget.ru/vintera/flighttv/index.m3u8
-#EXTINF:0,Просвещение
-#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
-http://dmi3y-tv6.ru/hls/CH_PROSVESHENIE.m3u8
-#EXTINF:0,Тайна
-#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
-https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=k9bDH53DPY73h1vlbcNhzQ&e=2071743709&scheme=https
-#EXTINF:0,Тайна FD
-#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
-https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=V1-tEw5Cpojw6jhxNF9IMw&e=2066519764&scheme=https
-#EXTINF:0,ЮУрГУ ТВ SD
-#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
-http://tvrlive.susu.ru/1800k/playlist.m3u8
-#EXTINF:0,Paideuma TV
-#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
-https://paideuma.tv:1443/live/Channel2728/chunklist.m3u8
-#EXTINF:0,*MM Experimentᴴᴰ
-#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
-http://wps5c7yt.rostelekom.xyz/iptv/PN72TRC6UNHLF9/19412/index.m3u8
-#EXTINF:0,Наука HD
-#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
-http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/nauka_20/16/playlist.m3u8
-#EXTINF:0,360 HD
-#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
-https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
-#EXTINF:0,Звезда Плюс SD
-#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v2a1/mono.ts.m3u8
-#EXTINF:0,Звезда Плюс HD
-#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
-http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist.m3u8
-#EXTINF:0,ЮУрГУ-ТВ
-#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
-https://tvrlive.susu.ru/1800k/playlist.m3u8
-#EXTINF:0,Конгресс ТВ HD
-#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
-http://live-3.otcnet.ru/congresstv/index.m3u8
-#EXTINF:0,RT Documentary Russian
-#EXTGRP:ПОЗНАВАТЕЛЬНЫЕ
-http://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
-#EXTINF:0,1MED TVᴴᴰ
-#EXTGRP:ХОББИ И УВЛЕЧЕНИЯ
-https://rq3qltxnbx1.a.trbcdn.net/livemaster/8hwxnq4s0v_efir0_tcode1080p/playlist.m3u8
-#EXTINF:0,555 HUNT FISHING TVᴴᴰ 2
-#EXTGRP:ХОББИ И УВЛЕЧЕНИЯ
-http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
-#EXTINF:0,FoodTimeᴴᴰ
-#EXTGRP:ХОББИ И УВЛЕЧЕНИЯ
-http://31148.rafail1982.uz/Eda_Premium_HD/index.m3u8
-#EXTINF:0,Доктор
-#EXTGRP:ХОББИ И УВЛЕЧЕНИЯ
-https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8
-#EXTINF:0,Доктор HD
-#EXTGRP:ХОББИ И УВЛЕЧЕНИЯ
-http://31.148.48.15/Doktor/index.m3u8?token=test
-#EXTINF:0,Докторᴴᴰ
-#EXTGRP:ХОББИ И УВЛЕЧЕНИЯ
-http://31.148.48.15/Doktor/index.m3u8
-#EXTINF:0,Живи!ᴴᴰ
-#EXTGRP:ХОББИ И УВЛЕЧЕНИЯ
-http://31.148.48.15/Zhivi/index.m3u8
-#EXTINF:0,Живи Активноᴴᴰ
-#EXTGRP:ХОББИ И УВЛЕЧЕНИЯ
-https://flussonic.mkpnet.ru/tv-fa810958620d77d8/video.m3u8?token=test
-#EXTINF:0,Загородная Жизнь
-#EXTGRP:ХОББИ И УВЛЕЧЕНИЯ
-http://185.57.68.33/40/mpegts
-#EXTINF:0,Здоовое ТВ
-#EXTGRP:ХОББИ И УВЛЕЧЕНИЯ
-https://flussonic.mkpnet.ru/tv-92fa9d648cab0f3f/video.m3u8?token=test
-#EXTINF:0,Здоровое ТВ
-#EXTGRP:ХОББИ И УВЛЕЧЕНИЯ
-https://s04.watcher.uz/114/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
-#EXTINF:0,Мужской
-#EXTGRP:ХОББИ И УВЛЕЧЕНИЯ
-http://193.25.8.59:8000/muzhskoy
-#EXTINF:0,Охота и рыбалка
-#EXTGRP:ХОББИ И УВЛЕЧЕНИЯ
-https://s05.watcher.uz/30/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
-#EXTINF:0,Охотник и Рыболов
-#EXTGRP:ХОББИ И УВЛЕЧЕНИЯ
-https://tinyurl.com/TvZaTak05/1413/tracks-v1a1/mono.m3u8
-#EXTINF:0,Охотник и Рыболовᴴᴰ
-#EXTGRP:ХОББИ И УВЛЕЧЕНИЯ
-https://s06.watcher.uz/123/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 #EXTINF:0,МАТЧ! HD
 #EXTGRP:МАТЧ
 http://cdn.balelbrus.com/bigteisti9/M_HD/index.m3u8?token=eG1lbnRzMnx8ZVhWeWVYZzRPVEE0TVRNek16QTJOWGc9
@@ -1754,6 +1343,419 @@ https://live.teleradiocom.tj/5/3m.m3u8
 #EXTINF:0,Eurosport 2
 #EXTGRP:СПОРТ
 http://46.32.176.50/eurosport2/index.m3u8
+#EXTINF:0 tvg-rec="7",История
+#EXTGRP:Познавательные
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/111/index.m3u8
+#EXTINF:0 tvg-rec="7",Моя Планета
+#EXTGRP:Познавательные
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/117/index.m3u8
+#EXTINF:0 tvg-rec="7",Outdoor Channel HD US
+#EXTGRP:Познавательные
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/119/index.m3u8
+#EXTINF:0 tvg-rec="7",Top Secret
+#EXTGRP:Познавательные
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/121/index.m3u8
+#EXTINF:0 tvg-rec="7",Россия К
+#EXTGRP:Познавательные
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/505/index.m3u8
+#EXTINF:0 tvg-rec="7",Доктор
+#EXTGRP:Познавательные
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/512/index.m3u8
+#EXTINF:0 tvg-rec="7",Авто 24
+#EXTGRP:Познавательные
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/538/index.m3u8
+#EXTINF:0 tvg-rec="7",National Geographic Wild
+#EXTGRP:Познавательные
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/133/index.m3u8
+#EXTINF:0 tvg-rec="7",Discovery Science PL
+#EXTGRP:Познавательные
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/136/index.m3u8
+#EXTINF:0 tvg-rec="7",Animal Planet
+#EXTGRP:Познавательные
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/137/index.m3u8
+#EXTINF:0 tvg-rec="7",Discovery Channel
+#EXTGRP:Познавательные
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/140/index.m3u8
+#EXTINF:0 tvg-rec="7",Авто Плюс
+#EXTGRP:Познавательные
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/151/index.m3u8
+#EXTINF:0 tvg-rec="7",Кухня
+#EXTGRP:Познавательные
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/152/index.m3u8
+#EXTINF:0 tvg-rec="7",Время
+#EXTGRP:Познавательные
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/552/index.m3u8
+#EXTINF:0 tvg-rec="7",Домашние Животные
+#EXTGRP:Познавательные
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/158/index.m3u8
+#EXTINF:0 tvg-rec="7",Точка Отрыва
+#EXTGRP:Познавательные
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/159/index.m3u8
+#EXTINF:0 tvg-rec="3",Надежда HD
+#EXTGRP:Познавательные
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2153/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju Nature
+#EXTGRP:Познавательные
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/161/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju History
+#EXTGRP:Познавательные
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/162/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju Explore
+#EXTGRP:Познавательные
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/163/index.m3u8
+#EXTINF:0 tvg-rec="7",Океан HD
+#EXTGRP:Познавательные
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/703/index.m3u8
+#EXTINF:0 tvg-rec="7",Бобёр
+#EXTGRP:Познавательные
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/725/index.m3u8
+#EXTINF:0 tvg-rec="7",Зоопарк
+#EXTGRP:Познавательные
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/731/index.m3u8
+#EXTINF:0 tvg-rec="7",Усадьба
+#EXTGRP:Познавательные
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/532/index.m3u8
+#EXTINF:0 tvg-rec="3",English Club TV
+#EXTGRP:Познавательные
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/993/index.m3u8
+#EXTINF:0 tvg-rec="3",History 2 HD
+#EXTGRP:Познавательные
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/1052/index.m3u8
+#EXTINF:0 tvg-rec="7",History FHD
+#EXTGRP:Познавательные
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/837/index.m3u8
+#EXTINF:0 tvg-rec="7",RTG TV
+#EXTGRP:Познавательные
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/841/index.m3u8
+#EXTINF:0 tvg-rec="7",Дикий
+#EXTGRP:Познавательные
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/847/index.m3u8
+#EXTINF:0 tvg-rec="7",NickToons HD
+#EXTGRP:Познавательные
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/849/index.m3u8
+#EXTINF:0 tvg-rec="7",Travel+Adventure
+#EXTGRP:Познавательные
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/850/index.m3u8
+#EXTINF:0 tvg-rec="7",Поехали!
+#EXTGRP:Познавательные
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/135/index.m3u8
+#EXTINF:0 tvg-rec="7",Тайны Галактики
+#EXTGRP:Познавательные
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2010/index.m3u8
+#EXTINF:0 tvg-rec="7",Охота и рыбалка
+#EXTGRP:Познавательные
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2019/index.m3u8
+#EXTINF:0 tvg-rec="7",ЕГЭ ТВ
+#EXTGRP:Познавательные
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2020/index.m3u8
+#EXTINF:0 tvg-rec="3",365 дней ТВ
+#EXTGRP:Познавательные
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2040/index.m3u8
+#EXTINF:0 tvg-rec="3",Телепутешествия
+#EXTGRP:Познавательные
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2051/index.m3u8
+#EXTINF:0 tvg-rec="3",Тайна
+#EXTGRP:Познавательные
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2059/index.m3u8
+#EXTINF:0 tvg-rec="3",Nano
+#EXTGRP:Познавательные
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2081/index.m3u8
+#EXTINF:0 tvg-rec="3",Investigation Discovery
+#EXTGRP:Познавательные
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2085/index.m3u8
+#EXTINF:0 tvg-rec="3",Оружие
+#EXTGRP:Познавательные
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2087/index.m3u8
+#EXTINF:0 tvg-rec="3",Зоо ТВ
+#EXTGRP:Познавательные
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2100/index.m3u8
+#EXTINF:0 tvg-rec="3",Живая Планета
+#EXTGRP:Познавательные
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2101/index.m3u8
+#EXTINF:0 tvg-rec="3",Наша Тема
+#EXTGRP:Познавательные
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2118/index.m3u8
+#EXTINF:0 tvg-rec="3",Пёс и Ко
+#EXTGRP:Познавательные
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2123/index.m3u8
+#EXTINF:0 tvg-rec="3",Наука HD
+#EXTGRP:Познавательные
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2155/index.m3u8
+#EXTINF:0 tvg-rec="0",Museum TV HD FR
+#EXTGRP:Познавательные
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7246/index.m3u8
+#EXTINF:0 tvg-rec="0",National Geographic HD DE
+#EXTGRP:Познавательные
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7255/index.m3u8
+#EXTINF:0 tvg-rec="0",National Geographic Wild HD DE
+#EXTGRP:Познавательные
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7256/index.m3u8
+#EXTINF:0 tvg-rec="0",Animal Planet HD DE
+#EXTGRP:Познавательные
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7257/index.m3u8
+#EXTINF:0 tvg-rec="0",Моя Стихия HD
+#EXTGRP:Познавательные
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7349/index.m3u8
+#EXTINF:0 tvg-rec="7",RTG HD
+#EXTGRP:Познавательные
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/210/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju History HD
+#EXTGRP:Познавательные
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/203/index.m3u8
+#EXTINF:0 tvg-rec="3",Viju Explore HD
+#EXTGRP:Познавательные
+http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6381/index.m3u8
+#EXTINF:0,Animal Planetᴴᴰ
+#EXTGRP:Познавательные
+http://46.32.176.50/AnimalPlanetHD/index.m3u8
+#EXTINF:0,Nat Geo Wildᴴᴰ
+#EXTGRP:Познавательные
+http://46.32.176.50/NatGeoWildHD/index.m3u8
+#EXTINF:0,Аква ТВᴴᴰ
+#EXTGRP:Познавательные
+http://stitch.teletarget.ru/vintera/aquatv/index.m3u8
+#EXTINF:0,В Мире Животныхᴴᴰ
+#EXTGRP:Познавательные
+https://s06.watcher.uz/118/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:0,Лапки Live
+#EXTGRP:Познавательные
+http://45.145.32.13:20440/unikum/index.m3u8?token=test
+#EXTINF:0,Love Natureᴴᴰ
+#EXTGRP:Познавательные
+https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
+#EXTINF:0,Animal Planet SD
+#EXTGRP:Познавательные
+http://46.32.176.50/animalplanet/index.m3u8
+#EXTINF:0,Epic
+#EXTGRP:Познавательные
+http://193.25.8.59:8000/dtx
+#EXTINF:0,RTG SD
+#EXTGRP:Познавательные
+http://31.148.48.15:80/RTG_HD/index.m3u8
+#EXTINF:0,RTGᴴᴰ
+#EXTGRP:Познавательные
+http://193.25.8.59:8000/rtg
+#EXTINF:0,Terra SD
+#EXTGRP:Познавательные
+http://31.148.48.15/Terra_HD/index.m3u8
+#EXTINF:0,Terra Incognitaᴴᴰ
+#EXTGRP:Познавательные
+http://178.124.153.123:44400/terra?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:0,Терра Incognitaᴴᴰ
+#EXTGRP:Познавательные
+http://178.124.153.123:44400/terra
+#EXTINF:0,Большая Азия
+#EXTGRP:Познавательные
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v2a1/mono.m3u8
+#EXTINF:0,Большая Азия SD
+#EXTGRP:Познавательные
+https://bl.rutube.ru/livestream/495ab964b755baa2c9fc7481a2e40f7d/index.m3u8?s=us0e52hk89iBthB6Pt0lOg&e=2066519760&scheme=https
+#EXTINF:0,Инсайт ТВᴴᴰ
+#EXTGRP:Познавательные
+https://s06.watcher.uz/124/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:0,Моя Планета SD
+#EXTGRP:Познавательные
+http://31.148.48.15/Moya_Planeta_HD/index.m3u8
+#EXTINF:0,Моя Планетаᴴᴰ
+#EXTGRP:Познавательные
+https://tinyurl.com/45x3xrpm/chid210/mpegts
+#EXTINF:0,Наша Тема
+#EXTGRP:Познавательные
+https://flussonic.mkpnet.ru/tv-c922a9201f5073f8/video.m3u8?token=test
+#EXTINF:0,Неизвестная Планетаᴴᴰ
+#EXTGRP:Познавательные
+http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDI2IDExOjQ5OjIxIFBNJmhhc2hfdmFsdWU9NzBLbWM5SUpMWitZVEplblVPVDFHUT09JnZhbGlkbWludXRlcz00ODA=
+#EXTINF:0,Точка.РФ SD
+#EXTGRP:Познавательные
+http://158.101.222.193:88/georgia_play.php?id=hdlife
+#EXTINF:0,Travel TV
+#EXTGRP:Познавательные
+https://streamer103.neterra.tv/travel/live.m3u8
+#EXTINF:0,This is Bulgariaᴴᴰ
+#EXTGRP:Познавательные
+https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_HQ.m3u8
+#EXTINF:0,Travel TVᴴᴰ
+#EXTGRP:Познавательные
+https://fl.biztv.media/TabiatTV_1080/tracks-v1a1/mono.m3u8
+#EXTINF:0,Delta Travelᴴᴰ
+#EXTGRP:Познавательные
+http://185.177.104.228:8597/Delta-Travel_HD(+0)/index.m3u8
+#EXTINF:0,Viasat Explorer HD
+#EXTGRP:Познавательные
+http://bpl.online24.pm/play/8852/B67105BADCD4A58/video.m3u8
+#EXTINF:0,360.RU
+#EXTGRP:Познавательные
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
+#EXTINF:0,360.RU FD
+#EXTGRP:Познавательные
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v3a1/mono.m3u8
+#EXTINF:0,360.RU SD
+#EXTGRP:Познавательные
+https://video1.in-news.ru/360/index.m3u8
+#EXTINF:0,360.RUᴴᴰ
+#EXTGRP:Познавательные
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
+#EXTINF:0,CGTN Русский SD
+#EXTGRP:Познавательные
+https://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802_hd.m3u8
+#EXTINF:0,CGTN Русскийᴴᴰ
+#EXTGRP:Познавательные
+https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+#EXTINF:0,Discovery Channel FD
+#EXTGRP:Познавательные
+http://s8.rafail1982.uz/1039/tracks-v1a1a1/mono.m3u8
+#EXTINF:0,Discovery Channelᴴᴰ
+#EXTGRP:Познавательные
+http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
+#EXTINF:0,Investigation Discovery
+#EXTGRP:Познавательные
+http://mfe02.cliptv.az/dash/Investigation_Discovery_SD12er34.ism/playlist.mpd
+#EXTINF:0,NANO
+#EXTGRP:Познавательные
+http://s1.tv-nano.com/Nano_rec/video.m3u8
+#EXTINF:0,NANOᴴᴰ
+#EXTGRP:Познавательные
+https://bl.rutube.ru/livestream/cf958b6c9ae4504be5fc2c1de358a017/index.m3u8?s=JvmA6ABMzxZ5pFsbhOeT7A&e=2069068450&scheme=https
+#EXTINF:0,RTД
+#EXTGRP:Познавательные
+https://streaming.televizor-24-tochka.ru/live/554.m3u8
+#EXTINF:0,RT Док SD
+#EXTGRP:Познавательные
+http://rt-doc.rttv.com/dvr/rtdru/rtdru720.m3u8
+#EXTINF:0,RT Докᴴᴰ
+#EXTGRP:Познавательные
+https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
+#EXTINF:0,RT Docᴴᴰ
+#EXTGRP:Познавательные
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+#EXTINF:0,UNIVER
+#EXTGRP:Познавательные
+http://partners.universmotri.ru/live/univer.sdp_480p/playlist.m3u?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDI1IDI6NDk6MzYgUE0maGFzaF92YWx1ZT12Q1hScElvWmtORUJNNU91R1k1alNnPT0mdmFsaWRtaW51dGVzPTQ4MA==
+#EXTINF:0,UNIVER FD
+#EXTGRP:Познавательные
+http://cdn.universmotri.ru/live/smil:mbr.smil/chunklist_b1328000_slru.m3u8
+#EXTINF:0,UNIVER SD
+#EXTGRP:Познавательные
+http://cdn.universmotri.ru/live/hq.sdp/chunklist.m3u8
+#EXTINF:0,UNIVERᴴᴰ
+#EXTGRP:Познавательные
+https://cdn.universmotri.ru/live/smil:univer.smil/chunklist_w720990141_b3628000_slru.m3u8
+#EXTINF:0,viju Explore
+#EXTGRP:Познавательные
+http://46.32.176.50/viasatexplorer/index.m3u8
+#EXTINF:0,Viju Explore
+#EXTGRP:Познавательные
+http://tinyurl.com/TvZaTak65?id=viasatexp
+#EXTINF:0,Звезда Плюс
+#EXTGRP:Познавательные
+http://45.145.32.13:20440/zvezdaplus/index.m3u8?token=test
+#EXTINF:0,КОНГРЕСС ТВ
+#EXTGRP:Познавательные
+https://live-4.otcnet.ru/504/135/480p/index.m3u8
+#EXTINF:0,КОНГРЕСС ТВ SD
+#EXTGRP:Познавательные
+https://stitch.teletarget.ru/api/v1/hls/504/135/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xLzIwMjUgNjo0OTo0NSBBTSZoYXNoX3ZhbHVlPVUrWTdNVm5UeVVkM1pMdG0xSG9jTGc9PSZ2YWxpZG1pbnV0ZXM9NDgw
+#EXTINF:0,КОНГРЕСС ТВᴴᴰ
+#EXTGRP:Познавательные
+https://live-4.otcnet.ru/504/135/1080p/index.m3u8
+#EXTINF:0,Конгресс ТВᴴᴰ
+#EXTGRP:Познавательные
+http://tinyurl.com/TvZaTak06/congresstv/index.m3u8
+#EXTINF:0,Кто есть Кто
+#EXTGRP:Познавательные
+http://158.101.222.193:88/georgia_play.php?id=ktoestkto
+#EXTINF:0,НАУКАᴴᴰ
+#EXTGRP:Познавательные
+http://31.148.48.15:80/Nauka_2.0/index.m3u8
+#EXTINF:0,Полёт ТВᴴᴰ
+#EXTGRP:Познавательные
+http://stitch.teletarget.ru/vintera/flighttv/index.m3u8
+#EXTINF:0,Просвещение
+#EXTGRP:Познавательные
+http://dmi3y-tv6.ru/hls/CH_PROSVESHENIE.m3u8
+#EXTINF:0,Тайна
+#EXTGRP:Познавательные
+https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=k9bDH53DPY73h1vlbcNhzQ&e=2071743709&scheme=https
+#EXTINF:0,Тайна FD
+#EXTGRP:Познавательные
+https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=V1-tEw5Cpojw6jhxNF9IMw&e=2066519764&scheme=https
+#EXTINF:0,ЮУрГУ ТВ SD
+#EXTGRP:Познавательные
+http://tvrlive.susu.ru/1800k/playlist.m3u8
+#EXTINF:0,Paideuma TV
+#EXTGRP:Познавательные
+https://paideuma.tv:1443/live/Channel2728/chunklist.m3u8
+#EXTINF:0,*MM Experimentᴴᴰ
+#EXTGRP:Познавательные
+http://wps5c7yt.rostelekom.xyz/iptv/PN72TRC6UNHLF9/19412/index.m3u8
+#EXTINF:0,Наука HD
+#EXTGRP:Познавательные
+http://peers.tv-live-669.workers.dev/?ID=http://api.peers.tv/timeshift/nauka_20/16/playlist.m3u8
+#EXTINF:0,360 HD
+#EXTGRP:Познавательные
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
+#EXTINF:0,Звезда Плюс SD
+#EXTGRP:Познавательные
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v2a1/mono.ts.m3u8
+#EXTINF:0,Звезда Плюс HD
+#EXTGRP:Познавательные
+http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist.m3u8
+#EXTINF:0,ЮУрГУ-ТВ
+#EXTGRP:Познавательные
+https://tvrlive.susu.ru/1800k/playlist.m3u8
+#EXTINF:0,Конгресс ТВ HD
+#EXTGRP:Познавательные
+http://live-3.otcnet.ru/congresstv/index.m3u8
+#EXTINF:0,RT Documentary Russian
+#EXTGRP:Познавательные
+http://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
+#EXTINF:0,1MED TVᴴᴰ
+#EXTGRP:Познавательные
+https://rq3qltxnbx1.a.trbcdn.net/livemaster/8hwxnq4s0v_efir0_tcode1080p/playlist.m3u8
+#EXTINF:0,555 HUNT FISHING TVᴴᴰ 2
+#EXTGRP:Познавательные
+http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
+#EXTINF:0,FoodTimeᴴᴰ
+#EXTGRP:Познавательные
+http://31148.rafail1982.uz/Eda_Premium_HD/index.m3u8
+#EXTINF:0,Доктор
+#EXTGRP:Познавательные
+https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8
+#EXTINF:0,Доктор HD
+#EXTGRP:Познавательные
+http://31.148.48.15/Doktor/index.m3u8?token=test
+#EXTINF:0,Докторᴴᴰ
+#EXTGRP:Познавательные
+http://31.148.48.15/Doktor/index.m3u8
+#EXTINF:0,Живи!ᴴᴰ
+#EXTGRP:Познавательные
+http://31.148.48.15/Zhivi/index.m3u8
+#EXTINF:0,Живи Активноᴴᴰ
+#EXTGRP:Познавательные
+https://flussonic.mkpnet.ru/tv-fa810958620d77d8/video.m3u8?token=test
+#EXTINF:0,Загородная Жизнь
+#EXTGRP:Познавательные
+http://185.57.68.33/40/mpegts
+#EXTINF:0,Здоовое ТВ
+#EXTGRP:Познавательные
+https://flussonic.mkpnet.ru/tv-92fa9d648cab0f3f/video.m3u8?token=test
+#EXTINF:0,Здоровое ТВ
+#EXTGRP:Познавательные
+https://s04.watcher.uz/114/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:0,Мужской
+#EXTGRP:Познавательные
+http://193.25.8.59:8000/muzhskoy
+#EXTINF:0,Охота и рыбалка
+#EXTGRP:Познавательные
+https://s05.watcher.uz/30/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:0,Охотник и Рыболов
+#EXTGRP:Познавательные
+https://tinyurl.com/TvZaTak05/1413/tracks-v1a1/mono.m3u8
+#EXTINF:0,Охотник и Рыболовᴴᴰ
+#EXTGRP:Познавательные
+https://s06.watcher.uz/123/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+
 #EXTINF:0,Rutube TV HD
 #EXTGRP:RUTUBE
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=Ji-luKMgHpxfeSnFoMzr3Q&e=2066519748&scheme=https
