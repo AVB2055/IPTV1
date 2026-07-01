@@ -233,79 +233,79 @@ http://176.118.197.101/Kinopokaz/mono.m3u8
 #EXTINF:-1  group-title="Кинофильмы и сериалы"  tvg-id="lubimoe-kino" ,Любимое Кино
 http://176.118.197.101/LubimoeKino/mono.m3u8
 #EXTINF:-1 ,ATV
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://185.57.68.33:8091/255/index.m3u8
 #EXTINF:-1  tvg-id="smotrim-100-fakty" ,Смотрим 100% Факты
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
 #EXTINF:-1  tvg-id="smotrim-100-muzhskoe" ,Смотрим 100% Мужское
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
 #EXTINF:-1  tvg-id="smotrim-100-prazdnik" ,Смотрим 100% Праздник
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
 #EXTINF:-1  tvg-id="smotrim-100-detskoe" ,Смотрим 100% Детское
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
 #EXTINF:-1  tvg-id="smotrim-100-klassika" ,Смотрим 100% Классика
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
 #EXTINF:-1  tvg-id="smotrim-100-lubov" ,Смотрим 100% Любовь
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 https://stream.smotrim.ru/hls/fasttv01/playlist_3.m3u8
 #EXTINF:-1 ,Alpha Cinema
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 #EXTINF:-1  tvg-id="mir-seriala" ,Мир сериала
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://176.118.197.101/MirSeriala/index.m3u8
 #EXTINF:-1  tvg-id="kinoseria" ,Киносерия
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://176.118.197.101/Kinoseria/index.m3u8
 #EXTINF:-1  tvg-id="evrokino" ,Еврокино
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://176.118.197.101/Evrokino/index.m3u8
 #EXTINF:-1  tvg-id="illuzion-plus" ,Иллюзион+
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://176.118.197.101/Illuzion+/index.m3u8
 #EXTINF:-1 ,HCT
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://176.118.197.101/HCT/mono.m3u8
 #EXTINF:-1 ,Bollywood_HD
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://176.118.197.101/Bollywood_HD/index.m3u8
 #EXTINF:-1 ,Dom kino
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://176.118.197.101/Dom_kino/mono.m3u8
 #EXTINF:-1 ,Kinokomediya
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://176.118.197.101/Kinokomediya/mono.m3u8
 #EXTINF:-1 ,Kinomix
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://176.118.197.101/Kinomix/mono.m3u8
 #EXTINF:-1 ,Retro
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://176.118.197.101/Retro/mono.m3u8
 #EXTINF:-1  tvg-id="cinema-ru" ,Cinema
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://176.118.197.101/Cinema/index.m3u8
 #EXTINF:-1 ,Friday
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://94.230.128.107:8080/Friday/video.m3u8
 #EXTINF:-1  tvg-id="kinokomedia" ,Кинокомедия
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://176.118.197.101/Kinokomediya/index.m3u8
 #EXTINF:-1  tvg-id="lubimoe-kino" ,Любимое кино
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://176.118.197.101/LubimoeKino/index.m3u8
 #EXTINF:-1  tvg-id="kinomiks" ,Киномикс
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://176.118.197.101/Kinomix/index.m3u8
 #EXTINF:-1  tvg-id="kinopokaz" ,Кинопоказ
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://176.118.197.101/Kinopokaz/index.m3u8
 #EXTINF:-1  tvg-id="russkaya-komedia" ,Комедия
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://176.118.197.101/Komediya/index.m3u8
 #EXTINF:-1 group-title="Кинофильмы и сериалы",TV 1000
 http://46.32.176.50/tv1000/index.m3u8
@@ -432,28 +432,28 @@ https://live20.bozztv.com/giatv/giatv-tvzovlivestream/tvzovlivestream/chunks.m3u
 #EXTINF:-1 group-title="Кинофильмы и сериалы",MaxTV Kinoзал
 http://185.57.68.33:8091/237/playlist.m3u8
 #EXTINF:0,viju+ Serial
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://mfe02.cliptv.az/dash/MGM_HDqwervbyu78.ism/playlist.mpd
 #EXTINF:0,Кинокомедия
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 https://stream8.cinerama.uz/1232/tracks-v2a1/mono.m3u8
 #EXTINF:0,Кинопремьера
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://158.101.222.193:88/georgia_play.php?id=kinopremyerahd
 #EXTINF:0,Мужское Кино
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 https://stream8.cinerama.uz/1237/tracks-v2a1/mono.m3u8
 #EXTINF:0,Наше Новое Кино
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://93.113.203.165/iptv/F5BM9GXMAPYBDK/19231/index.m3u8
 #EXTINF:0,Индийское кино
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 https://s03.watcher.uz/52/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
 #EXTINF:0,Кинопремьера HD
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 https://s04.watcher.uz/5/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
 #EXTINF:0,Кинопремьера
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 https://s04.watcher.uz/5/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 #EXTINF:-1 group-title="Кинофильмы и сериалы",Bollywood HD
 http://176.118.197.101/Bollywood_HD/mono.m3u8
@@ -464,130 +464,130 @@ http://176.118.197.101/Cinema/mono.m3u8
 #EXTINF:-1 group-title="Кинофильмы и сериалы",Evrokino
 http://176.118.197.101/Evrokino/mono.m3u8
 #EXTINF:0,Bollywood
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 https://s07.watcher.uz/167/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
 #EXTINF:0,Bollywood
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://45.145.32.13:20440/bollywood_hd/index.m3u8?token=test
 #EXTINF:0,FAN
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://31.148.48.15/Fan/index.m3u8
 #EXTINF:0,Film Box
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://193.25.8.59:8000/FilmBOX
 #EXTINF:0,FlixSnip
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://45.145.32.13:20440/flixsnip/index.m3u8?token=test
 #EXTINF:0,Hollywood
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://45.145.32.13:20440/hollywood_hd/index.m3u8?token=test
 #EXTINF:0,KinoLiving
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://45.145.32.13:20440/kinoliving/index.m3u8?token=test
 #EXTINF:0,SHOT TV
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://31.210.208.171:8080/shottv/index.m3u8?token=+W2MSER
 #EXTINF:0,ЕВРОКИНО
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://94.230.250.140/eurokino/index.m3u8
 #EXTINF:0,ИЛЛЮЗИОН+
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://158.101.222.193:88/georgia_play.php?id=illuzionplus
 #EXTINF:0,КИНО ТВ
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 https://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:0,КИНО ТВ SD
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://31.148.48.15:80/Kino_TV_HD/video.m3u8
 #EXTINF:0,КИНОПОКАЗ
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://31148.rafail1982.uz/Kinopokaz/index.m3u8
 #EXTINF:0,КИНОСАТ
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://31.148.48.15/Kineko/index.m3u8
 #EXTINF:0,ТВ 21
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://31.148.48.15/TV_XXI/index.m3u8?token=test
 #EXTINF:0,Классика Кино SD
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://stitch.teletarget.ru/vintera/movieclassic/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDI2IDExOjQ5OjIxIFBNJmhhc2hfdmFsdWU9NzBLbWM5SUpMWitZVEplblVPVDFHUT09JnZhbGlkbWludXRlcz00ODA=
 #EXTINF:0,Trash HD
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 https://woobl.ru/platform24.php?id=4830&p=index.m3u8
 #EXTINF:0,Romance
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://193.25.8.59:8000/tlc
 #EXTINF:0,Дом Кино International
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 https://fs.uplink.kz/dom_kino/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:0,Дом Кино FD
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 https://streaming.thestream.cyou/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:0,Дом Кино Премиум SD
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://mfe01.cliptv.az/dash/Dom_Kino_Premium_HDsdfgio81.ism/playlist.mpd
 #EXTINF:0,Мосфильм.Золотая Коллекция (+4)
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://193.25.8.59:8000/tnv
 #EXTINF:0,КиноСезон
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://stitch.teletarget.ru/vintera/movieseason/index.m3u8
 #EXTINF:0,Кинопанорама
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 https://tinyurl.com/TvZaTak09/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
 #EXTINF:0,Viasat Kino Comedy
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://ukr2.ukrainske.tv/493/video.m3u8
 #EXTINF:0,*BEST FILMS
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 https://tinyurl.com/aleks-u-romki-40/11043/index.m3u8
 #EXTINF:0,ATV Kinoman SD
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://185.57.68.33/237/mpegts
 #EXTINF:0,ATV Cineman 6 SD
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://timeshift.arpinet.am/255/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,КиноМеню
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://stitch.teletarget.ru/vintera/kinomenu/index.m3u8
 #EXTINF:0,TVRUS HD
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://217.154.10.99:2020/channel/4e9dab20/index.m3u8?q=ac8328a8c05870646c45caa253710a85
 #EXTINF:0,TVRUS+ HD
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://217.154.10.99:2020/channel/n7ae3dc73/index.m3u8?q=ac8328a8c05870646c45caa253710a85
 #EXTINF:0,ScripachTV HD
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 https://live20.bozztv.com/akamaissh101/ssh101/scripachmovie/playlist.m3u8
 #EXTINF:0,СТРК
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://sochinskayatrk.ru/hdtv/hls/CTPK_400/playlist.m3u8
 #EXTINF:0,Киножелезо
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=mPZ2z97b3j24PKD8bwFUzA&e=2069068451&scheme=https
 #EXTINF:0,ЗОВ ТВ Red SD
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 https://live20.bozztv.com/giatv/giatv-tvzov%20RED/tvzov%20RED/chunks.m3u8
 #EXTINF:0,MKNEWS24.RU SD
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 https://stream.mknews24.ru/hls/stream.m3u8?DVR
 #EXTINF:0,.red
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://193.25.8.59:8000/set
 #EXTINF:0,Amedia Hit SD
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://31.148.48.15:80/Amedia_HIT_HD/index.m3u8
 #EXTINF:0,Amedia Premium SD
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://31.148.48.15:80/Amedia_Premium_HD/index.m3u8?token=test
 #EXTINF:0,Amedia Premium
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://45.145.32.13:20440/amedia_premium_hd/index.m3u8?token=test
 #EXTINF:0,Epic Drama
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://195.189.60.253/118/index.m3u8
 #EXTINF:0,Кинеко
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://31.148.48.15/Kineko_HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://1lot.tv/ch/10851.png" group-title="Кинофильмы и сериалы",IPTVPLAY Великая Отечественная
 http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
@@ -598,538 +598,538 @@ http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 tvg-logo="https://i122.fastpic.org/big/2024/0112/65/b20ebb09af08ef55dbdffa919a047c65.png?md5=j6J6Ll7lDMFzkm2ymFC1LQ&expires=1735808400" group-title="Кинофильмы и сериалы",IPTVPLAY МультСказки
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:0,ПРОДВИЖЕНИЕ FD
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://prodvizhenie.bonus-tv.ru/cdn/prodvizhenie/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMy8yMDI1IDEyOjQ5OjM0IEFNJmhhc2hfdmFsdWU9SC9uVEJEcTFLeDhaRG83MFVwSVBDQT09JnZhbGlkbWludXRlcz00ODA=
 #EXTINF:0,Продвижение HD
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 https://bl.rutube.ru/livestream/ff5c11c9a51750f5d33427762abc315c/index.m3u8?s=IBzoayhf0EhnnlzfDnDidg&e=2066519813&scheme=https
 #EXTINF:0,Сапфир SD
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://31.148.48.15/Sapfir_HD/index.m3u8
 #EXTINF:0,Продвижение FD
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://dmi3y-tv6.ru/hls/CH_PRODVIZHENIE.m3u8
 #EXTINF:0,Star Cinema
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
 #EXTINF:0,Арсенал
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 https://s06.watcher.uz/120/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 #EXTINF:0,Мир Сериала
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://45.145.32.13:20440/ctc_kids_hd/index.m3u8?token=test
 #EXTINF:0,Русский Роман
-#EXTGRP:Кинофильмы и сериалы
+#EXTGRP:Кино  Not 24-7фильмы и сериалы
 http://31.148.48.15:80/Russkiy_Roman_HD/index.m3u8
 #EXTINF:-1 group-title="Кинофильмы и сериалы",ScripachTV
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 https://live20.bozztv.com/akamaissh101/ssh101/scripachmovie/chunks.m3u8
 #EXTINF:0 tvg-rec="3",Матч ТВ +2
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6012/index.m3u8
 #EXTINF:0 tvg-rec="3",Матч ТВ +4
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6023/index.m3u8
 #EXTINF:0 tvg-rec="3",Матч ТВ +8
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6052/index.m3u8
 #EXTINF:0 tvg-rec="3",Motorvision+ DE
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6112/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky 1 AU
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6122/index.m3u8
 #EXTINF:0 tvg-rec="3",Sky Sport Austria 2 HD DE
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6113/index.m3u8
 #EXTINF:0 tvg-rec="0",Band Sports BR
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6158/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Планета
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/123/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Премьер
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/531/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Футбол 1
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/124/index.m3u8
 #EXTINF:0 tvg-rec="7",KHL
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/519/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Футбол 3
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/522/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Арена
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/528/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Игра
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/529/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Футбол 2
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/530/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч ТВ
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/535/index.m3u8
 #EXTINF:0 tvg-rec="7",Eurosport 1
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/141/index.m3u8
 #EXTINF:0 tvg-rec="7",Extreme Sports
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/144/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Боец
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/150/index.m3u8
 #EXTINF:0 tvg-rec="7",Viju+ Sport
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/160/index.m3u8
 #EXTINF:0 tvg-rec="7",MMA-TV.com
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/843/index.m3u8
 #EXTINF:0 tvg-rec="7",Бокс ТВ
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/870/index.m3u8
 #EXTINF:0 tvg-rec="3",TRT Spor Yildiz HD TR
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2145/index.m3u8
 #EXTINF:0 tvg-rec="3",Старт FHD
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2154/index.m3u8
 #EXTINF:0 tvg-rec="3",Футбол
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/5050/index.m3u8
 #EXTINF:0 tvg-rec="3",Sky Sport News HD DE
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2477/index.m3u8
 #EXTINF:0 tvg-rec="3",Sky Sport 1 FHD DE
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2478/index.m3u8
 #EXTINF:0 tvg-rec="3",Sky Sport 2 HD DE
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2479/index.m3u8
 #EXTINF:0 tvg-rec="3",Sky Sport Bundesliga 1 HD DE
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2480/index.m3u8
 #EXTINF:0 tvg-rec="3",Sky Sport Austria 1 HD DE
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2492/index.m3u8
 #EXTINF:0 tvg-rec="3",beIN Sports 1 HD FR
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2499/index.m3u8
 #EXTINF:0 tvg-rec="3",beIN Sports 2 HD FR
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2500/index.m3u8
 #EXTINF:0 tvg-rec="3",beIN Sports 3 HD FR
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2501/index.m3u8
 #EXTINF:0 tvg-rec="3",Canal+ Sport HD FR
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2502/index.m3u8
 #EXTINF:0 tvg-rec="3",Sport 1 HD DE
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2503/index.m3u8
 #EXTINF:0 tvg-rec="3",TNT Sports 1 FHD UK
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2505/index.m3u8
 #EXTINF:0 tvg-rec="3",TNT Sports 2 HD UK
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2506/index.m3u8
 #EXTINF:0 tvg-rec="3",Star Sports 2 IN
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2507/index.m3u8
 #EXTINF:0 tvg-rec="3",Star Sports 1 IN
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2508/index.m3u8
 #EXTINF:0 tvg-rec="3",YAS Sports AE
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2511/index.m3u8
 #EXTINF:0 tvg-rec="3",ON Sport 1 HD EG
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2512/index.m3u8
 #EXTINF:0 tvg-rec="3",Eleven Sports 2 HD PL
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2517/index.m3u8
 #EXTINF:0 tvg-rec="3",Eleven Sports 1 HD PL
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2518/index.m3u8
 #EXTINF:0 tvg-rec="3",Canal+ Sport 5 HD PL
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2519/index.m3u8
 #EXTINF:0 tvg-rec="3",TVP Sport HD PL
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2520/index.m3u8
 #EXTINF:0 tvg-rec="3",DIGI Sport 2 HD RO
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2522/index.m3u8
 #EXTINF:0 tvg-rec="3",DIGI Sport 1 HD RO
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2523/index.m3u8
 #EXTINF:0 tvg-rec="3",DIGI Sport 3 HD RO
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2524/index.m3u8
 #EXTINF:0 tvg-rec="3",Sport TV 1 HD PT
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2525/index.m3u8
 #EXTINF:0 tvg-rec="3",Sport TV 2 HD PT
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2526/index.m3u8
 #EXTINF:0 tvg-rec="3",Sport TV 3 HD PT
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2527/index.m3u8
 #EXTINF:0 tvg-rec="3",Sport TV 4 HD PT
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2528/index.m3u8
 #EXTINF:0 tvg-rec="3",Sport TV 5 HD PT
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2529/index.m3u8
 #EXTINF:0 tvg-rec="3",Sporting TV FHD PT
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2530/index.m3u8
 #EXTINF:0 tvg-rec="3",DAZN 1 HD PT
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2531/index.m3u8
 #EXTINF:0 tvg-rec="3",DAZN 2 FHD PT
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2532/index.m3u8
 #EXTINF:0 tvg-rec="3",DAZN 4 FHD PT
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2534/index.m3u8
 #EXTINF:0 tvg-rec="3",DAZN 5 FHD PT
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2535/index.m3u8
 #EXTINF:0 tvg-rec="3",DAZN 6 FHD PT
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2536/index.m3u8
 #EXTINF:0 tvg-rec="3",DIGI Sport 4 HD RO
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2538/index.m3u8
 #EXTINF:0 tvg-rec="3",TV 2 Sport 2 HD NO
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2541/index.m3u8
 #EXTINF:0 tvg-rec="3",RMC Sport 1 HD FR
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2545/index.m3u8
 #EXTINF:0 tvg-rec="3",RMC Sport 2 HD FR
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2546/index.m3u8
 #EXTINF:0 tvg-rec="3",RMC Sport 3 HD FR
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2547/index.m3u8
 #EXTINF:0 tvg-rec="3",Sport 1 LT
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2548/index.m3u8
 #EXTINF:0 tvg-rec="3",Arena Sport 1 FHD RS
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2550/index.m3u8
 #EXTINF:0 tvg-rec="3",CT sport HD CZ
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2551/index.m3u8
 #EXTINF:0 tvg-rec="3",Nova Sport 1 HD CZ
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2555/index.m3u8
 #EXTINF:0 tvg-rec="3",Nova Sport 2 HD CZ
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2556/index.m3u8
 #EXTINF:0 tvg-rec="3",Sport 2 HD CZ
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2557/index.m3u8
 #EXTINF:0 tvg-rec="3",Ziggo Sport 3 HD NL
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2559/index.m3u8
 #EXTINF:0 tvg-rec="3",Ziggo Sport HD NL
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2560/index.m3u8
 #EXTINF:0 tvg-rec="3",Ziggo Sport 2 HD NL
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2561/index.m3u8
 #EXTINF:0 tvg-rec="3",Infosport+ HD FR
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2544/index.m3u8
 #EXTINF:0 tvg-rec="3",Окко Футбол HD
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6554/index.m3u8
 #EXTINF:0 tvg-rec="3",Premier Sports 1 HD UK
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6555/index.m3u8
 #EXTINF:0 tvg-rec="3",Eurosport 2 HD UK
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6556/index.m3u8
 #EXTINF:0 tvg-rec="3",TNT Sports 3 HD UK
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6564/index.m3u8
 #EXTINF:0 tvg-rec="3",TNT Sports 1 HD UK
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6566/index.m3u8
 #EXTINF:0 tvg-rec="3",DAZN 3 FHD PT
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7062/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 2 HD DE
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7234/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 3 HD DE
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7235/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 5 HD DE
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7237/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 6 HD DE
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7238/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 7 HD DE
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7239/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 8 HD DE
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7240/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 9 HD DE
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7241/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Sport 1 FHD HR
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7263/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Sport 2 FHD HR
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7264/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Sport 3 FHD HR
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7265/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Sport 4 FHD HR
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7266/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Sport 5 FHD HR
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7267/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Sport 6 FHD HR
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7268/index.m3u8
 #EXTINF:0 tvg-rec="0",Sport Klub 1 HD HR
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7269/index.m3u8
 #EXTINF:0 tvg-rec="0",Sport Klub 2 HD HR
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7270/index.m3u8
 #EXTINF:0 tvg-rec="0",Sport Klub 3 HD HR
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7271/index.m3u8
 #EXTINF:0 tvg-rec="0",Sport Klub 4 HD HR
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7272/index.m3u8
 #EXTINF:0 tvg-rec="0",Sport Klub 5 HD HR
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7273/index.m3u8
 #EXTINF:0 tvg-rec="0",Sport Klub 6 HD HR
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7274/index.m3u8
 #EXTINF:0 tvg-rec="0",Sport Klub 7 HD HR
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7275/index.m3u8
 #EXTINF:0 tvg-rec="0",Sport Klub 8 HD HR
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7276/index.m3u8
 #EXTINF:0 tvg-rec="0",Sport Klub Golf HR
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7277/index.m3u8
 #EXTINF:0 tvg-rec="0",Sport Klub Fight HD HR
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7278/index.m3u8
 #EXTINF:0 tvg-rec="0",Polsat Sport 1 HD PL
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7296/index.m3u8
 #EXTINF:0 tvg-rec="0",Polsat Sport 3 HD PL
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7303/index.m3u8
 #EXTINF:0 tvg-rec="0",Polsat Sport Premium 1 HD PL
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7304/index.m3u8
 #EXTINF:0 tvg-rec="0",Polsat Sport Premium 2 HD PL
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7305/index.m3u8
 #EXTINF:0 tvg-rec="0",Polsat Sport Extra 3 HD PL
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7306/index.m3u8
 #EXTINF:0 tvg-rec="0",Polsat Sport Extra 4 HD PL
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7307/index.m3u8
 #EXTINF:0 tvg-rec="0",Polsat Sport 2 HD PL
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7308/index.m3u8
 #EXTINF:0 tvg-rec="0",Polsat Sport Extra 2 HD PL
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7309/index.m3u8
 #EXTINF:0 tvg-rec="0",Polsat Sport Extra 1 HD PL
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7310/index.m3u8
 #EXTINF:0 tvg-rec="0",Polsat Sport Fight HD PL
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7311/index.m3u8
 #EXTINF:0 tvg-rec="0",Fox Sports 1 HD US
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7322/index.m3u8
 #EXTINF:0 tvg-rec="0",Fox Sports 2 HD US
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7323/index.m3u8
 #EXTINF:0 tvg-rec="0",CBS Sports Network HD US
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7324/index.m3u8
 #EXTINF:0 tvg-rec="0",NBC Sports Network HD US
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7327/index.m3u8
 #EXTINF:0 tvg-rec="0",NHL Network HD US
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7328/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Sport 1 HD HR
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7329/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Sport 2 HD HR
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7330/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Sport 3 HD HR
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7331/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Sport 4 HD HR
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7332/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Sport 5 HD HR
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7333/index.m3u8
 #EXTINF:0 tvg-rec="0",Arena Sport 6 HD HR
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7334/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sports Premier League HD UK
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7335/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sports Football HD UK
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7336/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sports Main Event HD UK
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7337/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sports Mix HD UK
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7339/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sports Action HD UK
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7340/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sports Racing HD UK
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7341/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sports F1 HD UK
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7342/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sports Cricket HD UK
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7343/index.m3u8
 #EXTINF:0 tvg-rec="0",Sky Sports Golf HD UK
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7344/index.m3u8
 #EXTINF:0 tvg-rec="0",TV 2 Sport HD DK
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7355/index.m3u8
 #EXTINF:0 tvg-rec="0",Триколор Max спорт 1
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7360/index.m3u8
 #EXTINF:0 tvg-rec="0",Триколор Max спорт 2
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7361/index.m3u8
 #EXTINF:0 tvg-rec="0",Триколор Max спорт 3
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7362/index.m3u8
 #EXTINF:0 tvg-rec="0",Триколор Max спорт 4
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7363/index.m3u8
 #EXTINF:0 tvg-rec="0",Триколор Max спорт 5
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/7364/index.m3u8
 #EXTINF:0 tvg-rec="7",KHL HD
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/215/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Футбол 2 HD
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/211/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч ТВ HD
-#EXTGRP:Спортивные
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/212/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Игра HD
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/225/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Арена HD
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/207/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Футбол 3 HD
-#EXTGRP:Спортивные
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/206/index.m3u8
 #EXTINF:0 tvg-rec="3",Старт HD
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6384/index.m3u8
 #EXTINF:0 tvg-rec="3",Setanta Sports FHD UA
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/272/index.m3u8
 #EXTINF:0 tvg-rec="7",Viju+ Sport HD
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2007/index.m3u8
 #EXTINF:0 tvg-rec="3",Матч! Игра FHD
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2406/index.m3u8
 #EXTINF:0 tvg-rec="3",KHL Prime FHD
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2403/index.m3u8
 #EXTINF:0 tvg-rec="3",Матч ТВ FHD
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2413/index.m3u8
 #EXTINF:0 tvg-rec="3",Матч! Премьер FHD
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2414/index.m3u8
 #EXTINF:0 tvg-rec="3",Матч! Футбол 1 FHD
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2407/index.m3u8
 #EXTINF:0 tvg-rec="3",Viju+ Sport HD orig
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/5065/index.m3u8
 #EXTINF:0 tvg-rec="3",Матч! Футбол 2 FHD
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2420/index.m3u8
 #EXTINF:0 tvg-rec="3",Setanta Sports+ FHD UA
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/968/index.m3u8
 #EXTINF:0 tvg-rec="3",Setanta Sports 2 HD
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/270/index.m3u8
 #EXTINF:0 tvg-rec="3",Setanta Sports 1 HD
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/271/index.m3u8
 #EXTINF:0 tvg-rec="3",Setanta Baltic 1 HD orig
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/5069/index.m3u8
 #EXTINF:0 tvg-rec="3",Матч! Футбол 3 HD 50 orig
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/5071/index.m3u8
 #EXTINF:0 tvg-rec="3",Матч! Футбол 1 HD 50 orig
-#EXTGRP:Спортивные
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/5072/index.m3u8
 #EXTINF:0 tvg-rec="3",Eurosport 1 HD orig
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/5075/index.m3u8
 #EXTINF:0 tvg-rec="3",Eurosport 2 HD orig
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/5076/index.m3u8
 #EXTINF:0 tvg-rec="3",ViaPlay Football SE
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/5078/index.m3u8
 #EXTINF:0 tvg-rec="0",beIN Sports 1 HD QA
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6123/index.m3u8
 #EXTINF:0 tvg-rec="3",Матч! Футбол 3 FHD
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2408/index.m3u8
 #EXTINF:0 tvg-rec="3",KHL
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://176.118.197.101/KHL/mono.m3u8
 #EXTINF:0 tvg-rec="7",Удар HD
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/2000/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч ТВ
 http://185.46.16.239:8000/Match_TV
@@ -1142,172 +1142,172 @@ http://185.46.16.239:8000/Match_Igra
 #EXTINF:-1 group-title="Спортивные",Бокс ТВ
 http://185.46.16.239:8000/Eurosport_1
 #EXTINF:0,МАТЧ! HD
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://cdn.balelbrus.com/bigteisti9/M_HD/index.m3u8?token=eG1lbnRzMnx8ZVhWeWVYZzRPVEE0TVRNek16QTJOWGc9
 #EXTINF:0,МАТЧ! АРЕНА SD
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://31.148.48.15:80/Match_Arena_HD/index.m3u8?token=test
 #EXTINF:0,МАТЧ! БОЕЦ
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://45.145.32.13:20440/match_boets/index.m3u8?token=test
 #EXTINF:0,МАТЧ! ИГРА SD
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://31.210.208.171:8080/match_igra/index.m3u8?token=+W2MSER
 #EXTINF:0,МАТЧ! ИГРА HD
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://45.145.32.13:20440/match_igra_hd/index.m3u8?token=test
 #EXTINF:0,МАТЧ! ПЛАНЕТА
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 https://s07.watcher.uz/175/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 #EXTINF:0,МАТЧ! ПЛАНЕТА FD
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 https://bl.video.matchtv.ru/media/playlist/free_04fc20484b40a76bf33b537081ec7bf3/17_72438189/1080/6863fd17014b627e6f0027d538646428/2208978000.m3u8
 #EXTINF:0,МАТЧ! СТРАНА
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 https://bl.video.matchtv.ru/media/playlist/free_d10054e3245839377104585927f08479/17_72477605/1080/e59fd6ff6bcd963c255273eb25e5c38f/2208978000.m3u8
 #EXTINF:0,МАТЧ! ФУТБОЛ 1
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://193.25.8.59:8000/fut
 #EXTINF:0,МАТЧ! ФУТБОЛ 1 SD
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://31.148.48.15/Match_Futbol_1_HD/mono.m3u8
 #EXTINF:0,МАТЧ! ФУТБОЛ 1
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://45.145.32.13:20440/match_futbol_1_hd/index.m3u8?token=test
 #EXTINF:0,МАТЧ! ФУТБОЛ 2
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://45.145.32.13:20440/match_football2/index.m3u8?token=test
 #EXTINF:0,МАТЧ! ФУТБОЛ 2 SD
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://31.148.48.15/Match_Futbol_2_HD/index.m3u8
 #EXTINF:0,МАТЧ! ФУТБОЛ 2
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://45.145.32.13:20440/match_futbol_2_hd/index.m3u8?token=test
 #EXTINF:0,МАТЧ! ФУТБОЛ 3
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://185.57.68.33:80/110/index.m3u8
 #EXTINF:0,МАТЧ! ФУТБОЛ 3 SD
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://31.148.48.15:80/Match_Futbol_3_HD/index.m3u8?token=test
 #EXTINF:0,МАТЧ! ФУТБОЛ 3
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://45.145.32.13:20440/match_futbol_3_hd/index.m3u8?token=test
 #EXTINF:0,Матч! Игра HD
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://tinyurl.com/deoolegTvZaTak/index.m3u8
 #EXTINF:0,Матч! Футбол 1 HD
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/QVP3XYV8KEF4TL/10015/index.m3u8
 #EXTINF:0,Матч! Футбол 2 HD
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/QVP3XYV8KEF4TL/10027/index.m3u8
 #EXTINF:0,Матч! Футбол 3 HD
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/QVP3XYV8KEF4TL/10016/index.m3u8
 #EXTINF:0,Матч ТВ
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://tinyurl.com/TvZaTak011/a003
 #EXTINF:0,ASTRAKHAN.RU SPORT
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/mono.ts.m3u8
 #EXTINF:0,ASTRAKHAN.RU SPORT
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,Eurosport 1
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 https://stream8.cinerama.uz/1439/tracks-v1a1/mono.m3u8
 #EXTINF:0,Eurosport 1 FD
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://b63fa420.ucomist.net/iptv/7FH9M9TCK4LU2H/141/index.m3u8
 #EXTINF:0,FightBox
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://185.98.211.8:81/fightbox/index.m3u8?token=test&21yo=0
 #EXTINF:0,KHL
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 https://s04.watcher.uz/20/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
 #EXTINF:0,KHL SD
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://31.148.48.15:80/KHL_TV/index.m3u8?token=test
 #EXTINF:0,KHL Prime SD
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://31.148.48.15/KHL_TV_HD/index.m3u8
 #EXTINF:0,KHL Prime
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://45.145.32.13:20440/khl_prime/index.m3u8?token=test
 #EXTINF:0,MMA-TV
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 https://s04.watcher.uz/19/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
 #EXTINF:0,Setanta Sports 1
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
 #EXTINF:0,Setanta Sports 2
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
 #EXTINF:0,Trace Sport Stars FD
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 https://tinyurl.com/TvZaTak05/1274/tracks-v1a1/mono.m3u8
 #EXTINF:0,Бокс ТВ SD
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://31.148.48.15:80/Boks_TV/index.m3u8
 #EXTINF:0,Бокс ТВ
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://31.210.208.171:8080/box_tv/index.m3u8?token=+W2MSER
 #EXTINF:0,Волейбол
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=RP3Gdy1OZbXnpfKul6ZHLw&e=2070450972&scheme=https
 #EXTINF:0,Мир Баскетбола
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://45.145.32.13:20440/mir_basketbola/index.m3u8?token=test
 #EXTINF:0,Мото Драйв
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://stitch.teletarget.ru/vintera/motodrive/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDI2IDExOjQ5OjIxIFBNJmhhc2hfdmFsdWU9NzBLbWM5SUpMWitZVEplblVPVDFHUT09JnZhbGlkbWludXRlcz00ODA=
 #EXTINF:0,Овертайм ТВ SD
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://live.overtime26.ru/app/potok/playlist.m3u8
 #EXTINF:0,Старт
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 https://bl.webcaster.pro/media/playlist/api_free_fd14ed34164a52d1090e4cb9db93683f/4_79276517/480p/d33bbf3e6ac7c41524eae5d1c3d9258d/4873167902.m3u8?live=15&ref=https://tvstart.ru/channels/tv-start/
 #EXTINF:0,Старт SD
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 https://bl.webcaster.pro/media/playlist/api_free_fd14ed34164a52d1090e4cb9db93683f/4_79276517/1080p/d33bbf3e6ac7c41524eae5d1c3d9258d/4873167902.m3u8?live=15&ref=https://tvstart.ru/channels/tv-start/
 #EXTINF:0,Старт Баскет
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/480p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?live=15&ref=https://tvstart.ru/channels/start-basket-test/
 #EXTINF:0,Старт Баскет SD
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8
 #EXTINF:0,Старт Триумф
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd/33_85479982/480p/4eaec8986e2012fb936478856fbf3b4b/4818731006.m3u8?live=15&ref=https://tvstart.ru/ru/pages/start-triumph/
 #EXTINF:0,Старт Триумф SD
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 https://bl.webcaster.pro/media/playlist/free_fe8dc1b768a84b8b0333db826471f17e_hd/33_85479982/1080p/8666c3e935faf6ef47ffd601e8e48868/4821408969.m3u8
 #EXTINF:0,ТВ Спорт
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://tinyurl.com/TvZaTak06/sportivny/index.m3u8
 #EXTINF:0,Футбол SD
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://31148.rafail1982.uz/Futbol_HD/index.m3u8
 #EXTINF:0,Удар
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 https://a787201481-s80718.cdn.ngenix.net/hls/CH_UDARHD/video_1920x1080_avc1/playlist.m3u8
 #EXTINF:0,Спорт на Первом
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 https://cdn8.1internet.tv/dash-live3/streams/sport-1/sport-1.mpd
 #EXTINF:0,SD REX
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://31.148.48.15:80/Russkiy_Ekstrim/index.m3u8
 #EXTINF:0,Sport
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 https://s07.watcher.uz/161/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 #EXTINF:0,Футбол (TJ)
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 https://live.teleradiocom.tj/8/3m.m3u8
 #EXTINF:0,Варзиш Sport (TJ)
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 https://live.teleradiocom.tj/5/3m.m3u8
 #EXTINF:0,Eurosport 2
-#EXTGRP:Спортивные
+#EXTGRP:Спорт  Not 24-7ивные
 http://46.32.176.50/eurosport2/index.m3u8
 #EXTINF:0 tvg-rec="7",История
 #EXTGRP:Познавательные 1
@@ -1588,9 +1588,6 @@ https://streaming.televizor-24-tochka.ru/live/554.m3u8
 #EXTINF:0,RT Док SD
 #EXTGRP:Познавательные 1
 http://rt-doc.rttv.com/dvr/rtdru/rtdru720.m3u8
-#EXTINF:0,RT Док
-#EXTGRP:Познавательные 1
-https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
 #EXTINF:0,RT Doc
 #EXTGRP:Познавательные 1
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
@@ -1669,9 +1666,6 @@ https://tvrlive.susu.ru/1800k/playlist.m3u8
 #EXTINF:0,Конгресс ТВ HD
 #EXTGRP:Познавательные 1
 http://live-3.otcnet.ru/congresstv/index.m3u8
-#EXTINF:0,RT Documentary Russian
-#EXTGRP:Познавательные 1
-http://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
 #EXTINF:0,1MED TV
 #EXTGRP:Познавательные 1
 https://rq3qltxnbx1.a.trbcdn.net/livemaster/8hwxnq4s0v_efir0_tcode1080p/playlist.m3u8
@@ -5658,3062 +5652,3062 @@ https://edge-b-05.ctc.ru/vod/hls/fta/2bWKU4w9zz_qVd97KnHpNA/0217eac2bf9e74d058ae
 #EXTM3U
 https://edge-b-05.ctc.ru/vod/hls/fta/rHslGB_x9pTGs3hU_4bcUQ/c98d840261c87f8adf6b6987240a84e2-,hd10,hd20,hd30,hd40,.mp4.urlset/index-f1-v1-a1.m3u8
 #EXTINF:0,ОТР HD
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20018/index.m3u8
 #EXTINF:0,Первый канал FHD
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2402/index.m3u8
 #EXTINF:0,Первый канал HD
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/204/index.m3u8
 #EXTINF:0,Первый канал
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/127/index.m3u8
 #EXTINF:0,Россия 1 FHD
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2409/index.m3u8
 #EXTINF:0,Россия 1 HD
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/205/index.m3u8
 #EXTINF:0,Россия 1
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/504/index.m3u8
 #EXTINF:0,НТВ HD
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/213/index.m3u8
 #EXTINF:0,НТВ
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/501/index.m3u8
 #EXTINF:0,ТВЦ
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/520/index.m3u8
 #EXTINF:0,Пятый канал
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/112/index.m3u8
 #EXTINF:0,ТНТ FHD
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2417/index.m3u8
 #EXTINF:0,ТНТ HD
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/237/index.m3u8
 #EXTINF:0,ТНТ
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/502/index.m3u8
 #EXTINF:0,СТС
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/506/index.m3u8
 #EXTINF:0,РЕН ТВ HD
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2024/index.m3u8
 #EXTINF:0,РЕН ТВ
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/128/index.m3u8
 #EXTINF:0,Мир
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/113/index.m3u8
 #EXTINF:0,ОТР
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/705/index.m3u8
 #EXTINF:0,Звезда Плюс HD
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19230/index.m3u8
 #EXTINF:0,Звезда
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/544/index.m3u8
 #EXTINF:0,СТС Love
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/103/index.m3u8
 #EXTINF:0,Че!
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/513/index.m3u8
 #EXTINF:0,ТВ-3 HD
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/5033/index.m3u8
 #EXTINF:0,ТВ-3
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/508/index.m3u8
 #EXTINF:0,Пятница! HD
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/5031/index.m3u8
 #EXTINF:0,Пятница!
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/503/index.m3u8
 #EXTINF:0,RTVi
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2086/index.m3u8
 #EXTINF:0,Суббота!
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/826/index.m3u8
 #EXTINF:0,Домашний
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/514/index.m3u8
 #EXTINF:0,Настоящее время
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/986/index.m3u8
 #EXTINF:0,Ностальгия
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/102/index.m3u8
 #EXTINF:0,Ю ТВ
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/534/index.m3u8
 #EXTINF:0,ТНТ4
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/104/index.m3u8
 #EXTINF:0,КВН ТВ
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/546/index.m3u8
 #EXTINF:0,Сарафан
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/748/index.m3u8
 #EXTINF:0,Точка ТВ
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2053/index.m3u8
 #EXTINF:0,360 HD
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2065/index.m3u8
 #EXTINF:0,360
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/825/index.m3u8
 #EXTINF:0,СПАС
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/983/index.m3u8
 #EXTINF:0,Союз
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2016/index.m3u8
 #EXTINF:0,Здоровое ТВ
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2022/index.m3u8
 #EXTINF:0,Психология
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2025/index.m3u8
 #EXTINF:0,Успех
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2041/index.m3u8
 #EXTINF:0,Открытый мир
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2078/index.m3u8
 #EXTINF:0,Загородный
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2099/index.m3u8
 #EXTINF:0,Надежда
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2116/index.m3u8
 #EXTINF:0,БСТ
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2108/index.m3u8
 #EXTINF:0,Красная линия
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2147/index.m3u8
 #EXTINF:0,ЛДПР ТВ
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2110/index.m3u8
 #EXTINF:0,Хузур ТВ
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2150/index.m3u8
 #EXTINF:0,Дождь
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2030/index.m3u8
 #EXTINF:0,GNC HD
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/955/index.m3u8
 #EXTINF:0,Вместе-РФ
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2073/index.m3u8
 #EXTINF:0,Россия К
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/505/index.m3u8
 #EXTINF:0,РЕН ТВ HD orig
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9002/index.m3u8
 #EXTINF:0,Gametoon HD
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/5049/index.m3u8
 #EXTINF:0,НТВ HD orig
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9028/index.m3u8
 #EXTINF:0,Ратник HD
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2119/index.m3u8
 #EXTINF:0,RT Documentary HD orig
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9031/index.m3u8
 #EXTINF:0,360 HD orig
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9036/index.m3u8
 #EXTINF:0,ТВЦ orig
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9095/index.m3u8
 #EXTINF:0,Пятый канал orig
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9096/index.m3u8
 #EXTINF:0,Звезда orig
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9098/index.m3u8
 #EXTINF:0,СТС Love orig
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9099/index.m3u8
 #EXTINF:0,ОТР orig
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9100/index.m3u8
 #EXTINF:0,Че! orig
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9101/index.m3u8
 #EXTINF:0,RTVi HD orig
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9102/index.m3u8
 #EXTINF:0,Суббота! orig
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9103/index.m3u8
 #EXTINF:0,Домашний orig
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9104/index.m3u8
 #EXTINF:0,Ностальгия orig
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9106/index.m3u8
 #EXTINF:0,Ю ТВ orig
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9107/index.m3u8
 #EXTINF:0,Сарафан orig
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9109/index.m3u8
 #EXTINF:0,Точка ТВ orig
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9110/index.m3u8
 #EXTINF:0,СПАС orig
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9111/index.m3u8
 #EXTINF:0,Союз orig
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9112/index.m3u8
 #EXTINF:0,Здоровое ТВ orig
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9113/index.m3u8
 #EXTINF:0,Психология orig
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9114/index.m3u8
 #EXTINF:0,Успех orig
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9115/index.m3u8
 #EXTINF:0,Открытый мир orig
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9117/index.m3u8
 #EXTINF:0,Красная линия orig
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9119/index.m3u8
 #EXTINF:0,ЛДПР ТВ orig
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9120/index.m3u8
 #EXTINF:0,Хузур ТВ HD orig
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9121/index.m3u8
 #EXTINF:0,Вместе-РФ orig
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9124/index.m3u8
 #EXTINF:0,Первый канал orig
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9201/index.m3u8
 #EXTINF:0,Россия 1 orig
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9202/index.m3u8
 #EXTINF:0,НТВ orig
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9203/index.m3u8
 #EXTINF:0,ТНТ orig
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9204/index.m3u8
 #EXTINF:0,РЕН ТВ orig
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9205/index.m3u8
 #EXTINF:0,ТВ-3 orig
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9206/index.m3u8
 #EXTINF:0,Пятница! orig
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9207/index.m3u8
 #EXTINF:0,ТНТ4 orig
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9208/index.m3u8
 #EXTINF:0,360 orig
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9209/index.m3u8
 #EXTINF:0,Мир orig
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9211/index.m3u8
 #EXTINF:0,Загородный orig
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9212/index.m3u8
 #EXTINF:0,ТНТ HD orig
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/7251/index.m3u8
 #EXTINF:0,Россия 1 HD orig
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/7252/index.m3u8
 #EXTINF:0,Первый канал HD orig
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/7253/index.m3u8
 #EXTINF:0,Дождь HD
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20083/index.m3u8
 #EXTINF:0,Trece HD ES
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31885/index.m3u8
 #EXTINF:0,ТВЦ +0 (Ставрополь)
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31892/index.m3u8
 #EXTINF:0,Патриот
-#EXTGRP:Общие
+#EXTGRP:Общие  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31928/index.m3u8
 #EXTINF:0,РБК HD
-#EXTGRP:Новостные
+#EXTGRP:Новостные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/16075/index.m3u8
 #EXTINF:0,Россия 24 +2
-#EXTGRP:Новостные
+#EXTGRP:Новостные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/6013/index.m3u8
 #EXTINF:0,РБК FHD
-#EXTGRP:Новостные
+#EXTGRP:Новостные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2404/index.m3u8
 #EXTINF:0,РБК
-#EXTGRP:Новостные
+#EXTGRP:Новостные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/106/index.m3u8
 #EXTINF:0,Россия 24
-#EXTGRP:Новостные
+#EXTGRP:Новостные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/507/index.m3u8
 #EXTINF:0,Москва 24
-#EXTGRP:Новостные
+#EXTGRP:Новостные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/523/index.m3u8
 #EXTINF:0,Мир 24
-#EXTGRP:Новостные
+#EXTGRP:Новостные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/712/index.m3u8
 #EXTINF:0,Euronews Россия
-#EXTGRP:Новостные
+#EXTGRP:Новостные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/828/index.m3u8
 #EXTINF:0,Известия
-#EXTGRP:Новостные
+#EXTGRP:Новостные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2008/index.m3u8
 #EXTINF:0,Центральное телевидение
-#EXTGRP:Новостные
+#EXTGRP:Новостные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2064/index.m3u8
 #EXTINF:0,NHK World HD JP
-#EXTGRP:Новостные
+#EXTGRP:Новостные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/729/index.m3u8
 #EXTINF:0,РБК orig
-#EXTGRP:Новостные
+#EXTGRP:Новостные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9213/index.m3u8
 #EXTINF:0,CGTN
-#EXTGRP:Новостные
+#EXTGRP:Новостные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/830/index.m3u8
 #EXTINF:0,Мир 24 HD orig
-#EXTGRP:Новостные
+#EXTGRP:Новостные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9214/index.m3u8
 #EXTINF:0,Euronews Россия orig
-#EXTGRP:Новостные
+#EXTGRP:Новостные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9215/index.m3u8
 #EXTINF:0,Известия orig
-#EXTGRP:Новостные
+#EXTGRP:Новостные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9216/index.m3u8
 #EXTINF:0,CGTN orig
-#EXTGRP:Новостные
+#EXTGRP:Новостные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9217/index.m3u8
 #EXTINF:0,Москва 24 orig
-#EXTGRP:Новостные
+#EXTGRP:Новостные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9218/index.m3u8
 #EXTINF:0,Мир 24 orig
-#EXTGRP:Новостные
+#EXTGRP:Новостные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9219/index.m3u8
 #EXTINF:0,RT News orig
-#EXTGRP:Новостные
+#EXTGRP:Новостные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9220/index.m3u8
 #EXTINF:0,Центральное телевидение orig
-#EXTGRP:Новостные
+#EXTGRP:Новостные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9222/index.m3u8
 #EXTINF:0,CGTN Русский HD orig
-#EXTGRP:Новостные
+#EXTGRP:Новостные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9223/index.m3u8
 #EXTINF:0,BBC One HD UK
-#EXTGRP:Новостные
+#EXTGRP:Новостные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19176/index.m3u8
 #EXTINF:0,BBC Two HD UK
-#EXTGRP:Новостные
+#EXTGRP:Новостные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19177/index.m3u8
 #EXTINF:0,BBC Alba UK
-#EXTGRP:Новостные
+#EXTGRP:Новостные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19179/index.m3u8
 #EXTINF:0,Fox News FHD US
-#EXTGRP:Новостные
+#EXTGRP:Новостные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31915/index.m3u8
 #EXTINF:0,VF Сериалы Турции
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9123/index.m3u8
 #EXTINF:0,VF Вестерн
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31553/index.m3u8
 #EXTINF:0,Liberty Кино UKR FHD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31660/index.m3u8
 #EXTINF:0,CineMan Криминальные Сериалы
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31626/index.m3u8
 #EXTINF:0,Liberty Дрим Воркс 4K
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31661/index.m3u8
 #EXTINF:0,BOX Apocalypse HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31655/index.m3u8
 #EXTINF:0,VeleS Магнитофон
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31645/index.m3u8
 #EXTINF:0,VeleS Киносерия
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31640/index.m3u8
 #EXTINF:0,BOX Serial 4K
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31657/index.m3u8
 #EXTINF:0,Viasat Kino World orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31447/index.m3u8
 #EXTINF:0,Суспільне Культура HD UA
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31747/index.m3u8
 #EXTINF:0,Любимое Кино HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20014/index.m3u8
 #EXTINF:0,MM OldSchool HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19413/index.m3u8
 #EXTINF:0,Amedia Hit HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/6010/index.m3u8
 #EXTINF:0,Ultra HD Cinema 4K
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/4000/index.m3u8
 #EXTINF:0,Кино UHD 4K
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/5004/index.m3u8
 #EXTINF:0,Премиальное FHD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2410/index.m3u8
 #EXTINF:0,Дом Кино Премиум HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/911/index.m3u8
 #EXTINF:0,Дом Кино Премиум HD orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/5082/index.m3u8
 #EXTINF:0,Про Любовь HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2430/index.m3u8
 #EXTINF:0,Наш Кинопоказ HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2434/index.m3u8
 #EXTINF:0,Кинопоказ HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2439/index.m3u8
 #EXTINF:0,Камеди HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2441/index.m3u8
 #EXTINF:0,Романтичное HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/5053/index.m3u8
 #EXTINF:0,Amedia Premium HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/229/index.m3u8
 #EXTINF:0,Viju+ Premiere HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/202/index.m3u8
 #EXTINF:0,Viju+ Premiere HD orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/5079/index.m3u8
 #EXTINF:0,Viju+ Comedy HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/200/index.m3u8
 #EXTINF:0,Viju+ Comedy HD orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/5080/index.m3u8
 #EXTINF:0,Viju+ Megahit HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/201/index.m3u8
 #EXTINF:0,Viju+ Megahit HD orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/5081/index.m3u8
 #EXTINF:0,День Победы HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/5054/index.m3u8
 #EXTINF:0,Победа HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/5052/index.m3u8
 #EXTINF:0,Победа
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2003/index.m3u8
 #EXTINF:0,Amedia 2 HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2046/index.m3u8
 #EXTINF:0,Viju TV1000 Русское
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/101/index.m3u8
 #EXTINF:0,.sci-fi
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/110/index.m3u8
 #EXTINF:0,Киномикс
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/509/index.m3u8
 #EXTINF:0,Киносемья
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/125/index.m3u8
 #EXTINF:0,Родное Кино
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/126/index.m3u8
 #EXTINF:0,Viju TV1000 Action
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/131/index.m3u8
 #EXTINF:0,Кинохит
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/516/index.m3u8
 #EXTINF:0,Amedia 2
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/510/index.m3u8
 #EXTINF:0,Кинокомедия
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/145/index.m3u8
 #EXTINF:0,Индийское Кино
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/146/index.m3u8
 #EXTINF:0,Киносерия
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/148/index.m3u8
 #EXTINF:0,Еврокино
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/549/index.m3u8
 #EXTINF:0,Кинеко
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/550/index.m3u8
 #EXTINF:0,Сапфир
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/553/index.m3u8
 #EXTINF:0,Amedia 1
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/554/index.m3u8
 #EXTINF:0,Мужское Кино
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/164/index.m3u8
 #EXTINF:0,Hollywood
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/557/index.m3u8
 #EXTINF:0,.red
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/559/index.m3u8
 #EXTINF:0,2x2
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/702/index.m3u8
 #EXTINF:0,.black
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/708/index.m3u8
 #EXTINF:0,Русский бестселлер
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/905/index.m3u8
 #EXTINF:0,Русский роман
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/906/index.m3u8
 #EXTINF:0,Русский детектив
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/907/index.m3u8
 #EXTINF:0,Любимое Кино
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/722/index.m3u8
 #EXTINF:0,Киносвидание
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/728/index.m3u8
 #EXTINF:0,Кино ТВ
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/732/index.m3u8
 #EXTINF:0,Комедия
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/733/index.m3u8
 #EXTINF:0,FAN
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/734/index.m3u8
 #EXTINF:0,НТВ Хит
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/741/index.m3u8
 #EXTINF:0,НТВ Сериал
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/744/index.m3u8
 #EXTINF:0,НСТ
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/726/index.m3u8
 #EXTINF:0,Индия
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/1001/index.m3u8
 #EXTINF:0,FilmBox
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/1071/index.m3u8
 #EXTINF:0,Дорама
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/1066/index.m3u8
 #EXTINF:0,Мир Сериала
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/856/index.m3u8
 #EXTINF:0,Ретро
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2018/index.m3u8
 #EXTINF:0,Иллюзион+
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2038/index.m3u8
 #EXTINF:0,Феникс плюс Кино
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2039/index.m3u8
 #EXTINF:0,.red HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2062/index.m3u8
 #EXTINF:0,Киноман
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2121/index.m3u8
 #EXTINF:0,Cinema
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/5051/index.m3u8
 #EXTINF:0,Зал 1
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2568/index.m3u8
 #EXTINF:0,Зал 2
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2569/index.m3u8
 #EXTINF:0,Зал 3
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2570/index.m3u8
 #EXTINF:0,Зал 4
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2571/index.m3u8
 #EXTINF:0,Зал 5
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2572/index.m3u8
 #EXTINF:0,Зал 6
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2573/index.m3u8
 #EXTINF:0,Зал 7
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2574/index.m3u8
 #EXTINF:0,Зал 8
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2575/index.m3u8
 #EXTINF:0,Зал 9
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2576/index.m3u8
 #EXTINF:0,Зал 10
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2577/index.m3u8
 #EXTINF:0,Зал 11
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2578/index.m3u8
 #EXTINF:0,Зал 12
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2579/index.m3u8
 #EXTINF:0,Trash HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/6396/index.m3u8
 #EXTINF:0,Шокирующее HD orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9004/index.m3u8
 #EXTINF:0,Комедийное HD orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9005/index.m3u8
 #EXTINF:0,Hollywood HD orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9017/index.m3u8
 #EXTINF:0,FX HD orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9018/index.m3u8
 #EXTINF:0,Amedia Premium HD orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9022/index.m3u8
 #EXTINF:0,.red HD orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9035/index.m3u8
 #EXTINF:0,Русский роман HD orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9041/index.m3u8
 #EXTINF:0,Остросюжетное HD orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9044/index.m3u8
 #EXTINF:0,Наше HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9046/index.m3u8
 #EXTINF:0,Кино ТВ HD orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9051/index.m3u8
 #EXTINF:0,Viju TV1000 Action HD orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9057/index.m3u8
 #EXTINF:0,Viju TV1000 HD orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9058/index.m3u8
 #EXTINF:0,Viju TV1000 Русское HD orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9059/index.m3u8
 #EXTINF:0,Amedia 1 HD orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9069/index.m3u8
 #EXTINF:0,Amedia Hit HD orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9070/index.m3u8
 #EXTINF:0,Еврокино HD orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9078/index.m3u8
 #EXTINF:0,Иллюзион+ HD orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9079/index.m3u8
 #EXTINF:0,Русский иллюзион HD orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9080/index.m3u8
 #EXTINF:0,Наш Кинопоказ HD orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9086/index.m3u8
 #EXTINF:0,Блокбастер HD orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9087/index.m3u8
 #EXTINF:0,Наше Мужское HD orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9088/index.m3u8
 #EXTINF:0,Про Любовь HD orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9089/index.m3u8
 #EXTINF:0,Хит HD orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9090/index.m3u8
 #EXTINF:0,Камеди HD orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9091/index.m3u8
 #EXTINF:0,Кинопоказ HD orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9092/index.m3u8
 #EXTINF:0,.sci-fi orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9125/index.m3u8
 #EXTINF:0,Киномикс orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9126/index.m3u8
 #EXTINF:0,Родное Кино orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9127/index.m3u8
 #EXTINF:0,Кинохит orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9128/index.m3u8
 #EXTINF:0,Amedia 2 orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9129/index.m3u8
 #EXTINF:0,ТВ 21 orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9130/index.m3u8
 #EXTINF:0,Русский иллюзион orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9133/index.m3u8
 #EXTINF:0,Еврокино orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9134/index.m3u8
 #EXTINF:0,Кинеко HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9135/index.m3u8
 #EXTINF:0,Дом Кино orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9136/index.m3u8
 #EXTINF:0,Amedia 1 orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9137/index.m3u8
 #EXTINF:0,2x2 orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9139/index.m3u8
 #EXTINF:0,.black orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9140/index.m3u8
 #EXTINF:0,Русский бестселлер orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9141/index.m3u8
 #EXTINF:0,Русский детектив orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9142/index.m3u8
 #EXTINF:0,Любимое Кино orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9143/index.m3u8
 #EXTINF:0,Комедия orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9144/index.m3u8
 #EXTINF:0,FAN orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9145/index.m3u8
 #EXTINF:0,НТВ Хит orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9146/index.m3u8
 #EXTINF:0,НТВ Сериал orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9147/index.m3u8
 #EXTINF:0,НСТ orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9148/index.m3u8
 #EXTINF:0,FilmBox ArtHouse orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9150/index.m3u8
 #EXTINF:0,Ретро orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9152/index.m3u8
 #EXTINF:0,Феникс плюс Кино orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9153/index.m3u8
 #EXTINF:0,Киноман orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9154/index.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9156/index.m3u8
 #EXTINF:0,Дорама HD orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9224/index.m3u8
 #EXTINF:0,Bollywood HD orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9225/index.m3u8
 #EXTINF:0,Победа orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9226/index.m3u8
 #EXTINF:0,Viju TV1000 Русское orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9227/index.m3u8
 #EXTINF:0,Viju TV1000 Action orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9229/index.m3u8
 #EXTINF:0,Amedia Premium FHD orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9233/index.m3u8
 #EXTINF:0,Amedia Hit orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9234/index.m3u8
 #EXTINF:0,Viju TV1000 orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9235/index.m3u8
 #EXTINF:0,Hollywood orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9236/index.m3u8
 #EXTINF:0,.red orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9237/index.m3u8
 #EXTINF:0,Дорама orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9239/index.m3u8
 #EXTINF:0,Русский роман orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9240/index.m3u8
 #EXTINF:0,Иллюзион+ orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9241/index.m3u8
 #EXTINF:0,Кино ТВ orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9244/index.m3u8
 #EXTINF:0,Viju+ Serial HD orig
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9245/index.m3u8
 #EXTINF:0,Премиальное HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/7222/index.m3u8
 #EXTINF:0,Киносемья HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/7244/index.m3u8
 #EXTINF:0,Киносвидание HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/7245/index.m3u8
 #EXTINF:0,Страшное HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/7247/index.m3u8
 #EXTINF:0,Кинокомедия HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/7248/index.m3u8
 #EXTINF:0,Киномикс HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/7249/index.m3u8
 #EXTINF:0,Кинохит HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/7250/index.m3u8
 #EXTINF:0,KinoJam 1 HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/7260/index.m3u8
 #EXTINF:0,KinoJam 2 HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/7261/index.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/7347/index.m3u8
 #EXTINF:0,Shot TV
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/526/index.m3u8
 #EXTINF:0,CineMan MiniSeries
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19437/index.m3u8
 #EXTINF:0,BCU Reality HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/16082/index.m3u8
 #EXTINF:0,BCU Reality OLD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/16083/index.m3u8
 #EXTINF:0,VB VHS Classic
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19429/index.m3u8
 #EXTINF:0,MM Celebrity HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/16084/index.m3u8
 #EXTINF:0,MM Classic HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/16085/index.m3u8
 #EXTINF:0,MM Драма HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/16086/index.m3u8
 #EXTINF:0,VF Netflix
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19427/index.m3u8
 #EXTINF:0,VF HBO
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19428/index.m3u8
 #EXTINF:0,Yosso TV Мелодрама
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19434/index.m3u8
 #EXTINF:0,Yosso TV Советские Фильмы 4K
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19435/index.m3u8
 #EXTINF:0,Yosso TV Netflix
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20163/index.m3u8
 #EXTINF:0,Yosso TV Disney
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20164/index.m3u8
 #EXTINF:0,Yosso TV Best 60fps
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20165/index.m3u8
 #EXTINF:0,Citrus History
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/18139/index.m3u8
 #EXTINF:0,Liberty Индия 4K
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/18160/index.m3u8
 #EXTINF:0,Liberty Куб 4K
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/18161/index.m3u8
 #EXTINF:0,Liberty Семейный 4K
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/18178/index.m3u8
 #EXTINF:0,Liberty Турк Фильм 4K
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19303/index.m3u8
 #EXTINF:0,Liberty Сказки FHD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19304/index.m3u8
 #EXTINF:0,Liberty МиМ FHD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19306/index.m3u8
 #EXTINF:0,Liberty Союз 4K
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19307/index.m3u8
 #EXTINF:0,Liberty Легенда 4K
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19308/index.m3u8
 #EXTINF:0,Liberty Нетфликс 4K
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19402/index.m3u8
 #EXTINF:0,Liberty Фантастика FHD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19403/index.m3u8
 #EXTINF:0,Fresh Cinema
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19287/index.m3u8
 #EXTINF:0,Fresh Kids
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19288/index.m3u8
 #EXTINF:0,Fresh Comedy
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19289/index.m3u8
 #EXTINF:0,Fresh Premiere
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19290/index.m3u8
 #EXTINF:0,Fresh Family
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19291/index.m3u8
 #EXTINF:0,Fresh Rating
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19292/index.m3u8
 #EXTINF:0,Fresh VHS
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19293/index.m3u8
 #EXTINF:0,Fresh Fantastic
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19294/index.m3u8
 #EXTINF:0,Fresh Series
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19295/index.m3u8
 #EXTINF:0,Fresh Horror
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19296/index.m3u8
 #EXTINF:0,Fresh Adventure
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19297/index.m3u8
 #EXTINF:0,Fresh Romantic
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19298/index.m3u8
 #EXTINF:0,Fresh Russian
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19299/index.m3u8
 #EXTINF:0,Fresh Thriller
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19300/index.m3u8
 #EXTINF:0,Fresh Soviet
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19301/index.m3u8
 #EXTINF:0,Magic Family HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/18170/index.m3u8
 #EXTINF:0,Magic Love HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/18171/index.m3u8
 #EXTINF:0,Триколор Шерлок Холмс и доктор Ватсон
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/18126/index.m3u8
 #EXTINF:0,Триколор След
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/18127/index.m3u8
 #EXTINF:0,Триколор Ментовские войны
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/18128/index.m3u8
 #EXTINF:0,Триколор Мелодрамы
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/18129/index.m3u8
 #EXTINF:0,Триколор Мир без границ
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/18130/index.m3u8
 #EXTINF:0,Триколор Некрасивая подружка
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/18131/index.m3u8
 #EXTINF:0,Триколор Три богатыря
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/18132/index.m3u8
 #EXTINF:0,Триколор Сибирские деревянные дома
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/18133/index.m3u8
 #EXTINF:0,Триколор Знание
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/18134/index.m3u8
 #EXTINF:0,Триколор Советские мультфильмы
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/18135/index.m3u8
 #EXTINF:0,Триколор Смешарики
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/18136/index.m3u8
 #EXTINF:0,Триколор Комедии
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/18137/index.m3u8
 #EXTINF:0,Киносерия HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19229/index.m3u8
 #EXTINF:0,Наше Новое Кино HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19231/index.m3u8
 #EXTINF:0,Cinema HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19233/index.m3u8
 #EXTINF:0,BOX Franchise HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19274/index.m3u8
 #EXTINF:0,BOX Hybrid HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19275/index.m3u8
 #EXTINF:0,BOX Anime HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19276/index.m3u8
 #EXTINF:0,BOX Gangster HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19277/index.m3u8
 #EXTINF:0,BOX Oscar HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19278/index.m3u8
 #EXTINF:0,BOX Memory HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19279/index.m3u8
 #EXTINF:0,BOX M.Serial HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19280/index.m3u8
 #EXTINF:0,BOX Serial HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19281/index.m3u8
 #EXTINF:0,BOX Game HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19284/index.m3u8
 #EXTINF:0,BOX Spy HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19285/index.m3u8
 #EXTINF:0,BOX Travel HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19418/index.m3u8
 #EXTINF:0,BOX Western HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19419/index.m3u8
 #EXTINF:0,BOX Zombie HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19420/index.m3u8
 #EXTINF:0,BOX Cyber HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19421/index.m3u8
 #EXTINF:0,PG Insomnia HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19398/index.m3u8
 #EXTINF:0,MYTV
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19407/index.m3u8
 #EXTINF:0,MYTV 2
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19408/index.m3u8
 #EXTINF:0,MYTV 3
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19411/index.m3u8
 #EXTINF:0,MYTV HIT
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19410/index.m3u8
 #EXTINF:0,Citrus Live HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19436/index.m3u8
 #EXTINF:0,Liberty Планктон FHD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20140/index.m3u8
 #EXTINF:0,Magic Adventure HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20141/index.m3u8
 #EXTINF:0,BOX Ghost HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20154/index.m3u8
 #EXTINF:0,BOX Stories HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20155/index.m3u8
 #EXTINF:0,BOX Fantasy HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20156/index.m3u8
 #EXTINF:0,BOX Premiere 4K
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20157/index.m3u8
 #EXTINF:0,BOX Remast 4K
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20158/index.m3u8
 #EXTINF:0,BOX Mayday HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20159/index.m3u8
 #EXTINF:0,Liberty XX Век 4K
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20173/index.m3u8
 #EXTINF:0,VB Назад в СССР HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20175/index.m3u8
 #EXTINF:0,VB Спецназ-Диверсант HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20176/index.m3u8
 #EXTINF:0,DetectiveJam HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20209/index.m3u8
 #EXTINF:0,FamilyJam HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20210/index.m3u8
 #EXTINF:0,Кион Хит HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20211/index.m3u8
 #EXTINF:0,Eye Family HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20216/index.m3u8
 #EXTINF:0,Eye History HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20217/index.m3u8
 #EXTINF:0,Eye Western HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20218/index.m3u8
 #EXTINF:0,Eye Drive HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20219/index.m3u8
 #EXTINF:0,Eye Cyber HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20220/index.m3u8
 #EXTINF:0,Z!Military HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31696/index.m3u8
 #EXTINF:0,Z!Biography HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31697/index.m3u8
 #EXTINF:0,Z!Adventure HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31698/index.m3u8
 #EXTINF:0,Z!Drama HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31700/index.m3u8
 #EXTINF:0,Z!Detective HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31699/index.m3u8
 #EXTINF:0,Z!Fantastic HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31702/index.m3u8
 #EXTINF:0,Z!Family HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31701/index.m3u8
 #EXTINF:0,Z!Russian HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31704/index.m3u8
 #EXTINF:0,Z!Fun HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31706/index.m3u8
 #EXTINF:0,Z!Science HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31705/index.m3u8
 #EXTINF:0,Z!Fantasy HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31703/index.m3u8
 #EXTINF:0,Z!Thriller HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31693/index.m3u8
 #EXTINF:0,Z!History HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31695/index.m3u8
 #EXTINF:0,Z!Action HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31694/index.m3u8
 #EXTINF:0,StrahTV Horror HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31708/index.m3u8
 #EXTINF:0,StrahTV Громовы
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31712/index.m3u8
 #EXTINF:0,StrahTV Однажды в милиции
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31715/index.m3u8
 #EXTINF:0,StrahTV Байки из склепа
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31711/index.m3u8
 #EXTINF:0,StrahTV Кинодром HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31714/index.m3u8
 #EXTINF:0,StrahTV Ольга HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31718/index.m3u8
 #EXTINF:0,StrahTV Репка HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31719/index.m3u8
 #EXTINF:0,StrahTV Страх 2.0 HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31720/index.m3u8
 #EXTINF:0,StrahTV Фантастика 2.0 HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31722/index.m3u8
 #EXTINF:0,StrahTV Коломбо
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31713/index.m3u8
 #EXTINF:0,Atreseries HD ES
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31882/index.m3u8
 #EXTINF:0,TCM HD ES
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31883/index.m3u8
 #EXTINF:0,КиноСезон HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31889/index.m3u8
 #EXTINF:0,Suspenso HD ES
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31906/index.m3u8
 #EXTINF:0,КиноКульт HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31914/index.m3u8
 #EXTINF:0,4K Русское кино HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31925/index.m3u8
 #EXTINF:0,Госфильмофонд. Машина времени HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31929/index.m3u8
 #EXTINF:0,VHS-ка Сериал HD
-#EXTGRP:Кино
+#EXTGRP:Кино  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31931/index.m3u8
 #EXTINF:0,Megogo Спорт HD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31612/index.m3u8
 #EXTINF:0,Megogo Футбол 4 HD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31613/index.m3u8
 #EXTINF:0,Megogo Футбол 5 HD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31614/index.m3u8
 #EXTINF:0,Megogo Гонг HD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31503/index.m3u8
 #EXTINF:0,Megogo Футбол 3 HD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31504/index.m3u8
 #EXTINF:0,Megogo Футбол 2 HD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31505/index.m3u8
 #EXTINF:0,Megogo Футбол 1 HD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31483/index.m3u8
 #EXTINF:0,Окко Event 7
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31450/index.m3u8
 #EXTINF:0,Окко Event 8
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31451/index.m3u8
 #EXTINF:0,Окко Event 9
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31452/index.m3u8
 #EXTINF:0,Окко Event 10
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31453/index.m3u8
 #EXTINF:0,Окко Event 11
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31454/index.m3u8
 #EXTINF:0,Окко Event 12
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31457/index.m3u8
 #EXTINF:0,Окко Event 13
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31458/index.m3u8
 #EXTINF:0,Окко Event 14
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31459/index.m3u8
 #EXTINF:0,Окко Event 15
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31463/index.m3u8
 #EXTINF:0,Окко Event 16
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31522/index.m3u8
 #EXTINF:0,Окко Event 17
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31523/index.m3u8
 #EXTINF:0,Окко Event 18
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31524/index.m3u8
 #EXTINF:0,Окко Event 19
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31525/index.m3u8
 #EXTINF:0,Окко Event 20
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31526/index.m3u8
 #EXTINF:0,Окко Event 21
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31527/index.m3u8
 #EXTINF:0,Окко Event 22
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31528/index.m3u8
 #EXTINF:0,Окко Event 23
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31529/index.m3u8
 #EXTINF:0,Окко Event 24
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31530/index.m3u8
 #EXTINF:0,Окко Event 25
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31531/index.m3u8
 #EXTINF:0,Окко Event 26
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31532/index.m3u8
 #EXTINF:0,Окко Event 27
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31533/index.m3u8
 #EXTINF:0,Окко Event 28
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31534/index.m3u8
 #EXTINF:0,Окко Event 29
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31535/index.m3u8
 #EXTINF:0,Окко Спорт HD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20138/index.m3u8
 #EXTINF:0,Окко Прайм Спорт HD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20135/index.m3u8
 #EXTINF:0,Eurosport 4K
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31475/index.m3u8
 #EXTINF:0,Eurosport 1 HD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/228/index.m3u8
 #EXTINF:0,Eurosport 2 HD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/234/index.m3u8
 #EXTINF:0,KHL Prime HD orig
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9003/index.m3u8
 #EXTINF:0,Sport 3 HD UA
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31445/index.m3u8
 #EXTINF:0,UPL TV HD UA
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31446/index.m3u8
 #EXTINF:0,Tring Sport 1 HD AL
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31563/index.m3u8
 #EXTINF:0,Tring Sport 2 HD AL
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31564/index.m3u8
 #EXTINF:0,Tring Sport 3 HD AL
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31565/index.m3u8
 #EXTINF:0,Sport 1 HD HU
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31568/index.m3u8
 #EXTINF:0,Sport 2 HD HU
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31569/index.m3u8
 #EXTINF:0,Nova Sport 3 HD CZ
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31570/index.m3u8
 #EXTINF:0,Nova Sport 4 HD CZ
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31571/index.m3u8
 #EXTINF:0,Cytavision Sports 1 GR
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31572/index.m3u8
 #EXTINF:0,Cytavision Sports 2 GR
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31573/index.m3u8
 #EXTINF:0,Cytavision Sports 3 GR
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31574/index.m3u8
 #EXTINF:0,Cytavision Sports 5 GR
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31575/index.m3u8
 #EXTINF:0,Cytavision Sports 6 GR
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31576/index.m3u8
 #EXTINF:0,Cytavision Sports 7 GR
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31577/index.m3u8
 #EXTINF:0,Cosmote Sport 1 HD GR
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31578/index.m3u8
 #EXTINF:0,Cosmote Sport 2 HD GR
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31579/index.m3u8
 #EXTINF:0,Cosmote Sport 3 HD GR
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31581/index.m3u8
 #EXTINF:0,Cosmote Sport 4 HD GR
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31582/index.m3u8
 #EXTINF:0,Cosmote Sport 5 HD GR
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31583/index.m3u8
 #EXTINF:0,Cosmote Sport 6 HD GR
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31584/index.m3u8
 #EXTINF:0,Cosmote Sport 7 HD GR
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31585/index.m3u8
 #EXTINF:0,Cosmote Sport 8 HD GR
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31586/index.m3u8
 #EXTINF:0,Cosmote Sport 9 HD GR
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31587/index.m3u8
 #EXTINF:0,Cosmote Sport Highlights HD GR
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31588/index.m3u8
 #EXTINF:0,BOX SR Sport 4K HDR
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31455/index.m3u8
 #EXTINF:0,Sport Live DK
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31589/index.m3u8
 #EXTINF:0,Sport TV+ HD PT
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31590/index.m3u8
 #EXTINF:0,Canal 11 HD PT
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31592/index.m3u8
 #EXTINF:0,Sport Extra HD RO
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31595/index.m3u8
 #EXTINF:0,Arena Esport HD RS
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31597/index.m3u8
 #EXTINF:0,Arena Fight HD RS
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31598/index.m3u8
 #EXTINF:0,Arena Premium 1 HD RS
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31599/index.m3u8
 #EXTINF:0,Arena Premium 2 HD RS
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31600/index.m3u8
 #EXTINF:0,Arena Premium 3 HD RS
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31601/index.m3u8
 #EXTINF:0,Arena Sport 1 HD RS
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31602/index.m3u8
 #EXTINF:0,Arena Sport 3 HD RS
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31603/index.m3u8
 #EXTINF:0,Arena Premium 3 RS
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31604/index.m3u8
 #EXTINF:0,Arena Sport 4 HD RS
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31605/index.m3u8
 #EXTINF:0,Arena Sport 5 HD RS
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31606/index.m3u8
 #EXTINF:0,Arena Sport 6 HD RS
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31607/index.m3u8
 #EXTINF:0,Arena Sport 7 HD RS
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31608/index.m3u8
 #EXTINF:0,Arena Sport 8 HD RS
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31609/index.m3u8
 #EXTINF:0,Arena Sport 9 HD RS
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31610/index.m3u8
 #EXTINF:0,Arena Sport 1x2 HD RS
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31611/index.m3u8
 #EXTINF:0,BOX SR Sport 1 Live 4K HDR
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31550/index.m3u8
 #EXTINF:0,BOX SR Sport 2 Live 4K HDR
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31551/index.m3u8
 #EXTINF:0,Матч! Игра HD 50 orig
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9032/index.m3u8
 #EXTINF:0,Матч! Игра HD orig
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9034/index.m3u8
 #EXTINF:0,Eurosport 1 FHD orig
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9026/index.m3u8
 #EXTINF:0,Мир Баскетбола HD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20004/index.m3u8
 #EXTINF:0,FightBox HD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20027/index.m3u8
 #EXTINF:0,Extreme Sports HD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20028/index.m3u8
 #EXTINF:0,Матч ТВ
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/535/index.m3u8
 #EXTINF:0,Матч ТВ HD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/212/index.m3u8
 #EXTINF:0,Матч ТВ FHD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2413/index.m3u8
 #EXTINF:0,Матч! Премьер
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/531/index.m3u8
 #EXTINF:0,Матч! Премьер HD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/220/index.m3u8
 #EXTINF:0,Матч! Премьер FHD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2414/index.m3u8
 #EXTINF:0,Матч! Футбол 1
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/124/index.m3u8
 #EXTINF:0,Матч! Футбол 1 HD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/222/index.m3u8
 #EXTINF:0,Матч! Футбол 1 HD 50 orig
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/5072/index.m3u8
 #EXTINF:0,Матч! Футбол 1 FHD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2407/index.m3u8
 #EXTINF:0,Матч! Футбол 2
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/530/index.m3u8
 #EXTINF:0,Матч! Футбол 2 HD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/211/index.m3u8
 #EXTINF:0,Матч! Футбол 2 FHD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2420/index.m3u8
 #EXTINF:0,Матч! Футбол 2 HD orig
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/290/index.m3u8
 #EXTINF:0,Матч! Футбол 3
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/522/index.m3u8
 #EXTINF:0,Матч! Футбол 3 HD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/206/index.m3u8
 #EXTINF:0,Матч! Футбол 3 HD 50 orig
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/5071/index.m3u8
 #EXTINF:0,Матч! Футбол 3 FHD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2408/index.m3u8
 #EXTINF:0,Матч! Игра
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/529/index.m3u8
 #EXTINF:0,Матч! Игра HD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/225/index.m3u8
 #EXTINF:0,Матч! Игра FHD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2406/index.m3u8
 #EXTINF:0,Матч! Арена
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/528/index.m3u8
 #EXTINF:0,Матч! Арена HD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/207/index.m3u8
 #EXTINF:0,Матч! Страна
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/107/index.m3u8
 #EXTINF:0,Матч! Планета
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/123/index.m3u8
 #EXTINF:0,Матч! Боец
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/150/index.m3u8
 #EXTINF:0,Матч ТВ +2
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/6012/index.m3u8
 #EXTINF:0,Матч ТВ +4
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/6023/index.m3u8
 #EXTINF:0,Матч ТВ +8
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/6052/index.m3u8
 #EXTINF:0,Триколор Спорт 1
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/7360/index.m3u8
 #EXTINF:0,Триколор Спорт 2
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/7361/index.m3u8
 #EXTINF:0,Триколор Спорт 3
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/7362/index.m3u8
 #EXTINF:0,Триколор Спорт 4
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/7363/index.m3u8
 #EXTINF:0,Триколор Спорт 5
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/7364/index.m3u8
 #EXTINF:0,Super Tennis FHD IT
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/6079/index.m3u8
 #EXTINF:0,Eurosport 1 HD orig
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/5075/index.m3u8
 #EXTINF:0,Eurosport 1
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/141/index.m3u8
 #EXTINF:0,Eurosport 2 HD orig
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/5076/index.m3u8
 #EXTINF:0,Setanta Sports 1 HD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/271/index.m3u8
 #EXTINF:0,Setanta Baltic 1 FHD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/5069/index.m3u8
 #EXTINF:0,Setanta Sports 2 HD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/270/index.m3u8
 #EXTINF:0,Setanta Qazaqstan HD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2399/index.m3u8
 #EXTINF:0,Setanta Sports FHD UA
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/272/index.m3u8
 #EXTINF:0,Setanta Sports+ FHD UA
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/5068/index.m3u8
 #EXTINF:0,Viju+ Sport HD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2007/index.m3u8
 #EXTINF:0,Viju+ Sport HD orig
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/5065/index.m3u8
 #EXTINF:0,ViaPlay Football SE
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/5078/index.m3u8
 #EXTINF:0,Удар HD orig
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/5067/index.m3u8
 #EXTINF:0,Удар FHD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2000/index.m3u8
 #EXTINF:0,Xsport HD UA
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/996/index.m3u8
 #EXTINF:0,Xsport HD UA orig
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/5077/index.m3u8
 #EXTINF:0,Russian Extreme UHD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/5003/index.m3u8
 #EXTINF:0,Russian Extreme HD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2077/index.m3u8
 #EXTINF:0,KHL HD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/215/index.m3u8
 #EXTINF:0,KHL Prime FHD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2403/index.m3u8
 #EXTINF:0,KHL
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/519/index.m3u8
 #EXTINF:0,Fast & Fun Box HD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/1018/index.m3u8
 #EXTINF:0,Extreme Sports
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/144/index.m3u8
 #EXTINF:0,Viju+ Sport
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/160/index.m3u8
 #EXTINF:0,Quest Red HD UK
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2396/index.m3u8
 #EXTINF:0,MMA-TV.com
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/843/index.m3u8
 #EXTINF:0,Бокс ТВ
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/870/index.m3u8
 #EXTINF:0,Старт FHD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2154/index.m3u8
 #EXTINF:0,Футбол
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/5050/index.m3u8
 #EXTINF:0,Драйв
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2021/index.m3u8
 #EXTINF:0,ЖИВИ!
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/738/index.m3u8
 #EXTINF:0,Russian Extreme HD orig
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9042/index.m3u8
 #EXTINF:0,Конный Мир orig
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9055/index.m3u8
 #EXTINF:0,Старт HD orig
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9083/index.m3u8
 #EXTINF:0,Extreme Sports orig
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9160/index.m3u8
 #EXTINF:0,Драйв orig
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9163/index.m3u8
 #EXTINF:0,ЖИВИ! orig
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9164/index.m3u8
 #EXTINF:0,Eurosport 1 orig
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9247/index.m3u8
 #EXTINF:0,Viju+ Sport orig
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9249/index.m3u8
 #EXTINF:0,Футбол orig
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9251/index.m3u8
 #EXTINF:0,TNT Sports 4 HD UK
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19054/index.m3u8
 #EXTINF:0,beIN Sports Max 1 FHD TR
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19062/index.m3u8
 #EXTINF:0,beIN Sports Max 2 FHD TR
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19063/index.m3u8
 #EXTINF:0,beIN Sports Haber HD TR
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19064/index.m3u8
 #EXTINF:0,beIN Sports Max 2 HD TR
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19066/index.m3u8
 #EXTINF:0,TRT Spor TR
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19067/index.m3u8
 #EXTINF:0,TRT Spor FHD TR
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19068/index.m3u8
 #EXTINF:0,A Spor HD TR
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19069/index.m3u8
 #EXTINF:0,TRT Spor HD TR
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19072/index.m3u8
 #EXTINF:0,Spor Smart 2 HD TR
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19073/index.m3u8
 #EXTINF:0,Tivibu Spor 1 HD TR
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19074/index.m3u8
 #EXTINF:0,Tivibu Spor 3 HD TR
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19076/index.m3u8
 #EXTINF:0,Sky Sport 24 HD IT
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19127/index.m3u8
 #EXTINF:0,Sky Sport Arena HD IT
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19128/index.m3u8
 #EXTINF:0,Sky Sport Golf HD IT
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19132/index.m3u8
 #EXTINF:0,Sky Sport MotoGP HD IT
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19133/index.m3u8
 #EXTINF:0,Super Tennis IT
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19136/index.m3u8
 #EXTINF:0,Fox Sports HD AR
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19138/index.m3u8
 #EXTINF:0,Fox Sports HD MX
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19139/index.m3u8
 #EXTINF:0,Fox Sports 506 HD AU
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19143/index.m3u8
 #EXTINF:0,Fox Sports Racing US
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19144/index.m3u8
 #EXTINF:0,Fox Sports 501 Cricket HD AU
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19146/index.m3u8
 #EXTINF:0,FanDuel Sports North US
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19152/index.m3u8
 #EXTINF:0,FanDuel Sports Midwest US
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19153/index.m3u8
 #EXTINF:0,ESPNews US
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19154/index.m3u8
 #EXTINF:0,ESPN 2 HD US
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19155/index.m3u8
 #EXTINF:0,ESPN HD US
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19156/index.m3u8
 #EXTINF:0,DAZN 1 FHD PT
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19158/index.m3u8
 #EXTINF:0,Benfica TV FHD PT
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19160/index.m3u8
 #EXTINF:0,V Sport Ultra HD SE
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19163/index.m3u8
 #EXTINF:0,ESPN 1 HD NL
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19201/index.m3u8
 #EXTINF:0,ESPN 2 HD NL
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19202/index.m3u8
 #EXTINF:0,ESPN 3 HD NL
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19203/index.m3u8
 #EXTINF:0,ESPN 4 HD NL
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19204/index.m3u8
 #EXTINF:0,Матч! Страна HD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19219/index.m3u8
 #EXTINF:0,Матч! Боец HD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19221/index.m3u8
 #EXTINF:0,MMA-TV.com HD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19243/index.m3u8
 #EXTINF:0,Футбол HD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19244/index.m3u8
 #EXTINF:0,Бокс ТВ HD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19245/index.m3u8
 #EXTINF:0,Удар HD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19246/index.m3u8
 #EXTINF:0,START World HD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19248/index.m3u8
 #EXTINF:0,KHL Prime HD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19396/index.m3u8
 #EXTINF:0,BOX Be On Edge Live 1 HD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19422/index.m3u8
 #EXTINF:0,BOX Be On Edge Live 2 HD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19423/index.m3u8
 #EXTINF:0,BOX Be On Edge HD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19424/index.m3u8
 #EXTINF:0,StrahTV MMA TIME HD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31710/index.m3u8
 #EXTINF:0,Spor Smart HD TR
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20060/index.m3u8
 #EXTINF:0,Q Arena HD KZ
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20061/index.m3u8
 #EXTINF:0,Q League HD KZ
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20062/index.m3u8
 #EXTINF:0,Setanta Sports 1 FHD KZ
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20065/index.m3u8
 #EXTINF:0,Eleven Sports 1 4K PL
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20068/index.m3u8
 #EXTINF:0,Setanta Moldova FHD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20074/index.m3u8
 #EXTINF:0,Setanta Baltic 1 HD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20081/index.m3u8
 #EXTINF:0,CineMan Premium
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20112/index.m3u8
 #EXTINF:0,Fint Ga 1
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20091/index.m3u8
 #EXTINF:0,Fint Ga 2
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20092/index.m3u8
 #EXTINF:0,Fint Ga 3
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20093/index.m3u8
 #EXTINF:0,Fint Ga 4
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31682/index.m3u8
 #EXTINF:0,Pimple TV 1
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20094/index.m3u8
 #EXTINF:0,Pimple TV 3
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20096/index.m3u8
 #EXTINF:0,Pimple TV 4
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20097/index.m3u8
 #EXTINF:0,Pimple TV 2
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20095/index.m3u8
 #EXTINF:0,Pimple TV 5
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20098/index.m3u8
 #EXTINF:0,Pimple TV 6
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31681/index.m3u8
 #EXTINF:0,ViP Sport 14
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31675/index.m3u8
 #EXTINF:0,ViP Sport 15
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31676/index.m3u8
 #EXTINF:0,ViP Sport 16
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31677/index.m3u8
 #EXTINF:0,ViP Sport 17
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31678/index.m3u8
 #EXTINF:0,Betking Live 1
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31679/index.m3u8
 #EXTINF:0,Betking Live 2
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31680/index.m3u8
 #EXTINF:0,ViP Sport 1
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20099/index.m3u8
 #EXTINF:0,ViP Sport 2
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20103/index.m3u8
 #EXTINF:0,ViP Sport 3
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20104/index.m3u8
 #EXTINF:0,ViP Sport 4
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20105/index.m3u8
 #EXTINF:0,ViP Sport 5
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20106/index.m3u8
 #EXTINF:0,ViP Sport 6
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20107/index.m3u8
 #EXTINF:0,ViP Sport 7
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20108/index.m3u8
 #EXTINF:0,ViP Sport 8
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20109/index.m3u8
 #EXTINF:0,ViP Sport 9
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20110/index.m3u8
 #EXTINF:0,ViP Sport 10
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20100/index.m3u8
 #EXTINF:0,ViP Sport 11
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20101/index.m3u8
 #EXTINF:0,ViP Sport 12
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20102/index.m3u8
 #EXTINF:0,ViP Sport 13
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31674/index.m3u8
 #EXTINF:0,Vital Sport Drive
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20160/index.m3u8
 #EXTINF:0,BOX SportCast Live 1 HD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20166/index.m3u8
 #EXTINF:0,BOX SportCast Live 2 HD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20167/index.m3u8
 #EXTINF:0,BOX SportCast Live 3 HD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20168/index.m3u8
 #EXTINF:0,BOX SportCast Live 4 HD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20169/index.m3u8
 #EXTINF:0,BOX SportCast Live 5 HD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20170/index.m3u8
 #EXTINF:0,BOX SportCast Live 6 HD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31648/index.m3u8
 #EXTINF:0,BOX SportCast Live 7 HD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31649/index.m3u8
 #EXTINF:0,BOX SportCast HD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31650/index.m3u8
 #EXTINF:0,Diema Sport 3 HD BG
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31917/index.m3u8
 #EXTINF:0,Волейбол HD
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31920/index.m3u8
 #EXTINF:0,Sport TV HD AZ
-#EXTGRP:Спорт
+#EXTGRP:Спорт  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31926/index.m3u8
 #EXTINF:0,Retro Music TV CZ
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31558/index.m3u8
 #EXTINF:0,Deluxe Dance HD DE
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31560/index.m3u8
 #EXTINF:0,Bridge Фрэш HD
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9053/index.m3u8
 #EXTINF:0,VF Michael Jackson
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31554/index.m3u8
 #EXTINF:0,VB Greatest Hits
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31622/index.m3u8
 #EXTINF:0,VB Yo! MTV HD
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31623/index.m3u8
 #EXTINF:0,VeleS Dj Set
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31639/index.m3u8
 #EXTINF:0,BOX Metall HD
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31651/index.m3u8
 #EXTINF:0,BCU Russia 90s HD
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31658/index.m3u8
 #EXTINF:0,Europa Plus TV HD
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20029/index.m3u8
 #EXTINF:0,VF Король и Шут
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31555/index.m3u8
 #EXTINF:0,MTV HD US
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2130/index.m3u8
 #EXTINF:0,Жара HD
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2129/index.m3u8
 #EXTINF:0,Жара
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/105/index.m3u8
 #EXTINF:0,Bridge TV
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/122/index.m3u8
 #EXTINF:0,Bridge Deluxe HD
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/236/index.m3u8
 #EXTINF:0,Bridge Hits
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/711/index.m3u8
 #EXTINF:0,Bridge Русский Хит
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/120/index.m3u8
 #EXTINF:0,Europa Plus TV
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/115/index.m3u8
 #EXTINF:0,МУЗ-ТВ
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/116/index.m3u8
 #EXTINF:0,Музыка Первого
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/155/index.m3u8
 #EXTINF:0,Mezzo Live HD
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/208/index.m3u8
 #EXTINF:0,Mezzo
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/707/index.m3u8
 #EXTINF:0,ТНТ Music
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/710/index.m3u8
 #EXTINF:0,о2тв HD
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2141/index.m3u8
 #EXTINF:0,Vostok TV
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/1054/index.m3u8
 #EXTINF:0,RFM TV HD FR
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/1038/index.m3u8
 #EXTINF:0,MCM Top Russia
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/836/index.m3u8
 #EXTINF:0,Clubbing TV HD
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2395/index.m3u8
 #EXTINF:0,RU TV
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/838/index.m3u8
 #EXTINF:0,Шансон ТВ
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/859/index.m3u8
 #EXTINF:0,Музыка Live
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2043/index.m3u8
 #EXTINF:0,Music Box Russia
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2048/index.m3u8
 #EXTINF:0,Курай ТВ HD
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2144/index.m3u8
 #EXTINF:0,Курай ТВ
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2061/index.m3u8
 #EXTINF:0,о2тв
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2068/index.m3u8
 #EXTINF:0,МузСоюз HD
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2137/index.m3u8
 #EXTINF:0,Жар Птица
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2142/index.m3u8
 #EXTINF:0,AIVA TV HD
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2156/index.m3u8
 #EXTINF:0,МУЗ-ТВ +4
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/6036/index.m3u8
 #EXTINF:0,1HD Music Television HD orig
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9001/index.m3u8
 #EXTINF:0,Bridge Deluxe HD orig
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9012/index.m3u8
 #EXTINF:0,Mezzo Live HD orig
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9014/index.m3u8
 #EXTINF:0,iConcerts HD orig
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9056/index.m3u8
 #EXTINF:0,AIVA TV HD orig
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9085/index.m3u8
 #EXTINF:0,Жар Птица orig
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9165/index.m3u8
 #EXTINF:0,Музыка Первого orig
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9166/index.m3u8
 #EXTINF:0,Music Box Russia orig
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9168/index.m3u8
 #EXTINF:0,МУЗ-ТВ orig
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9169/index.m3u8
 #EXTINF:0,МузСоюз orig
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9171/index.m3u8
 #EXTINF:0,Шансон ТВ orig
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9173/index.m3u8
 #EXTINF:0,Bridge Русский Хит orig
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9176/index.m3u8
 #EXTINF:0,MCM Top Russia orig
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9175/index.m3u8
 #EXTINF:0,ТНТ Music orig
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9178/index.m3u8
 #EXTINF:0,Курай ТВ orig
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9252/index.m3u8
 #EXTINF:0,Bridge TV orig
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9253/index.m3u8
 #EXTINF:0,о2тв HD orig
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9254/index.m3u8
 #EXTINF:0,Курай ТВ HD orig
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9255/index.m3u8
 #EXTINF:0,о2тв orig
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9256/index.m3u8
 #EXTINF:0,Europa Plus TV orig
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9257/index.m3u8
 #EXTINF:0,Bridge Classic orig
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9259/index.m3u8
 #EXTINF:0,NRG 91 HD GR
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/7223/index.m3u8
 #EXTINF:0,Kiss Kiss HD IT
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/16072/index.m3u8
 #EXTINF:0,Kiss Kiss Italia HD
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/16073/index.m3u8
 #EXTINF:0,Zerouno TV HD IT
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/16076/index.m3u8
 #EXTINF:0,MTV Classic
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19148/index.m3u8
 #EXTINF:0,MTV US
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19192/index.m3u8
 #EXTINF:0,Now 70s UK
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19194/index.m3u8
 #EXTINF:0,Now 80s UK
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19196/index.m3u8
 #EXTINF:0,Now Rock UK
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19197/index.m3u8
 #EXTINF:0,NRJ Hits HD
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19199/index.m3u8
 #EXTINF:0,ТНТ Music HD
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19223/index.m3u8
 #EXTINF:0,Bridge Rock HD
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19225/index.m3u8
 #EXTINF:0,Bridge Русский Хит HD
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19226/index.m3u8
 #EXTINF:0,Bridge Hits HD
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19227/index.m3u8
 #EXTINF:0,RU TV HD
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19247/index.m3u8
 #EXTINF:0,Plan_B HD
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19249/index.m3u8
 #EXTINF:0,Индия HD
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19250/index.m3u8
 #EXTINF:0,Music Box Russia HD
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19255/index.m3u8
 #EXTINF:0,BOX Music 4K HDR
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19282/index.m3u8
 #EXTINF:0,BOX Relax 4K
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19283/index.m3u8
 #EXTINF:0,CHD-TV Rock HD
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19394/index.m3u8
 #EXTINF:0,VB Eurodance Hits 90s
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20000/index.m3u8
 #EXTINF:0,NM Television HD
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20161/index.m3u8
 #EXTINF:0,#ё HD (Самара)
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20162/index.m3u8
 #EXTINF:0,BOX RU.RAP HD
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20171/index.m3u8
 #EXTINF:0,VB MTV Old Россия HD
-#EXTGRP:Музыка
+#EXTGRP:Музыка  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20174/index.m3u8
 #EXTINF:0,Cartoon Classics
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2075/index.m3u8
 #EXTINF:0,Тооку (Якутия)
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9172/index.m3u8
 #EXTINF:0,Карусель HD
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20012/index.m3u8
 #EXTINF:0,КиноМульт
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20009/index.m3u8
 #EXTINF:0,StrahTV Том и Джерри
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31721/index.m3u8
 #EXTINF:0,Kids TV HD
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20008/index.m3u8
 #EXTINF:0,Liberty Мульт UKR FHD
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31659/index.m3u8
 #EXTINF:0,VeleS Kids
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31646/index.m3u8
 #EXTINF:0,В гостях у сказки HD
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20005/index.m3u8
 #EXTINF:0,Baby Time
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20030/index.m3u8
 #EXTINF:0,Nickelodeon HD
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/223/index.m3u8
 #EXTINF:0,Tiji TV
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/108/index.m3u8
 #EXTINF:0,Nick Jr.
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/114/index.m3u8
 #EXTINF:0,СТС Kids HD
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2001/index.m3u8
 #EXTINF:0,Gulli Girl
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/109/index.m3u8
 #EXTINF:0,Nickelodeon
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/541/index.m3u8
 #EXTINF:0,Детский мир
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/543/index.m3u8
 #EXTINF:0,JimJam
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/138/index.m3u8
 #EXTINF:0,Cartoon Network HD
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/143/index.m3u8
 #EXTINF:0,Карусель
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/156/index.m3u8
 #EXTINF:0,Ani
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/129/index.m3u8
 #EXTINF:0,Мульт
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/909/index.m3u8
 #EXTINF:0,Cartoonito
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/723/index.m3u8
 #EXTINF:0,О!
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/727/index.m3u8
 #EXTINF:0,Уникум
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/730/index.m3u8
 #EXTINF:0,В гостях у сказки
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/737/index.m3u8
 #EXTINF:0,Карусель +3
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/740/index.m3u8
 #EXTINF:0,Мультимузыка
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/749/index.m3u8
 #EXTINF:0,Duck TV HD
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/1031/index.m3u8
 #EXTINF:0,Baby TV
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2084/index.m3u8
 #EXTINF:0,Da Vinci orig
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/1033/index.m3u8
 #EXTINF:0,Da Vinci FHD UA
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/1034/index.m3u8
 #EXTINF:0,СуперГерои
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/1041/index.m3u8
 #EXTINF:0,NickToons HD
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/849/index.m3u8
 #EXTINF:0,Радость моя
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/853/index.m3u8
 #EXTINF:0,Рыжий
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2052/index.m3u8
 #EXTINF:0,Капитан Фантастика HD
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2098/index.m3u8
 #EXTINF:0,Тамыр (Уфа)
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2109/index.m3u8
 #EXTINF:0,Смайл ТВ HD
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2157/index.m3u8
 #EXTINF:0,Мультиландия
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/5055/index.m3u8
 #EXTINF:0,Мульт HD
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/921/index.m3u8
 #EXTINF:0,Nickelodeon HD orig
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9015/index.m3u8
 #EXTINF:0,Мульт HD orig
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9037/index.m3u8
 #EXTINF:0,Уникум HD orig
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9077/index.m3u8
 #EXTINF:0,СТС Kids HD orig
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9063/index.m3u8
 #EXTINF:0,Tiji TV orig
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9180/index.m3u8
 #EXTINF:0,Gulli Girl orig
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9181/index.m3u8
 #EXTINF:0,Nick Jr. orig
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9182/index.m3u8
 #EXTINF:0,Детский мир orig
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9184/index.m3u8
 #EXTINF:0,JimJam orig
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9185/index.m3u8
 #EXTINF:0,Карусель orig
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9186/index.m3u8
 #EXTINF:0,Ani orig
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9187/index.m3u8
 #EXTINF:0,Мульт orig
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9188/index.m3u8
 #EXTINF:0,Cartoonito HD orig
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9189/index.m3u8
 #EXTINF:0,О! orig
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9190/index.m3u8
 #EXTINF:0,Уникум HD
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9191/index.m3u8
 #EXTINF:0,Детский мир HD
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9192/index.m3u8
 #EXTINF:0,Радость моя orig
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9194/index.m3u8
 #EXTINF:0,Рыжий orig
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9195/index.m3u8
 #EXTINF:0,Капитан Фантастика HD orig
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9196/index.m3u8
 #EXTINF:0,Тамыр (Уфа) orig
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9198/index.m3u8
 #EXTINF:0,Смайл ТВ orig
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9199/index.m3u8
 #EXTINF:0,Мультиландия orig
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9200/index.m3u8
 #EXTINF:0,Nickelodeon orig
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9260/index.m3u8
 #EXTINF:0,Cartoon Network HD orig
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9261/index.m3u8
 #EXTINF:0,Мультимузыка orig
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9262/index.m3u8
 #EXTINF:0,В гостях у сказки orig
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9263/index.m3u8
 #EXTINF:0,Yosso TV Наше Детское
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19433/index.m3u8
 #EXTINF:0,MYTV Kids
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19409/index.m3u8
 #EXTINF:0,BCU Little HD
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19425/index.m3u8
 #EXTINF:0,VB Контент Моего Детства
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20001/index.m3u8
 #EXTINF:0,Мультиландия HD
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31910/index.m3u8
 #EXTINF:0,Карусель (Ставрополь)
-#EXTGRP:Детские
+#EXTGRP:Детские  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31930/index.m3u8
 #EXTINF:0,BOX History 4K HDR
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31546/index.m3u8
 #EXTINF:0,Моя Стихия
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9221/index.m3u8
 #EXTINF:0,Настоящее время HD
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9179/index.m3u8
 #EXTINF:0,Yosso TV Food
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31616/index.m3u8
 #EXTINF:0,BOX Kosmo 4K HDR
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31548/index.m3u8
 #EXTINF:0,National Geographic orig
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2336/index.m3u8
 #EXTINF:0,Yosso TV Nature
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31618/index.m3u8
 #EXTINF:0,BOX Gurman HD
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31653/index.m3u8
 #EXTINF:0,BOX AutoTrend HD
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31654/index.m3u8
 #EXTINF:0,Доктор HD
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20013/index.m3u8
 #EXTINF:0,Точка Отрыва HD
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20034/index.m3u8
 #EXTINF:0,Мужской HD
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20035/index.m3u8
 #EXTINF:0,Еда
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/6009/index.m3u8
 #EXTINF:0,Curiosity Stream HD orig
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9072/index.m3u8
 #EXTINF:0,Наша Тема orig
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9286/index.m3u8
 #EXTINF:0,Т24 orig
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9292/index.m3u8
 #EXTINF:0,Домашние Животные orig
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9296/index.m3u8
 #EXTINF:0,Вопросы и ответы orig
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9297/index.m3u8
 #EXTINF:0,Время orig
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9298/index.m3u8
 #EXTINF:0,English Class orig
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9299/index.m3u8
 #EXTINF:0,Моя Планета orig
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9300/index.m3u8
 #EXTINF:0,Travel+Adventure orig
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9301/index.m3u8
 #EXTINF:0,Top Secret orig
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9305/index.m3u8
 #EXTINF:0,Мужской orig
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9306/index.m3u8
 #EXTINF:0,Телепутешествия orig
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9307/index.m3u8
 #EXTINF:0,Авто 24 orig
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9309/index.m3u8
 #EXTINF:0,FlixSnip orig
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9311/index.m3u8
 #EXTINF:0,History FHD orig
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9313/index.m3u8
 #EXTINF:0,Galaxy orig
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9317/index.m3u8
 #EXTINF:0,Поехали! orig
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9318/index.m3u8
 #EXTINF:0,Загородная Жизнь orig
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9319/index.m3u8
 #EXTINF:0,Первый Вегетарианский orig
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9320/index.m3u8
 #EXTINF:0,Investigation Discovery FHD orig
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9322/index.m3u8
 #EXTINF:0,Оружие orig
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9323/index.m3u8
 #EXTINF:0,Зоо ТВ orig
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9324/index.m3u8
 #EXTINF:0,Живая Планета orig
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9325/index.m3u8
 #EXTINF:0,НТВ Право orig
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9327/index.m3u8
 #EXTINF:0,НТВ Стиль orig
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9328/index.m3u8
 #EXTINF:0,Кто Куда orig
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9329/index.m3u8
 #EXTINF:0,Наша Сибирь 4K
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9330/index.m3u8
 #EXTINF:0,Museum TV HD FR
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/7246/index.m3u8
 #EXTINF:0,Home 4K
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/4002/index.m3u8
 #EXTINF:0,Триколор Душевные песни
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/6001/index.m3u8
 #EXTINF:0,Инсайт ТВ UHD
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/5000/index.m3u8
 #EXTINF:0,Love Nature 4K
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/5001/index.m3u8
 #EXTINF:0,Наша Сибирь HD
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/4003/index.m3u8
 #EXTINF:0,TERRA HD
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2416/index.m3u8
 #EXTINF:0,TERRA
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/230/index.m3u8
 #EXTINF:0,TLC HD
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/232/index.m3u8
 #EXTINF:0,Travel Channel HD
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/233/index.m3u8
 #EXTINF:0,History HD
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/231/index.m3u8
 #EXTINF:0,Viju History HD
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/203/index.m3u8
 #EXTINF:0,History 2 FHD
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2033/index.m3u8
 #EXTINF:0,Discovery Channel HD
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/227/index.m3u8
 #EXTINF:0,Discovery Channel
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/140/index.m3u8
 #EXTINF:0,RTG HD
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/210/index.m3u8
 #EXTINF:0,National Geographic Wild FHD
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2415/index.m3u8
 #EXTINF:0,National Geographic Wild
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/133/index.m3u8
 #EXTINF:0,Discovery Science PL
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/136/index.m3u8
 #EXTINF:0,Animal Planet HD
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/218/index.m3u8
 #EXTINF:0,FoodTime FHD
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2418/index.m3u8
 #EXTINF:0,FoodTime HD
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/918/index.m3u8
 #EXTINF:0,Food Network HD
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2419/index.m3u8
 #EXTINF:0,Живая природа HD
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2074/index.m3u8
 #EXTINF:0,Моя Планета HD
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2090/index.m3u8
 #EXTINF:0,Приключения HD
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/920/index.m3u8
 #EXTINF:0,Глазами Туриста HD
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2104/index.m3u8
 #EXTINF:0,Большая Азия HD
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2009/index.m3u8
 #EXTINF:0,Дикая рыбалка HD
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2005/index.m3u8
 #EXTINF:0,Диалоги о рыбалке HD
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2394/index.m3u8
 #EXTINF:0,Investigation Discovery HD
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2102/index.m3u8
 #EXTINF:0,Авто Плюс
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/151/index.m3u8
 #EXTINF:0,Кухня
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/152/index.m3u8
 #EXTINF:0,Нано ТВ HD
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2135/index.m3u8
 #EXTINF:0,Время
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/552/index.m3u8
 #EXTINF:0,Домашние Животные
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/158/index.m3u8
 #EXTINF:0,Точка Отрыва
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/159/index.m3u8
 #EXTINF:0,Viju History
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/162/index.m3u8
 #EXTINF:0,Viju Explore
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/163/index.m3u8
 #EXTINF:0,Океан HD
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/703/index.m3u8
 #EXTINF:0,Zоопарк
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/731/index.m3u8
 #EXTINF:0,Телекафе
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/865/index.m3u8
 #EXTINF:0,Усадьба
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/532/index.m3u8
 #EXTINF:0,Travel+Adventure
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/850/index.m3u8
 #EXTINF:0,Поехали!
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/135/index.m3u8
 #EXTINF:0,Тайна
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2059/index.m3u8
 #EXTINF:0,National Geographic Wild HD
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2067/index.m3u8
 #EXTINF:0,Nano
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2081/index.m3u8
 #EXTINF:0,Investigation Discovery
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2085/index.m3u8
 #EXTINF:0,Оружие
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2087/index.m3u8
 #EXTINF:0,Зоо ТВ
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2100/index.m3u8
 #EXTINF:0,Живая Планета
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2101/index.m3u8
 #EXTINF:0,Fashion & Lifestyle FHD
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/1010/index.m3u8
 #EXTINF:0,World Fashion Channel
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/1068/index.m3u8
 #EXTINF:0,Мужской
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2047/index.m3u8
 #EXTINF:0,Мама
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/704/index.m3u8
 #EXTINF:0,НТВ Стиль
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/745/index.m3u8
 #EXTINF:0,НТВ Право
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/743/index.m3u8
 #EXTINF:0,Первый Вегетарианский
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/833/index.m3u8
 #EXTINF:0,Кто Куда
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2112/index.m3u8
 #EXTINF:0,Калейдоскоп ТВ
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/5037/index.m3u8
 #EXTINF:0,Моя Планета
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/117/index.m3u8
 #EXTINF:0,Outdoor Channel HD US
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/119/index.m3u8
 #EXTINF:0,Вопросы и ответы
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2026/index.m3u8
 #EXTINF:0,Top Secret
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/121/index.m3u8
 #EXTINF:0,Доктор
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/512/index.m3u8
 #EXTINF:0,Авто 24
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/538/index.m3u8
 #EXTINF:0,Приключения HD orig
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9007/index.m3u8
 #EXTINF:0,Travel+Adventure HD orig
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9019/index.m3u8
 #EXTINF:0,Travel Channel HD orig
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9025/index.m3u8
 #EXTINF:0,Viju+ Planet HD
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9027/index.m3u8
 #EXTINF:0,Охотник и Рыболов HD orig
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9043/index.m3u8
 #EXTINF:0,В мире животных HD orig
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9048/index.m3u8
 #EXTINF:0,Глазами Туриста HD orig
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9061/index.m3u8
 #EXTINF:0,Дикая охота HD orig
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9081/index.m3u8
 #EXTINF:0,Дикая рыбалка HD orig
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9082/index.m3u8
 #EXTINF:0,History HD orig
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9023/index.m3u8
 #EXTINF:0,Viju Explore HD orig
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9075/index.m3u8
 #EXTINF:0,National Geographic Wild orig
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9264/index.m3u8
 #EXTINF:0,Большая Азия HD orig
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9267/index.m3u8
 #EXTINF:0,Viju Explore orig
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9275/index.m3u8
 #EXTINF:0,ЕГЭ ТВ orig
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9285/index.m3u8
 #EXTINF:0,Первый космический HD
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/908/index.m3u8
 #EXTINF:0,VF Стройка
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/16139/index.m3u8
 #EXTINF:0,MM Микромир HD
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/18193/index.m3u8
 #EXTINF:0,MM Макромир HD
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/18194/index.m3u8
 #EXTINF:0,Рыболов HD
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19254/index.m3u8
 #EXTINF:0,ЖИВИ! HD
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19252/index.m3u8
 #EXTINF:0,MM Experiment HD
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19412/index.m3u8
 #EXTINF:0,MM Открытия HD
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19415/index.m3u8
 #EXTINF:0,Вкус HD
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31921/index.m3u8
 #EXTINF:0,Первый Российский Национальный Канал HD
-#EXTGRP:Познавательные 2
+#EXTGRP:Познавательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31923/index.m3u8
 #EXTINF:0,Zоопарк HD
-#EXTGRP:Развлекательные
+#EXTGRP:Развлекательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9097/index.m3u8
 #EXTINF:0,VF Каламбур
-#EXTGRP:Развлекательные
+#EXTGRP:Развлекательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31557/index.m3u8
 #EXTINF:0,Усадьба HD
-#EXTGRP:Развлекательные
+#EXTGRP:Развлекательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9071/index.m3u8
 #EXTINF:0,Лапки Live HD
-#EXTGRP:Развлекательные
+#EXTGRP:Развлекательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2028/index.m3u8
 #EXTINF:0,Fashion TV UHD
-#EXTGRP:Развлекательные
+#EXTGRP:Развлекательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/4005/index.m3u8
 #EXTINF:0,MyZen TV HD
-#EXTGRP:Развлекательные
+#EXTGRP:Развлекательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20011/index.m3u8
 #EXTINF:0,НТВ Стиль HD
-#EXTGRP:Развлекательные
+#EXTGRP:Развлекательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20037/index.m3u8
 #EXTINF:0,FashionBox HD
-#EXTGRP:Развлекательные
+#EXTGRP:Развлекательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20038/index.m3u8
 #EXTINF:0,Ключ HD
-#EXTGRP:Развлекательные
+#EXTGRP:Развлекательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20041/index.m3u8
 #EXTINF:0,Silk Way HD KZ
-#EXTGRP:Развлекательные
+#EXTGRP:Развлекательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/20044/index.m3u8
 #EXTINF:0,Солнце
-#EXTGRP:Развлекательные
+#EXTGRP:Развлекательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/872/index.m3u8
 #EXTINF:0,MyZen 4K
-#EXTGRP:Развлекательные
+#EXTGRP:Развлекательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/5002/index.m3u8
 #EXTINF:0,Точка.РФ FHD
-#EXTGRP:Развлекательные
+#EXTGRP:Развлекательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/226/index.m3u8
 #EXTINF:0,DTX HD PL
-#EXTGRP:Развлекательные
+#EXTGRP:Развлекательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2006/index.m3u8
 #EXTINF:0,Fashion TV FHD
-#EXTGRP:Развлекательные
+#EXTGRP:Развлекательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2411/index.m3u8
 #EXTINF:0,Fashion TV HD
-#EXTGRP:Развлекательные
+#EXTGRP:Развлекательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2045/index.m3u8
 #EXTINF:0,Fashion & Lifestyle HD
-#EXTGRP:Развлекательные
+#EXTGRP:Развлекательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2044/index.m3u8
 #EXTINF:0,Арсенал HD
-#EXTGRP:Развлекательные
+#EXTGRP:Развлекательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/5044/index.m3u8
 #EXTINF:0,Анекдот ТВ
-#EXTGRP:Развлекательные
+#EXTGRP:Развлекательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/5034/index.m3u8
 #EXTINF:0,Театр
-#EXTGRP:Развлекательные
+#EXTGRP:Развлекательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2431/index.m3u8
 #EXTINF:0,Luxury HD
-#EXTGRP:Развлекательные
+#EXTGRP:Развлекательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2072/index.m3u8
 #EXTINF:0,Luxury
-#EXTGRP:Развлекательные
+#EXTGRP:Развлекательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/5032/index.m3u8
 #EXTINF:0,Продвижение
-#EXTGRP:Развлекательные
+#EXTGRP:Развлекательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/851/index.m3u8
 #EXTINF:0,ТНТ +2
-#EXTGRP:Развлекательные
+#EXTGRP:Развлекательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/6020/index.m3u8
 #EXTINF:0,СТС HD orig
-#EXTGRP:Развлекательные
+#EXTGRP:Развлекательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9000/index.m3u8
 #EXTINF:0,Luxury HD orig
-#EXTGRP:Развлекательные
+#EXTGRP:Развлекательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9038/index.m3u8
 #EXTINF:0,Продвижение orig
-#EXTGRP:Развлекательные
+#EXTGRP:Развлекательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9331/index.m3u8
 #EXTINF:0,Арсенал HD orig
-#EXTGRP:Развлекательные
+#EXTGRP:Развлекательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9336/index.m3u8
 #EXTINF:0,Театр orig
-#EXTGRP:Развлекательные
+#EXTGRP:Развлекательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/9337/index.m3u8
 #EXTINF:0,Загородная Жизнь HD
-#EXTGRP:Развлекательные
+#EXTGRP:Развлекательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/7348/index.m3u8
 #EXTINF:0,VF Юмор 18+
-#EXTGRP:Развлекательные
+#EXTGRP:Развлекательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/16137/index.m3u8
 #EXTINF:0,VF Уральские пельмени
-#EXTGRP:Развлекательные
+#EXTGRP:Развлекательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/18198/index.m3u8
 #EXTINF:0,VF Кухня
-#EXTGRP:Развлекательные
+#EXTGRP:Развлекательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/18199/index.m3u8
 #EXTINF:0,VF Баня
-#EXTGRP:Развлекательные
+#EXTGRP:Развлекательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/18200/index.m3u8
 #EXTINF:0,VF Однажды в России
-#EXTGRP:Развлекательные
+#EXTGRP:Развлекательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19286/index.m3u8
 #EXTINF:0,Quadro 4K
-#EXTGRP:Развлекательные
+#EXTGRP:Развлекательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19262/index.m3u8
 #EXTINF:0,Citrus Holiday
-#EXTGRP:Развлекательные
+#EXTGRP:Развлекательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/16089/index.m3u8
 #EXTINF:0,Neox HD ES
-#EXTGRP:Развлекательные
+#EXTGRP:Развлекательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31881/index.m3u8
 #EXTINF:0,M+ Vacaciones HD ES
-#EXTGRP:Развлекательные
+#EXTGRP:Развлекательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31884/index.m3u8
 #EXTINF:0,СТС +0 (Липецк)
-#EXTGRP:Развлекательные
+#EXTGRP:Развлекательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31896/index.m3u8
 #EXTINF:0,2x2 HD
-#EXTGRP:Развлекательные
+#EXTGRP:Развлекательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31913/index.m3u8
 #EXTINF:0,Плюс/Минус 16 HD
-#EXTGRP:Развлекательные
+#EXTGRP:Развлекательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31916/index.m3u8
 #EXTINF:0,Женский Журнал
-#EXTGRP:Развлекательные
+#EXTGRP:Развлекательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31932/index.m3u8
 #EXTINF:0,Viva Vintage HD IL
-#EXTGRP:Развлекательные
+#EXTGRP:Развлекательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31937/index.m3u8
 #EXTINF:0,HOT Bidur FHD IL
-#EXTGRP:Развлекательные
+#EXTGRP:Развлекательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31938/index.m3u8
 #EXTINF:0,Luli SD IL
-#EXTGRP:Развлекательные
+#EXTGRP:Развлекательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31939/index.m3u8
 #EXTINF:0,HOT Senior HD IL
-#EXTGRP:Развлекательные
+#EXTGRP:Развлекательные  Not 24-7
 http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/31940/index.m3u8
