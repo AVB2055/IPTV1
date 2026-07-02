@@ -108,63 +108,7 @@ https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=DM
 #EXTINF:0,HHQ HD
 #EXTGRP:RUTUBE
 https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=oK_3ut_zlDkP3J7p2hPAZA&e=2066519769&scheme=https
-#EXTINF:0,Техно 24
-#EXTGRP:TvZaTak
-https://s05.watcher.uz/29/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
-#EXTINF:0,Первый Космический
-#EXTGRP:TvZaTak
-https://stream8.cinerama.uz/1415/tracks-v1a1/mono.m3u8
-#EXTINF:0,Моя Планета FHD
-#EXTGRP:TvZaTak
-https://tinyurl.com/TvZaTak05/1247/tracks-v1a1/mono.m3u8
-#EXTINF:0,Глазами Туриста
-#EXTGRP:TvZaTak
-https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
-#EXTINF:0,Наука FHD
-#EXTGRP:TvZaTak
-https://tinyurl.com/TvZaTak05/1248/tracks-v1a1/mono.m3u8
-#EXTINF:0,В Мире Животных SD
-#EXTGRP:TvZaTak
-https://tinyurl.com/TvZaTak05/1404/tracks-v1a1/mono.m3u8
-#EXTINF:0,NAT GEO WILD
-#EXTGRP:TvZaTak
-https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
-#EXTINF:0,Insight TV HD
-#EXTGRP:TvZaTak
-https://s06.watcher.uz/124/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
-#EXTINF:0,Капитан Фантастика
-#EXTGRP:TvZaTak
-https://tinyurl.com/TvZaTak05/1406/tracks-v1a1/mono.m3u8
-#EXTINF:0,Zooпарк
-#EXTGRP:TvZaTak
-https://tinyurl.com/TvZaTak05/1417/tracks-v1a1/mono.m3u8
-#EXTINF:0,Живи Активно
-#EXTGRP:TvZaTak
-https://tinyurl.com/TvZaTak05/1405/tracks-v1a1/mono.m3u8
-#EXTINF:0,Арсенал
-#EXTGRP:TvZaTak
-https://tinyurl.com/TvZaTak05/1414/tracks-v1a1/mono.m3u8
-#EXTINF:0,TV1000 ACTION HD
-#EXTGRP:TvZaTak
-https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
-#EXTINF:0,Kinoteatr HD
-#EXTGRP:TvZaTak
-https://tinyurl.com/TvZaTak05/1009/tracks-v1a1/mono.m3u8
-#EXTINF:0,Dunyo bo`ylab HD
-#EXTGRP:TvZaTak
-https://tinyurl.com/TvZaTak05/1006/tracks-v1a1/mono.m3u8
-#EXTINF:0,Cinema FHD
-#EXTGRP:TvZaTak
-https://tinyurl.com/TvZaTak05/1227/tracks-v1a1/mono.m3u8
-#EXTINF:0,Пятница
-#EXTGRP:TvZaTak
-http://tinyurl.com/TvZaTak11/2060/index.m3u8
-#EXTINF:0,Duck TV FD
-#EXTGRP:TvZaTak
-https://tinyurl.com/TvZaTak05/1271/tracks-v1a1/mono.m3u8
-#EXTINF:0,Мульт FHD
-#EXTGRP:TvZaTak
-https://tinyurl.com/TvZaTak05/1246/tracks-v1a1/mono.m3u8
+
 #EXTINF:0,ПЕРВЫЙ КАНАЛ
 #EXTGRP:RU 4
 http://95.47.155.244:8001/play/a001
@@ -1698,6 +1642,12 @@ https://tinyurl.com/TvZaTak05/1413/tracks-v1a1/mono.m3u8
 #EXTINF:0,Охотник и Рыболов
 #EXTGRP:Познавательные
 https://s06.watcher.uz/123/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:0,Техно 24
+#EXTGRP:Познавательные
+https://s05.watcher.uz/29/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:0,Insight TV HD
+#EXTGRP:Познавательные
+https://s06.watcher.uz/124/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
 #EXTINF:0,Комсомольцы
 #EXTGRP:Девяностые
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/198/551.mp4
