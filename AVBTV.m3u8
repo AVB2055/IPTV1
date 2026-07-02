@@ -469,8 +469,6 @@ http://46.32.176.50/paramountchannel/index.m3u8
 http://46.32.176.50/worldfashion/index.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",ScripachTV
 https://live20.bozztv.com/akamaissh101/ssh101/scripachmovie/chunks.m3u8
-#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",SHOT TV
-http://31.210.208.171:8080/shottv/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",TV 1000
 http://46.32.176.50/tv1000/index.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",TV 1000 Action
@@ -483,10 +481,6 @@ http://46.32.176.50/tv21/index.m3u8
 http://217.154.10.99:2020/channel/4e9dab20/index.m3u8?q=ac8328a8c05870646c45caa253710a85
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",TVRUS+
 http://217.154.10.99:2020/channel/n7ae3dc73/index.m3u8?q=ac8328a8c05870646c45caa253710a85
-#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",VF Леонид Гайдай
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/17004/index.m3u8
-#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",VF Премьера
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/10051/index.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",VIASAT Kino Comedy
 http://ukr2.ukrainske.tv/493/video.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",VIP Comedy
@@ -523,12 +517,8 @@ https://live20.bozztv.com/giatv/giatv-tvzovlivestream/tvzovlivestream/chunks.m3u
 https://live20.bozztv.com/giatv/giatv-tvzovBlackstream/tvzovBlackstream/chunks.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",ЗОВ ТВ RED
 https://live20.bozztv.com/giatv/giatv-tvzov%20RED/tvzov%20RED/chunks.m3u8
-#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",ЕВРОКИНО
-http://94.230.250.140/eurokino/index.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Еврокино
 http://176.118.197.101/Evrokino/mono.m3u8
-#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Еврокино
-http://vod.tuva.ru/eurokino/index.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Еврокино
 http://46.32.176.50/eurokino/index.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Иллюзион+
@@ -541,8 +531,6 @@ http://46.32.176.50/indiskoekino/index.m3u8
 http://31148.rafail1982.uz/Kinopokaz/index.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",КИНОСАТ
 http://31.148.48.15/Kineko/index.m3u8
-#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Кино и Жизнь
-https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=8zEp8CoHlUujIbs_ac3I5g&e=2070281160&scheme=https
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Киножелезо
 https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=09cuASII_HOaxki8OsQxgA&e=2069285053&scheme=https
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Кинозал
