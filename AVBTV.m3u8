@@ -32,7 +32,7 @@ https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=Yr
 http://46.32.176.50/tvc/index.m3u8
 #EXTINF:-1,Рен ТВ
 #EXTGRP:🇷🇺Федеральные
-http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/2024/index.m3u8
+http://45.145.32.13:20440/ren_tv/index.m3u8?token=test
 #EXTINF:-1,СПАС
 #EXTGRP:🇷🇺Федеральные
 https://bl.rutube.ru/livestream/2bbfa9ebf9d79ade480d7281fcef1008/index.m3u8?s=Dh7uOoGZBCslhSfLLkxvAg&e=2068506963&scheme=https
