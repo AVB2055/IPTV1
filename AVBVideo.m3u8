@@ -108,7 +108,6 @@ https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=DM
 #EXTINF:0,HHQ HD
 #EXTGRP:RUTUBE
 https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=oK_3ut_zlDkP3J7p2hPAZA&e=2066519769&scheme=https
-
 #EXTINF:0,ПЕРВЫЙ КАНАЛ
 #EXTGRP:RU 4
 http://95.47.155.244:8001/play/a001
@@ -339,8 +338,6 @@ http://176.126.166.43:1935/live/312kino/playlist.m3u8
 http://46.32.176.50/telekafe/index.m3u8
 #EXTINF:-1 group-title="Кинофильмы и сериалы",Т24
 http://46.32.176.50/24texno/index.m3u8
-#EXTINF:-1 group-title="Кинофильмы и сериалы",Kino 24
-http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 group-title="Кинофильмы и сериалы",Феникс плюс HD
 http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
 #EXTINF:-1 group-title="Кинофильмы и сериалы",MaxTV Kinoлаффка
@@ -361,8 +358,6 @@ http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
 http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
 #EXTINF:-1 group-title="Кинофильмы и сериалы",Alpha Moretime
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
-#EXTINF:-1 group-title="Кинофильмы и сериалы",Про100 ТВ
-https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 group-title="Кинофильмы и сериалы",Любовь
 https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8
 #EXTINF:-1 group-title="Кинофильмы и сериалы",Китай ТВ
@@ -1219,9 +1214,6 @@ http://tinyurl.com/TvZaTak06/sportivny/index.m3u8
 #EXTINF:0,Футбол SD
 #EXTGRP:Спортивные
 http://31148.rafail1982.uz/Futbol_HD/index.m3u8
-#EXTINF:0,Удар
-#EXTGRP:Спортивные
-https://a787201481-s80718.cdn.ngenix.net/hls/CH_UDARHD/video_1920x1080_avc1/playlist.m3u8
 #EXTINF:0,Спорт на Первом
 #EXTGRP:Спортивные
 https://cdn8.1internet.tv/dash-live3/streams/sport-1/sport-1.mpd
@@ -5119,9 +5111,6 @@ https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/170/309.mp4
 #EXTINF:0,Родион Нахапетов. Любовь длиною в жизнь
 #EXTGRP:Советские артисты
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/hd1440/156/198.mp4
-#EXTINF:0,Рина Зелёная. 12 историй со счастливым концом
-#EXTGRP:Советские артисты
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/full-hd/177/005.mp4
 #EXTINF:0,Равняется одному Гафту
 #EXTGRP:Советские артисты
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/093/762.mp4
@@ -5480,9 +5469,6 @@ https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/224/468.mp4
 #EXTINF:0,Николай Ерёменко
 #EXTGRP:Прощание
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/177/935.mp4
-#EXTINF:0,Борис Невзоров
-#EXTGRP:Прощание
-https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/232/218.mp4
 #EXTINF:0,Савелий Крамаров
 #EXTGRP:Прощание
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/180/772.mp4
