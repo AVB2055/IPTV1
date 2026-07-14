@@ -39,9 +39,6 @@ https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=Ei
 #EXTINF:0,Mr.Bean Cartoon HD
 #EXTGRP:RUTUBE
 https://bl.rutube.ru/livestream/0e9e44725d5d5ab7ee92c10b40215419/index.m3u8?s=x2-KvlIlDO7JTvW9rPHDVA&e=2066519767&scheme=https
-#EXTINF:0,Охотник и Рыболов HD
-#EXTGRP:RUTUBE
-https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 #EXTINF:0,Загородный International HD
 #EXTGRP:RUTUBE
 https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=QphNe1SSqWIVzqysroZi3A&e=2066519763&scheme=https
@@ -81,7 +78,7 @@ https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=oK
 #EXTINF:0,ПЕРВЫЙ КАНАЛ
 #EXTGRP:RU 4
 http://95.47.155.244:8001/play/a001
-#EXTINF:0,РОССИЯ 1
+#EXTINF:0,РОССИЯ-1
 #EXTGRP:RU 4
 http://95.47.155.244:8001/play/a002
 #EXTINF:0,МАТЧ!
@@ -93,7 +90,7 @@ http://95.47.155.244:8001/play/a004
 #EXTINF:0,ПЯТЫЙ КАНАЛ
 #EXTGRP:RU 4
 http://95.47.155.244:8001/play/a005
-#EXTINF:0,РОССИЯ К
+#EXTINF:0,РОССИЯ-К
 #EXTGRP:RU 4
 http://95.47.155.244:8001/play/a006
 #EXTINF:0,РОССИЯ-24
@@ -337,12 +334,6 @@ http://185.57.68.33:8091/237/playlist.m3u8
 #EXTINF:0,viju+ Serial
 #EXTGRP:Кинофильмы и сериалы
 http://mfe02.cliptv.az/dash/MGM_HDqwervbyu78.ism/playlist.mpd
-#EXTINF:0,Кинокомедия
-#EXTGRP:Кинофильмы и сериалы
-https://stream8.cinerama.uz/1232/tracks-v2a1/mono.m3u8
-#EXTINF:0,Мужское Кино
-#EXTGRP:Кинофильмы и сериалы
-https://stream8.cinerama.uz/1237/tracks-v2a1/mono.m3u8
 #EXTINF:0,Наше Новое Кино
 #EXTGRP:Кинофильмы и сериалы
 http://93.113.203.165/iptv/F5BM9GXMAPYBDK/19231/index.m3u8
@@ -1126,9 +1117,6 @@ http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
 #EXTINF:0,FoodTime
 #EXTGRP:Познавательные
 http://31148.rafail1982.uz/Eda_Premium_HD/index.m3u8
-#EXTINF:0,Доктор
-#EXTGRP:Познавательные
-https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8
 #EXTINF:0,Доктор HD
 #EXTGRP:Познавательные
 http://31.148.48.15/Doktor/index.m3u8?token=test
