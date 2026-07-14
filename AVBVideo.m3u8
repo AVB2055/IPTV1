@@ -3,12 +3,6 @@
 #EXTINF:0,Rutube TV HD
 #EXTGRP:RUTUBE
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=Ji-luKMgHpxfeSnFoMzr3Q&e=2066519748&scheme=https
-#EXTINF:0,4 Kанал FD
-#EXTGRP:RUTUBE
-https://bl.rutube.ru/livestream/c6f66b644424c117f41e48062719ceed/index.m3u8?s=Fb8a78jyBbS1tW-YDOOz4g&e=2066519781&scheme=https
-#EXTINF:0,Первоуральск ТВ HD
-#EXTGRP:RUTUBE
-https://bl.rutube.ru/livestream/59e0373a9aa587e06aeaf9009f86ded1/index.m3u8?s=Hh_6n0LBF9hv2gB_WddMnQ&e=2066519780&scheme=https
 #EXTINF:0,ЗВЕЗДА HD
 #EXTGRP:RUTUBE
 https://bl.rutube.ru/livestream/5ab908fccfac5bb43ef2b1e4182256b0/index.m3u8?s=hXjqQZCnC74PCA0_2_CX-A&e=2066519791&scheme=https
@@ -36,9 +30,6 @@ https://bl.rutube.ru/livestream/f372aa2aff09518d050ecdf70956012c/index.m3u8?s=zq
 #EXTINF:0,Царьград HD
 #EXTGRP:RUTUBE
 https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=ISWC8uuBJlLIBfHVSaOalw&e=2066519828&scheme=https
-#EXTINF:0,БелРос FD
-#EXTGRP:RUTUBE
-https://bl.rutube.ru/livestream/46c03b7f1a7255326900f4a60a9b44e0/index.m3u8?s=VHiYqSicSMcfMQP30ve9QA&e=2066519782&scheme=https
 #EXTINF:0,Киножелезо HD
 #EXTGRP:RUTUBE
 https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=gMBYxSllxsSYVvLG71o4eg&e=2066519765&scheme=https
@@ -66,12 +57,6 @@ https://bl.rutube.ru/livestream/5fa486bf465c8735fff9f41b372610cc/index.m3u8?s=9M
 #EXTINF:0,Ника ТВ SD
 #EXTGRP:RUTUBE
 https://bl.rutube.ru/livestream/37d722b7752cd193a3f94d71cc9d60f5/index.m3u8?s=Cq5FAbd7OcqDeJ24tuqOiA&e=2066519789&scheme=https
-#EXTINF:0,ТМК HD
-#EXTGRP:RUTUBE
-https://bl.rutube.ru/livestream/740503607d216b5d467694a1e8fb39a8/index.m3u8?s=HXdOb9tCHfkHfjFLxpmTJg&e=2066519810&scheme=https
-#EXTINF:0,Своё ТВ HD
-#EXTGRP:RUTUBE
-https://bl.rutube.ru/livestream/1932f750f00f3a742a1d90c62d0076ad/index.m3u8?s=UAomZvLm8vOyZ7zbSSreUw&e=2066519812&scheme=https
 #EXTINF:0,ТОЛК SD
 #EXTGRP:RUTUBE
 https://bl.rutube.ru/livestream/0115cdc35fb5234242a89de98137dca9/index.m3u8?s=PlOa9XzzsNf9g1NVUMEy3A&e=2066519817&scheme=https
@@ -81,27 +66,12 @@ https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=62
 #EXTINF:0,Red Bull TV HD
 #EXTGRP:RUTUBE
 https://bl.rutube.ru/livestream/45b30eef1b89857182b03db2c25631d9/index.m3u8?s=k1UNcutEXItTgOgKpBfp3g&e=2066519932&scheme=https
-#EXTINF:0,Unbeaten HD
-#EXTGRP:RUTUBE
-https://bl.rutube.ru/livestream/efc2833169ec20a3ea61197714bea6ab/index.m3u8?s=JJ1LT-dHls975qnnen4uqA&e=2066519933&scheme=https
-#EXTINF:0,Sky Sports Tennis SD
-#EXTGRP:RUTUBE
-https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=q1hKYo31V3o7J2bvt5hUqQ&e=2066519930&scheme=https
-#EXTINF:0,beIN SPORTS XTRA (Espanol) HD
-#EXTGRP:RUTUBE
-https://bl.rutube.ru/livestream/05550e441b09aeec53e60de66b6c47bf/index.m3u8?s=-wzNcUB108DYEAES0EO4qw&e=2066519928&scheme=https
-#EXTINF:0,Смотри Радио SD
-#EXTGRP:RUTUBE
-https://bl.rutube.ru/livestream/18eda61a347b781dd765b410133ef33a/index.m3u8?s=bIUOW4MKn42KB6AoQvpwEQ&e=2066519847&scheme=https
 #EXTINF:0,RU.TV HD
 #EXTGRP:RUTUBE
 https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=-vKViIF4wpjkGFeoRCdyYw&e=2066519850&scheme=https
 #EXTINF:0,МузТВ HD
 #EXTGRP:RUTUBE
 https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=On_-8-ES9PLCaKRlOkX_Mg&e=2066519852&scheme=https
-#EXTINF:0,ММТВ HD
-#EXTGRP:RUTUBE
-https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=Mn0zcNb_7CJ_LE91r5mKdw&e=2066519853&scheme=https
 #EXTINF:0,Viva Russia HD
 #EXTGRP:RUTUBE
 https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=DMmpli1WIQUocDbjCe_9Cg&e=2070450963&scheme=https
@@ -547,27 +517,6 @@ http://45.145.32.13:20440/ctc_kids_hd/index.m3u8?token=test
 http://31.148.48.15:80/Russkiy_Roman_HD/index.m3u8
 #EXTINF:-1 group-title="Кинофильмы и сериалы",ScripachTV
 https://live20.bozztv.com/akamaissh101/ssh101/scripachmovie/chunks.m3u8
-#EXTINF:0 tvg-rec="3",Матч ТВ +2
-#EXTGRP:Спортивные
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6012/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч ТВ +4
-#EXTGRP:Спортивные
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6023/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч ТВ +8
-#EXTGRP:Спортивные
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6052/index.m3u8
-#EXTINF:0 tvg-rec="3",Motorvision+ DE
-#EXTGRP:Спортивные
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6112/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky 1 AU
-#EXTGRP:Спортивные
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6122/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Sport Austria 2 HD DE
-#EXTGRP:Спортивные
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6113/index.m3u8
-#EXTINF:0 tvg-rec="0",Band Sports BR
-#EXTGRP:Спортивные
-http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/6158/index.m3u8
 #EXTINF:0 tvg-rec="7",Матч! Планета
 #EXTGRP:Спортивные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/123/index.m3u8
@@ -709,9 +658,6 @@ http://185.46.16.239:8000/Match_Nash_Sport
 http://185.46.16.239:8000/Match_Igra
 #EXTINF:-1 group-title="Спортивные",Бокс ТВ
 http://185.46.16.239:8000/Eurosport_1
-#EXTINF:0,МАТЧ! HD
-#EXTGRP:Спортивные
-http://cdn.balelbrus.com/bigteisti9/M_HD/index.m3u8?token=eG1lbnRzMnx8ZVhWeWVYZzRPVEE0TVRNek16QTJOWGc9
 #EXTINF:0,МАТЧ! АРЕНА SD
 #EXTGRP:Спортивные
 http://31.148.48.15:80/Match_Arena_HD/index.m3u8?token=test
@@ -763,30 +709,12 @@ http://45.145.32.13:20440/match_futbol_3_hd/index.m3u8?token=test
 #EXTINF:0,Матч! Игра HD
 #EXTGRP:Спортивные
 http://tinyurl.com/deoolegTvZaTak/index.m3u8
-#EXTINF:0,Матч! Футбол 1 HD
-#EXTGRP:Спортивные
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/QVP3XYV8KEF4TL/10015/index.m3u8
-#EXTINF:0,Матч! Футбол 2 HD
-#EXTGRP:Спортивные
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/QVP3XYV8KEF4TL/10027/index.m3u8
-#EXTINF:0,Матч! Футбол 3 HD
-#EXTGRP:Спортивные
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/QVP3XYV8KEF4TL/10016/index.m3u8
-#EXTINF:0,Матч ТВ
-#EXTGRP:Спортивные
-http://tinyurl.com/TvZaTak011/a003
 #EXTINF:0,ASTRAKHAN.RU SPORT
 #EXTGRP:Спортивные
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/mono.ts.m3u8
 #EXTINF:0,ASTRAKHAN.RU SPORT
 #EXTGRP:Спортивные
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0,Eurosport 1
-#EXTGRP:Спортивные
-https://stream8.cinerama.uz/1439/tracks-v1a1/mono.m3u8
-#EXTINF:0,Eurosport 1 FD
-#EXTGRP:Спортивные
-http://b63fa420.ucomist.net/iptv/7FH9M9TCK4LU2H/141/index.m3u8
 #EXTINF:0,FightBox
 #EXTGRP:Спортивные
 http://185.98.211.8:81/fightbox/index.m3u8?token=test&21yo=0
@@ -805,15 +733,6 @@ http://45.145.32.13:20440/khl_prime/index.m3u8?token=test
 #EXTINF:0,MMA-TV
 #EXTGRP:Спортивные
 https://s04.watcher.uz/19/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
-#EXTINF:0,Setanta Sports 1
-#EXTGRP:Спортивные
-https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
-#EXTINF:0,Setanta Sports 2
-#EXTGRP:Спортивные
-https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
-#EXTINF:0,Trace Sport Stars FD
-#EXTGRP:Спортивные
-https://tinyurl.com/TvZaTak05/1274/tracks-v1a1/mono.m3u8
 #EXTINF:0,Бокс ТВ SD
 #EXTGRP:Спортивные
 http://31.148.48.15:80/Boks_TV/index.m3u8
@@ -826,9 +745,6 @@ https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=RP
 #EXTINF:0,Мир Баскетбола
 #EXTGRP:Спортивные
 http://45.145.32.13:20440/mir_basketbola/index.m3u8?token=test
-#EXTINF:0,Мото Драйв
-#EXTGRP:Спортивные
-http://stitch.teletarget.ru/vintera/motodrive/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDI2IDExOjQ5OjIxIFBNJmhhc2hfdmFsdWU9NzBLbWM5SUpMWitZVEplblVPVDFHUT09JnZhbGlkbWludXRlcz00ODA=
 #EXTINF:0,Овертайм ТВ SD
 #EXTGRP:Спортивные
 http://live.overtime26.ru/app/potok/playlist.m3u8
@@ -853,15 +769,6 @@ https://bl.webcaster.pro/media/playlist/free_fe8dc1b768a84b8b0333db826471f17e_hd
 #EXTINF:0,ТВ Спорт
 #EXTGRP:Спортивные
 http://tinyurl.com/TvZaTak06/sportivny/index.m3u8
-#EXTINF:0,Футбол SD
-#EXTGRP:Спортивные
-http://31148.rafail1982.uz/Futbol_HD/index.m3u8
-#EXTINF:0,Спорт на Первом
-#EXTGRP:Спортивные
-https://cdn8.1internet.tv/dash-live3/streams/sport-1/sport-1.mpd
-#EXTINF:0,SD REX
-#EXTGRP:Спортивные
-http://31.148.48.15:80/Russkiy_Ekstrim/index.m3u8
 #EXTINF:0,Sport
 #EXTGRP:Спортивные
 https://s07.watcher.uz/161/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
