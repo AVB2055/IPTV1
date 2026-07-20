@@ -61,85 +61,85 @@ https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=W_
 #EXTGRP:🇷🇺Федеральные
 https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=JTAW4J-xV9JKMAUbJmgmIQ&e=2068506966&scheme=https
 #EXTINF:-1,360 Новости
-#EXTGRP:👁‍Новостные
+#EXTGRP:👁Информационные
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1,Известия
-#EXTGRP:👁‍Новостные
+#EXTGRP:👁Информационные
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Крик-ТВ
-#EXTGRP:👁‍Новостные
+#EXTGRP:👁Информационные
 http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 #EXTINF:-1,Мир 24
-#EXTGRP:👁‍Новостные
+#EXTGRP:👁Информационные
 http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ОСН
-#EXTGRP:👁‍Новостные
+#EXTGRP:👁Информационные
 https://osnmedia.servicecdn.ru/streams/17603_88089/1080n/index.m3u8
 #EXTINF:-1,РБК
-#EXTGRP:👁‍Новостные
+#EXTGRP:👁Информационные
 http://e8-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8
 #EXTINF:-1,ТАСС
-#EXTGRP:👁‍Новостные
+#EXTGRP:👁Информационные
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 #EXTINF:-1,Соловьев.Live
-#EXTGRP:👁‍Новостные
+#EXTGRP:👁Информационные
 https://stream.smotrim.ru/hls/solovievlive/playlist_6.m3u8
 #EXTINF:-1,Царьград
-#EXTGRP:👁‍Новостные
+#EXTGRP:👁Информационные
 https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=UQvVhXcvnPn0tDMqg2zDYg&e=2068506958&scheme=https
 #EXTINF:-1,За!ТВ
-#EXTGRP:👁‍Новостные
+#EXTGRP:👁Информационные
 https://streaming.televizor-24-tochka.ru/live/25.m3u8
 #EXTINF:-1,Москва 24
-#EXTGRP:👁‍Новостные
+#EXTGRP:👁Информационные
 http://193.25.8.59:8000/moskva24
 #EXTINF:-1,Радио Вести FM
-#EXTGRP:👁‍Новостные
+#EXTGRP:👁Информационные
 https://stream.smotrim.ru/hls2/vesti_fm/playlist_6.m3u8
 #EXTINF:-1,Радио Говорит Москва
-#EXTGRP:👁‍Новостные
+#EXTGRP:👁Информационные
 https://video.govoritmoskva.ru/rufm/index.m3u8
 #EXTINF:0,Радио Спутник
-#EXTGRP:👁‍Новостные
+#EXTGRP:👁Информационные
 https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
 #EXTINF:0,Радио России
-#EXTGRP:👁‍Новостные
+#EXTGRP:👁Информационные
 https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8
 #EXTINF:-1,Беларусь 24
-#EXTGRP:👁‍Новостные
+#EXTGRP:👁Информационные
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/playlist.m3u8
 #EXTINF:-1,EuroNews [СМИ иноагент]
-#EXTGRP:👁‍Новостные
+#EXTGRP:👁Информационные
 https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25018/euronews-ru-avc1_3300000=26-mp4a_143200_rus=2.m3u8
 #EXTINF:-1,DW Russia [СМИ иноагент]
-#EXTGRP:👁‍Новостные
+#EXTGRP:👁Информационные
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 #EXTINF:-1,Настоящее время [СМИ иноагент]
-#EXTGRP:👁‍Новостные
+#EXTGRP:👁Информационные
 https://dash3.antik.sk/live/test_current_time_atktv/playlist.m3u8
-#EXTINF:-1 group-title="Без группы" ,Дождь ТВ  24/7 [СМИ иногент]
-#EXTGRP:👁‍Новостные
+#EXTINF:-1,Дождь ТВ  24/7 [СМИ иногент]
+#EXTGRP:👁Информационные
 http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/20083/index.m3u8
 #EXTINF:-1,FreeДом  24/7 [СМИ иногент]
-#EXTGRP:👁‍Новостные
+#EXTGRP:👁Информационные
 https://dash2.antik.sk/live/test_uatv/playlist.m3u8
 #EXTINF:-1,RTN  24/7 [СМИ иногент]
-#EXTGRP:👁‍Новостные
+#EXTGRP:👁Информационные
 http://4.59.210.197:8815/udp/127.0.0.1:6002
 #EXTINF:-1,Russia's Future 24/7 [СМИ иногент]
-#EXTGRP:👁‍Новостные
+#EXTGRP:👁Информационные
 http://91.228.35.249:8001/1:0:16:68:2fa8:13e:820000:0:0:0:
 #EXTINF:-1,Svoboda  24/7 [СМИ иногент]
-#EXTGRP:👁‍Новостные
+#EXTGRP:👁Информационные
 http://91.228.35.249:8001/1:0:16:65:2fa8:13e:820000:0:0:0:
 #EXTINF:-1,Svoboda News  24/7 [СМИ иногент]
-#EXTGRP:👁‍Новостные
+#EXTGRP:👁Информационные
 http://91.228.35.249:8001/1:0:16:66:2fa8:13e:820000:0:0:0:
 #EXTINF:-1,Svoboda+  24/7 [СМИ иногент]
-#EXTGRP:👁‍Новостные
+#EXTGRP:👁Информационные
 http://91.228.35.249:8001/1:0:16:69:2fa8:13e:820000:0:0:0:
 #EXTINF:-1,Ost24West  24/7 [СМИ иногент]
-#EXTGRP:👁‍Новостные
+#EXTGRP:👁Информационные
 http://91.228.35.249:8001/1:0:16:6F:2FA8:13E:820000:0:0:0:
 #EXTINF:-1,360
 #EXTGRP:🔎‍Познавательные
@@ -308,7 +308,7 @@ https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33
 #EXTINF:-1,Старт Триумф
 #EXTGRP:⛹🏿Спортивные
 https://bl.webcaster.pro/media/playlist/free_fe8dc1b768a84b8b0333db826471f17e_hd/33_85479982/1080p/8666c3e935faf6ef47ffd601e8e48868/4821408969.m3u8
-#EXTINF:-1 group-title="Без группы" ,МАТЧ! АРЕНА
+#EXTINF:-1,МАТЧ! АРЕНА
 #EXTGRP:⛹🏿Спортивные
 http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/528/index.m3u8
 #EXTINF:0,МАТЧ! БОЕЦ
