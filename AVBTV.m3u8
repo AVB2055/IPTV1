@@ -314,9 +314,6 @@ http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/528/index.m3u8
 #EXTINF:0,МАТЧ! БОЕЦ
 #EXTGRP:⛹🏿Спортивные
 http://45.145.32.13:20440/match_boets/index.m3u8?token=test
-#EXTINF:0,МАТЧ! ИГРА
-#EXTGRP:⛹🏿Спортивные
-http://45.145.32.13:20440/match_igra_hd/index.m3u8?token=test
 #EXTINF:0,МАТЧ! ПЛАНЕТА
 #EXTGRP:⛹🏿Спортивные
 https://bl.video.matchtv.ru/media/playlist/free_04fc20484b40a76bf33b537081ec7bf3/17_72438189/1080/6863fd17014b627e6f0027d538646428/2208978000.m3u8
@@ -326,15 +323,6 @@ https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
 #EXTINF:0,МАТЧ! СТРАНА
 #EXTGRP:⛹🏿Спортивные
 https://bl.video.matchtv.ru/media/playlist/free_d10054e3245839377104585927f08479/17_72477605/1080/e59fd6ff6bcd963c255273eb25e5c38f/2208978000.m3u8
-#EXTINF:-1,Матч! Футбол 1
-#EXTGRP:⛹🏿Спортивные
-http://stream.mcquack.net/130/index.m3u8
-#EXTINF:-1,Матч! Футбол 2
-#EXTGRP:⛹🏿Спортивные
-http://stream.mcquack.net/142/index.m3u8
-#EXTINF:-1,Матч! Футбол 3
-#EXTGRP:⛹🏿Спортивные
-http://stream.mcquack.net/185/index.m3u8
 #EXTINF:-1,Mr.Bean Cartoon
 #EXTGRP:🧒Детские
 https://bl.rutube.ru/livestream/0e9e44725d5d5ab7ee92c10b40215419/index.m3u8?s=x2-KvlIlDO7JTvW9rPHDVA&e=2066519767&scheme=https
@@ -779,8 +767,6 @@ https://kinowalk.hopto.org/boh_music_live
 https://kinowalk.hopto.org/alexisassa_live
 #EXTINF:-1 group-title="Kinowalk TV  Not 24-7" ,Disney Channel ◻️-🟡
 https://kinowalk.hopto.org/kanaldisneyonline_live
-#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/19829671/avatar?change_time=1734328186&croped=1&mh=140&mw=140" group-title="Kinowalk TV  Not 24-7" ,wihail 🎦-🔴
-https://kinowalk.hopto.org/wihail_live
 #EXTINF:-1 group-title="Kinowalk TV  Not 24-7" ,Ёжик в тумане FHD 🧒-🟡
 https://kinowalk.hopto.org/hurumburumum_live
 #EXTINF:-1 group-title="Kinowalk TV  Not 24-7" ,Tоny 🎦-🟡
@@ -831,6 +817,8 @@ https://kinowalk.hopto.org/devchata_live
 https://kinowalk.hopto.org/argo_13_live
 #EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/19957061/avatar?change_time=1745459243&croped=1&mh=140&mw=140" group-title="Kinowalk TV  Not 24-7" ,Фильмомания 🎦📺-🟡
 https://kinowalk.hopto.org/filmomania_live
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/19829671/avatar?change_time=1734328186&croped=1&mh=140&mw=140" group-title="Kinowalk TV  Not 24-7" ,wihail 🎦-🔴
+https://kinowalk.hopto.org/wihail_live
 #EXTINF:-1 group-title="Kinowalk TV  Not 24-7" ,PrizraK PlaY 🎦📺-🔴
 https://kinowalk.hopto.org/vampiro1965_live
 #EXTINF:-1 group-title="Kinowalk TV  Not 24-7" ,RedFох HD 🎦🎶-🔴
