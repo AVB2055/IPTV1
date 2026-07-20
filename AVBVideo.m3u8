@@ -78,9 +78,6 @@ https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=oK
 #EXTINF:0,ПЕРВЫЙ КАНАЛ
 #EXTGRP:RU 4
 http://95.47.155.244:8001/play/a001
-#EXTINF:0,РОССИЯ-1
-#EXTGRP:RU 4
-http://95.47.155.244:8001/play/a002
 #EXTINF:0,МАТЧ!
 #EXTGRP:RU 4
 http://95.47.155.244:8001/play/a003
@@ -93,15 +90,9 @@ http://95.47.155.244:8001/play/a005
 #EXTINF:0,РОССИЯ-К
 #EXTGRP:RU 4
 http://95.47.155.244:8001/play/a006
-#EXTINF:0,РОССИЯ-24
-#EXTGRP:RU 4
-http://95.47.155.244:8001/play/a007
 #EXTINF:0,КАРУСЕЛЬ
 #EXTGRP:RU 4
 http://95.47.155.244:8001/play/a008
-#EXTINF:0,ОТР
-#EXTGRP:RU 4
-http://95.47.155.244:8001/play/a009
 #EXTINF:0,ТВ Центр
 #EXTGRP:RU 4
 http://95.47.155.244:8001/play/a010
@@ -319,8 +310,6 @@ https://v2.catcast.tv/content/38720/index.m3u8
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
 #EXTINF:-1 group-title="Кинофильмы и сериалы",Konul TV
 http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
-#EXTINF:-1 group-title="Кинофильмы и сериалы",Alpha Moretime
-http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:-1 group-title="Кинофильмы и сериалы",Любовь
 https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8
 #EXTINF:-1 group-title="Кинофильмы и сериалы",Китай ТВ
@@ -705,9 +694,6 @@ http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/mono.ts.m3u8
 #EXTINF:0,ASTRAKHAN.RU SPORT
 #EXTGRP:Спортивные
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/mono.ts.m3u8
-#EXTINF:0,FightBox
-#EXTGRP:Спортивные
-http://185.98.211.8:81/fightbox/index.m3u8?token=test&21yo=0
 #EXTINF:0,KHL
 #EXTGRP:Спортивные
 https://s04.watcher.uz/20/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
@@ -765,7 +751,6 @@ https://s07.watcher.uz/161/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9
 #EXTINF:0,Eurosport 2
 #EXTGRP:Спортивные
 http://46.32.176.50/eurosport2/index.m3u8
-
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Arena Sport 1
 http://178.253.194.79:10006
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Arena Sport 2
@@ -854,7 +839,6 @@ https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33
 http://live-3.otcnet.ru/sportivny/index.m3u8
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Футбол
 http://radio.tvs.by:8088/Setanta1/index.m3u8
-
 #EXTINF:0 tvg-rec="7",История
 #EXTGRP:Познавательные
 http://bjoris.rostelekom.xyz/iptv/BUR3EZXNE9W9F77ZFKG5KZRE/111/index.m3u8
@@ -1044,18 +1028,12 @@ http://178.124.153.123:44400/terra
 #EXTINF:0,Большая Азия
 #EXTGRP:Познавательные
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v2a1/mono.m3u8
-#EXTINF:0,Большая Азия SD
-#EXTGRP:Познавательные
-https://bl.rutube.ru/livestream/495ab964b755baa2c9fc7481a2e40f7d/index.m3u8?s=us0e52hk89iBthB6Pt0lOg&e=2066519760&scheme=https
 #EXTINF:0,Инсайт ТВ
 #EXTGRP:Познавательные
 https://s06.watcher.uz/124/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 #EXTINF:0,Моя Планета SD
 #EXTGRP:Познавательные
 http://31.148.48.15/Moya_Planeta_HD/index.m3u8
-#EXTINF:0,Моя Планета
-#EXTGRP:Познавательные
-https://tinyurl.com/45x3xrpm/chid210/mpegts
 #EXTINF:0,Наша Тема
 #EXTGRP:Познавательные
 https://flussonic.mkpnet.ru/tv-c922a9201f5073f8/video.m3u8?token=test
