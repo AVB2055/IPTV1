@@ -105,9 +105,6 @@ https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
 #EXTINF:0,Радио России
 #EXTGRP:👁Информационные
 https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8
-#EXTINF:-1,Беларусь 24
-#EXTGRP:👁Информационные
-https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/playlist.m3u8
 #EXTINF:-1,EuroNews [СМИ иноагент]
 #EXTGRP:👁Информационные
 https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25018/euronews-ru-avc1_3300000=26-mp4a_143200_rus=2.m3u8
@@ -171,9 +168,6 @@ https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=e3
 #EXTINF:-1,Звезда Плюс
 #EXTGRP:🔎‍Познавательные
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Китай ТВ
-#EXTGRP:🔎‍Познавательные
-https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
 #EXTINF:-1,НТВ Следствие вели...
 #EXTGRP:🔎‍Познавательные
 https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
@@ -210,15 +204,9 @@ https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=Gm
 #EXTINF:-1,Тео-ТВ
 #EXTGRP:🔎‍Познавательные
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_TEOTV/variant.m3u8
-#EXTINF:-1,Теледом
-#EXTGRP:🔎‍Познавательные
-http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1,Толк ТВ
 #EXTGRP:🔎‍Познавательные
 https://live-tolknews.cdnvideo.ru/tolknews/stream/tracks-v1a1/mono.m3u8
-#EXTINF:0,StrahTV Космо HD
-#EXTGRP:🔎‍Познавательные
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VXNKCFHC676EY3/11065/index.m3u8
 #EXTINF:-1,2x2
 #EXTGRP:🤣Развлекательные
 https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=hwyoufQp4n4DEevoTh79AQ&e=2068506934&scheme=https
@@ -285,8 +273,7 @@ https://m2b2.worldcast.tv:7443/dancetelevisionfour/2/dancetelevisionfour.m3u8
 https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
 #EXTINF:-1 group-title="🎶Музыкальные" tvg-logo="https://www.dancetv.net/img/DTlogo.png",EDM Mainstage
 https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
-#EXTINF:-1 group-title="🎶Музыкальные" tvg-logo="https://www.dancetv.net/img/DTlogo.png",Minimal / Deep Tech
-https://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8
+
 #EXTINF:-1,Волейбол
 #EXTGRP:⛹🏿Спортивные
 https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=RP3Gdy1OZbXnpfKul6ZHLw&e=2070450972&scheme=https
@@ -365,8 +352,6 @@ http://185.57.68.33:8091/255/index.m3u8
 http://185.57.68.33:80/255/index.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",ATV Kinoman
 http://185.57.68.33/237/mpegts
-#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Bcu premiere 2
-http://8917feba.edemist.com/iptv/4HG3AX9TY6KWBALCNA9BYGXT/11016/index.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",RANDOM BEST FILMS
 https://tinyurl.com/aleks-u-romki-40/11043/index.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Bollywood
