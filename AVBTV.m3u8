@@ -147,6 +147,9 @@ https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=oK
 #EXTINF:-1,RT Д
 #EXTGRP:🔎‍Познавательные
 http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
+#EXTINF:-1,RT Balkan 
+#EXTGRP:🔎‍Познавательные
+https://rt-srb.rttv.com/dvr/rtbalkan/playlist.m3u8
 #EXTINF:-1,Rutube TV
 #EXTGRP:🔎‍Познавательные
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=0PD1llGQtRJEi-nJtJveWA&e=2070364663&scheme=https
