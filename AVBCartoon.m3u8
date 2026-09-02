@@ -44,7 +44,6 @@ https://mults.info/mp4/nu_pogodi_20.mp4
 https://mults.info/mp4/nu_pogodi_tv_1.mp4
 #EXTINF:-1  group-title="🐺🐰Ну, Погоди!",🐺🐰Погоди! ч.22
 https://mults.info/mp4/nu_pogodi_tv.mp4
-
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/W42nL6bj/1.jpg" group-title="👶Наши Мультфильмы",👶"Метеор" на ринге
 https://mults.info/mp4/meteor_na_ringe.mp4
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/W42nL6bj/1.jpg" group-title="👶Наши Мультфильмы",👶«Что делать?» или Куйгорож
@@ -4723,8 +4722,6 @@ https://mults.info/mp4/oni_iz_myasa.mp4
 https://mults.info/mp4/opasnaya_progulka.mp4
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/W42nL6bj/1.jpg" group-title="👶Наши Мультфильмы",👶Опасная шалость
 https://mults.info/mp4/opasnaya_shalost.mp4
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/W42nL6bj/1.jpg" group-title="👶Наши Мультфильмы",👶Оператор Кыпс в стране грибов
-https://mults.info/mp4/operator_kyps_v_strane_gribov.mp4
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/W42nL6bj/1.jpg" group-title="👶Наши Мультфильмы",👶Оператор Кыпс в царстве камней
 https://mults.info/mp4/operator_kyps_v_tsarstve_kamney.mp4
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/W42nL6bj/1.jpg" group-title="👶Наши Мультфильмы",👶Оператор Кыпс на необитаемом острове
@@ -7907,7 +7904,6 @@ https://mults.info/mp4/yakutia.mp4
 https://mults.info/mp4/yantarny_zamok.mp4
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/W42nL6bj/1.jpg" group-title="👶Наши Мультфильмы",👶Японская колыбельная
 https://mults.info/mp4/kolybeln_yaponskaya.mp4
-
 #EXTINF:0,🧒Астерикс и тайное зелье [МУЛЬТ/ФРАНЦИЯ/2018]
 #EXTGRP:Мультфильмы
 http://dmitry-tv.ddns.net/hls/multfilm/ASTERIKS_I_TAYNOE_ZELE.m3u8
@@ -8034,4 +8030,3 @@ http://dmitry-tv.ddns.net/hls/multfilm/EMODZHI_FILM.m3u8
 #EXTINF:0,🧒Эрнест и Селестина: Приключения мышки и медведя [МУЛЬТ/ФРАНЦИЯ/2012]
 #EXTGRP:Мультфильмы
 http://dmitry-tv.ddns.net/hls/multfilm/ERNEST_I_SELESTINA.m3u8
-
