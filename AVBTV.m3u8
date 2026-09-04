@@ -219,6 +219,9 @@ https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 ,Перец Int
 #EXTGRP:🤣Развлекательные
 http://stream.mcquack.net/121/index.m3u8
+#EXTINF:-1,Суббота
+#EXTGRP:🤣Развлекательные
+https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=fGF8IP-Az_cZHwwgk-of9w&e=2067815805&scheme=https
 #EXTINF:-1,ТНТ4
 #EXTGRP:🤣Развлекательные
 https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=uwhizdZPB-2J2x80Ov49_A&e=2067815802&scheme=https
@@ -316,9 +319,6 @@ https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 #EXTINF:-1,Смайлик ТВ
 #EXTGRP:🧒Детские
 https://bl.rutube.ru/livestream/2f052691c75d72b3ed7f3c33ea956a41/index.m3u8?s=MOCY2JvPXriCsyJWQK1Lag&e=2069285075&scheme=https
-#EXTINF:-1,Суббота
-#EXTGRP:🧒Детские
-https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=fGF8IP-Az_cZHwwgk-of9w&e=2067815805&scheme=https
 #EXTINF:-1,IPTVPLAY МультСказки (МультStream)
 #EXTGRP:🧒Детские
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
