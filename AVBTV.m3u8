@@ -439,8 +439,6 @@ http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8
 http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
 #EXTINF:-1 tvg-id="NTVLaw.ru@SD" tvg-logo="https://i.imgur.com/3ChnWGg.png" group-title="🔎‍Познавательные" ,НТВ Право (576p)
 http://hls127.freeott.top:8080/NTV_PRAVO_TV/video.m3u8
-#EXTINF:-1 tvg-id="NTV.ru@SD" tvg-logo="https://i.imgur.com/9r1BKzK.png" group-title="🔎‍Познавательные" ,НТВ Поедем поедим! SD (576p)
-http://45.153.24.78/NTV/index.m3u8
 #EXTINF:-1 tvg-id="NTVStyle.ru@SD" tvg-logo="https://i.imgur.com/rX6K6qT.png" group-title="🔎‍Познавательные" ,НТВ Стиль (576p)
 http://hls127.freeott.top:8080/NTV_STIL_TV/video.m3u8
 #EXTINF:-1 tvg-id="NTVVitrina.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/1280px-NTV_logo_2003.svg.png" group-title="🔎‍Познавательные" ,НТВ Витрина (720p)
@@ -858,8 +856,6 @@ http://176.118.197.101/Dom_kino/mono.m3u8
 http://176.118.197.101/Dom_kino/index.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Дом Кино International
 https://fs.uplink.kz/dom_kino/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Дом Кино Премиум
-http://mfe01.cliptv.az/dash/Dom_Kino_Premium_HDsdfgio81.ism/playlist.mpd
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",ЗОВ ТВ
 https://live20.bozztv.com/giatv/giatv-tvzovlivestream/tvzovlivestream/chunks.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",ЗОВ ТВ Black
@@ -1346,6 +1342,10 @@ http://kinowalk.hopto.org/neovisiontv_live
 https://kinowalk.hopto.org/disneyxd_live
 #EXTINF:-1 group-title="Kinowalk TV  Not 24-7" ,Disney Channel ◻️-🟡
 https://kinowalk.hopto.org/kanaldisneyonline_live
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/19124566/avatar?change_time=1718891416&croped=1&mh=140&mw=140" group-title="Kinowalk TV  Not 24-7" ,MetalAlex🎶-🟡
+http://kinowalk.hopto.org/metalalex_live
+#EXTINF:-1 tvg-logo="https://kinowalk.hopto.org/web/image/341/128x128?unique=2026-07-28%2012:05:20.347774&access_token=5fa38c99-16ab-4396-af71-4c31e9a03afb" group-title="Kinowalk TV  Not 24-7" ,TopMoment TV🧒-🟡
+http://kinowalk.hopto.org/topmoment_live
 #EXTINF:-1 group-title="Kinowalk TV  Not 24-7" ,33 квадратных метра 🤣-🟡
 https://kinowalk.hopto.org/33metra_live
 #EXTINF:-1  group-title="Kinowalk TV  Not 24-7",Паранормальный архив HD 🧒🔎-🟡
@@ -1517,12 +1517,8 @@ http://kinowalk.hopto.org/severtv_live
 http://kinowalk.hopto.org/x-x-vanes-x-x_live
 #EXTINF:-1 tvg-logo="https://kinowalk.hopto.org/web/image/231/128x128?unique=2026-03-01%2018:13:54.866463&access_token=9715ea54-6d29-4cd5-8845-9aaa72ba071c" group-title="Kinowalk TV  Not 24-7" ,Kinowalk prime◻️-🔴
 http://kinowalk.hopto.org/kinowalk_prime_live
-#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/19124566/avatar?change_time=1718891416&croped=1&mh=140&mw=140" group-title="Kinowalk TV  Not 24-7" ,MetalAlex🎶-🟡
-http://kinowalk.hopto.org/metalalex_live
 #EXTINF:-1 tvg-logo="https://static.goodgame.ru/files/avatars/av_1301254_55T4.jpg" group-title="Kinowalk TV  Not 24-7" ,Katastroff◻️-🔴
 https://kinowalk.hopto.org/katastroff_live
-#EXTINF:-1 tvg-logo="https://kinowalk.hopto.org/web/image/341/128x128?unique=2026-07-28%2012:05:20.347774&access_token=5fa38c99-16ab-4396-af71-4c31e9a03afb" group-title="Kinowalk TV  Not 24-7" ,TopMoment TV🧒-🟡
-http://kinowalk.hopto.org/topmoment_live
 #EXTINF:-1 tvg-id="Mir24.ru@SD" tvg-logo="https://i.imgur.com/dj9c8Yd.png" group-title="🇷🇺-Федеральные" ,Мир 24 (1080p)
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel5.ru@SD" tvg-logo="https://i.imgur.com/KPXMa3U.png" group-title="🇷🇺-Федеральные" ,Пятый Канал (540p) [Geo-blocked]
