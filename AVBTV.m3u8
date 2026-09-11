@@ -253,6 +253,8 @@ https://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXM
 #EXTINF:0,Discovery Channel
 #EXTGRP:🔎‍Познавательные
 http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
+#EXTINF:-1 tvg-id="Priklyucheniya.ru@HD" tvg-logo="https://i.imgur.com/qQ6pPPQ.png" group-title="🔎‍Познавательные" ,Приключения HD (1080p)
+http://stream.mcquack.net/198/index.m3u8
 #EXTINF:0,NANO
 #EXTGRP:🔎‍Познавательные
 https://bl.rutube.ru/livestream/cf958b6c9ae4504be5fc2c1de358a017/index.m3u8?s=JvmA6ABMzxZ5pFsbhOeT7A&e=2069068450&scheme=https
@@ -354,6 +356,8 @@ http://stream.mcquack.net/419/index.m3u8
 http://185.23.80.23:8080/NANO_HD/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="🔎‍Познавательные" ,National Geographic (576p)
 http://stream.mcquack.net/116/index.m3u8
+#EXTINF:-1 group-title="🔎‍Познавательные",Телепутешествия - HD
+https://tinyurl.com/aleks-u-romki-40/11043/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" group-title="🔎‍Познавательные" ,National Geographic Wild (1080p)
 http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8
 #EXTINF:-1 tvg-id="Nostalgia.ru@SD" tvg-logo="https://i.imgur.com/YBdBc0J.png" group-title="🔎‍Познавательные" ,Nostalgia (576p)
@@ -394,6 +398,8 @@ http://stream.mcquack.net/161/index.m3u8
 http://hls127.freeott.top:8080/Sovershenno_Sekretno/video.m3u8
 #EXTINF:-1 tvg-id="TVBRICSRussian.ru@SD" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="🔎‍Познавательные" ,TV BRICS Russian (1080p)
 http://185.23.80.23:8080/TVBRICS/index.m3u8
+#EXTINF:-1 tvg-id="BelRos.ru@SD" tvg-logo="https://i.imgur.com/tUF33HD.png" group-title="🔎‍Познавательные" ,Союзный (720p)
+https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPRO.ru@SD" tvg-logo="https://i.imgur.com/sbuSefI.png" group-title="🔎‍Познавательные" ,TV PRO
 http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 #EXTINF:-1,2x2
@@ -519,18 +525,9 @@ https://bl.video.matchtv.ru/media/playlist/free_d10054e3245839377104585927f08479
 #EXTINF:0,МАТЧ! ИГРА SD
 #EXTGRP:⛹🏿Спортивные
 http://31.210.208.171:8080/match_igra/index.m3u8?token=+W2MSER
-#EXTINF:0,МАТЧ! ПЛАНЕТА
-#EXTGRP:⛹🏿Спортивные
-https://s07.watcher.uz/175/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 #EXTINF:0,МАТЧ! ФУТБОЛ 3
 #EXTGRP:⛹🏿Спортивные
 http://185.57.68.33:80/110/index.m3u8
-#EXTINF:0,ASTRAKHAN.RU SPORT
-#EXTGRP:⛹🏿Спортивные
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/mono.ts.m3u8
-#EXTINF:0,ASTRAKHAN.RU SPORT
-#EXTGRP:⛹🏿Спортивные
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,KHL
 #EXTGRP:⛹🏿Спортивные
 https://s04.watcher.uz/20/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
@@ -549,31 +546,14 @@ https://bl.webcaster.pro/media/playlist/api_free_fd14ed34164a52d1090e4cb9db93683
 #EXTINF:0,Старт Триумф
 #EXTGRP:⛹🏿Спортивные
 https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd/33_85479982/480p/4eaec8986e2012fb936478856fbf3b4b/4818731006.m3u8?live=15&ref=https://tvstart.ru/ru/pages/start-triumph/
-#EXTINF:0,Sport
-#EXTGRP:⛹🏿Спортивные
-https://s07.watcher.uz/161/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
-#EXTINF:-1 group-title="⛹🏿Спортивные" audio-track="rus", Astrakhan.RU Sport
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v5a1/index.m3u8
-#EXTINF:-1 group-title="⛹🏿Спортивные" audio-track="rus", Eurosport 1 HD
-http://178.134.1.158:8081/eurosport/index.m3u8
 #EXTINF:-1 group-title="⛹🏿Спортивные" audio-track="rus", Extreme
 https://flussonic.mkpnet.ru/tv-1a9441fd32d63873/video.m3u8
 #EXTINF:-1 group-title="⛹🏿Спортивные" audio-track="rus", KHL
 http://31.210.208.171:8080/khl/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="⛹🏿Спортивные" audio-track="rus", Russian Extreme
 http://85.208.223.249:8888/play/a004
-#EXTINF:-1 group-title="⛹🏿Спортивные" audio-track="rus", Setanta Sports 2 HD
-https://stream1.cinerama.uz/1264/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="⛹🏿Спортивные" tvg-id="belarus5-inet" audio-track="rus", Беларусь 5 Интернет
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5/playlist.m3u8
-#EXTINF:-1 group-title="⛹🏿Спортивные" tvg-id="belarus5-inet" audio-track="rus", Беларусь 5 Интернет HD
-http://stream.mcquack.net/33/index.m3u8
-#EXTINF:-1 group-title="⛹🏿Спортивные" tvg-id="match-tv" audio-track="rus", Матч!
-https://fs.uplink.kz/match/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="⛹🏿Спортивные" audio-track="rus", Матч! Игра
 https://flussonic.mkpnet.ru/tv-1bfac9df3d938c1f/video.m3u8
-#EXTINF:-1 group-title="⛹🏿Спортивные" audio-track="rus", Матч! Игра HD
-http://185.37.150.38/test/index.m3u8
 #EXTINF:-1 group-title="⛹🏿Спортивные" audio-track="rus", Матч! Футбол 2 HD
 http://stream.mcquack.net/142/index.m3u8
 #EXTINF:-1 group-title="⛹🏿Спортивные" audio-track="rus", Старт
@@ -635,8 +615,6 @@ http://hls127.freeott.top:8080/Mult_Muzika/video.m3u8
 http://stream.mcquack.net/443/index.m3u8
 #EXTINF:-1 tvg-id="O.ru@SD" tvg-logo="https://i.imgur.com/pDc665V.png" group-title="🧒Детские" ,O! (576p)
 http://stream.mcquack.net/60/index.m3u8
-#EXTINF:-1 tvg-id="Carousel.ru@Plus4" tvg-logo="https://i.imgur.com/4wmnx1W.png" group-title="🧒Детские" ,Карусель (720p)
-http://185.37.150.46/Karusel/index.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",IPTVPLAY ВЕДЬМАК
 http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",IPTVPLAY Великая Отечественная
@@ -655,10 +633,6 @@ http://185.57.68.33:8091/255/index.m3u8
 http://185.57.68.33:80/255/index.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",ATV Kinoman
 http://185.57.68.33/237/mpegts
-#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",RANDOM BEST FILMS
-https://tinyurl.com/aleks-u-romki-40/11043/index.m3u8
-#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Bollywood
-http://176.118.197.101/Bollywood_HD/index.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Cinema
 http://176.118.197.101/Cinema/index.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Star Cinema
@@ -675,36 +649,20 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/19408/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/19411/index.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",MYTV HIT
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/19410/index.m3u8
-#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",NUR TV
-http://146.120.213.172:8086/0.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",NikNik-TV
 https://hostrec.ru/live/wic2AtEFCLwsZcUkAgtZcjlYgjc.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",TVRUS
 http://217.154.10.99:2020/channel/4e9dab20/index.m3u8?q=ac8328a8c05870646c45caa253710a85
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",TVRUS+
 http://217.154.10.99:2020/channel/n7ae3dc73/index.m3u8?q=ac8328a8c05870646c45caa253710a85
-#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",VIASAT Kino Comedy
-http://ukr2.ukrainske.tv/493/video.m3u8
-#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Арсенал
-https://s06.watcher.uz/120/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Детективы КД
 https://bl.rutube.ru/livestream/e05401be60a9cc719fa7075b6e77b86d/index.m3u8?s=wbVW8VM26OpdW5kxFYEmSQ&e=2069694293&scheme=https
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Дом КИНО
 http://176.118.197.101/Dom_kino/mono.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Дом Кино
 http://176.118.197.101/Dom_kino/index.m3u8
-#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Дом Кино International
-https://fs.uplink.kz/dom_kino/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",ЗОВ ТВ
-https://live20.bozztv.com/giatv/giatv-tvzovlivestream/tvzovlivestream/chunks.m3u8
-#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",ЗОВ ТВ Black
-https://live20.bozztv.com/giatv/giatv-tvzovBlackstream/tvzovBlackstream/chunks.m3u8
-#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",ЗОВ ТВ RED
-https://live20.bozztv.com/giatv/giatv-tvzov%20RED/tvzov%20RED/chunks.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Еврокино
 http://176.118.197.101/Evrokino/mono.m3u8
-#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Индийское кино
-https://s03.watcher.uz/52/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Киножелезо
 https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=09cuASII_HOaxki8OsQxgA&e=2069285053&scheme=https
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Кинозал
@@ -713,26 +671,6 @@ http://185.57.68.33:8091/237/playlist.m3u8
 https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=2ANj0RhjI1hrAkz7Jd83ZQ&e=2069068452&scheme=https
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Кинолаффка
 https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=3-8K19N5xjsPY74KF2TfUg&e=2065265032&scheme=https
-#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Кинокомедия
-http://176.118.197.101/Kinokomediya/index.m3u8
-#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Кинокомедия
-http://176.118.197.101/Kinokomediya/mono.m3u8
-#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Киномикс
-http://176.118.197.101/Kinomix/index.m3u8
-#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Киномикс
-http://176.118.197.101/Kinomix/mono.m3u8
-#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Кинопоказ
-http://176.118.197.101/Kinopokaz/mono.m3u8
-#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Киносерия
-http://176.118.197.101/Kinoseria/index.m3u8
-#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Комедия
-http://176.118.197.101/Komediya/index.m3u8
-#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Любимое Кино
-http://176.118.197.101/LubimoeKino/mono.m3u8
-#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Любимое кино
-http://176.118.197.101/LubimoeKino/index.m3u8
-#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Мир сериала
-http://176.118.197.101/MirSeriala/index.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",НТВ Сериал
 https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",НТВ Сериалы Балабол
@@ -751,8 +689,6 @@ https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
 https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",НТВ Хит
 https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Наше Новое Кино
-http://93.113.203.165/iptv/F5BM9GXMAPYBDK/19231/index.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Победа
 https://streaming.televizor-24-tochka.ru/live/43.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Ретро
@@ -767,18 +703,6 @@ http://vod.tuva.ru/rusroman/index.m3u8
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Смотрим 100% Детское
 https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
-#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Смотрим 100% Классика
-https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
-#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Смотрим 100% Любовь
-https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8
-#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Смотрим 100% Мужское
-https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
-#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Смотрим 100% Праздник
-https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
-#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Смотрим 100% Факты
-https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
-#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Техно 24
-https://s05.watcher.uz/29/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
 #EXTINF:-1  tvg-id="evrokino" ,Еврокино
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 http://176.118.197.101/Evrokino/index.m3u8
@@ -792,30 +716,18 @@ http://176.118.197.101/Kinopokaz/index.m3u8
 http://kinowalk.hopto.org/backtotheussr_live
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",У КРАЯ БЕЗДНЫ 24/7
 http://kinowalk.hopto.org/ddator_live
-#EXTINF:0,Кинопремьера
-#EXTGRP:🎦📺Фильмы 🔹 Сериалы
-https://s04.watcher.uz/5/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Bollywood HD
 http://176.118.197.101/Bollywood_HD/mono.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Kinoseria
 http://176.118.197.101/Kinoseria/mono.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Cinema
 http://176.118.197.101/Cinema/mono.m3u8
-#EXTINF:0,Bollywood
-#EXTGRP:🎦📺Фильмы 🔹 Сериалы
-https://s07.watcher.uz/167/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
-#EXTINF:0,Дом Кино FD
-#EXTGRP:🎦📺Фильмы 🔹 Сериалы
-https://streaming.thestream.cyou/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:0,Кинопанорама
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 https://tinyurl.com/TvZaTak09/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
 #EXTINF:0,Киножелезо
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=mPZ2z97b3j24PKD8bwFUzA&e=2069068451&scheme=https
-#EXTINF:0,Epic Drama
-#EXTGRP:🎦📺Фильмы 🔹 Сериалы
-http://195.189.60.253/118/index.m3u8
 #EXTINF:0,ПРОДВИЖЕНИЕ FD
 #EXTGRP:🎦📺Фильмы 🔹 Сериалы
 http://prodvizhenie.bonus-tv.ru/cdn/prodvizhenie/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMy8yMDI1IDEyOjQ5OjM0IEFNJmhhc2hfdmFsdWU9SC9uVEJEcTFLeDhaRG83MFVwSVBDQT09JnZhbGlkbWludXRlcz00ODA=
@@ -877,8 +789,6 @@ http://stream.mcquack.net/182/index.m3u8
 http://stream.mcquack.net/129/index.m3u8
 #EXTINF:-1 tvg-id="Balabol.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/balabol_vse.jpg" group-title="🎦📺Фильмы 🔹 Сериалы" ,НТВ Балабол (1080p)
 https://cdn-dvr.ntv.ru/Balabol/index.m3u8
-#EXTINF:-1 tvg-id="BelRos.ru@SD" tvg-logo="https://i.imgur.com/tUF33HD.png" group-title="🎦📺Фильмы 🔹 Сериалы" ,Союзный (720p)
-https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
 #EXTINF:-1 tvg-id="Blokbaster.ru@HD" tvg-logo="https://i.imgur.com/KcOi4Os.png" group-title="🎦📺Фильмы 🔹 Сериалы" ,Blokbaster HD (1080p)
 http://stream.mcquack.net/364/index.m3u8
 #EXTINF:-1 tvg-id="BollywoodHD.ro@Russia" tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="🎦📺Фильмы 🔹 Сериалы" ,Bollywood HD Russia (576p)
@@ -897,8 +807,6 @@ https://cdn-dvr.ntv.ru/Perviy_otdel/index.m3u8
 https://cdn-dvr.ntv.ru/Pes/index.m3u8
 #EXTINF:-1 tvg-id="Premialnoe.ru@HD" tvg-logo="https://i.imgur.com/ck4aLBP.png" group-title="🎦📺Фильмы 🔹 Сериалы" ,Премиальное HD (1080p)
 http://stream.mcquack.net/421/index.m3u8
-#EXTINF:-1 tvg-id="Priklyucheniya.ru@HD" tvg-logo="https://i.imgur.com/qQ6pPPQ.png" group-title="🎦📺Фильмы 🔹 Сериалы" ,Приключения HD (1080p)
-http://stream.mcquack.net/198/index.m3u8
 #EXTINF:-1 tvg-id="ProLyubov.ru@SD" tvg-logo="https://i.imgur.com/QpIGAT0.png" group-title="🎦📺Фильмы 🔹 Сериалы" ,Про любовь (1080p)
 http://hls127.freeott.top:8080/ProLubovHD/video.m3u8
 #EXTINF:-1 tvg-id="NTVSeries.ru@SD" tvg-logo="https://i.imgur.com/QdVa8tl.png" group-title="🎦📺Фильмы 🔹 Сериалы" ,НТВ Серия (576p)
