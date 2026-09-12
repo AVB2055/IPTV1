@@ -60,7 +60,7 @@ https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=W_
 #EXTINF:-1,Муз ТВ
 #EXTGRP:🇷🇺Федеральные
 https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=JTAW4J-xV9JKMAUbJmgmIQ&e=2068506966&scheme=https
-#EXTINF:-1,360 Новости
+#EXTINF:-1,360.RU Новости
 #EXTGRP:👁Информационные
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1,Известия
@@ -138,13 +138,11 @@ http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/20083/index.m3u8
 #EXTINF:-1,FreeДом  24/7 [СМИ иногент]
 #EXTGRP:👁Информационные
 https://dash2.antik.sk/live/test_uatv/playlist.m3u8
-#EXTINF:-1 tvg-id="360News.ru@SD" tvg-logo="https://i.imgur.com/YXDeX8q.png" group-title="👁Информационные" ,360° Новости (1080p)
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 
-#EXTINF:-1,360
+#EXTINF:-1,360.RU
 #EXTGRP:🔎‍Познавательные
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
-#EXTINF:-1 tvg-id="360.ru@SD" tvg-logo="https://i.imgur.com/VTJqdoX.png" group-title="🔎‍Познавательные" ,360° (1080p)
+#EXTINF:-1 tvg-id="360.ru@SD" tvg-logo="https://i.imgur.com/VTJqdoX.png" group-title="🔎‍Познавательные" ,360.RU (1080p)
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
 #EXTINF:0,360.RU FD
 #EXTGRP:🔎‍Познавательные
@@ -152,9 +150,11 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/trac
 #EXTINF:0,360.RU
 #EXTGRP:🔎‍Познавательные
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
-#EXTINF:0,360 HD
+#EXTINF:0,360.RU HD
 #EXTGRP:🔎‍Познавательные
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
+#EXTINF:-1 tvg-id="360News.ru@SD" tvg-logo="https://i.imgur.com/YXDeX8q.png" group-title="👁Информационные" ,360.RU Новости (1080p)
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 #EXTINF:-1,RT Д
 #EXTGRP:🔎‍Познавательные
 http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
@@ -222,9 +222,6 @@ http://185.23.80.23:8080/NeizvestnayaRossia/index.m3u8
 #EXTINF:-1,Охотник и рыболов
 #EXTGRP:🔎‍Познавательные
 https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=URw1qTUBYJppc4IY-gE4ew&e=2070450931&scheme=https
-#EXTINF:0,Охотник и Рыболов
-#EXTGRP:🔎‍Познавательные
-https://tinyurl.com/TvZaTak05/1413/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ПРНК
 #EXTGRP:🔎‍Познавательные
 https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
@@ -235,13 +232,13 @@ http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
 #EXTGRP:🔎‍Познавательные
 https://bl.rutube.ru/livestream/ff5c11c9a51750f5d33427762abc315c/index.m3u8?s=WHZZBfXapQyglWukVMsSvw&e=2071742700&scheme=https
 #EXTINF:0,ПРОДВИЖЕНИЕ FD
-#EXTGRP:🎦📺Фильмы 🔹 Сериалы
+#EXTGRP:🔎‍Познавательные
 http://prodvizhenie.bonus-tv.ru/cdn/prodvizhenie/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMy8yMDI1IDEyOjQ5OjM0IEFNJmhhc2hfdmFsdWU9SC9uVEJEcTFLeDhaRG83MFVwSVBDQT09JnZhbGlkbWludXRlcz00ODA=
 #EXTINF:0,Продвижение HD
-#EXTGRP:🎦📺Фильмы 🔹 Сериалы
+#EXTGRP:🔎‍Познавательные
 https://bl.rutube.ru/livestream/ff5c11c9a51750f5d33427762abc315c/index.m3u8?s=IBzoayhf0EhnnlzfDnDidg&e=2066519813&scheme=https
 #EXTINF:0,Продвижение FD
-#EXTGRP:🎦📺Фильмы 🔹 Сериалы
+#EXTGRP:🔎‍Познавательные
 http://dmi3y-tv6.ru/hls/CH_PRODVIZHENIE.m3u8
 #EXTINF:-1 tvg-id="Prodvizhenie.ru@SD" tvg-logo="https://i.imgur.com/KlsnfG9.png" group-title="🔎‍Познавательные" ,Продвижение (1080p)
 https://streaming.astrakhan.ru/proastrakhanhd/index.m3u8
@@ -302,15 +299,9 @@ https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 #EXTINF:0,Наша Тема
 #EXTGRP:🔎‍Познавательные
 https://flussonic.mkpnet.ru/tv-c922a9201f5073f8/video.m3u8?token=test
-#EXTINF:0,Travel TV
-#EXTGRP:🔎‍Познавательные
-https://streamer103.neterra.tv/travel/live.m3u8
 #EXTINF:0,CGTN Русский SD
 #EXTGRP:🔎‍Познавательные
 https://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802_hd.m3u8
-#EXTINF:0,Discovery Channel
-#EXTGRP:🔎‍Познавательные
-http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
 #EXTINF:-1 tvg-id="Priklyucheniya.ru@HD" tvg-logo="https://i.imgur.com/qQ6pPPQ.png" group-title="🔎‍Познавательные" ,Приключения HD (1080p)
 http://stream.mcquack.net/198/index.m3u8
 #EXTINF:0,NANO
@@ -360,8 +351,6 @@ https://s04.watcher.uz/114/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9
 #EXTINF:0,Охота и рыбалка
 #EXTGRP:🔎‍Познавательные
 https://s05.watcher.uz/30/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
-#EXTINF:-1 tvg-id="Okhotairybalka.ru@SD" tvg-logo="https://i.imgur.com/nZwBaeW.png" group-title="🔎‍Познавательные" ,Охота и рыбалка (576p)
-http://stream.mcquack.net/155/index.m3u8
 #EXTINF:-1 tvg-id="365daysTV.ru@SD" tvg-logo="https://i.imgur.com/NfnAiTR.png" group-title="🔎‍Познавательные" ,365 days TV (576p)
 http://stream.mcquack.net/70/index.m3u8
 #EXTINF:-1 tvg-id="Avto24.ru@SD" tvg-logo="https://i.imgur.com/GXSXmN2.png" group-title="🔎‍Познавательные" ,Avto24 (576p)
@@ -384,14 +373,10 @@ http://hls127.freeott.top:8080/Kluch/video.m3u8
 http://stream.mcquack.net/179/index.m3u8
 #EXTINF:-1 tvg-id="MoskvaDoveriye.ru@SD" tvg-logo="https://i.imgur.com/QDqDQzt.png" group-title="🔎‍Познавательные" ,Москва Доверие (576p)
 https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
-#EXTINF:-1 tvg-id="Moyastikhiya.ru@HD" tvg-logo="https://i.imgur.com/Sl8c9eB.png" group-title="🔎‍Познавательные" ,Моя стихия HD (1080p)
-http://stream.mcquack.net/141/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="🔎‍Познавательные" ,National Geographic (576p)
 http://stream.mcquack.net/116/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" group-title="🔎‍Познавательные" ,National Geographic Wild (1080p)
 http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8
-#EXTINF:-1 group-title="🔎‍Познавательные",Телепутешествия - HD
-https://tinyurl.com/aleks-u-romki-40/11043/index.m3u8
 #EXTINF:-1 tvg-id="Nostalgia.ru@SD" tvg-logo="https://i.imgur.com/YBdBc0J.png" group-title="🔎‍Познавательные" ,Ностальгия (576p)
 http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
 #EXTINF:-1 tvg-id="Ohotnikirybolov.ru@HD" tvg-logo="https://i.imgur.com/Bj1jI7F.png" group-title="🔎‍Познавательные" ,Охотник рыбалов HD (1080p)
@@ -582,8 +567,6 @@ http://stream.mcquack.net/491/index.m3u8
 http://stream.mcquack.net/493/index.m3u8
 #EXTINF:-1 tvg-id="OkkoSport.ru@SD" tvg-logo="https://i.imgur.com/SYOaOQc.png" group-title="⛹🏿Спортивные" ,Okko Спорт (1080p)
 http://stream.mcquack.net/492/index.m3u8
-#EXTINF:-1 tvg-id="UDAR.ru@SD" tvg-logo="https://mt.media/upload/iblock/2b3/2b3cf99141bf7f99cda377eec62ec084.png" group-title="⛹🏿Спортивные" ,UDAR (1080p)
-http://5.188.159.128:8070/udar/index.m3u8
 #EXTINF:-1 tvg-id="vijuPlusSport.ru@SD" tvg-logo="https://i.imgur.com/fXESG0l.png" group-title="⛹🏿Спортивные" ,viju+ Sport (576p)
 http://stream.mcquack.net/333/index.m3u8
 
@@ -740,10 +723,6 @@ http://kinowalk.hopto.org/ddator_live
 http://176.118.197.101/Bollywood_HD/mono.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Kinoseria
 http://176.118.197.101/Kinoseria/mono.m3u8
-#EXTINF:0,Кинопанорама
-#EXTGRP:🎦📺Фильмы 🔹 Сериалы
-https://tinyurl.com/TvZaTak09/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="CityEdenKinoFantastika.ru@HD" tvg-logo="https://i.imgur.com/I64FeIO.png" group-title="🎦📺Фильмы 🔹 Сериалы" ,Сити Эдем КиноФантастика [Not 24/7]
 https://cityeden.catcast.tv/content/45268/index.m3u8
 #EXTINF:-1 tvg-id="vijuPlusPremiere.ru@HD" tvg-logo="https://i.imgur.com/klRvhR5.png" group-title="🎦📺Фильмы 🔹 Сериалы" ,viju+ Premiere HD (1080p)
@@ -852,8 +831,6 @@ http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
 http://stream.mcquack.net/170/index.m3u8
 #EXTINF:-1 tvg-id="Kinoseriya.ru@SD" tvg-logo="https://i.imgur.com/iao7zLZ.png" group-title="🎦📺Фильмы 🔹 Сериалы" ,Киносерия (1080p)
 http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
-#EXTINF:-1 tvg-id="Kinosvidanie.ru@SD" tvg-logo="https://i.imgur.com/ZRaWqxj.png" group-title="🎦📺Фильмы 🔹 Сериалы" ,Киносведание (576p)
-http://5.188.159.128:8070/kinosvidanie/index.m3u8
 #EXTINF:-1 tvg-id="Kinouzhas.ru@SD" tvg-logo="https://i.imgur.com/mAcAAQF.png" group-title="🎦📺Фильмы 🔹 Сериалы" ,Киноужас (576p)
 http://stream.mcquack.net/278/index.m3u8
 #EXTINF:-1 tvg-id="Komedia.ru@SD" tvg-logo="https://i.imgur.com/VRC5juh.png" group-title="🎦📺Фильмы 🔹 Сериалы" ,Комедия (576p)
