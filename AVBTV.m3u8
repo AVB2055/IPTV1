@@ -41,15 +41,15 @@ https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=W_
 #EXTINF:-1 group-title="🇷🇺Федеральные",Муз ТВ
 https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=JTAW4J-xV9JKMAUbJmgmIQ&e=2068506966&scheme=https
 
-#EXTINF:-1 group-title="Радио",Радио Вести FM
+#EXTINF:-1 group-title="📻Радио",Радио Вести FM
 https://stream.smotrim.ru/hls2/vesti_fm/playlist_6.m3u8
-#EXTINF:-1 tvg-id="VestiFM.ru@HD" tvg-logo="https://i.imgur.com/ZBHqSZj.png" group-title="Радио",Вести FM
+#EXTINF:-1 tvg-id="VestiFM.ru@HD" tvg-logo="https://i.imgur.com/ZBHqSZj.png" group-title="📻Радио",Вести FM
 https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8
-#EXTINF:-1 group-title="Радио",Радио Говорит Москва
+#EXTINF:-1 group-title="📻Радио",Радио Говорит Москва
 https://video.govoritmoskva.ru/rufm/index.m3u8
-#EXTINF:-1 group-title="Радио",Радио Спутник
+#EXTINF:-1 group-title="📻Радио",Радио Спутник
 https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
-#EXTINF:-1 group-title="Радио",Радио России
+#EXTINF:-1 group-title="📻Радио",Радио России
 https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8
 
 #EXTINF:-1 group-title="👁Информационные",Известия
