@@ -212,31 +212,31 @@ https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 http://stream.mcquack.net/119/index.m3u8
 #EXTINF:-1 group-title="🔎‍Познавательные",World Fashion
 http://cdn.wfc.tv/cdn/stream-rus-720p.m3u8
-#EXTINF:-1 tvg-id="2x2.ru@" tvg-logo="https://i.imgur.com/fhQFLEl.png" ,2x2
+#EXTINF:-1 tvg-id="2x2.ru@" tvg-logo="https://i.imgur.com/fhQFLEl.png" group-title="🔎‍Познавательные" ,2x2
 https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?e=2068731801&s=tenr-yHXUv1wibfka78s2A&scheme=https
-#EXTINF:-1 ,НТВ Своя Игра
+#EXTINF:-1 group-title="🔎‍Познавательные",НТВ Своя Игра
 https://cdn-dvr.ntv.ru/svoya_igra/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 ,НТВ конкурс Ты супер !
+#EXTINF:-1 group-title="🔎‍Познавательные",НТВ конкурс Ты супер !
 https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 ,Перец Int
+#EXTINF:-1 group-title="🔎‍Познавательные",Перец Int
 http://stream.mcquack.net/121/index.m3u8
-#EXTINF:-1 ,Суббота
+#EXTINF:-1 group-title="🔎‍Познавательные",Суббота
 https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=fGF8IP-Az_cZHwwgk-of9w&e=2067815805&scheme=https
-#EXTINF:-1 ,ТНТ4
+#EXTINF:-1 group-title="🔎‍Познавательные",ТНТ4
 https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=uwhizdZPB-2J2x80Ov49_A&e=2067815802&scheme=https
-#EXTINF:-1 ,Твоё ТВ
+#EXTINF:-1 group-title="🔎‍Познавательные",Твоё ТВ
 http://tvoetv.space:8080/tvoetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Твоё ТВ Юмор
+#EXTINF:-1 group-title="🔎‍Познавательные",Твоё ТВ Юмор
 http://tvoetv.space:8080/tvoetv_humor/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Че!
+#EXTINF:-1 group-title="🔎‍Познавательные",Че!
 http://5.188.221.43:8080/play/che
-#EXTINF:-1 tvg-id="U.ru@" tvg-logo="https://i.imgur.com/KDZvt0Q.png" ,Ю
+#EXTINF:-1 tvg-id="U.ru@" tvg-logo="https://i.imgur.com/KDZvt0Q.png" group-title="🔎‍Познавательные",Ю
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https
-#EXTINF:-1 tvg-id="Sarafan.ru@" tvg-logo="https://i.imgur.com/u4q1rMT.png" ,Сарафан
+#EXTINF:-1 tvg-id="Sarafan.ru@" tvg-logo="https://i.imgur.com/u4q1rMT.png" group-title="🔎‍Познавательные",Сарафан
 http://stream.mcquack.net/81/index.m3u8
-#EXTINF:-1 tvg-id="Teatr.ru@" tvg-logo="https://i.imgur.com/nc2ijCH.png" ,Театр
+#EXTINF:-1 tvg-id="Teatr.ru@" tvg-logo="https://i.imgur.com/nc2ijCH.png" group-title="🔎‍Познавательные",Театр
 http://hls127.freeott.top:8080/Teatr/video.m3u8
-#EXTINF:-1 tvg-id="Gagsnetwork.us@" tvg-logo="https://i.imgur.com/ENj5GIp.png" ,Gagsnetwork
+#EXTINF:-1 tvg-id="Gagsnetwork.us@" tvg-logo="https://i.imgur.com/ENj5GIp.png" group-title="🔎‍Познавательные" ,Gagsnetwork
 http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8
 #EXTINF:-1 group-title="🎶Музыкальные",Fonbet Music
 http://uiptv.do.am/1ufc/603282189/playlist.m3u8
@@ -1058,11 +1058,11 @@ http://185.57.68.33/237/mpegts
 http://176.118.197.101/Cinema/index.m3u8
 #EXTINF:-1 group-title="💰Резерв ТВ каналов",Дом Кино
 http://176.118.197.101/Dom_kino/index.m3u8
-#EXTINF:-1  tvg-id="evrokino",Еврокино
+#EXTINF:-1  tvg-id="evrokino" group-title="💰Резерв ТВ каналов",Еврокино
 http://176.118.197.101/Evrokino/index.m3u8
 #EXTINF:-1 group-title="💰Резерв ТВ каналов",Еврокино
 http://176.118.197.101/Evrokino/mono.m3u8
-#EXTINF:0,Киножелезо
+#EXTINF:0  group-title="💰Резерв ТВ каналов",Киножелезо
 https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=mPZ2z97b3j24PKD8bwFUzA&e=2069068451&scheme=https
 #EXTINF:-1 group-title="💰Резерв ТВ каналов",Кинолаффка
 https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=3-8K19N5xjsPY74KF2TfUg&e=2065265032&scheme=https
