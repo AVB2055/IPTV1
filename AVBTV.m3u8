@@ -340,7 +340,7 @@ https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 https://bl.rutube.ru/livestream/2f052691c75d72b3ed7f3c33ea956a41/index.m3u8?s=MOCY2JvPXriCsyJWQK1Lag&e=2069285075&scheme=https
 #EXTINF:-1 group-title="🧒Детские",IPTVPLAY МультСказки (МультStream)
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1,Том и Джерри
+#EXTINF:-1 group-title="🧒Детские",Том и Джерри
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-id="RUTVKids.ru@" tvg-logo="https://rutvkids.ru/assets/logo_rutv_kids-Bn4u0Blf.png" group-title="🧒Детские",RU.TV Kids
 https://rutvkids.ru/live/efir/index.m3u8
@@ -1038,7 +1038,7 @@ http://stream.mcquack.net/269/index.m3u8
 https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?e=2066519758&s=dmUf6BUQzDBTwtQOseAfog&scheme=https
 #EXTINF:-1 group-title="💰Резерв ТВ каналов" ,Ю
 http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title=💰Резерв ТВ каналов audio-track="rus", Старт
+#EXTINF:-1  group-title="💰Резерв ТВ каналов" audio-track="rus", Старт
 http://31.210.208.171:8080/start/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="💰Резерв ТВ каналов",Старт
 https://bl.webcaster.pro/media/playlist/api_free_fd14ed34164a52d1090e4cb9db93683f/4_79276517/480p/d33bbf3e6ac7c41524eae5d1c3d9258d/4873167902.m3u8?live=15&ref=https://tvstart.ru/channels/tv-start/
