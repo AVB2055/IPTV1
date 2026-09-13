@@ -1142,7 +1142,7 @@ http://stream.mcquack.net/301/index.m3u8
 
 #EXTINF:0 group-title="💰Резервные каналы",КРИК-ТВ HD
 https://bl.rutube.ru/livestream/f372aa2aff09518d050ecdf70956012c/index.m3u8?s=zqF8COx7qN-jbhFv7NK-7A&e=2066519811&scheme=https
-#EXTINF:0group-title="💰Резервные каналы",Царьград HD
+#EXTINF:0 group-title="💰Резервные каналы",Царьград HD
 https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=ISWC8uuBJlLIBfHVSaOalw&e=2066519828&scheme=https
 
 
