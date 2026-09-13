@@ -54,8 +54,6 @@ https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8
 https://stream.radio1.ru/memfs/49dee7fe-77ba-4e6b-8cdc-fa840535b242.m3u8
 #EXTINF:-1 group-title="👁Информационные",Известия
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Izvestia.ru@" tvg-logo="https://i.imgur.com/r5HzA6J.png" group-title="👁Информационные",Известия
-http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:-1 tvg-id="Mir24.ru@" tvg-logo="https://i.imgur.com/dj9c8Yd.png" group-title="👁Информационные",Мир 24
 http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="👁Информационные",ОСН
@@ -66,6 +64,7 @@ http://e8-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SolovyovLive.ru@" tvg-logo="https://images.iptv.rt.ru/images/d7efm08mifeaf9jacb30.png" group-title="👁Информационные",Соловьев Live
 https://stream.smotrim.ru/hls2/solovievlive/playlist_6.m3u8
+
 #EXTINF:-1 group-title="👁Информационные",Москва 24
 http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/9218/index.m3u8
 #EXTINF:-1 group-title="👁Информационные",Вместе РФ
@@ -995,6 +994,8 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 http://95.47.155.244:8001/play/a019
 #EXTINF:0 group-title="💰Резервные каналы",МузТВ HD
 https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=On_-8-ES9PLCaKRlOkX_Mg&e=2066519852&scheme=https
+#EXTINF:-1 tvg-id="Izvestia.ru@" tvg-logo="https://i.imgur.com/r5HzA6J.png" group-title="💰Резервные каналы",Известия
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:-1 tvg-id="OSN.ru@" tvg-logo="https://www.osnmedia.ru/wp-content/uploads/2024/11/osn-logo-header.png" group-title="💰Резервные каналы",ОСН
 http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 #EXTINF:-1 tvg-id="RBKTV.ru@" tvg-logo="https://i.imgur.com/CwhmJby.png" group-title="💰Резервные каналы",РБК ТВ
