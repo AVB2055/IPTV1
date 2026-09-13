@@ -66,8 +66,6 @@ http://e8-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SolovyovLive.ru@" tvg-logo="https://images.iptv.rt.ru/images/d7efm08mifeaf9jacb30.png" group-title="👁Информационные",Соловьев Live
 https://stream.smotrim.ru/hls2/solovievlive/playlist_6.m3u8
-#EXTINF:0 group-title="👁Информационные",Царьград HD
-https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=ISWC8uuBJlLIBfHVSaOalw&e=2066519828&scheme=https
 #EXTINF:-1 group-title="👁Информационные",Москва 24
 http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/9218/index.m3u8
 #EXTINF:-1 group-title="👁Информационные",Вместе РФ
