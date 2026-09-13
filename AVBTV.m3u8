@@ -964,125 +964,125 @@ http://hls127.freeott.top:8080/Spas/video.m3u8
 http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 #EXTINF:-1 tvg-id="RBKTV.ru@" tvg-logo="https://i.imgur.com/CwhmJby.png" group-title="💰Резерв ТВ каналов",РБК ТВ
 http://hls127.freeott.top:8080/RBK/video.m3u8
-#EXTINF:-1 group-title=💰Резерв ТВ каналов,Соловьев Live
+#EXTINF:-1 group-title="💰Резерв ТВ каналов",Соловьев Live
 https://stream.smotrim.ru/hls/solovievlive/playlist_6.m3u8
-#EXTINF:-1 tvg-id="EuronewsRussian.fr@" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title=💰Резерв ТВ каналов,Euronews Russian [СМИ иноагент]
+#EXTINF:-1 tvg-id="EuronewsRussian.fr@" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="💰Резерв ТВ каналов",Euronews Russian [СМИ иноагент]
 https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
-#EXTINF:-1 group-title=💰Резерв ТВ каналов,360.RU Новости
+#EXTINF:-1 group-title="💰Резерв ТВ каналов",360.RU Новости
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title=💰Резерв ТВ каналов,360.RU
+#EXTINF:-1 group-title="💰Резерв ТВ каналов",360.RU
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
-#EXTINF:-1 group-title=💰Резерв ТВ каналов,360.RU
+#EXTINF:-1 group-title="💰Резерв ТВ каналов",360.RU
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v3a1/mono.m3u8
-#EXTINF:-1 group-title=💰Резерв ТВ каналов,360.RU
+#EXTINF:-1 group-title="💰Резерв ТВ каналов",360.RU
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title=💰Резерв ТВ каналов,360.RU HD
+#EXTINF:-1 group-title="💰Резерв ТВ каналов",360.RU HD
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
-#EXTINF:-1 tvg-id="360News.ru@" tvg-logo="https://i.imgur.com/YXDeX8q.png" group-title=💰Резерв ТВ каналов,360.RU Новости
+#EXTINF:-1 tvg-id="360News.ru@" tvg-logo="https://i.imgur.com/YXDeX8q.png" group-title="💰Резерв ТВ каналов",360.RU Новости
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
-#EXTINF:-1 group-title=💰Резерв ТВ каналов,TV BRICS
+#EXTINF:-1 group-title="💰Резерв ТВ каналов",TV BRICS
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title=💰Резерв ТВ каналов,ПРОДВИЖЕНИЕ
+#EXTINF:-1 group-title="💰Резерв ТВ каналов",ПРОДВИЖЕНИЕ
 http://prodvizhenie.bonus-tv.ru/cdn/prodvizhenie/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMy8yMDI1IDEyOjQ5OjM0IEFNJmhhc2hfdmFsdWU9SC9uVEJEcTFLeDhaRG83MFVwSVBDQT09JnZhbGlkbWludXRlcz00ODA=
-#EXTINF:-1 group-title=💰Резерв ТВ каналов,Продвижение HD
+#EXTINF:-1 group-title="💰Резерв ТВ каналов",Продвижение HD
 https://bl.rutube.ru/livestream/ff5c11c9a51750f5d33427762abc315c/index.m3u8?s=IBzoayhf0EhnnlzfDnDidg&e=2066519813&scheme=https
-#EXTINF:-1 group-title=💰Резерв ТВ каналов,Продвижение
+#EXTINF:-1 group-title="💰Резерв ТВ каналов",Продвижение
 http://dmi3y-tv6.ru/hls/CH_PRODVIZHENIE.m3u8
-#EXTINF:-1 tvg-id="Prodvizhenie.ru@" tvg-logo="https://i.imgur.com/KlsnfG9.png" group-title=💰Резерв ТВ каналов,Продвижение
+#EXTINF:-1 tvg-id="Prodvizhenie.ru@" tvg-logo="https://i.imgur.com/KlsnfG9.png" group-title="💰Резерв ТВ каналов",Продвижение
 https://streaming.astrakhan.ru/proastrakhanhd/index.m3u8
-#EXTINF:-1 group-title=💰Резерв ТВ каналов,Звезда Плюс
+#EXTINF:-1 group-title="💰Резерв ТВ каналов",Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v2a1/mono.ts.m3u8
-#EXTINF:-1 group-title=💰Резерв ТВ каналов,Звезда Плюс HD
+#EXTINF:-1 group-title="💰Резерв ТВ каналов",Звезда Плюс HD
 http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist.m3u8
-#EXTINF:-1 tvg-id="ZvezdaPlus.ru@HD" tvg-logo="https://i.imgur.com/NNmjD9Z.png" group-title=💰Резерв ТВ каналов,Звезда плюс HD
+#EXTINF:-1 tvg-id="ZvezdaPlus.ru@HD" tvg-logo="https://i.imgur.com/NNmjD9Z.png" group-title="💰Резерв ТВ каналов",Звезда плюс HD
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
-#EXTINF:-1 tvg-id="Nano.ru@" tvg-logo="https://i.imgur.com/dYj3XDa.png" group-title=💰Резерв ТВ каналов,Nano
+#EXTINF:-1 tvg-id="Nano.ru@" tvg-logo="https://i.imgur.com/dYj3XDa.png" group-title="💰Резерв ТВ каналов",Nano
 http://stream.mcquack.net/419/index.m3u8
-#EXTINF:-1 group-title=💰Резерв ТВ каналов,NANO
+#EXTINF:-1 group-title="💰Резерв ТВ каналов",NANO
 https://bl.rutube.ru/livestream/cf958b6c9ae4504be5fc2c1de358a017/index.m3u8?s=JvmA6ABMzxZ5pFsbhOeT7A&e=2069068450&scheme=https
-#EXTINF:-1 group-title=💰Резерв ТВ каналов,RT Док
+#EXTINF:-1 group-title="💰Резерв ТВ каналов",RT Док
 http://rt-doc.rttv.com/dvr/rtdru/rtdru720.m3u8
-#EXTINF:-1 group-title=💰Резерв ТВ каналов,RTД
+#EXTINF:-1 group-title="💰Резерв ТВ каналов",RTД
 https://streaming.televizor-24-tochka.ru/live/554.m3u8
-#EXTINF:-1 group-title=💰Резерв ТВ каналов,Неизвестная россия
+#EXTINF:-1 group-title="💰Резерв ТВ каналов",Неизвестная россия
 http://cdn2.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="UnknownRussia.ru@" tvg-logo="https://i.imgur.com/W7ste2f.png" group-title=💰Резерв ТВ каналов,Неизвестная Россия
+#EXTINF:-1 tvg-id="UnknownRussia.ru@" tvg-logo="https://i.imgur.com/W7ste2f.png" group-title="💰Резерв ТВ каналов",Неизвестная Россия
 https://cdn.ntv.ru/unknown_russia/playlist.m3u8
-#EXTINF:-1 group-title=💰Резерв ТВ каналов,Большая Азия
+#EXTINF:-1 group-title="💰Резерв ТВ каналов",Большая Азия
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title=💰Резерв ТВ каналов,Большая Азия
+#EXTINF:-1 group-title="💰Резерв ТВ каналов",Большая Азия
 https://bl.rutube.ru/livestream/495ab964b755baa2c9fc7481a2e40f7d/index.m3u8?s=H445j62z1yjihZAL6z3YlA&e=2069285052&scheme=https
-#EXTINF:-1 group-title=💰Резерв ТВ каналов,Тайна
+#EXTINF:-1 group-title="💰Резерв ТВ каналов",Тайна
 https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=V1-tEw5Cpojw6jhxNF9IMw&e=2066519764&scheme=https
-#EXTINF:-1 group-title=💰Резерв ТВ каналов,Тайна
+#EXTINF:-1 group-title="💰Резерв ТВ каналов",Тайна
 https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=GmFSizHee8DpOJI6J0bwMA&e=2067815807&scheme=https
-#EXTINF:-1 group-title=💰Резерв ТВ каналов,Загородная Жизнь
+#EXTINF:-1 group-title="💰Резерв ТВ каналов",Загородная Жизнь
 http://185.57.68.33/40/mpegts
-#EXTINF:-1 group-title=💰Резерв ТВ каналов,UNIVER TV
+#EXTINF:-1 group-title="💰Резерв ТВ каналов",UNIVER TV
 http://partners.universmotri.ru/live/univer.sdp_480p/playlist.m3u?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDI1IDI6NDk6MzYgUE0maGFzaF92YWx1ZT12Q1hScElvWmtORUJNNU91R1k1alNnPT0mdmFsaWRtaW51dGVzPTQ4MA==
-#EXTINF:-1 group-title=💰Резерв ТВ каналов,UNIVER TV
+#EXTINF:-1 group-title="💰Резерв ТВ каналов",UNIVER TV
 http://cdn.universmotri.ru/live/smil:mbr.smil/chunklist_b1328000_slru.m3u8
-#EXTINF:-1 group-title=💰Резерв ТВ каналов,UNIVER TV
+#EXTINF:-1 group-title="💰Резерв ТВ каналов",UNIVER TV
 http://cdn.universmotri.ru/live/hq.sdp/chunklist.m3u8
-#EXTINF:-1 group-title=💰Резерв ТВ каналов,UNIVER TV
+#EXTINF:-1 group-title="💰Резерв ТВ каналов",UNIVER TV
 https://cdn.universmotri.ru/live/smil:univer.smil/chunklist_w720990141_b3628000_slru.m3u8
-#EXTINF:-1 group-title=💰Резерв ТВ каналов,Просвещение
+#EXTINF:-1 group-title="💰Резерв ТВ каналов",Просвещение
 http://dmi3y-tv6.ru/hls/CH_PROSVESHENIE.m3u8
-#EXTINF:-1 group-title=💰Резерв ТВ каналов,ЮУрГУ-ТВ
+#EXTINF:-1 group-title="💰Резерв ТВ каналов",ЮУрГУ-ТВ
 http://tvrlive.susu.ru/1800k/playlist.m3u8
-#EXTINF:-1 ,2x2
+#EXTINF:-1 group-title="💰Резерв ТВ каналов" ,2x2
 https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=hwyoufQp4n4DEevoTh79AQ&e=2068506934&scheme=https
-#EXTINF:-1 tvg-id="Subbota.ru@HD" tvg-logo="https://i.imgur.com/nsk8PpB.png" ,Суббота! HD
+#EXTINF:-1 tvg-id="Subbota.ru@HD" tvg-logo="https://i.imgur.com/nsk8PpB.png"  group-title="💰Резерв ТВ каналов" ,Суббота! HD
 http://stream.mcquack.net/269/index.m3u8
-#EXTINF:-1 tvg-id="Subbota.ru@" tvg-logo="https://i.imgur.com/nsk8PpB.png" ,Суббота!
+#EXTINF:-1 tvg-id="Subbota.ru@" tvg-logo="https://i.imgur.com/nsk8PpB.png"  group-title="💰Резерв ТВ каналов" ,Суббота!
 https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?e=2066519758&s=dmUf6BUQzDBTwtQOseAfog&scheme=https
-#EXTINF:-1 ,Ю
+#EXTINF:-1 group-title="💰Резерв ТВ каналов" ,Ю
 http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title=💰Резерв ТВ каналов audio-track="rus", Старт
 http://31.210.208.171:8080/start/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title=💰Резерв ТВ каналов,Старт
+#EXTINF:-1 group-title="💰Резерв ТВ каналов",Старт
 https://bl.webcaster.pro/media/playlist/api_free_fd14ed34164a52d1090e4cb9db93683f/4_79276517/480p/d33bbf3e6ac7c41524eae5d1c3d9258d/4873167902.m3u8?live=15&ref=https://tvstart.ru/channels/tv-start/
-#EXTINF:-1 group-title=💰Резерв ТВ каналов,Старт
+#EXTINF:-1 group-title="💰Резерв ТВ каналов",Старт
 https://bl.webcaster.pro/media/playlist/api_free_fd14ed34164a52d1090e4cb9db93683f/4_79276517/1080p/d33bbf3e6ac7c41524eae5d1c3d9258d/4873167902.m3u8?live=15&ref=https://tvstart.ru/channels/tv-start/
-#EXTINF:-1 group-title=💰Резерв ТВ каналов,Старт Триумф
+#EXTINF:-1 group-title="💰Резерв ТВ каналов",Старт Триумф
 https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd/33_85479982/480p/4eaec8986e2012fb936478856fbf3b4b/4818731006.m3u8?live=15&ref=https://tvstart.ru/ru/pages/start-triumph/
-#EXTINF:-1 group-title=💰Резерв ТВ каналов,ATV Cinema
+#EXTINF:-1 group-title="💰Резерв ТВ каналов",ATV Cinema
 http://185.57.68.33:80/255/playlist.m3u8
-#EXTINF:-1 group-title=💰Резерв ТВ каналов,ATV Cinema
+#EXTINF:-1 group-title="💰Резерв ТВ каналов",ATV Cinema
 http://185.57.68.33:8091/255/index.m3u8
-#EXTINF:-1 group-title=💰Резерв ТВ каналов,ATV Cinema
+#EXTINF:-1 group-title="💰Резерв ТВ каналов",ATV Cinema
 http://185.57.68.33:80/255/index.m3u8
-#EXTINF:-1 group-title=💰Резерв ТВ каналов,ATV Kinoman
+#EXTINF:-1 group-title="💰Резерв ТВ каналов",ATV Kinoman
 http://185.57.68.33/237/mpegts
-#EXTINF:-1 group-title=💰Резерв ТВ каналов,Cinema
+#EXTINF:-1 group-title="💰Резерв ТВ каналов",Cinema
 http://176.118.197.101/Cinema/index.m3u8
-#EXTINF:-1 group-title=💰Резерв ТВ каналов,Дом Кино
+#EXTINF:-1 group-title="💰Резерв ТВ каналов",Дом Кино
 http://176.118.197.101/Dom_kino/index.m3u8
 #EXTINF:-1  tvg-id="evrokino",Еврокино
 http://176.118.197.101/Evrokino/index.m3u8
-#EXTINF:-1 group-title=💰Резерв ТВ каналов,Еврокино
+#EXTINF:-1 group-title="💰Резерв ТВ каналов",Еврокино
 http://176.118.197.101/Evrokino/mono.m3u8
 #EXTINF:0,Киножелезо
 https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=mPZ2z97b3j24PKD8bwFUzA&e=2069068451&scheme=https
-#EXTINF:-1 group-title=💰Резерв ТВ каналов,Кинолаффка
+#EXTINF:-1 group-title="💰Резерв ТВ каналов",Кинолаффка
 https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=3-8K19N5xjsPY74KF2TfUg&e=2065265032&scheme=https
-#EXTINF:-1 tvg-id="Kinopokaz.ru@" tvg-logo="https://i.imgur.com/nNjMyAq.png" group-title=💰Резерв ТВ каналов,Кинопоказ
+#EXTINF:-1 tvg-id="Kinopokaz.ru@" tvg-logo="https://i.imgur.com/nNjMyAq.png" group-title="💰Резерв ТВ каналов",Кинопоказ
 http://stream.mcquack.net/64/index.m3u8
-#EXTINF:-1 tvg-id="Balabol.ru@" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/balabol_vse.jpg" group-title=💰Резерв ТВ каналов,НТВ Балабол
+#EXTINF:-1 tvg-id="Balabol.ru@" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/balabol_vse.jpg" group-title="💰Резерв ТВ каналов",НТВ Балабол
 https://cdn-dvr.ntv.ru/Balabol/index.m3u8
-#EXTINF:-1 tvg-id="Nevskiy.ru@" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/nevski_llive.jpg" group-title=💰Резерв ТВ каналов,НТВ Невский
+#EXTINF:-1 tvg-id="Nevskiy.ru@" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/nevski_llive.jpg" group-title="💰Резерв ТВ каналов",НТВ Невский
 https://cdn-dvr.ntv.ru/Nevskiy/index.m3u8
-#EXTINF:-1 tvg-id="Perviyotdel.ru@" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/perv_otdel_llive.jpg" group-title=💰Резерв ТВ каналов,НТВ Первый отдел
+#EXTINF:-1 tvg-id="Perviyotdel.ru@" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/perv_otdel_llive.jpg" group-title="💰Резерв ТВ каналов",НТВ Первый отдел
 https://cdn-dvr.ntv.ru/Perviy_otdel/index.m3u8
-#EXTINF:-1 tvg-id="Skorayapomoshch.ru@" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/skoraya_pom_llive.jpg" group-title=💰Резерв ТВ каналов,НТВ Скорая помощь
+#EXTINF:-1 tvg-id="Skorayapomoshch.ru@" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/skoraya_pom_llive.jpg" group-title="💰Резерв ТВ каналов",НТВ Скорая помощь
 https://cdn-dvr.ntv.ru/Skoraja_pomosh/index.m3u8
-#EXTINF:-1 tvg-id="Shef.ru@" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/shef_llive.jpg" group-title=💰Резерв ТВ каналов,НТВ Шеф
+#EXTINF:-1 tvg-id="Shef.ru@" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/shef_llive.jpg" group-title="💰Резерв ТВ каналов",НТВ Шеф
 https://cdn-dvr.ntv.ru/Shef/index.m3u8
-#EXTINF:-1 tvg-id="NTVHit.ru@" tvg-logo="https://i.imgur.com/FfKBvz5.png" group-title=💰Резерв ТВ каналов,НТВ Хит
+#EXTINF:-1 tvg-id="NTVHit.ru@" tvg-logo="https://i.imgur.com/FfKBvz5.png" group-title="💰Резерв ТВ каналов",НТВ Хит
 https://cdn.ntv.ru/th_hit/playlist.m3u8
-#EXTINF:-1 tvg-id="5minuttishiny.ru@" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/5minut_live.jpg" group-title=💰Резерв ТВ каналов,НТВ Пять минут тишины
+#EXTINF:-1 tvg-id="5minuttishiny.ru@" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/5minut_live.jpg" group-title="💰Резерв ТВ каналов",НТВ Пять минут тишины
 https://cdn-dvr.ntv.ru/5_minut_tishiny/index.m3u8
-#EXTINF:-1 tvg-id="Pes.ru@" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/pes_llive.jpg" group-title=💰Резерв ТВ каналов,НТВ Пес
+#EXTINF:-1 tvg-id="Pes.ru@" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/pes_llive.jpg" group-title="💰Резерв ТВ каналов",НТВ Пес
 https://cdn-dvr.ntv.ru/Pes/index.m3u8
-#EXTINF:-1 tvg-id="NTVSeries.ru@" tvg-logo="https://i.imgur.com/QdVa8tl.png" group-title=💰Резерв ТВ каналов,НТВ Сериал
+#EXTINF:-1 tvg-id="NTVSeries.ru@" tvg-logo="https://i.imgur.com/QdVa8tl.png" group-title="💰Резерв ТВ каналов",НТВ Сериал
 http://stream.mcquack.net/301/index.m3u8
