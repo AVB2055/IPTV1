@@ -51,10 +51,6 @@ https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8
 #EXTINF:-1 tvg-id="Radio1.ru@" tvg-logo="https://radiopotok.ru/f/station/512/1812.png" group-title="📻Радио",Радио 1 [Geo-blocked]
 https://stream.radio1.ru/memfs/49dee7fe-77ba-4e6b-8cdc-fa840535b242.m3u8
 
-#EXTINF:-1 group-title="👁Информационные",Известия
-http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Mir24.ru@" tvg-logo="https://i.imgur.com/dj9c8Yd.png" group-title="👁Информационные",Мир 24
-http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="360.ru@" tvg-logo="https://i.imgur.com/VTJqdoX.png" group-title="👁Информационные",360.RU
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="360.ru@" tvg-logo="https://i.imgur.com/VTJqdoX.png" group-title="👁Информационные",360.RU Новости
@@ -73,6 +69,10 @@ http://185.23.80.23:8080/TVBRICS/index.m3u8
 http://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 #EXTINF:-1 group-title="👁Информационные",Дождь ТВ  24/7 [СМИ иногент]
 http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/20083/index.m3u8
+#EXTINF:-1 group-title="👁Информационные",Известия
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Mir24.ru@" tvg-logo="https://i.imgur.com/dj9c8Yd.png" group-title="👁Информационные",Мир 24
+http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="👁Информационные",Москва 24
 http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/9218/index.m3u8
 #EXTINF:-1 group-title="👁Информационные",Настоящее время [СМИ иноагент]
@@ -88,8 +88,6 @@ https://stream.smotrim.ru/hls2/solovievlive/playlist_6.m3u8
 #EXTINF:-1 group-title="👁Информационные",ТАСС
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="👁Информационные",CGTN Русский
-https://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802_hd.m3u8
 #EXTINF:-1 group-title="🔎‍Познавательные",Rutube TV
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=0PD1llGQtRJEi-nJtJveWA&e=2070364663&scheme=https
 #EXTINF:-1 group-title="🔎‍Познавательные",Продвижение
@@ -239,7 +237,6 @@ https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=uw
 http://5.188.221.43:8080/play/che
 #EXTINF:-1 tvg-id="U.ru@" tvg-logo="https://i.imgur.com/KDZvt0Q.png" group-title="🤣Развлекательные",Ю
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https
-
 
 #EXTINF:-1 tvg-id="FirstMusicChannelRussia.by@" tvg-logo="https://i.imgur.com/rEo7nR1.png" group-title="🎶Музыкальные",1mus.com
 http://hls127.freeott.top:8080/1muz_HD/video.m3u8
