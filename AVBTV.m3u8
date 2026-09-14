@@ -42,8 +42,6 @@ https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=W_
 https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=JTAW4J-xV9JKMAUbJmgmIQ&e=2068506966&scheme=https
 #EXTINF:-1 group-title="📻Радио",Радио Вести FM
 https://stream.smotrim.ru/hls2/vesti_fm/playlist_6.m3u8
-#EXTINF:-1 tvg-id="VestiFM.ru@HD" tvg-logo="https://i.imgur.com/ZBHqSZj.png" group-title="📻Радио",Вести FM
-https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8
 #EXTINF:-1 group-title="📻Радио",Радио Говорит Москва
 https://video.govoritmoskva.ru/rufm/index.m3u8
 #EXTINF:-1 group-title="📻Радио",Радио Спутник
@@ -64,13 +62,10 @@ http://e8-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SolovyovLive.ru@" tvg-logo="https://images.iptv.rt.ru/images/d7efm08mifeaf9jacb30.png" group-title="👁Информационные",Соловьев Live
 https://stream.smotrim.ru/hls2/solovievlive/playlist_6.m3u8
-
 #EXTINF:-1 group-title="👁Информационные",Москва 24
 http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/9218/index.m3u8
 #EXTINF:-1 group-title="👁Информационные",Вместе РФ
 http://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Moskva24.ru@" tvg-logo="https://i.imgur.com/gXbUMVy.png" group-title="👁Информационные",Москва 24
-https://stream.smotrim.ru/hls/givc8/playlist.m3u8?entity=channel&id=798&sign=37881ef2e289f062ceff0dca6c24dc58
 #EXTINF:-1 group-title="👁Информационные",EuroNews [СМИ иноагент]
 https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25018/euronews-ru-avc1_3300000=26-mp4a_143200_rus=2.m3u8
 #EXTINF:-1 group-title="👁Информационные",DW Russia [СМИ иноагент]
@@ -97,8 +92,6 @@ https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=0P
 https://bl.rutube.ru/livestream/ff5c11c9a51750f5d33427762abc315c/index.m3u8?s=WHZZBfXapQyglWukVMsSvw&e=2071742700&scheme=https
 #EXTINF:-1 group-title="🔎‍Познавательные",Тео-ТВ
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_TEOTV/variant.m3u8
-#EXTINF:-1 tvg-id="TeleDom.ru@" tvg-logo="https://i.imgur.com/071JRrb.png" group-title="🔎‍Познавательные",TeleDom
-https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 tvg-id="RedLine.ru@" tvg-logo="https://i.imgur.com/TgZ8Uv1.png" group-title="🔎‍Познавательные",Красная линия (480p)
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
 #EXTINF:-1 tvg-id="LDPRTV.ru@" tvg-logo="https://i.imgur.com/gCmCRfe.png" group-title="🔎‍Познавательные",ЛДПР ТВ
@@ -123,12 +116,10 @@ http://45.11.139.43:8555/8kanal/index.m3u8
 http://185.23.80.23:8080/NANO_HD/index.m3u8
 #EXTINF:-1 tvg-id="Avto24.ru@" tvg-logo="https://i.imgur.com/GXSXmN2.png" group-title="🔎‍Познавательные",Avto24
 http://stream.mcquack.net/78/index.m3u8
-#EXTINF:-1 group-title="🔎‍Познавательные",RTД
+#EXTINF:-1 group-title="🔎‍Познавательные",RT Док
 http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
 #EXTINF:-1 group-title="🔎‍Познавательные",RT Док
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
-#EXTINF:-1 tvg-id="RTDocumentary.ru@Russian" tvg-logo="https://i.imgur.com/aeu5zIC.png" group-title="🔎‍Познавательные",RT Documentary Russian
-https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
 #EXTINF:-1 tvg-id="UnknownRussia.ru@HD" tvg-logo="https://i.imgur.com/W7ste2f.png" group-title="🔎‍Познавательные",Неизвестная Россия HD
 http://185.23.80.23:8080/NeizvestnayaRossia/index.m3u8
 #EXTINF:-1 tvg-id="BigAsia.ru@" tvg-logo="https://i.imgur.com/vruuPKF.png" group-title="🔎‍Познавательные",Большая Азия
@@ -303,10 +294,6 @@ https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
 https://bl.video.matchtv.ru/media/playlist/free_d10054e3245839377104585927f08479/17_72477605/1080/e59fd6ff6bcd963c255273eb25e5c38f/2208978000.m3u8
 #EXTINF:-1 group-title="⛹🏿Спортивные",МАТЧ! ИГРА
 http://31.210.208.171:8080/match_igra/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="⛹🏿Спортивные" audio-track="rus", Матч! Футбол 2 HD
-http://stream.mcquack.net/142/index.m3u8
-#EXTINF:-1 group-title="⛹🏿Спортивные",МАТЧ! ФУТБОЛ 3
-http://185.57.68.33:80/110/index.m3u8
 #EXTINF:-1 group-title="⛹🏿Спортивные" audio-track="rus",KHL
 http://31.210.208.171:8080/khl/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="KHLPrime.ru@" tvg-logo="https://i.imgur.com/pwxT0ON.png" group-title="⛹🏿Спортивные",KHL Prime
@@ -614,8 +601,6 @@ http://kinowalk.hopto.org/kinoshnik_8_live
 http://kinowalk.hopto.org/kinostream_rezerv_live
 #EXTINF:-1 tvg-logo="https://kinowalk.hopto.org/web/image/339/128x128?unique=2026-07-25%2013:22:03.284209&access_token=4fce0ff3-0f3c-4456-86cd-bdafdff6f683" group-title="🎬Kinowalk TV  Not 24-7",Фильмоскоп🎦-🟢
 http://kinowalk.hopto.org/filmscope_live
-#EXTINF:-1 tvg-logo="https://kinowalk.hopto.org/web/image/322/128x128?unique=2026-06-26%2012:35:54.250393&access_token=4e3d4986-59b7-43e8-9c30-29aaff262bb0" group-title="🎬Kinowalk TV  Not 24-7",1st_witch🎦-🟢
-http://kinowalk.hopto.org/witch_live
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/get-shedevrum/12368819/img_c1fc747df90211ee8b43d2e8332488c0/orig" group-title="🎬Kinowalk TV  Not 24-7",LucyBedma🎦-🟢
 http://kinowalk.hopto.org/lucyvedminaaaa_live
 #EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/34036642/avatar?change_time=1780923320&croped=1&mh=140&mw=140" group-title="🎬Kinowalk TV  Not 24-7",Кладовая Фильмов🎦-🟢
@@ -636,6 +621,8 @@ http://kinowalk.hopto.org/frxnkl1n_live
 http://kinowalk.hopto.org/re_boot_live
 #EXTINF:-1 tvg-logo="https://kinowalk.hopto.org/web/image/326/128x128?unique=2026-06-26%2014:51:18.003467&access_token=85cfea0b-99c3-4be9-9e19-6e92b9254d71" group-title="🎬Kinowalk TV  Not 24-7",FilmsSerialsEveryDay🎦-🟡
 http://kinowalk.hopto.org/filmsserialseveryday_live
+#EXTINF:-1 tvg-logo="https://kinowalk.hopto.org/web/image/322/128x128?unique=2026-06-26%2012:35:54.250393&access_token=4e3d4986-59b7-43e8-9c30-29aaff262bb0" group-title="🎬Kinowalk TV  Not 24-7" ,1st_witch🎦-🟡
+http://kinowalk.hopto.org/witch_live
 #EXTINF:-1 tvg-logo="https://kinowalk.hopto.org/web/image/303/128x128?unique=2026-05-22%2010:23:31.311706&access_token=988ea5ef-296b-4c20-a38a-cb90605c7a89" group-title="🎬Kinowalk TV  Not 24-7",Kinomult HD🎦-🟡
 http://kinowalk.hopto.org/kinomult_hd_live
 #EXTINF:-1 tvg-logo="https://kinowalk.hopto.org/web/image/332/128x128?unique=2026-07-23%2016:55:00.654325&access_token=14a0dc2d-fcee-4c83-a4b6-852f9291297b" group-title="🎬Kinowalk TV  Not 24-7",SCORPIO КИНО🎦📺-🟡
@@ -996,6 +983,8 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 http://95.47.155.244:8001/play/a019
 #EXTINF:0 group-title="💰Резервные каналы",МузТВ HD
 https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=On_-8-ES9PLCaKRlOkX_Mg&e=2066519852&scheme=https
+#EXTINF:-1 tvg-id="VestiFM.ru@HD" tvg-logo="https://i.imgur.com/ZBHqSZj.png" group-title="💰Резервные каналы",Радио Вести FM
+https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8
 #EXTINF:-1 tvg-id="Izvestia.ru@" tvg-logo="https://i.imgur.com/r5HzA6J.png" group-title="💰Резервные каналы",Известия
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:-1 tvg-id="OSN.ru@" tvg-logo="https://www.osnmedia.ru/wp-content/uploads/2024/11/osn-logo-header.png" group-title="💰Резервные каналы",ОСН
@@ -1006,6 +995,8 @@ http://hls127.freeott.top:8080/RBK/video.m3u8
 https://stream.smotrim.ru/hls/solovievlive/playlist_6.m3u8
 #EXTINF:-1 tvg-id="EuronewsRussian.fr@" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="💰Резервные каналы",Euronews Russian [СМИ иноагент]
 https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
+#EXTINF:-1 tvg-id="Moskva24.ru@" tvg-logo="https://i.imgur.com/gXbUMVy.png" group-title="💰Резервные каналы",Москва 24
+https://stream.smotrim.ru/hls/givc8/playlist.m3u8?entity=channel&id=798&sign=37881ef2e289f062ceff0dca6c24dc58
 #EXTINF:-1 group-title="💰Резервные каналы",360.RU Новости
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="💰Резервные каналы",360.RU
@@ -1046,6 +1037,8 @@ https://bl.rutube.ru/livestream/cf958b6c9ae4504be5fc2c1de358a017/index.m3u8?s=u9
 http://rt-doc.rttv.com/dvr/rtdru/rtdru720.m3u8
 #EXTINF:-1 group-title="💰Резервные каналы",RTД
 https://streaming.televizor-24-tochka.ru/live/554.m3u8
+#EXTINF:-1 tvg-id="RTDocumentary.ru@Russian" tvg-logo="https://i.imgur.com/aeu5zIC.png" group-title="💰Резервные каналы",RT Documentary Russian
+https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
 #EXTINF:-1 group-title="💰Резервные каналы",Неизвестная россия
 http://cdn2.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="UnknownRussia.ru@" tvg-logo="https://i.imgur.com/W7ste2f.png" group-title="💰Резервные каналы",Неизвестная Россия
