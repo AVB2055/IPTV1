@@ -130,6 +130,8 @@ http://stream.mcquack.net/70/index.m3u8
 http://hls127.freeott.top:8080/Istoriya/video.m3u8
 #EXTINF:-1 tvg-id="Nostalgia.ru@" tvg-logo="https://i.imgur.com/YBdBc0J.png" group-title="🔎‍Познавательные",Ностальгия
 http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
+#EXTINF:-1 tvg-id="ART.ru@" tvg-logo="https://optim.tildacdn.com/tild3134-3836-4338-a138-666666653363/-/format/webp/__.png.webp" group-title="🔎‍Познавательные",АРТ
+http://89.104.114.24:8080/art/index.m3u8
 #EXTINF:-1 tvg-id="Vmirezhivotnykh.ru@" tvg-logo="https://i.imgur.com/6uotdVQ.png" group-title="🔎‍Познавательные",В мире животных
 http://stream.mcquack.net/241/index.m3u8
 #EXTINF:-1 tvg-id="vijuPlusPlanet.ru@HD" tvg-logo="https://i.imgur.com/9Weqdsk.png" group-title="🔎‍Познавательные",viju+ Planet HD
@@ -360,24 +362,10 @@ http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
 http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО
 http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Arpinet
-http://timeshift.arpinet.am/237/index.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",ATV Cinema
 http://timeshift.arpinet.am/255/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Cinema
-http://176.118.197.101/Cinema/mono.m3u8
-#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",HCT
-http://176.118.197.101/HCT/mono.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",MKNEWS24.RU
 https://stream.mknews24.ru/hls/stream.m3u8?DVR
-#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",MYTV
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/19407/index.m3u8
-#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",MYTV 2
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/19408/index.m3u8
-#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",MYTV 3
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/19411/index.m3u8
-#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",MYTV HIT
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/7UAMY296LQ3XR7/19410/index.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",NikNik-TV
 https://hostrec.ru/live/wic2AtEFCLwsZcUkAgtZcjlYgjc.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",TVRUS
@@ -476,8 +464,6 @@ http://stream.mcquack.net/263/index.m3u8
 http://stream.mcquack.net/180/index.m3u8
 #EXTINF:-1 tvg-id="AmediaHit.ru@" tvg-logo="https://i.imgur.com/a8ZBGBw.png" group-title="🎦📺Фильмы 🔹 Сериалы",Amedia Hit
 http://stream.mcquack.net/162/index.m3u8
-#EXTINF:-1 tvg-id="ART.ru@" tvg-logo="https://optim.tildacdn.com/tild3134-3836-4338-a138-666666653363/-/format/webp/__.png.webp" group-title="🎦📺Фильмы 🔹 Сериалы",ART
-http://89.104.114.24:8080/art/index.m3u8
 #EXTINF:-1 tvg-id="Nashe.ru@HD" tvg-logo="https://i.imgur.com/KO8dhi9.png" group-title="🎦📺Фильмы 🔹 Сериалы",Наше HD
 http://stream.mcquack.net/217/index.m3u8
 #EXTINF:-1 tvg-id="NasheLubimoeKino.ru@" tvg-logo="https://i.imgur.com/iKPfM5K.png" group-title="🎦📺Фильмы 🔹 Сериалы",Наше любимое кино
@@ -1091,22 +1077,6 @@ https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd
 https://bl.rutube.ru/livestream/2dba20a8405e57935827cb5721c2b759/index.m3u8?s=u44md9mbe5_YqzT_OGl2Sg&e=2066519846&scheme=https
 #EXTINF:0 group-title="💰Резервные каналы",Смайлик ТВ SD
 https://bl.rutube.ru/livestream/2f052691c75d72b3ed7f3c33ea956a41/index.m3u8?s=YAP6H4HdmLiQ3ji9VIdFbg&e=2066519845&scheme=https
-#EXTINF:-1 group-title="💰Резервные каналы",ATV Cinema
-http://185.57.68.33:80/255/playlist.m3u8
-#EXTINF:-1 group-title="💰Резервные каналы",ATV Cinema
-http://185.57.68.33:8091/255/index.m3u8
-#EXTINF:-1 group-title="💰Резервные каналы",ATV Cinema
-http://185.57.68.33:80/255/index.m3u8
-#EXTINF:-1 group-title="💰Резервные каналы",ATV Kinoman
-http://185.57.68.33/237/mpegts
-#EXTINF:-1 group-title="💰Резервные каналы",Cinema
-http://176.118.197.101/Cinema/index.m3u8
-#EXTINF:-1 group-title="💰Резервные каналы",Дом Кино
-http://176.118.197.101/Dom_kino/index.m3u8
-#EXTINF:-1  tvg-id="evrokino" group-title="💰Резервные каналы",Еврокино
-http://176.118.197.101/Evrokino/index.m3u8
-#EXTINF:-1 group-title="💰Резервные каналы",Еврокино
-http://176.118.197.101/Evrokino/mono.m3u8
 #EXTINF:0  group-title="💰Резервные каналы",Киножелезо
 https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=mPZ2z97b3j24PKD8bwFUzA&e=2069068451&scheme=https
 #EXTINF:0  group-title="💰Резервные каналы",Киножелезо HD
