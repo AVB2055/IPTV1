@@ -92,94 +92,93 @@ http://e8-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8
 https://stream.smotrim.ru/hls2/solovievlive/playlist_6.m3u8
 #EXTINF:-1 group-title="👁Информационные",ТАСС
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
+#EXTM3U
+
+#EXTINF:-1 group-title="🔎‍Познавательные",1MED TV
+https://rq3qltxnbx1.a.trbcdn.net/livemaster/8hwxnq4s0v_efir0_tcode1080p/playlist.m3u8
+#EXTINF:-1 group-title="🔎‍Познавательные",555 The Hunting and Fishing
+http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel8.ru@" tvg-logo="https://i.imgur.com/nUSx1jF.png" group-title="🔎‍Познавательные",8 канал
+http://45.11.139.43:8555/8kanal/index.m3u8
+#EXTINF:-1 tvg-id="Nano.ru@HD" tvg-logo="https://i.imgur.com/dYj3XDa.png" group-title="🔎‍Познавательные",Nano HD
+http://185.23.80.23:8080/NANO_HD/index.m3u8
+#EXTINF:-1 group-title="🔎‍Познавательные",RT Док
+http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
 #EXTINF:-1 group-title="🔎‍Познавательные",Rutube TV
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=0PD1llGQtRJEi-nJtJveWA&e=2070364663&scheme=https
-#EXTINF:-1 group-title="🔎‍Познавательные",Продвижение
-https://bl.rutube.ru/livestream/ff5c11c9a51750f5d33427762abc315c/index.m3u8?s=WHZZBfXapQyglWukVMsSvw&e=2071742700&scheme=https
-#EXTINF:-1 group-title="🔎‍Познавательные",Тео-ТВ
-https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_TEOTV/variant.m3u8
-#EXTINF:-1 tvg-id="RedLine.ru@" tvg-logo="https://i.imgur.com/TgZ8Uv1.png" group-title="🔎‍Познавательные",Красная линия 
+#EXTINF:-1 tvg-id="TopSecret.ru@" tvg-logo="https://i.imgur.com/HM4xy4G.png" group-title="🔎‍Познавательные",Top Secret
+http://hls127.freeott.top:8080/Sovershenno_Sekretno/video.m3u8
+#EXTINF:-1 group-title="🔎‍Познавательные",Travel+Adventure HD
+http://77.232.131.211/TravelAdventureHD/index.m3u8
+#EXTINF:-1 tvg-id="TVPRO.ru@" tvg-logo="https://i.imgur.com/sbuSefI.png" group-title="🔎‍Познавательные",TV PRO
+http://rtmp.tvpro-online.ru/hls/ch1.m3u8
+#EXTINF:-1 tvg-id="UniverTV.ru@" tvg-logo="https://i.imgur.com/r3u0mxr.png" group-title="🔎‍Познавательные",Univer TV
+https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
+#EXTINF:-1 group-title="🔎‍Познавательные",World Fashion
+http://cdn.wfc.tv/cdn/stream-rus-720p.m3u8
+#EXTINF:-1 tvg-id="ART.ru@" tvg-logo="https://optim.tildacdn.com/tild3134-3836-4338-a138-666666653363/-/format/webp/__.png.webp" group-title="🔎‍Познавательные",АРТ
+http://89.104.114.24:8080/art/index.m3u8
+#EXTINF:-1 tvg-id="BigAsia.ru@" tvg-logo="https://i.imgur.com/vruuPKF.png" group-title="🔎‍Познавательные",Большая Азия
+http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
+#EXTINF:-1 group-title="🔎‍Познавательные",Доктор
+http://45.11.139.43:8555/doctor/index.m3u8
+#EXTINF:-1 group-title="🔎‍Познавательные",Живи Активно
+https://flussonic.mkpnet.ru/tv-fa810958620d77d8/video.m3u8?token=test
+#EXTINF:-1 group-title="🔎‍Познавательные",Загородный
+https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=e3gd8zlogu4ybvafQost4g&e=2070450932&scheme=https
+#EXTINF:-1 group-title="🔎‍Познавательные",Звезда Плюс
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="🔎‍Познавательные",Здоровое ТВ
+https://s04.watcher.uz/114/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 tvg-id="Istoriya.ru@" tvg-logo="https://i.imgur.com/eEjPail.png" group-title="🔎‍Познавательные",История
+http://hls127.freeott.top:8080/Istoriya/video.m3u8
+#EXTINF:-1 group-title="🔎‍Познавательные" ,Крик-ТВ HD
+https://bl.rutube.ru/livestream/f372aa2aff09518d050ecdf70956012c/index.m3u8?s=zqF8COx7qN-jbhFv7NK-7A&e=2066519811&scheme=https
+#EXTINF:-1 tvg-id="Kluch.ru@" tvg-logo="https://i.imgur.com/WA9TOPi.png" group-title="🔎‍Познавательные",Ключ
+http://hls127.freeott.top:8080/Kluch/video.m3u8
+#EXTINF:-1 tvg-id="RedLine.ru@" tvg-logo="https://i.imgur.com/TgZ8Uv1.png" group-title="🔎‍Познавательные",Красная линия
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
 #EXTINF:-1 tvg-id="LDPRTV.ru@" tvg-logo="https://i.imgur.com/gCmCRfe.png" group-title="🔎‍Познавательные",ЛДПР ТВ
 http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="MoskvaDoveriye.ru@" tvg-logo="https://i.imgur.com/QDqDQzt.png" group-title="🔎‍Познавательные",Москва Доверие
 https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
-#EXTINF:-1 tvg-id="Kluch.ru@" tvg-logo="https://i.imgur.com/WA9TOPi.png" group-title="🔎‍Познавательные",Ключ
-http://hls127.freeott.top:8080/Kluch/video.m3u8
-#EXTINF:0 group-title="🔎‍Познавательные",КРИК-ТВ HD
-https://bl.rutube.ru/livestream/f372aa2aff09518d050ecdf70956012c/index.m3u8?s=zqF8COx7qN-jbhFv7NK-7A&e=2066519811&scheme=https
-#EXTINF:-1 tvg-id="T24.ru@" tvg-logo="https://i.imgur.com/1W6R14o.png" group-title="🔎‍Познавательные",T24
-http://178.134.1.158:8081/t24/index.m3u8
-#EXTINF:-1 group-title="🔎‍Познавательные",Эхо ТВ
-http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="🔎‍Познавательные",Плюс минус 16
-http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="🔎‍Познавательные",Звезда Плюс
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="🔎‍Познавательные",РЖД
-http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Channel8.ru@" tvg-logo="https://i.imgur.com/nUSx1jF.png" group-title="🔎‍Познавательные",8 канал
-http://45.11.139.43:8555/8kanal/index.m3u8
-#EXTINF:-1 tvg-id="TVPRO.ru@" tvg-logo="https://i.imgur.com/sbuSefI.png" group-title="🔎‍Познавательные",TV PRO
-http://rtmp.tvpro-online.ru/hls/ch1.m3u8
-#EXTINF:-1 tvg-id="Nano.ru@HD" tvg-logo="https://i.imgur.com/dYj3XDa.png" group-title="🔎‍Познавательные",Nano HD
-http://185.23.80.23:8080/NANO_HD/index.m3u8
-#EXTINF:-1 group-title="🔎‍Познавательные",Наука 2.0 HD
-https://vod.tuva.ru/nauka2/index.m3u8
-#EXTINF:-1 group-title="🔎‍Познавательные",RT Док
-http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
-#EXTINF:-1 tvg-id="UnknownRussia.ru@HD" tvg-logo="https://i.imgur.com/W7ste2f.png" group-title="🔎‍Познавательные",Неизвестная Россия HD
-http://185.23.80.23:8080/NeizvestnayaRossia/index.m3u8
-#EXTINF:-1 tvg-id="BigAsia.ru@" tvg-logo="https://i.imgur.com/vruuPKF.png" group-title="🔎‍Познавательные",Большая Азия
-http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Istoriya.ru@" tvg-logo="https://i.imgur.com/eEjPail.png" group-title="🔎‍Познавательные",История
-http://hls127.freeott.top:8080/Istoriya/video.m3u8
-#EXTINF:-1 tvg-id="Nostalgia.ru@" tvg-logo="https://i.imgur.com/YBdBc0J.png" group-title="🔎‍Познавательные",Ностальгия
-http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
-#EXTINF:-1 tvg-id="ART.ru@" tvg-logo="https://optim.tildacdn.com/tild3134-3836-4338-a138-666666653363/-/format/webp/__.png.webp" group-title="🔎‍Познавательные",АРТ
-http://89.104.114.24:8080/art/index.m3u8
-#EXTINF:-1 group-title="🔎‍Познавательные",Travel+Adventure HD
-http://77.232.131.211/TravelAdventureHD/index.m3u8
-#EXTINF:-1 group-title="🔎‍Познавательные",Наша Тема
-https://flussonic.mkpnet.ru/tv-c922a9201f5073f8/video.m3u8?token=test
-#EXTINF:-1 group-title="🔎‍Познавательные",НТВ Следствие вели...
-https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 tvg-id="NTVLaw.ru@" tvg-logo="https://i.imgur.com/3ChnWGg.png" group-title="🔎‍Познавательные",НТВ Право
 http://hls127.freeott.top:8080/NTV_PRAVO_TV/video.m3u8
-#EXTINF:-1 tvg-id="TopSecret.ru@" tvg-logo="https://i.imgur.com/HM4xy4G.png" group-title="🔎‍Познавательные",Top Secret
-http://hls127.freeott.top:8080/Sovershenno_Sekretno/video.m3u8
-#EXTINF:-1 group-title="🔎‍Познавательные",Тайна
-https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=k9bDH53DPY73h1vlbcNhzQ&e=2071743709&scheme=https
-#EXTINF:-1 group-title="🔎‍Познавательные",Доктор
-http://45.11.139.43:8555/doctor/index.m3u8
-#EXTINF:-1 group-title="🔎‍Познавательные",Живи Активно
-https://flussonic.mkpnet.ru/tv-fa810958620d77d8/video.m3u8?token=test
-#EXTINF:-1 group-title="🔎‍Познавательные",Здоровое ТВ
-https://s04.watcher.uz/114/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
-#EXTINF:-1 group-title="🔎‍Познавательные",Открытый Мир
-http://v4.proofix.ru/0mir/index.m3u8
-#EXTINF:-1 group-title="🔎‍Познавательные",Охотник и рыболов
-https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=URw1qTUBYJppc4IY-gE4ew&e=2070450931&scheme=https
-#EXTINF:-1 group-title="🔎‍Познавательные",Загородный
-https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=e3gd8zlogu4ybvafQost4g&e=2070450932&scheme=https
-#EXTINF:-1 group-title="🔎‍Познавательные",555 The Hunting and Fishing
-http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
-#EXTINF:-1 group-title="🔎‍Познавательные",Охота и рыбалка
-https://s05.watcher.uz/30/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
-#EXTINF:-1 group-title="🔎‍Познавательные",Загородный
-https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=e3gd8zlogu4ybvafQost4g&e=2070450932&scheme=https
-#EXTINF:-1 tvg-id="UniverTV.ru@" tvg-logo="https://i.imgur.com/r3u0mxr.png" group-title="🔎‍Познавательные",Univer TV
-https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Prosveshchenie.ru@" tvg-logo="https://i.imgur.com/uppFhhq.png" group-title="🔎‍Познавательные",Просвещение
-http://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
-#EXTINF:-1 group-title="🔎‍Познавательные",ЮУрГУ-ТВ
-https://tvrlive.susu.ru/1800k/playlist.m3u8
-#EXTINF:-1 group-title="🔎‍Познавательные",1MED TV
-https://rq3qltxnbx1.a.trbcdn.net/livemaster/8hwxnq4s0v_efir0_tcode1080p/playlist.m3u8
+#EXTINF:-1 group-title="🔎‍Познавательные",НТВ Следствие вели...
+https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 tvg-id="NTVStyle.ru@" tvg-logo="https://i.imgur.com/rX6K6qT.png" group-title="🔎‍Познавательные",НТВ Стиль
 https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="🔎‍Познавательные",World Fashion
-http://cdn.wfc.tv/cdn/stream-rus-720p.m3u8
+#EXTINF:-1 group-title="🔎‍Познавательные",Наука 2.0 HD
+https://vod.tuva.ru/nauka2/index.m3u8
+#EXTINF:-1 group-title="🔎‍Познавательные",Наша Тема
+https://flussonic.mkpnet.ru/tv-c922a9201f5073f8/video.m3u8?token=test
+#EXTINF:-1 tvg-id="UnknownRussia.ru@HD" tvg-logo="https://i.imgur.com/W7ste2f.png" group-title="🔎‍Познавательные",Неизвестная Россия HD
+http://185.23.80.23:8080/NeizvestnayaRossia/index.m3u8
+#EXTINF:-1 tvg-id="Nostalgia.ru@" tvg-logo="https://i.imgur.com/YBdBc0J.png" group-title="🔎‍Познавательные",Ностальгия
+http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
+#EXTINF:-1 group-title="🔎‍Познавательные",Открытый Мир
+http://v4.proofix.ru/0mir/index.m3u8
+#EXTINF:-1 group-title="🔎‍Познавательные",Охота и рыбалка
+https://s05.watcher.uz/30/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="🔎‍Познавательные",Охотник и рыболов
+https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=URw1qTUBYJppc4IY-gE4ew&e=2070450931&scheme=https
+#EXTINF:-1 group-title="🔎‍Познавательные",Плюс минус 16
+http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="🔎‍Познавательные",Продвижение
+https://bl.rutube.ru/livestream/ff5c11c9a51750f5d33427762abc315c/index.m3u8?s=WHZZBfXapQyglWukVMsSvw&e=2071742700&scheme=https
+#EXTINF:-1 tvg-id="Prosveshchenie.ru@" tvg-logo="https://i.imgur.com/uppFhhq.png" group-title="🔎‍Познавательные",Просвещение
+http://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
+#EXTINF:-1 group-title="🔎‍Познавательные",РЖД
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="🔎‍Познавательные",Тайна
+https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=k9bDH53DPY73h1vlbcNhzQ&e=2071743709&scheme=https
+#EXTINF:-1 group-title="🔎‍Познавательные",Тео-ТВ
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_TEOTV/variant.m3u8
+#EXTINF:-1 group-title="🔎‍Познавательные",Эхо ТВ
+http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="🔎‍Познавательные",ЮУрГУ-ТВ
+https://tvrlive.susu.ru/1800k/playlist.m3u8
+
 #EXTINF:-1 tvg-id="2x2.ru@" tvg-logo="https://i.imgur.com/fhQFLEl.png" group-title="🤣Развлекательные",2x2
 https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?e=2068731801&s=tenr-yHXUv1wibfka78s2A&scheme=https
 #EXTINF:-1 tvg-id="Gagsnetwork.us@" tvg-logo="https://i.imgur.com/ENj5GIp.png" group-title="🤣Развлекательные",Gagsnetwork
