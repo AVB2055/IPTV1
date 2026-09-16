@@ -399,8 +399,6 @@ http://176.118.197.101/RodnoeKino/index.m3u8
 http://176.118.197.101/Komediya/mono.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Русский Иллюзион
 http://185.46.16.239:8000/Russkiy_Illyuzion
-#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Русский роман
-http://85.208.223.249:8888/play/a007
 #EXTINF:-1 tvg-id="Saphire.ru@" tvg-logo="https://i.imgur.com/NMOBvle.png" group-title="🎦📺Фильмы 🔹 Сериалы",Сапфир
 http://77.232.131.211/Sapfir/manifest.m3u8
 #EXTINF:-1  group-title="🎬Kinowalk TV  Not 24-7",Blockbusters Time 🎦-🟢
