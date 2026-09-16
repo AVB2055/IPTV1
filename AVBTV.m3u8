@@ -221,8 +221,6 @@ https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?e=20
 http://hls127.freeott.top:8080/Zhara/video.m3u8
 #EXTINF:-1 group-title="🎶Музыкальные",ММТВ
 https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=swZ9QnHMT4hcnaukDHRdtw&e=2069285077&scheme=https
-#EXTINF:-1 tvg-id="RadioShanson.ru@" tvg-logo="https://i.imgur.com/lbqM3K2.png" group-title="🎶Музыкальные",Радио Шансон [Not 24/7]
-http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 #EXTINF:-1  group-title="🎶Музыкальные",Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1  group-title="🎶Музыкальные",ТНТ Music
