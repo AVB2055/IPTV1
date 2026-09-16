@@ -321,8 +321,6 @@ http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF
 http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Kinoseria
 http://176.118.197.101/Kinoseria/mono.m3u8
-#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",MKNEWS24.RU
-https://stream.mknews24.ru/hls/stream.m3u8?DVR
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",NikNik-TV
 https://hostrec.ru/live/wic2AtEFCLwsZcUkAgtZcjlYgjc.m3u8
 #EXTINF:-1 tvg-id="ShotTV.ru@" tvg-logo="https://i.imgur.com/MLSG7tA.png" group-title="🎦📺Фильмы 🔹 Сериалы",Shot TV
