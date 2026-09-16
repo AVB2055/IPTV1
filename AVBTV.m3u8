@@ -197,8 +197,6 @@ http://5.188.221.43:8080/play/che
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https
 #EXTINF:-1 tvg-id="FirstMusicChannelRussia.by@" tvg-logo="https://i.imgur.com/rEo7nR1.png" group-title="🎶Музыкальные",1mus.com
 http://hls127.freeott.top:8080/1muz_HD/video.m3u8
-#EXTINF:-1 group-title="🎶Музыкальные",CHD-TV Rock
-http://194.26.229.213/chdtv_rock/index.m3u8
 #EXTINF:-1 group-title="🎶Музыкальные",CHD-TV RU Rock HD
 http://194.26.229.213/chdtv_ru_rock/index.m3u8
 #EXTINF:-1 group-title="🎶Музыкальные",CLASSICAL HARMONY HD
@@ -237,8 +235,6 @@ http://5.188.159.128:8070/eurosport2/index.m3u8
 https://flussonic.mkpnet.ru/tv-1a9441fd32d63873/video.m3u8
 #EXTINF:-1 group-title="⛹🏿Спортивные",MMA-TV
 https://s04.watcher.uz/19/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
-#EXTINF:0 group-title="⛹🏿Спортивные",Red Bull TV HD
-https://bl.rutube.ru/livestream/45b30eef1b89857182b03db2c25631d9/index.m3u8?s=k1UNcutEXItTgOgKpBfp3g&e=2066519932&scheme=https
 #EXTINF:-1 group-title="⛹🏿Спортивные" audio-track="rus", Russian Extreme
 http://85.208.223.249:8888/play/a004
 #EXTINF:-1 group-title="⛹🏿Спортивные",Бокс ТВ
@@ -283,13 +279,11 @@ https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 group-title="🧒Детские",СуперГерои
 http://109.94.1.3:8080/132/index.m3u8
-#EXTINF:-1 group-title="🧒Детские",Том и Джерри
-https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 group-title="🧒Детские",Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",ATV CineMan HD
 http://185.57.68.33:80/255/index.m3u8
-#EXTINF:-1 tvg-id="BollywoodHD.ro@Russia" tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="🎦📺Фильмы 🔹 Сериалы",Bollywood HD Russia
+#EXTINF:-1 tvg-id="BollywoodHD.ro@Russia" tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="🎦📺Фильмы 🔹 Сериалы" ,Bollywood HD
 https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
 #EXTINF:-1 tvg-id="Bolt.ru@" tvg-logo="https://i.imgur.com/YdIHXOR.png" group-title="🎦📺Фильмы 🔹 Сериалы",Bolt
 http://hls127.freeott.top:8080/Bolt/video.m3u8
@@ -303,8 +297,6 @@ http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
 http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",IPTVPLAY ВЕДЬМАК
 http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Kinoseria
-http://176.118.197.101/Kinoseria/mono.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",NikNik-TV
 https://hostrec.ru/live/wic2AtEFCLwsZcUkAgtZcjlYgjc.m3u8
 #EXTINF:-1 tvg-id="ShotTV.ru@" tvg-logo="https://i.imgur.com/MLSG7tA.png" group-title="🎦📺Фильмы 🔹 Сериалы",Shot TV
@@ -313,8 +305,6 @@ http://hls127.freeott.top:8080/SHOT_TV/video.m3u8
 https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",TVRUS
 http://217.154.10.99:2020/channel/4e9dab20/index.m3u8?q=ac8328a8c05870646c45caa253710a85
-#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",TVRUS+
-http://217.154.10.99:2020/channel/n7ae3dc73/index.m3u8?q=ac8328a8c05870646c45caa253710a85
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Детективы КД
 https://bl.rutube.ru/livestream/e05401be60a9cc719fa7075b6e77b86d/index.m3u8?s=wbVW8VM26OpdW5kxFYEmSQ&e=2069694293&scheme=https
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Дом КИНО
@@ -335,12 +325,8 @@ https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=09
 https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=2ANj0RhjI1hrAkz7Jd83ZQ&e=2069068452&scheme=https
 #EXTINF:-1 tvg-id="kinopokaz" group-title="🎦📺Фильмы 🔹 Сериалы",Кинокомедия
 http://176.118.197.101/Kinokomediya/index.m3u8
-#EXTINF:-1 tvg-id="kinopokaz" group-title="🎦📺Фильмы 🔹 Сериалы",Киносерия HD
-http://176.118.197.101/Kinoseria/index.m3u8
 #EXTINF:-1 tvg-id="Kinomix.ru@" tvg-logo="https://i.imgur.com/D4q2XUT.png" group-title="🎦📺Фильмы 🔹 Сериалы",Киномикс
 http://93.170.254.17/Kinomiks/index.m3u8
-#EXTINF:-1 tvg-id="kinopokaz" group-title="🎦📺Фильмы 🔹 Сериалы",Кинопоказ
-http://176.118.197.101/Kinopokaz/index.m3u8
 #EXTINF:-1 tvg-id="kinopokaz" group-title="🎦📺Фильмы 🔹 Сериалы",Киносвидание
 http://5.188.159.128:8070/kinosvidanie/index.m3u8
 #EXTINF:-1 tvg-id="kinopokaz" group-title="🎦📺Фильмы 🔹 Сериалы",Классика кино
@@ -365,14 +351,10 @@ https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
 https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",НТВ Хит
 https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Назад в СССР
-http://kinowalk.hopto.org/backtotheussr_live
 #EXTINF:-1 tvg-id="NasheNovoeKino.ru@" tvg-logo="https://i.imgur.com/IOxIsPj.png" group-title="🎦📺Фильмы 🔹 Сериалы",Наше новое кино
 http://hls127.freeott.top:8080/Nashe_Novoe_Kino_HD/video.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Победа
 https://streaming.televizor-24-tochka.ru/live/43.m3u8
-#EXTINF:-1 tvg-id="ProLyubov.ru@" tvg-logo="https://i.imgur.com/QpIGAT0.png" group-title="🎦📺Фильмы 🔹 Сериалы",Про любовь
-http://hls127.freeott.top:8080/ProLubovHD/video.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Ретро
 http://176.118.197.101/Retro/mono.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Родное Кино
