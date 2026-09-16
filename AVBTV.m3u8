@@ -91,9 +91,8 @@ http://e8-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8
 #EXTINF:-1 tvg-id="SolovyovLive.ru@" tvg-logo="https://images.iptv.rt.ru/images/d7efm08mifeaf9jacb30.png" group-title="👁Информационные",Соловьев Live
 https://stream.smotrim.ru/hls2/solovievlive/playlist_6.m3u8
 #EXTINF:-1 group-title="👁Информационные",ТАСС
-https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 #EXTM3U
-
+https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 #EXTINF:-1 group-title="🔎‍Познавательные",1MED TV
 https://rq3qltxnbx1.a.trbcdn.net/livemaster/8hwxnq4s0v_efir0_tcode1080p/playlist.m3u8
 #EXTINF:-1 group-title="🔎‍Познавательные",555 The Hunting and Fishing
@@ -103,11 +102,9 @@ http://45.11.139.43:8555/8kanal/index.m3u8
 #EXTINF:-1 tvg-id="Nano.ru@HD" tvg-logo="https://i.imgur.com/dYj3XDa.png" group-title="🔎‍Познавательные",Nano HD
 http://185.23.80.23:8080/NANO_HD/index.m3u8
 #EXTINF:-1 group-title="🔎‍Познавательные",RT Док
-http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
+https://streaming.televizor-24-tochka.ru/live/554.m3u8
 #EXTINF:-1 group-title="🔎‍Познавательные",Rutube TV
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=0PD1llGQtRJEi-nJtJveWA&e=2070364663&scheme=https
-#EXTINF:-1 tvg-id="TopSecret.ru@" tvg-logo="https://i.imgur.com/HM4xy4G.png" group-title="🔎‍Познавательные",Top Secret
-http://hls127.freeott.top:8080/Sovershenno_Sekretno/video.m3u8
 #EXTINF:-1 group-title="🔎‍Познавательные",Travel+Adventure HD
 http://77.232.131.211/TravelAdventureHD/index.m3u8
 #EXTINF:-1 tvg-id="TVPRO.ru@" tvg-logo="https://i.imgur.com/sbuSefI.png" group-title="🔎‍Познавательные",TV PRO
@@ -130,20 +127,14 @@ https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=e3
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="🔎‍Познавательные",Здоровое ТВ
 https://s04.watcher.uz/114/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
-#EXTINF:-1 tvg-id="Istoriya.ru@" tvg-logo="https://i.imgur.com/eEjPail.png" group-title="🔎‍Познавательные",История
-http://hls127.freeott.top:8080/Istoriya/video.m3u8
-#EXTINF:-1 group-title="🔎‍Познавательные" ,Крик-ТВ HD
-https://bl.rutube.ru/livestream/f372aa2aff09518d050ecdf70956012c/index.m3u8?s=zqF8COx7qN-jbhFv7NK-7A&e=2066519811&scheme=https
-#EXTINF:-1 tvg-id="Kluch.ru@" tvg-logo="https://i.imgur.com/WA9TOPi.png" group-title="🔎‍Познавательные",Ключ
-http://hls127.freeott.top:8080/Kluch/video.m3u8
 #EXTINF:-1 tvg-id="RedLine.ru@" tvg-logo="https://i.imgur.com/TgZ8Uv1.png" group-title="🔎‍Познавательные",Красная линия
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
+#EXTINF:-1 group-title="🔎‍Познавательные" ,Крик-ТВ HD
+https://bl.rutube.ru/livestream/f372aa2aff09518d050ecdf70956012c/index.m3u8?s=zqF8COx7qN-jbhFv7NK-7A&e=2066519811&scheme=https
 #EXTINF:-1 tvg-id="LDPRTV.ru@" tvg-logo="https://i.imgur.com/gCmCRfe.png" group-title="🔎‍Познавательные",ЛДПР ТВ
 http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="MoskvaDoveriye.ru@" tvg-logo="https://i.imgur.com/QDqDQzt.png" group-title="🔎‍Познавательные",Москва Доверие
 https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
-#EXTINF:-1 tvg-id="NTVLaw.ru@" tvg-logo="https://i.imgur.com/3ChnWGg.png" group-title="🔎‍Познавательные",НТВ Право
-http://hls127.freeott.top:8080/NTV_PRAVO_TV/video.m3u8
 #EXTINF:-1 group-title="🔎‍Познавательные",НТВ Следствие вели...
 https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 tvg-id="NTVStyle.ru@" tvg-logo="https://i.imgur.com/rX6K6qT.png" group-title="🔎‍Познавательные",НТВ Стиль
@@ -154,8 +145,6 @@ https://vod.tuva.ru/nauka2/index.m3u8
 https://flussonic.mkpnet.ru/tv-c922a9201f5073f8/video.m3u8?token=test
 #EXTINF:-1 tvg-id="UnknownRussia.ru@HD" tvg-logo="https://i.imgur.com/W7ste2f.png" group-title="🔎‍Познавательные",Неизвестная Россия HD
 http://185.23.80.23:8080/NeizvestnayaRossia/index.m3u8
-#EXTINF:-1 tvg-id="Nostalgia.ru@" tvg-logo="https://i.imgur.com/YBdBc0J.png" group-title="🔎‍Познавательные",Ностальгия
-http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
 #EXTINF:-1 group-title="🔎‍Познавательные",Открытый Мир
 http://v4.proofix.ru/0mir/index.m3u8
 #EXTINF:-1 group-title="🔎‍Познавательные",Охота и рыбалка
@@ -178,7 +167,6 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_TEOTV/variant.m3u8
 http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="🔎‍Познавательные",ЮУрГУ-ТВ
 https://tvrlive.susu.ru/1800k/playlist.m3u8
-
 #EXTINF:-1 tvg-id="2x2.ru@" tvg-logo="https://i.imgur.com/fhQFLEl.png" group-title="🤣Развлекательные",2x2
 https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?e=2068731801&s=tenr-yHXUv1wibfka78s2A&scheme=https
 #EXTINF:-1 tvg-id="Gagsnetwork.us@" tvg-logo="https://i.imgur.com/ENj5GIp.png" group-title="🤣Развлекательные",Gagsnetwork
@@ -243,7 +231,6 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 https://tntm.mediacdn.ru/cdn/tntmusic/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ShansonTV.ru@" tvg-logo="https://i.imgur.com/Fk4sd8t.png" group-title="🎶Музыкальные",Шансон ТВ
 http://catchup.videoline.ru/shanson/index.m3u8
-
 #EXTINF:-1 group-title="⛹🏿Спортивные", Eurosport 2 HD
 http://5.188.159.128:8070/eurosport2/index.m3u8
 #EXTINF:-1 group-title="⛹🏿Спортивные" audio-track="rus", Extreme
@@ -276,7 +263,6 @@ http://slaide.amazzin.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/2154/index.m3u8
 https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8
 #EXTINF:-1 group-title="⛹🏿Спортивные",Старт Триумф
 https://bl.webcaster.pro/media/playlist/free_fe8dc1b768a84b8b0333db826471f17e_hd/33_85479982/1080p/8666c3e935faf6ef47ffd601e8e48868/4821408969.m3u8
-
 #EXTINF:-1 group-title="🧒Детские",IPTVPLAY МультСказки (МультStream)
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 group-title="🧒Детские",Jetix Online
@@ -301,7 +287,6 @@ http://109.94.1.3:8080/132/index.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 group-title="🧒Детские",Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
-
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",ATV CineMan HD
 http://185.57.68.33:80/255/index.m3u8
 #EXTINF:-1 tvg-id="BollywoodHD.ro@Russia" tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="🎦📺Фильмы 🔹 Сериалы",Bollywood HD Russia
