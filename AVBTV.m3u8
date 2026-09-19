@@ -169,8 +169,6 @@ http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 https://tvrlive.susu.ru/1800k/playlist.m3u8
 #EXTINF:-1 tvg-id="2x2.ru@" tvg-logo="https://i.imgur.com/fhQFLEl.png" group-title="🤣Развлекательные",2x2
 https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?e=2068731801&s=tenr-yHXUv1wibfka78s2A&scheme=https
-#EXTINF:-1 tvg-id="Gagsnetwork.us@" tvg-logo="https://i.imgur.com/ENj5GIp.png" group-title="🤣Развлекательные",Gagsnetwork
-http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8
 #EXTINF:-1 group-title="🤣Развлекательные",О!2
 http://77.232.131.211/O2TV/index.m3u8
 #EXTINF:-1 group-title="🤣Развлекательные",НТВ конкурс Ты супер !
@@ -187,16 +185,12 @@ https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=fG
 http://tvoetv.space:8080/tvoetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🤣Развлекательные",Твоё ТВ Юмор
 http://tvoetv.space:8080/tvoetv_humor/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Teatr.ru@" tvg-logo="https://i.imgur.com/nc2ijCH.png" group-title="🤣Развлекательные",Театр
-http://hls127.freeott.top:8080/Teatr/video.m3u8
 #EXTINF:-1 group-title="🤣Развлекательные",ТНТ4
 https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=uwhizdZPB-2J2x80Ov49_A&e=2067815802&scheme=https
 #EXTINF:-1 group-title="🤣Развлекательные",Че!
 http://5.188.221.43:8080/play/che
 #EXTINF:-1 tvg-id="U.ru@" tvg-logo="https://i.imgur.com/KDZvt0Q.png" group-title="🤣Развлекательные",Ю
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https
-#EXTINF:-1 tvg-id="FirstMusicChannelRussia.by@" tvg-logo="https://i.imgur.com/rEo7nR1.png" group-title="🎶Музыкальные",1mus.com
-http://hls127.freeott.top:8080/1muz_HD/video.m3u8
 #EXTINF:-1 group-title="🎶Музыкальные",CHD-TV RU Rock HD
 http://194.26.229.213/chdtv_ru_rock/index.m3u8
 #EXTINF:-1 group-title="🎶Музыкальные",CLASSICAL HARMONY HD
@@ -217,8 +211,6 @@ https://bl.rutube.ru/livestream/047ba54d846ee185b4209a797a2ae138/index.m3u8?s=_z
 http://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1728000.m3u8
 #EXTINF:-1 tvg-id="RUTV.ru@" tvg-logo="https://i.imgur.com/Z7HUU7V.png" group-title="🎶Музыкальные",RU.TV
 https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?e=2069285076&s=d-E-bxKy2v3EEJ94RQX9CA&scheme=https
-#EXTINF:-1 tvg-id="Zhara.ru@" tvg-logo="https://i.imgur.com/41K9Y2s.png" group-title="🎶Музыкальные",Zhara
-http://hls127.freeott.top:8080/Zhara/video.m3u8
 #EXTINF:-1 group-title="🎶Музыкальные",ММТВ
 https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=swZ9QnHMT4hcnaukDHRdtw&e=2069285077&scheme=https
 #EXTINF:-1 tvg-id="RadioShanson.ru@" tvg-logo="https://i.imgur.com/lbqM3K2.png" group-title="🎶Музыкальные",Радио Шансон [Not 24/7]
@@ -267,8 +259,6 @@ https://live.jtx-online.ru/memfs/e30ea533-4abf-4a88-91bc-73744ecfd06f.m3u8
 https://bl.rutube.ru/livestream/0e9e44725d5d5ab7ee92c10b40215419/index.m3u8?s=x2-KvlIlDO7JTvW9rPHDVA&e=2066519767&scheme=https
 #EXTINF:-1 tvg-id="RUTVKids.ru@" tvg-logo="https://rutvkids.ru/assets/logo_rutv_kids-Bn4u0Blf.png" group-title="🧒Детские",RU.TV Kids
 https://rutvkids.ru/live/efir/index.m3u8
-#EXTINF:-1 tvg-id="Multimuzyka.ru@" tvg-logo="https://i.imgur.com/SYt6BZP.png" group-title="🧒Детские",Мульт Музыка
-http://hls127.freeott.top:8080/Mult_Muzika/video.m3u8
 #EXTINF:-1 group-title="🧒Детские",Смайл ТВ
 https://bl.rutube.ru/livestream/2f052691c75d72b3ed7f3c33ea956a41/index.m3u8?s=MOCY2JvPXriCsyJWQK1Lag&e=2069285075&scheme=https
 #EXTINF:-1 group-title="🧒Детские",Солнце
@@ -283,8 +273,6 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 http://185.57.68.33:80/255/index.m3u8
 #EXTINF:-1 tvg-id="BollywoodHD.ro@Russia" tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="🎦📺Фильмы 🔹 Сериалы" ,Bollywood HD
 https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
-#EXTINF:-1 tvg-id="Bolt.ru@" tvg-logo="https://i.imgur.com/YdIHXOR.png" group-title="🎦📺Фильмы 🔹 Сериалы",Bolt
-http://hls127.freeott.top:8080/Bolt/video.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Cinema
 http://176.118.197.101/Cinema/index.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Cineman HD AM
@@ -297,8 +285,6 @@ http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF
 http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",NikNik-TV
 https://hostrec.ru/live/wic2AtEFCLwsZcUkAgtZcjlYgjc.m3u8
-#EXTINF:-1 tvg-id="ShotTV.ru@" tvg-logo="https://i.imgur.com/MLSG7tA.png" group-title="🎦📺Фильмы 🔹 Сериалы",Shot TV
-http://hls127.freeott.top:8080/SHOT_TV/video.m3u8
 #EXTINF:-1 tvg-id="StarFamily.ru@" tvg-logo="https://i.imgur.com/eGuGHnZ.png" group-title="🎦📺Фильмы 🔹 Сериалы",Star Family
 https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Детективы КД
@@ -347,8 +333,6 @@ https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
 https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",НТВ Хит
 https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="NasheNovoeKino.ru@" tvg-logo="https://i.imgur.com/IOxIsPj.png" group-title="🎦📺Фильмы 🔹 Сериалы",Наше новое кино
-http://hls127.freeott.top:8080/Nashe_Novoe_Kino_HD/video.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Ретро
 http://176.118.197.101/Retro/mono.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Родное Кино
@@ -473,8 +457,6 @@ https://kinowalk.hopto.org/disneyxd_live
 https://kinowalk.hopto.org/milah_live
 #EXTINF:-1 group-title="🎬Kinowalk TV  Not 24-7" ,Disney Channel 🧒-🟢
 https://kinowalk.hopto.org/kanaldisneyonline_live
-#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/20292590/avatar?change_time=1746735412&croped=1&mh=140&mw=140" group-title="🎬Kinowalk TV  Not 24-7" ,ROMEO Video 🎦🧒🤣♣︎-🟢
-https://kinowalk.hopto.org/romantic_live
 #EXTINF:-1 group-title="🎬Kinowalk TV  Not 24-7" ,Dimpon TV 🎦📝-🟢
 https://kinowalk.hopto.org/dimpon_live
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/scripach.png" group-title="🎬Kinowalk TV  Not 24-7" ,ScripachTV 🎦-🟢
@@ -584,6 +566,8 @@ http://kinowalk.hopto.org/x-x-vanes-x-x_live
 http://kinowalk.hopto.org/kinowalk_prime_live
 #EXTINF:-1 tvg-logo="https://static.goodgame.ru/files/avatars/av_1301254_55T4.jpg" group-title="🎬Kinowalk TV  Not 24-7" ,Katastroff◻️-🟡
 https://kinowalk.hopto.org/katastroff_live
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/20292590/avatar?change_time=1746735412&croped=1&mh=140&mw=140" group-title="🎬Kinowalk TV  Not 24-7" ,ROMEO Video 🎦🧒🤣♣︎-🔴
+https://kinowalk.hopto.org/romantic_live
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" group-title="🎬Kinowalk TV  Not 24-7" ,ФИЛЬМЫ&СЕРИАЛЫ ◻️-🔴
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://kinowalk.hopto.org/films_serials_24⁄7_live/_live
@@ -739,4 +723,3 @@ https://kinowalk.hopto.org/revizor_live
 https://kinowalk.hopto.org/ser51_live
 #EXTINF:-1  group-title="🎬Kinowalk TV  Not 24-7",Prizrak-OZ ◻️-🔴
 https://kinowalk.hopto.org/prizrak-oz_live
-
