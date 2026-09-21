@@ -176,7 +176,7 @@ https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="🤣Развлекательные",НТВ Своя Игра
 https://cdn-dvr.ntv.ru/svoya_igra/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="🤣Развлекательные",Перец Int
-https://fs.uplink.kz/perec/mono.m3u8?token=onlinetv
+http://cdntv.online/high/kf28bzwndi/1097.m3u8
 #EXTINF:-1 group-title="🤣Развлекательные",Сарафан
 http://31.210.208.171:8080/sarafan/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="🤣Развлекательные",Суббота
@@ -188,9 +188,10 @@ http://tvoetv.space:8080/tvoetv_humor/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🤣Развлекательные",ТНТ4
 https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=uwhizdZPB-2J2x80Ov49_A&e=2067815802&scheme=https
 #EXTINF:-1 group-title="🤣Развлекательные",Че!
-http://5.188.221.43:8080/play/che
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 #EXTINF:-1 tvg-id="U.ru@" tvg-logo="https://i.imgur.com/KDZvt0Q.png" group-title="🤣Развлекательные",Ю
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https
+
 #EXTINF:-1 group-title="🎶Музыкальные",CHD-TV RU Rock HD
 http://194.26.229.213/chdtv_ru_rock/index.m3u8
 #EXTINF:-1 group-title="🎶Музыкальные",CLASSICAL HARMONY HD
