@@ -461,6 +461,8 @@ https://kinowalk.hopto.org/kanaldisneyonline_live
 https://kinowalk.hopto.org/dimpon_live
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/scripach.png" group-title="🎬Kinowalk TV  Not 24-7" ,ScripachTV 🎦-🟢
 https://kinowalk.hopto.org/scripachtv_live
+#EXTINF:-1 group-title="🎬Kinowalk TV  Not 24-7" ,Паранормальный архив HD 🧒🔎-🟢
+https://kinowalk.hopto.org/paranormal404_live
 #EXTINF:-1 group-title="🎬Kinowalk TV  Not 24-7" ,КиноНонСтоп HD 🎦-🟡
 https://kinowalk.hopto.org/nonestopmovie_live
 #EXTINF:-1 group-title="🎬Kinowalk TV  Not 24-7" ,Video Serial 📺-🟡
@@ -579,8 +581,6 @@ https://kinowalk.hopto.org/zubrilomfilm_live
 http://kinowalk.hopto.org/kinomult_hd_live
 #EXTINF:-1 group-title="🎬Kinowalk TV  Not 24-7" ,33 квадратных метра 🤣-🔴
 https://kinowalk.hopto.org/33metra_live
-#EXTINF:-1 group-title="🎬Kinowalk TV  Not 24-7" ,Паранормальный архив HD 🧒🔎-🔴
-https://kinowalk.hopto.org/paranormal404_live
 #EXTINF:-1 group-title="🎬Kinowalk TV  Not 24-7" ,PartizaNka tv 🎦🧒🎶♣︎-️🔴
 https://kinowalk.hopto.org/partizanka_tv_live
 #EXTINF:-1 group-title="🎬Kinowalk TV  Not 24-7" ,KLI MEDIA НОВИНКИ 🎦-🔴
