@@ -310,7 +310,7 @@ http://176.118.197.101/Retro/mono.m3u8
 http://185.46.16.239:8000/Russkiy_Illyuzion
 #EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/static-content/logo/126?unique=2026-02-20+01%3A57%3A49.533570&access_token=2a7cd4ef-01dc-448f-9d01-128118de1baa" group-title="🎬Kinowalk TV  Not 24-7" ,Blockbusters Time 🎦-🟢
 https://kinowalk.hopto.org/blockbusterstime_live
-#EXTINF:-1 tvg-logo="https://goodgame.ru/files/avatars/av_1676704_9wc1.jpg" group-title="🎬Kinowalk TV  Not 24-7" ,MovieToper 🎦-️🟢
+#EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/static-content/logo/123?unique=2026-07-25+14%3A22%3A30.153830&access_token=4c53055d-6634-4781-a1e5-8be0b7bc16c6" group-title="🎬Kinowalk TV  Not 24-7" ,MovieToper 🎦-️🟢
 https://kinowalk.hopto.org/movietoper_live
 #EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/static-content/logo/125?unique=2026-07-25+13%3A44%3A42.009275&access_token=34d5bab6-6672-4e67-8ba3-eac6b4a5b0b0" group-title="🎬Kinowalk TV  Not 24-7" ,TimeToMovie 🎦📺-️🟢
 https://kinowalk.hopto.org/timetomovie_live
@@ -326,6 +326,8 @@ https://kinowalk.hopto.org/toxa_stream_live
 https://kinowalk.hopto.org/topmomentlive_live
 #EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/static-content/logo/232?unique=2026-03-03+11%3A23%3A02.745062&access_token=d51627b4-7222-48a3-a991-1111fed44292" group-title="🎬Kinowalk TV  Not 24-7" ,Play 4 Fun 🧒-️🟢
 https://kinowalk.hopto.org/play4fun_live
+#EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/static-content/logo/234?unique=2026-03-03+11%3A23%3A02.745062&access_token=784ff379-6d4c-4f30-a16b-2b8cccf7de95" group-title="🎬Kinowalk TV  Not 24-7",Kycman  🧒-️🟢
+http://kinowalk.hopto.org/kycman_live
 #EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/static-content/logo/191?unique=2026-02-20+01%3A57%3A49.533570&access_token=02f463cf-9657-42e0-b756-f22e240371be" group-title="🎬Kinowalk TV  Not 24-7" ,Осторожно Модерн 🤣-️🟢
 https://kinowalk.hopto.org/ostorozhnomodern2_live
 #EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/static-content/logo/160?unique=2026-02-20+01%3A57%3A49.533570&access_token=07a454fd-a3fc-4f16-8042-67fc431210e8" group-title="🎬Kinowalk TV  Not 24-7" ,JTX Online 🧒-🟢
