@@ -376,7 +376,7 @@ https://kinowalk.hopto.org/zsmedia_live
 https://kinowalk.hopto.org/cmexye4ku_live
 #EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/static-content/logo/295?unique=2026-05-08+10%3A22%3A58.142219&access_token=aba5562b-f0f3-49e0-bbc0-acec67c0e8e7" group-title="🎬Kinowalk TV  Not 24-7" ,Шурентий Live 🎦🎶-🔵
 https://kinowalk.hopto.org/shurentiy_live_live
-#EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/static-content/logo/144?unique=2026-02-20+01%3A57%3A49.533570&access_token=727fd810-96be-4f07-97df-b005856b3d17" ,serial4u 📺-🔵
+#EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/static-content/logo/144?unique=2026-02-20+01%3A57%3A49.533570&access_token=727fd810-96be-4f07-97df-b005856b3d17" group-title="🎬Kinowalk TV  Not 24-7",serial4u 📺-🔵
 https://kinowalk.hopto.org/serial4u_live
 #EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/static-content/logo/182?unique=2026-02-20+01%3A57%3A49.533570&access_token=dd29d873-f7ed-42eb-81cf-669887782fdb" group-title="🎬Kinowalk TV  Not 24-7" ,lampoTV 📺🎶-️🔵
 https://kinowalk.hopto.org/lampotv_live
