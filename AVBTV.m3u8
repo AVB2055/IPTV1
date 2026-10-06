@@ -282,6 +282,8 @@ http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=cN1dKvjJ3x7Celu28kgs2Q&e=2067815831&scheme=https
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Кинолаффка
 https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=2ANj0RhjI1hrAkz7Jd83ZQ&e=2069068452&scheme=https
+#EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Киножелезо
+https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=wFBHmN6tyTzN06DrlVrNMA&e=2091270837&scheme=https
 #EXTINF:-1 tvg-id="kinopokaz" group-title="🎦📺Фильмы 🔹 Сериалы",Классика кино
 https://dvrfl07.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="kinopokaz" group-title="🎦📺Фильмы 🔹 Сериалы",Комедия
