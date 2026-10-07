@@ -340,8 +340,6 @@ https://kinowalk.hopto.org/selecaotv1_live
 https://kinowalk.hopto.org/serialtv_live
 #EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/static-content/logo/167?unique=2026-02-20+01%3A57%3A49.533570&access_token=77eb8084-5ba1-47ee-a11c-416e34cc979e" group-title="🎬Kinowalk TV  Not 24-7" ,Первый ряд 🎦-🟢
 https://kinowalk.hopto.org/perviryad_live
-#EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/static-content/logo/181?unique=2026-02-20+01%3A57%3A49.533570&access_token=a81ca619-cbf8-4dd0-bcd4-f69512a038b7" group-title="🎬Kinowalk TV  Not 24-7" ,VHS Forever 🎦📺🧒-️🟢
-https://kinowalk.hopto.org/vhs-forever_live
 #EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/static-content/logo/154?unique=2026-02-20+01%3A57%3A49.533570&access_token=d9bdbd95-818b-47ce-afbb-f4b030cb55ed" group-title="🎬Kinowalk TV  Not 24-7" ,Тоха Киноман 🎦🧒-🟢
 https://kinowalk.hopto.org/kinomania_stream_live
 #EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/static-content/logo/187?unique=2026-02-20+01%3A57%3A49.533570&access_token=446ac72a-eb3b-4c09-b508-817873730086" group-title="🎬Kinowalk TV  Not 24-7" ,Wfliq 🧒-️🟢
@@ -372,6 +370,8 @@ https://kinowalk.hopto.org/baragozz_tv_live
 http://kinowalk.hopto.org/topmoment_live
 #EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/static-content/logo/270?unique=2026-04-19+06%3A48%3A44.166070&access_token=e0548209-0821-42f4-8c7e-c49cd294d8d2" group-title="🎬Kinowalk TV  Not 24-7" ,LifeZ 📺♣︎-🟢
 https://kinowalk.hopto.org/zhekos_live
+#EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/static-content/logo/181?unique=2026-02-20+01%3A57%3A49.533570&access_token=a81ca619-cbf8-4dd0-bcd4-f69512a038b7" group-title="🎬Kinowalk TV  Not 24-7" ,VHS Forever 🎦📺🧒-️🔵
+https://kinowalk.hopto.org/vhs-forever_live
 #EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/static-content/logo/239?unique=2026-03-03+11%3A23%3A02.745062&access_token=d5965f8e-534f-458b-9634-f0f3bec9d7d3" group-title="🎬Kinowalk TV  Not 24-7" ,dj Zour 🎦-🔵
 https://kinowalk.hopto.org/zsmedia_live
 #EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/static-content/logo/192?unique=2026-02-20+01%3A57%3A49.533570&access_token=ddceadcf-536e-4f7e-bada-af7e41a2c1e4" group-title="🎬Kinowalk TV  Not 24-7" ,КОМЕДИИ 24/7 🎦🧒-🔵
@@ -472,14 +472,14 @@ https://kinowalk.hopto.org/chowamigo_live
 http://kinowalk.hopto.org/zagar_live
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/get-shedevrum/12368819/img_c1fc747df90211ee8b43d2e8332488c0/orig" group-title="🎬Kinowalk TV  Not 24-7" ,LucyBedma 🎦-🟠
 http://kinowalk.hopto.org/lucyvedminaaaa_live
+#EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/static-content/logo/180?unique=2026-02-20+01%3A57%3A49.533570&access_token=7d8225a9-48a4-4c51-863a-e0084ccfd33b" group-title="🎬Kinowalk TV  Not 24-7" ,Aisman 📺🧒♣︎-🟡
+https://kinowalk.hopto.org/aisman_live
 #EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/static-content/logo/308?unique=2026-06-15+09%3A48%3A56.207257&access_token=9be562f6-87ff-4ed6-accb-a66125d5d590" group-title="🎬Kinowalk TV  Not 24-7" ,SmotrimVmeste 🎦-🟠
 http://kinowalk.hopto.org/frxnkl1n_live
 #EXTINF:-1 tvg-logo="https://goodgame.ru/files/avatars/av_1643154_P8Jo.jpg" group-title="🎬Kinowalk TV  Not 24-7" ,Dimpon TV 🎦📝-🟠
 https://kinowalk.hopto.org/dimpon_live
 #EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/static-content/logo/333?unique=2026-07-23+16%3A57%3A08.393206&access_token=6cdc8c7c-09e4-4aaa-a6bf-e0bf95e43703" group-title="🎬Kinowalk TV  Not 24-7" ,DVD online 🎦📺-🟠
 http://kinowalk.hopto.org/kinostream_rezerv_live
-#EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/static-content/logo/180?unique=2026-02-20+01%3A57%3A49.533570&access_token=7d8225a9-48a4-4c51-863a-e0084ccfd33b" group-title="🎬Kinowalk TV  Not 24-7" ,Aisman 📺🧒♣︎-🟠
-https://kinowalk.hopto.org/aisman_live
 #EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/static-content/logo/274?unique=2026-04-19+06%3A54%3A40.063208&access_token=e76a1864-808d-4b32-9fd1-5306c12157fd" group-title="🎬Kinowalk TV  Not 24-7" ,Tоny 🎦-🟠
 https://kinowalk.hopto.org/ordinary_people_live
 #EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/static-content/logo/280?unique=2026-04-19+07%3A04%3A56.540183&access_token=9c4ee976-eec6-45ff-8425-f3500ae72348" group-title="🎬Kinowalk TV  Not 24-7" ,Aleksej 54 rus 🎦📺-🟠
