@@ -298,7 +298,6 @@ http://176.118.197.101/Retro/mono.m3u8
 http://185.46.16.239:8000/Russkiy_Illyuzion
 
 
-
 #EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/static-content/logo/126?unique=2026-02-20+01%3A57%3A49.533570&access_token=2a7cd4ef-01dc-448f-9d01-128118de1baa" group-title="🎬Kinowalk TV  Not 24-7" ,Blockbusters Time 🎦-🌕
 https://kinowalk.hopto.org/blockbusterstime_live
 #EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/static-content/logo/123?unique=2026-07-25+14%3A22%3A30.153830&access_token=4c53055d-6634-4781-a1e5-8be0b7bc16c6" group-title="🎬Kinowalk TV  Not 24-7" ,MovieToper 🎦-️🌕
@@ -541,6 +540,14 @@ http://kinowalk.hopto.org/x-x-vanes-x-x_live
 https://kinowalk.hopto.org/kinoteka_full_hd_top_live
 #EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/static-content/logo/164?unique=2026-02-20+01%3A57%3A49.533570&access_token=af53f502-044d-4acc-847c-65fad0be1700" group-title="🎬Kinowalk TV  Not 24-7" ,Kinofon 🎦📺🧒🤣-🌑
 https://kinowalk.hopto.org/kinofon_live
+#EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/static-content/logo/362?unique=2026-08-18+06%3A06%3A40.073859&access_token=975d1554-c87e-42f0-94dd-20a5867139f1" group-title="🎬Kinowalk TV  Not 24-7",Мультфильмы VHS ◻️-🌑
+http://kinowalk.hopto.org/myvhs_live
+#EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/static-content/logo/194?unique=2026-02-20+01%3A57%3A49.533570&access_token=59c6f8cf-8155-4e54-a023-50a975f34648" group-title="🎬Kinowalk TV  Not 24-7" ,ROMEO Video 🧒-🌑
+http://kinowalk.hopto.org/romeovideo_live
+#EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/static-content/logo/155?unique=2026-02-20+01%3A57%3A49.533570&access_token=edb24e0c-196e-453f-b1c5-a17c12502107" group-title="🎬Kinowalk TV  Not 24-7" ,Коновал  ТВ ◻️-🌑
+http://kinowalk.hopto.org/tvkonoval_live
+#EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/static-content/logo/256?unique=2026-03-16+13%3A37%3A49.692720&access_token=b67ec2ab-e84a-4a3b-816d-aad3fd123e06" group-title="🎬Kinowalk TV  Not 24-7" ,ДиТи ◻️-🌑
+http://kinowalk.hopto.org/mychennal123456_live
 #EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/static-content/logo/350?unique=2026-07-28+15%3A30%3A52.044357&access_token=f8bb024a-3bb0-432e-a855-32f43147d5c6" group-title="🎬Kinowalk TV  Not 24-7" ,Песни о любви 🎶-🌑
 http://kinowalk.hopto.org/meteor_live
 #EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/static-content/logo/361?unique=2026-08-18+06%3A04%3A51.958967&access_token=ab1b8782-4bb4-4350-ab65-7c9db9360498" group-title="🎬Kinowalk TV  Not 24-7" ,КИНОШКИНО 🎦-🌑
@@ -587,3 +594,5 @@ https://kinowalk.hopto.org/san4ez09_live
 http://kinowalk.hopto.org/kinowalk_prime_live
 #EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/static-content/logo/327?unique=2026-07-03+12%3A41%3A05.338383&access_token=6cd4e54a-7e63-4321-a923-11e4198c1fe8" group-title="🎬Kinowalk TV  Not 24-7" ,Katastroff ◻️-🌑
 https://kinowalk.hopto.org/katastroff_live
+
+
