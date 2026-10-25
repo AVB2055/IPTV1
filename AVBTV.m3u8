@@ -72,7 +72,7 @@ http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/20083/index.m3u8
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Mir24.ru@" tvg-logo="https://i.imgur.com/dj9c8Yd.png" group-title="👁Информационные",Мир 24
 http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Moscow 24" group-title="👁Информационные",Москва 24
+#EXTINF:-1 tvg-id="Moscow 24" https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10185/logo_256.webp group-title="👁Информационные",Москва 24
 https://stream.smotrim.ru/hls/moscow_24/playlist_3.m3u8
 #EXTINF:-1 group-title="👁Информационные",Настоящее время [СМИ иноагент]
 https://dash3.antik.sk/live/test_current_time_atktv/playlist.m3u8
