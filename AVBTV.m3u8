@@ -72,7 +72,7 @@ http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/20083/index.m3u8
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Mir24.ru@" tvg-logo="https://i.imgur.com/dj9c8Yd.png" group-title="👁Информационные",Мир 24
 http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Mir24.ru@" tvg-logo="https://i.imgur.com/dj9c8Yd.png" group-title="👁Информационные",Москва 24
+#EXTINF:-1 tvg-id="Moscow 24" https://smotreshka.server-img.lfstrm.tv/images/channel_logos/logo_61f2abf7665ed7e452d639f3.png group-title="👁Информационные",Москва 24
 https://stream.smotrim.ru/hls/moscow_24/playlist_3.m3u8
 #EXTINF:-1 group-title="👁Информационные",Настоящее время [СМИ иноагент]
 https://dash3.antik.sk/live/test_current_time_atktv/playlist.m3u8
@@ -88,8 +88,6 @@ http://e8-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R01_SARATOV24/variant.m3u8
 #EXTINF:-1 group-title="👁Информационные",Соловьев LIVE
 https://stream.smotrim.ru/hls/solovievlive/playlist_5.m3u8
-#EXTINF:-1 group-title="👁Информационные",Соловьев LIVE
-http://185.229.235.30:8005/udp/225.15.3.149:2345 
 #EXTINF:-1 group-title="👁Информационные",ТАСС
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 #EXTINF:-1 group-title="🔎‍Познавательные",1MED TV
