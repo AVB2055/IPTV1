@@ -21,20 +21,14 @@ https://flussonic.mkpnet.ru/tv-132f51b35b47b897/video.m3u8
 http://5.188.221.43:8080/play/otr
 #EXTINF:-1 group-title="🇷🇺Федеральные",ТВЦ
 https://flussonic.mkpnet.ru/tv-b76bb5b80615eed6/video.m3u8
-#EXTINF:-1 group-title="🇷🇺Федеральные",Рен ТВ
-http://95.47.155.244:8001/play/a011
-#EXTINF:-1 group-title="🇷🇺Федеральные",Рен ТВ test
+#EXTINF:-1 group-title="🇷🇺Федеральные",Рен ТВ Internet42 LLC
 http://185.23.80.23:8080/REN/index.m3u8
-#EXTINF:-1 group-title="🇷🇺Федеральные",Рен ТВ Линкентел
-http://194.152.35.17/ren_tv/index.m3u8
 #EXTINF:-1 group-title="🇷🇺Федеральные",Рен ТВ LLC G&G-Telecom
 http://195.64.140.147:10011/9911
 #EXTINF:-1 group-title="🇷🇺Федеральные",Рен ТВ Сириус
 http://31.131.141.195:8000/play/2010/index.m3u8
 #EXTINF:-1 group-title="🇷🇺Федеральные",Рен ТВ Инет
 http://185.46.16.239:8000/REN_TV
-#EXTINF:-1 group-title="🇷🇺Федеральные",Рен ТВ Цитадель-Крым (VPN)
-http://tv.ttk.mx:9010
 #EXTINF:-1 group-title="🇷🇺Федеральные",Рен ТВ АСАРТА (🇷🇺VPN)
 https://flussonic.mkpnet.ru/tv-44dfec2799c5738e/video.m3u8
 #EXTINF:-1 group-title="🇷🇺Федеральные",СПАС
