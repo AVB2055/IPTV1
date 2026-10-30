@@ -23,12 +23,26 @@ http://5.188.221.43:8080/play/otr
 https://flussonic.mkpnet.ru/tv-b76bb5b80615eed6/video.m3u8
 #EXTINF:-1 group-title="🇷🇺Федеральные",Рен ТВ
 http://95.47.155.244:8001/play/a011
+#EXTINF:-1 group-title="🇷🇺Федеральные",Рен ТВ test
+http://185.23.80.23:8080/REN/index.m3u8
+#EXTINF:-1 group-title="🇷🇺Федеральные",Рен ТВ Линкентел
+http://194.152.35.17/ren_tv/index.m3u8
+#EXTINF:-1 group-title="🇷🇺Федеральные",Рен ТВ LLC G&G-Telecom
+http://195.64.140.147:10011/9911
+#EXTINF:-1 group-title="🇷🇺Федеральные",Рен ТВ Сириус
+http://31.131.141.195:8000/play/2010/index.m3u8
+#EXTINF:-1 group-title="🇷🇺Федеральные",Рен ТВ Инет
+http://185.46.16.239:8000/REN_TV
+#EXTINF:-1 group-title="🇷🇺Федеральные",Рен ТВ Цитадель-Крым (VPN)
+http://tv.ttk.mx:9010
+#EXTINF:-1 group-title="🇷🇺Федеральные",Рен ТВ АСАРТА (🇷🇺VPN)
+https://flussonic.mkpnet.ru/tv-44dfec2799c5738e/video.m3u8
 #EXTINF:-1 group-title="🇷🇺Федеральные",СПАС
 https://bl.rutube.ru/livestream/2bbfa9ebf9d79ade480d7281fcef1008/index.m3u8?s=Dh7uOoGZBCslhSfLLkxvAg&e=2068506963&scheme=https
 #EXTINF:-1 group-title="🇷🇺Федеральные",СТС
 https://flussonic.mkpnet.ru/tv-9cb92ea0862cd7b0/video.m3u8
 #EXTINF:-1 group-title="🇷🇺Федеральные",Домашний
-http://95.47.155.244:8001/play/a014
+https://flussonic.mkpnet.ru/tv-9cb92ea0862cd7b0/video.m3u8
 #EXTINF:-1 group-title="🇷🇺Федеральные",ТВ3
 https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=riJeRs_4YONNBUd3HTYJXg&e=2068506933&scheme=https
 #EXTINF:-1 group-title="🇷🇺Федеральные",Пятница
@@ -280,6 +294,7 @@ http://176.118.197.101/Retro/mono.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Русский Иллюзион
 http://185.46.16.239:8000/Russkiy_Illyuzion
 
+
 #EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/static-content/logo/126?unique=2026-02-20+01%3A57%3A49.533570&access_token=2a7cd4ef-01dc-448f-9d01-128118de1baa" group-title="🎬Kinowalk TV  Not 24-7" ,Blockbusters Time 🎦-🌕
 https://kinowalk.hopto.org/blockbusterstime_live
 #EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/static-content/logo/123?unique=2026-07-25+14%3A22%3A30.153830&access_token=4c53055d-6634-4781-a1e5-8be0b7bc16c6" group-title="🎬Kinowalk TV  Not 24-7" ,MovieToper 🎦-️🌕
@@ -528,5 +543,5 @@ https://kinowalk.hopto.org/kinoteka_full_hd_top_live
 https://kinowalk.hopto.org/kinofon_live
 #EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/static-content/logo/350?unique=2026-07-28+15%3A30%3A52.044357&access_token=f8bb024a-3bb0-432e-a855-32f43147d5c6" group-title="🎬Kinowalk TV  Not 24-7" ,Песни о любви 🎶-🌘
 http://kinowalk.hopto.org/meteor_live
-
-
+#EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/static-content/logo/397?unique=2026-09-26+12%3A23%3A29.559068&access_token=a790e444-cc11-40ea-9c11-056bd845b688" group-title="🎬Kinowalk TV  Not 24-7" ,STRIMACH 🧒-🌑
+http://kinowalk.hopto.org/strimach_live
