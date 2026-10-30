@@ -21,9 +21,7 @@ https://flussonic.mkpnet.ru/tv-132f51b35b47b897/video.m3u8
 https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=CFlEl7z6OslQkX3XQDlvsQ&e=2093306701&scheme=https
 #EXTINF:-1 group-title="🇷🇺Федеральные",ТВЦ
 https://flussonic.mkpnet.ru/tv-b76bb5b80615eed6/video.m3u8
-#EXTINF:-1 group-title="🇷🇺Федеральные",Рен ТВ Internet42 LLC
-http://185.23.80.23:8080/REN/index.m3u8
-#EXTINF:-1 group-title="🇷🇺Федеральные",Рен ТВ АСАРТА (🇷🇺VPN)
+#EXTINF:-1 group-title="🇷🇺Федеральные",Рен ТВ
 https://flussonic.mkpnet.ru/tv-44dfec2799c5738e/video.m3u8
 #EXTINF:-1 group-title="🇷🇺Федеральные",СПАС
 https://bl.rutube.ru/livestream/2bbfa9ebf9d79ade480d7281fcef1008/index.m3u8?s=Dh7uOoGZBCslhSfLLkxvAg&e=2068506963&scheme=https
