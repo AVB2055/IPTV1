@@ -18,17 +18,13 @@ https://live.smotrim.ru/vgtrk/0/russia24-hd/1080p.m3u8
 #EXTINF:-1 group-title="🇷🇺Федеральные",Карусель
 https://flussonic.mkpnet.ru/tv-132f51b35b47b897/video.m3u8
 #EXTINF:-1 group-title="🇷🇺Федеральные",ОТР
-http://5.188.221.43:8080/play/otr
+http://195.64.140.147:10009/999
 #EXTINF:-1 group-title="🇷🇺Федеральные",ТВЦ
 https://flussonic.mkpnet.ru/tv-b76bb5b80615eed6/video.m3u8
 #EXTINF:-1 group-title="🇷🇺Федеральные",Рен ТВ Internet42 LLC
 http://185.23.80.23:8080/REN/index.m3u8
 #EXTINF:-1 group-title="🇷🇺Федеральные",Рен ТВ LLC G&G-Telecom
 http://195.64.140.147:10011/9911
-#EXTINF:-1 group-title="🇷🇺Федеральные",Рен ТВ Сириус
-http://31.131.141.195:8000/play/2010/index.m3u8
-#EXTINF:-1 group-title="🇷🇺Федеральные",Рен ТВ Инет
-http://185.46.16.239:8000/REN_TV
 #EXTINF:-1 group-title="🇷🇺Федеральные",Рен ТВ АСАРТА (🇷🇺VPN)
 https://flussonic.mkpnet.ru/tv-44dfec2799c5738e/video.m3u8
 #EXTINF:-1 group-title="🇷🇺Федеральные",СПАС
