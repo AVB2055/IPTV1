@@ -68,7 +68,7 @@ http://185.23.80.23:8080/TVBRICS/index.m3u8
 #EXTINF:-1 group-title="👁Информационные",Вместе РФ
 http://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 #EXTINF:-1 group-title="👁Информационные",Дождь ТВ  24/7 [СМИ иногент]
-http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/20083/index.m3u8
+https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 #EXTINF:-1 group-title="👁Информационные",Известия
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Mir24.ru@" tvg-logo="https://i.imgur.com/dj9c8Yd.png" group-title="👁Информационные",Мир 24
