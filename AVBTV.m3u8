@@ -184,8 +184,6 @@ https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=sw
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1  group-title="🎶Музыкальные",ТНТ Music
 https://tntm.mediacdn.ru/cdn/tntmusic/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="⛹🏿Спортивные" audio-track="rus", Russian Extreme
-http://85.208.223.249:8888/play/a004
 #EXTINF:-1 group-title="⛹🏿Спортивные",МАТЧ! ПЛАНЕТА
 https://bl.video.matchtv.ru/media/playlist/free_04fc20484b40a76bf33b537081ec7bf3/17_72438189/1080/6863fd17014b627e6f0027d538646428/2208978000.m3u8
 #EXTINF:-1 group-title="⛹🏿Спортивные",МАТЧ! ПРЕМЬЕР
@@ -248,9 +246,6 @@ https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 http://176.118.197.101/Retro/mono.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Русский Иллюзион
 http://185.46.16.239:8000/Russkiy_Illyuzion
-
-
-
 #EXTINF:-1 group-title="Ott Club+Реклама",Приключения HD
 http://stream.mcquack.net/198/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club+Реклама",National Geographic HD
@@ -427,9 +422,6 @@ http://stream.mcquack.net/167/tracks-v1a1/mono.ts.m3u8
 http://stream.mcquack.net/234/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club+Реклама",Setanta Sports 2
 http://stream.mcquack.net/235/tracks-v1a1/mono.ts.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/static-content/logo/126?unique=2026-02-20+01%3A57%3A49.533570&access_token=2a7cd4ef-01dc-448f-9d01-128118de1baa" group-title="🎬Kinowalk TV  Not 24-7" ,Blockbusters Time 🎦-🌕
 https://kinowalk.hopto.org/blockbusterstime_live
 #EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/static-content/logo/123?unique=2026-07-25+14%3A22%3A30.153830&access_token=4c53055d-6634-4781-a1e5-8be0b7bc16c6" group-title="🎬Kinowalk TV  Not 24-7" ,MovieToper 🎦-️🌕
@@ -682,4 +674,3 @@ http://kinowalk.hopto.org/kinomult_hd_live
 https://kinowalk.hopto.org/kinofon_live
 #EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/static-content/logo/397?unique=2026-09-26+12%3A23%3A29.559068&access_token=a790e444-cc11-40ea-9c11-056bd845b688" group-title="🎬Kinowalk TV  Not 24-7" ,STRIMACH 🧒-🌑
 http://kinowalk.hopto.org/strimach_live
-
