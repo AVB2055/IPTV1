@@ -8,26 +8,26 @@ https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:-1 group-title="🇷🇺Федеральные",НТВ
 https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺Федеральные",Пятый Канал
-https://flussonic.mkpnet.ru/tv-a5ff8c7a86c8b951/video.m3u8
-#EXTINF:-1 group-title="🇷🇺Федеральные",Россия К
-https://flussonic.mkpnet.ru/tv-111deaa2142146ee/video.m3u8
+#EXTINF:-1 group-title="🇷🇺Федеральные" ,Пятый Канал🌑
+http://31.210.208.171:8080/5kanal/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="🇷🇺Федеральные" ,Россия К🌑
+http://31.210.208.171:8080/russiak/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="🇷🇺Федеральные",Россия 24
 https://live.smotrim.ru/vgtrk/0/russia24-hd/1080p.m3u8
-#EXTINF:-1 group-title="🇷🇺Федеральные",Карусель
-https://flussonic.mkpnet.ru/tv-132f51b35b47b897/video.m3u8
+#EXTINF:-1 group-title="🇷🇺Федеральные" ,Карусель🌑
+http://31.210.208.171:8080/karusel/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="🇷🇺Федеральные",ОТР
 https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=CFlEl7z6OslQkX3XQDlvsQ&e=2093306701&scheme=https
-#EXTINF:-1 group-title="🇷🇺Федеральные",ТВЦ
-https://flussonic.mkpnet.ru/tv-b76bb5b80615eed6/video.m3u8
-#EXTINF:-1 group-title="🇷🇺Федеральные",Рен ТВ
+#EXTINF:-1 group-title="🇷🇺Федеральные" ,ТВЦ🌑
+http://31.210.208.171:8080/tvc/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="🇷🇺Федеральные" ,Рен ТВ🌑
 https://flussonic.mkpnet.ru/tv-44dfec2799c5738e/video.m3u8
 #EXTINF:-1 group-title="🇷🇺Федеральные",СПАС
 https://bl.rutube.ru/livestream/2bbfa9ebf9d79ade480d7281fcef1008/index.m3u8?s=Dh7uOoGZBCslhSfLLkxvAg&e=2068506963&scheme=https
-#EXTINF:-1 group-title="🇷🇺Федеральные",СТС
-https://flussonic.mkpnet.ru/tv-9cb92ea0862cd7b0/video.m3u8
-#EXTINF:-1 group-title="🇷🇺Федеральные",Домашний
-https://flussonic.mkpnet.ru/tv-b515ccce67923f8a/video.m3u8
+#EXTINF:-1 group-title="🇷🇺Федеральные" ,СТС🌑
+http://31.210.208.171:8080/sts/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="🇷🇺Федеральные" ,Домашний🌑
+http://31.210.208.171:8080/home/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="🇷🇺Федеральные",ТВ3
 https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=riJeRs_4YONNBUd3HTYJXg&e=2068506933&scheme=https
 #EXTINF:-1 group-title="🇷🇺Федеральные",Пятница
@@ -104,7 +104,7 @@ http://cdn.wfc.tv/cdn/stream-rus-720p.m3u8
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 #EXTINF:-1 group-title="🔎‍Познавательные",Доктор
 http://45.11.139.43:8555/doctor/index.m3u8
-#EXTINF:-1 group-title="🔎‍Познавательные",Живи Активно
+#EXTINF:-1 group-title="🔎‍Познавательные" ,Живи Активно
 https://flussonic.mkpnet.ru/tv-fa810958620d77d8/video.m3u8?token=test
 #EXTINF:-1 group-title="🔎‍Познавательные",Загородный
 https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=e3gd8zlogu4ybvafQost4g&e=2070450932&scheme=https
@@ -122,8 +122,8 @@ https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
 https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 tvg-id="NTVStyle.ru@" tvg-logo="https://i.imgur.com/rX6K6qT.png" group-title="🔎‍Познавательные",НТВ Стиль
 https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="🔎‍Познавательные",Наша Тема
-https://flussonic.mkpnet.ru/tv-c922a9201f5073f8/video.m3u8?token=test
+#EXTINF:-1 group-title="🔎‍Познавательные" ,Наша Тема-🌑
+http://31.210.208.171:8080/nasha_tema/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="UnknownRussia.ru@HD" tvg-logo="https://i.imgur.com/W7ste2f.png" group-title="🔎‍Познавательные",Неизвестная Россия HD
 http://185.23.80.23:8080/NeizvestnayaRossia/index.m3u8
 #EXTINF:-1 group-title="🔎‍Познавательные",Открытый Мир
@@ -160,7 +160,7 @@ http://tvoetv.space:8080/tvoetv/tracks-v1a1/mono.m3u8
 http://tvoetv.space:8080/tvoetv_humor/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🤣Развлекательные",ТНТ4
 https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=uwhizdZPB-2J2x80Ov49_A&e=2067815802&scheme=https
-#EXTINF:-1 group-title="🤣Развлекательные",Че!
+#EXTINF:-1 group-title="🤣Развлекательные" ,Че!-🌑
 https://flussonic.mkpnet.ru/tv-cf5a26a180f402ef/video.m3u8
 #EXTINF:-1 tvg-id="U.ru@" tvg-logo="https://i.imgur.com/KDZvt0Q.png" group-title="🤣Развлекательные",Ю
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https
@@ -186,7 +186,7 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 https://tntm.mediacdn.ru/cdn/tntmusic/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="⛹🏿Спортивные",МАТЧ! ПЛАНЕТА
 https://bl.video.matchtv.ru/media/playlist/free_04fc20484b40a76bf33b537081ec7bf3/17_72438189/1080/6863fd17014b627e6f0027d538646428/2208978000.m3u8
-#EXTINF:-1 group-title="⛹🏿Спортивные",МАТЧ! ПРЕМЬЕР
+#EXTINF:-1 group-title="⛹🏿Спортивные" ,МАТЧ! ПРЕМЬЕР-🌑
 https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
 #EXTINF:-1 group-title="⛹🏿Спортивные",МАТЧ! СТРАНА
 https://bl.video.matchtv.ru/media/playlist/free_d10054e3245839377104585927f08479/17_72477605/1080/e59fd6ff6bcd963c255273eb25e5c38f/2208978000.m3u8
