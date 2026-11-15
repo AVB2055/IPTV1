@@ -9,25 +9,25 @@ https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a
 #EXTINF:-1 group-title="🇷🇺Федеральные",НТВ
 https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🇷🇺Федеральные" ,Пятый Канал
-http://31.210.208.171:8080/5kanal/index.m3u8?token=+W2MSER
+http://31.131.141.195:8000/play/1050/index.m3u8
 #EXTINF:-1 group-title="🇷🇺Федеральные" ,Россия К
-http://31.210.208.171:8080/russiak/index.m3u8?token=+W2MSER
+http://31.131.141.195:8000/play/1060/index.m3u8
 #EXTINF:-1 group-title="🇷🇺Федеральные",Россия 24
 https://live.smotrim.ru/vgtrk/0/russia24-hd/1080p.m3u8
 #EXTINF:-1 group-title="🇷🇺Федеральные" ,Карусель
-http://31.210.208.171:8080/karusel/index.m3u8?token=+W2MSER
+http://31.131.141.195:8000/play/1080/index.m3u8
 #EXTINF:-1 group-title="🇷🇺Федеральные",ОТР
 https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=CFlEl7z6OslQkX3XQDlvsQ&e=2093306701&scheme=https
 #EXTINF:-1 group-title="🇷🇺Федеральные" ,ТВЦ
-http://31.210.208.171:8080/tvc/index.m3u8?token=+W2MSER
+http://31.131.141.195:8000/play/1100/index.m3u8
 #EXTINF:-1 group-title="🇷🇺Федеральные" ,Рен ТВ
 https://flussonic.mkpnet.ru/tv-44dfec2799c5738e/video.m3u8
 #EXTINF:-1 group-title="🇷🇺Федеральные",СПАС
 https://bl.rutube.ru/livestream/2bbfa9ebf9d79ade480d7281fcef1008/index.m3u8?s=Dh7uOoGZBCslhSfLLkxvAg&e=2068506963&scheme=https
 #EXTINF:-1 group-title="🇷🇺Федеральные" ,СТС
-http://31.210.208.171:8080/sts/index.m3u8?token=+W2MSER
+http://31.131.141.195:8000/play/2030/index.m3u8
 #EXTINF:-1 group-title="🇷🇺Федеральные" ,Домашний
-http://31.210.208.171:8080/home/index.m3u8?token=+W2MSER
+http://31.131.141.195:8000/play/a001/index.m3u8
 #EXTINF:-1 group-title="🇷🇺Федеральные",ТВ3
 https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=riJeRs_4YONNBUd3HTYJXg&e=2068506933&scheme=https
 #EXTINF:-1 group-title="🇷🇺Федеральные",Пятница
@@ -246,8 +246,6 @@ https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 http://176.118.197.101/Retro/mono.m3u8
 #EXTINF:-1 group-title="🎦📺Фильмы 🔹 Сериалы",Русский Иллюзион
 http://185.46.16.239:8000/Russkiy_Illyuzion
-
-
 #EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/static-content/logo/126?unique=2026-02-20+01%3A57%3A49.533570&access_token=2a7cd4ef-01dc-448f-9d01-128118de1baa" group-title="🎬Kinowalk TV  Not 24-7" ,Blockbusters Time 🎦-🌕
 https://kinowalk.hopto.org/blockbusterstime_live
 #EXTINF:-1 tvg-logo="http://kinowalk.hopto.org/static-content/logo/123?unique=2026-07-25+14%3A22%3A30.153830&access_token=4c53055d-6634-4781-a1e5-8be0b7bc16c6" group-title="🎬Kinowalk TV  Not 24-7" ,MovieToper 🎦-️🌕
