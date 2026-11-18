@@ -80,8 +80,6 @@ https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
 https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/chunklist.m3u8
 #EXTINF:-1 group-title="👁Информационные",РБК
 http://e8-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8
-#EXTINF:-1 group-title="👁Информационные",Саратов 24
-https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R01_SARATOV24/variant.m3u8
 #EXTINF:-1 group-title="👁Информационные",Соловьев LIVE
 https://stream.smotrim.ru/hls/solovievlive/playlist_5.m3u8
 #EXTINF:-1 group-title="👁Информационные",ТАСС
